@@ -19,7 +19,15 @@ jobs:
 
       - name: Generate Lite File
         run: go run publisher/main.go
-        # Assumes this script reads master_threat_db.csv and outputs public_export/shadow-ai-lite.txt
+        # Creates public_export/shadow-ai-lite.txt
+
+      - name: Prepare Public Readme
+        run: |
+          # Copy the community readme to the export folder as the default README.md
+          cp README_COMMUNITY.md public_export/README.md
+
+          # Verify the folder content before pushing (for logs)
+          ls -la public_export/
 
       - name: Push to Public Repo
         uses: cpina/github-action-push-to-another-repository@main
@@ -29,6 +37,6 @@ jobs:
           source-directory: "public_export"
           destination-github-username: "Tobiwan-Cloud-Solutions"
           destination-repository-name: "ai-safety-blocklist"
-          user-email: "sentinel@tobiwan.solutions"
+          user-email: "bot@sentinelflow.io"
           target-branch: main
           commit-message: "Weekly Community Update"
