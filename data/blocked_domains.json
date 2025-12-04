@@ -1,0 +1,56 @@
+[
+  {
+    "domain": "eloquentiq.vercel.app",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:12.760353-05:00"
+  },
+  {
+    "domain": "codebake.ai",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:14.543129-05:00"
+  },
+  {
+    "domain": "unpatentable.org",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:15.386896-05:00"
+  },
+  {
+    "domain": "castreader.ai",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:20.189269-05:00"
+  },
+  {
+    "domain": "openpaperdigest.com",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:21.048481-05:00"
+  },
+  {
+    "domain": "aibulkimagegenerator.com",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:21.540811-05:00"
+  },
+  {
+    "domain": "airoboticist.blog",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:21.652566-05:00"
+  },
+  {
+    "domain": "lovenanobananapro.com",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:21.82562-05:00"
+  },
+  {
+    "domain": "trydebrief.com",
+    "risk_level": "risk:shadow_it",
+    "reason": "Missing Security Headers + Login/SignUp found",
+    "timestamp": "2025-12-02T21:16:27.661552-05:00"
+  }
+]

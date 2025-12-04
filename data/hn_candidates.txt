@@ -1,0 +1,237 @@
+[
+  {
+    "Source": "Reddit",
+    "URL": "https://www.algosyncverse.com",
+    "Risk": "High"
+  },
+  {
+    "Source": "Reddit",
+    "URL": "https://mock-ai-azure.vercel.app",
+    "Risk": "High"
+  },
+  {
+    "Source": "Reddit",
+    "URL": "https://www.google.com/url",
+    "Risk": "High"
+  },
+  {
+    "Source": "Reddit",
+    "URL": "http://donothingsounds.com",
+    "Risk": "High"
+  },
+  {
+    "Source": "Reddit",
+    "URL": "https://raw.lethe.gr",
+    "Risk": "High"
+  },
+  {
+    "Source": "Reddit",
+    "URL": "https://www.reddix.info",
+    "Risk": "High"
+  },
+  {
+    "Source": "Reddit",
+    "URL": "https://apihub.cloud",
+    "Risk": "High"
+  },
+  {
+    "Source": "Reddit",
+    "URL": "https://sidepay.app",
+    "Risk": "High"
+  },
+  {
+    "Source": "Reddit",
+    "URL": "https://apps.apple.com/app/public-wifi-safety-scan/id6755074112",
+    "Risk": "High"
+  },
+  {
+    "Source": "GitHub",
+    "URL": "https://github.com/varashree01/agent-orchestration-langchain",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "GitHub",
+    "URL": "https://github.com/rjbizsolution23-wq/nexusmind-super-agent",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "GitHub",
+    "URL": "https://github.com/uncxlirh/vibebuyer.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "GitHub",
+    "URL": "https://github.com/krapic/codex-desktop",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "GitHub",
+    "URL": "https://github.com/erizoat/ai-agent-web-scraper",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "GitHub",
+    "URL": "https://github.com/openocean-finance/openocean-mcp",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "eloquentiq.vercel.app",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "ink-web.dev",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "thealmanac.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "npmjs.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "leado.co",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "transformationagents.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "roundtable.ovlo.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "codebake.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "systemdesigner.net",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "unpatentable.org",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "docs.trysoma.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "ainisa.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "conversiontools.io",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "cothou.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "jesterengine.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "tinytune.xyz",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "genlook.app",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "piperead.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "castreader.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "factiq.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "nexroo.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "openpaperdigest.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "aibulkimagegenerator.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "airoboticist.blog",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "lovenanobananapro.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "apps.apple.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "chat.gmujtaba.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "watsn.ai",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "revealbnb.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "trydebrief.com",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "postowl.io",
+    "Risk": "Medium"
+  },
+  {
+    "Source": "Hacker News",
+    "URL": "logicart.ai",
+    "Risk": "Medium"
+  }
+]

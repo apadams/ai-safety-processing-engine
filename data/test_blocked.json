@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "sketchy-ai-tool-123.com",
+    "risk_level": "high",
+    "reason": "Missing Enterprise/SOC2/GDPR keywords",
+    "timestamp": "2025-12-02T20:04:33.950849-05:00"
+  }
+]

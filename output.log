@@ -1,0 +1,80 @@
+Starting Ingestor (HN API)...
+Starting multi-source ingestion...
+Querying Reddit RSS: https://www.reddit.com/r/SideProject/new/.rss
+Found 25 entries from Reddit
+Found candidate: https://www.algosyncverse.com/
+Found candidate: https://mock-ai-azure.vercel.app/
+Found candidate: https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fwww.mergeconflictdigest.com%2F
+Found candidate: http://donothingsounds.com
+Found candidate: https://raw.lethe.gr
+Found candidate: https://www.reddix.info/
+Found candidate: https://apihub.cloud
+Found candidate: https://sidepay.app/
+Found candidate: https://apps.apple.com/app/public-wifi-safety-scan/id6755074112
+Querying GitHub API: https://api.github.com/search/repositories?q=topic%3Aai-agent+created%3A%3E2025-11-02
+Found 30 items from GitHub
+Found candidate: https://github.com/adongwanai/AgentGuide
+Found candidate: https://github.com/nuskey8/UnityAgentClient
+Found candidate: https://github.com/dualverse-ai/station
+Found candidate: https://github.com/posimer/polymarket-ai-market-suggestor
+Found candidate: https://github.com/ishandutta2007/open-antigravity
+Found candidate: https://github.com/0xDaniiel/flowforge-ai
+Found candidate: https://github.com/Suzi051293/PolyMarket-AI-agent-trading
+Found candidate: https://github.com/kpritam/cliq
+Found candidate: https://github.com/astercloud/aster
+Found candidate: https://github.com/BlackSky-Jose/PolyMarket-AI-agent-trading
+Found candidate: https://github.com/iamaanahmad/kiro-pro-free
+Found candidate: https://github.com/iteam365/next-chatgpt
+Found candidate: https://github.com/pongpong-zigzag/Blockchain-AI-Agent
+Found candidate: https://github.com/s-agent-comm/s-agent-comm.github.io
+Found candidate: https://github.com/pongpong-zigzag/AI-agent-solana
+Found candidate: https://github.com/Shayanthn/AI-Agent-Architectures
+Found candidate: https://github.com/dataworkshop/simple-mcp-server
+Found candidate: https://github.com/vm0-ai/vm0
+Found candidate: https://github.com/pongpong-zigzag/JuliaOS-AI-Trading-Bot-dApp
+Found candidate: https://github.com/satomic/gitlab-copilot-coding-agent
+Found candidate: https://github.com/gotalab/skillport
+Found candidate: https://github.com/codedpro/mt5-trade-split-manager
+Found candidate: https://github.com/clouatre-labs/setup-goose-action
+Found candidate: https://github.com/omar-A-hassan/Simple-protein-agent
+Found candidate: https://github.com/krakenunbound/Kraken-Council
+Found candidate: https://github.com/Novus-Tech-LLC/Monad-AI-Agent
+Found candidate: https://github.com/harishkotra/GTrader
+Found candidate: https://github.com/aiagenta2z/mcp-marketplace
+Found candidate: https://github.com/KynuxDev/MSEP
+Found candidate: https://github.com/aixier/top_ai_sales
+Querying HN API: http://hn.algolia.com/api/v1/search_by_date?query=AI&tags=show_hn&hitsPerPage=50
+Found 50 hits from HN
+Found candidate: eloquentiq.vercel.app (https://eloquentiq.vercel.app)
+Found candidate: ink-web.dev (https://www.ink-web.dev/)
+Found candidate: thealmanac.ai (https://www.thealmanac.ai/)
+Found candidate: npmjs.com (https://www.npmjs.com/package/davia)
+Found candidate: leado.co (https://leado.co)
+Found candidate: transformationagents.ai (https://transformationagents.ai/webinar)
+Found candidate: roundtable.ovlo.ai (https://roundtable.ovlo.ai)
+Found candidate: codebake.ai (https://codebake.ai)
+Found candidate: systemdesigner.net (https://www.systemdesigner.net/)
+Found candidate: unpatentable.org (https://unpatentable.org/innovation/)
+Found candidate: docs.trysoma.ai (https://docs.trysoma.ai)
+Found candidate: ainisa.com (https://ainisa.com/)
+Found candidate: conversiontools.io (https://conversiontools.io/ai-converter-studio)
+Found candidate: cothou.com (https://cothou.com/)
+Found candidate: jesterengine.com (https://jesterengine.com/pages/app)
+Found candidate: tinytune.xyz (https://www.tinytune.xyz/)
+Found candidate: genlook.app (https://www.genlook.app/)
+Found candidate: piperead.com (https://piperead.com)
+Found candidate: castreader.ai (https://castreader.ai/)
+Found candidate: factiq.com (https://www.factiq.com/)
+Found candidate: nexroo.ai (https://nexroo.ai/)
+Found candidate: openpaperdigest.com (https://www.openpaperdigest.com/)
+Found candidate: aibulkimagegenerator.com (https://aibulkimagegenerator.com)
+Found candidate: airoboticist.blog (https://airoboticist.blog/2025/12/01/i-was-reintroduced-to-computers-raspberry-pi/)
+Found candidate: lovenanobananapro.com (https://lovenanobananapro.com)
+Found candidate: apps.apple.com (https://apps.apple.com/us/app/eatelligence/id6755645485)
+Found candidate: chat.gmujtaba.com (https://chat.gmujtaba.com/)
+Found candidate: watsn.ai (https://watsn.ai/)
+Found candidate: revealbnb.com (https://revealbnb.com/)
+Found candidate: trydebrief.com (https://www.trydebrief.com/)
+Found candidate: postowl.io (https://postowl.io)
+Found candidate: logicart.ai (https://logicart.ai)
+Ingestor finished. Data saved to data/hn_candidates.txt

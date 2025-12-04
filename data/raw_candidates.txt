@@ -1,0 +1,10 @@
+google.com
+openai.com
+microsoft.com
+jasper.ai
+copy.ai
+sketchy-ai-tool-123.com
+unknown-ai-startup.com
+notion.so
+linear.app
+some-random-gpt-wrapper.io

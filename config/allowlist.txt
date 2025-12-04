@@ -1,0 +1,28 @@
+# Global Allowlist
+# Core Infrastructure & Platforms
+github.com
+gitlab.com
+vercel.com
+herokuapp.com
+google.com
+microsoft.com
+aws.amazon.com
+npmjs.com
+pypi.org
+stackoverflow.com
+reddit.com
+ycombinator.com
+producthunt.com
+twitter.com
+x.com
+linkedin.com
+facebook.com
+instagram.com
+youtube.com
+medium.com
+dev.to
+notion.so
+huggingface.co
+instructables.com
+amplitude.com
+obsidian.md
