@@ -18,7 +18,7 @@ jobs:
           go-version: "1.25"
 
       - name: Run Ingestor (Daily Delta)
-        run: go run main.go --mode=daily
+        run: go run main.go
         # Note: Ensure your main.go accepts flags, or just run the specific file
 
       - name: Commit Updated DB
