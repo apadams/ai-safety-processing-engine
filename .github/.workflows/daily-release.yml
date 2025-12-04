@@ -1,0 +1,30 @@
+name: Daily Threat Intel Ingest
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
+  workflow_dispatch: # Allows you to click "Run Now" manually
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.21"
+
+      - name: Run Ingestor (Daily Delta)
+        run: go run ingest/main.go --mode=daily
+        # Note: Ensure your main.go accepts flags, or just run the specific file
+
+      - name: Commit Updated DB
+        run: |
+          git config --global user.name 'SentinelBot'
+          git config --global user.email 'bot@sentinelflow.io'
+          git add master_threat_db.csv
+          git commit -m "Daily Intel Update: $(date +'%Y-%m-%d')" || exit 0
+          git push

@@ -1,0 +1,34 @@
+name: Weekly Public Release
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Runs at 00:00 UTC every Sunday
+  workflow_dispatch:
+
+jobs:
+  publish-lite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Private Engine
+        uses: actions/checkout@v3
+
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.21"
+
+      - name: Generate Lite File
+        run: go run publisher/main.go
+        # Assumes this script reads master_threat_db.csv and outputs public_export/shadow-ai-lite.txt
+
+      - name: Push to Public Repo
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PUBLIC_REPO_TOKEN }}
+        with:
+          source-directory: "public_export"
+          destination-github-username: "Tobiwan-Cloud-Solutions"
+          destination-repository-name: "ai-safety-blocklist"
+          user-email: "bot@sentinelflow.io"
+          target-branch: main
+          commit-message: "Weekly Community Update"
