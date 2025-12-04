@@ -15,7 +15,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v4
         with:
-          go-version: "1.21"
+          go-version: "1.25"
 
       - name: Generate Lite File
         run: go run publisher/main.go
@@ -29,6 +29,6 @@ jobs:
           source-directory: "public_export"
           destination-github-username: "Tobiwan-Cloud-Solutions"
           destination-repository-name: "ai-safety-blocklist"
-          user-email: "bot@sentinelflow.io"
+          user-email: "sentinel@tobiwan.solutions"
           target-branch: main
           commit-message: "Weekly Community Update"

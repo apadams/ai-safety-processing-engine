@@ -15,7 +15,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v4
         with:
-          go-version: "1.21"
+          go-version: "1.25"
 
       - name: Run Ingestor (Daily Delta)
         run: go run ingest/main.go --mode=daily
@@ -24,7 +24,7 @@ jobs:
       - name: Commit Updated DB
         run: |
           git config --global user.name 'SentinelBot'
-          git config --global user.email 'bot@sentinelflow.io'
+          git config --global user.email 'sentinel@tobiwan.solutions'
           git add master_threat_db.csv
           git commit -m "Daily Intel Update: $(date +'%Y-%m-%d')" || exit 0
           git push
