@@ -1010,3 +1010,10 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-04T23:33:08Z,Hacker News,neutralnewsai.com,110,162.243.163.27,Unknown,neutralnewsai.com
 2025-12-04T23:33:08Z,Hacker News,m1nd.app,100,66.33.22.29,Unknown,m1nd.app
 2025-12-04T23:33:08Z,Hacker News,refine.so,100,216.198.79.1,Unknown,refine.so
+2025-12-05T01:39:22Z,Reddit,aurelia.so,85,104.18.18.246,Cloudflare,https://Aurelia.so
+2025-12-05T01:39:22Z,Reddit,lumacare-app.vercel.app,100,216.198.79.195,Unknown,http://lumacare-app.vercel.app
+2025-12-05T01:39:22Z,Reddit,proofqr.xyz,100,216.198.79.1,Unknown,http://www.proofqr.xyz
+2025-12-05T01:39:22Z,Reddit,catdoes.com,100,172.67.177.134,Unknown,https://catdoes.com
+2025-12-05T01:39:22Z,Reddit,quizyx.app,100,185.158.133.1,Unknown,https://quizyx.app/
+2025-12-05T01:39:22Z,Reddit,reidkimball.com,80,216.239.38.21,any-in-2615.1e100.net.,https://reidkimball.com/case-studies/cutting-ai-feature-costs-by-61-percent/
+2025-12-05T01:40:07Z,Hacker News,kirkified.ai,95,104.21.60.243,Cloudflare,kirkified.ai
