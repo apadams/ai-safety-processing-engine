@@ -1017,3 +1017,39 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-05T01:39:22Z,Reddit,quizyx.app,100,185.158.133.1,Unknown,https://quizyx.app/
 2025-12-05T01:39:22Z,Reddit,reidkimball.com,80,216.239.38.21,any-in-2615.1e100.net.,https://reidkimball.com/case-studies/cutting-ai-feature-costs-by-61-percent/
 2025-12-05T01:40:07Z,Hacker News,kirkified.ai,95,104.21.60.243,Cloudflare,kirkified.ai
+2025-12-06T01:25:49Z,Reddit,unikads.beehiiv.com,85,104.18.68.40,Cloudflare,http://unikads.beehiiv.com
+2025-12-06T01:25:49Z,Reddit,alisatcurko.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,https://alisatcurko.github.io/SkeptikAI-Frontend/
+2025-12-06T01:25:49Z,Reddit,kashrock.com,100,216.198.79.1,Unknown,http://kashrock.com
+2025-12-06T01:25:49Z,Reddit,agentsquad.net,110,216.198.79.1,Unknown,http://agentsquad.net
+2025-12-06T01:25:49Z,Reddit,isthatfactual.com,85,104.21.8.169,Cloudflare,https://www.isthatfactual.com/
+2025-12-06T01:25:50Z,Reddit,meetgertie.com,100,185.158.133.1,Unknown,http://meetgertie.com
+2025-12-06T01:25:50Z,Reddit,ilovme.ai,90,76.76.21.21,Vercel,http://ilovme.ai/
+2025-12-06T01:25:50Z,Reddit,findcreator.ai,90,3.169.183.76,AWS,https://findcreator.ai/#/opt-in
+2025-12-06T01:25:50Z,Reddit,qforge.studio,100,172.67.145.73,Unknown,https://qforge.studio/the-doorstep
+2025-12-06T01:25:50Z,Reddit,signalpage.ai,90,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://signalpage.ai
+2025-12-06T01:25:50Z,Reddit,nuvira.pro,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,http://nuvira.pro
+2025-12-06T01:25:50Z,Reddit,startupstartup.app,100,216.198.79.1,Unknown,https://startupstartup.app/
+2025-12-06T01:25:50Z,Reddit,amitgoel.me,100,172.67.155.52,Unknown,https://www.amitgoel.me/post/the-rate-card-is-dead-why-charging-rent-for-features-is-financial-suicide-in-an-outcome-economy/
+2025-12-06T01:25:50Z,Reddit,joblic.com,100,66.33.22.36,Unknown,http://www.joblic.com
+2025-12-06T01:26:32Z,Hacker News,aiwrapped.co,90,216.24.57.1,Vercel,aiwrapped.co
+2025-12-06T01:26:32Z,Hacker News,oawlly.gumroad.com,85,104.18.243.99,Cloudflare,oawlly.gumroad.com
+2025-12-06T01:26:32Z,Hacker News,bananaprompts.fun,85,104.21.10.25,Cloudflare,bananaprompts.fun
+2025-12-06T01:26:32Z,Hacker News,meetpotato.com,85,104.21.5.219,Cloudflare,meetpotato.com
+2025-12-06T01:26:32Z,Hacker News,thebraindump.azurewebsites.net,110,40.71.11.140,Unknown,thebraindump.azurewebsites.net
+2025-12-06T01:26:32Z,Hacker News,starthaven.com,100,199.36.158.100,Unknown,starthaven.com
+2025-12-06T01:26:32Z,Hacker News,theforgecalculator.online,100,172.67.204.81,Unknown,theforgecalculator.online
+2025-12-06T01:26:32Z,Hacker News,biblenotejournal.com,80,185.199.108.153,cdn-185-199-108-153.github.com.,biblenotejournal.com
+2025-12-06T01:26:32Z,Hacker News,hackclub.com,80,76.76.21.123,Vercel,hackclub.com
+2025-12-06T01:26:32Z,Hacker News,steps.org,100,216.150.1.1,Unknown,steps.org
+2025-12-06T01:26:32Z,Hacker News,sidespark.app,80,31.43.160.6,sites.framer.app.,sidespark.app
+2025-12-06T01:26:32Z,Hacker News,icpay.org,80,18.168.128.218,AWS,icpay.org
+2025-12-06T01:26:32Z,Hacker News,nana-banana.org,85,104.21.31.45,Cloudflare,nana-banana.org
+2025-12-06T01:26:32Z,Hacker News,yieldmirror.app,100,216.198.79.1,Unknown,yieldmirror.app
+2025-12-06T01:26:32Z,Hacker News,doozadesk.com,100,216.198.79.1,Unknown,doozadesk.com
+2025-12-06T01:26:32Z,Hacker News,aare.ai,90,108.139.10.68,server-108-139-10-68.sfo5.r.cloudfront.net.,aare.ai
+2025-12-06T01:26:32Z,Hacker News,howone.ai,90,66.241.124.254,ip-66-241-124-254.shared.customer.flyio.net.,howone.ai
+2025-12-06T01:26:32Z,Hacker News,cbor.app,80,152.53.160.100,v2202511312178399698.goodsrv.de.,cbor.app
+2025-12-06T01:26:32Z,Hacker News,tuned.ws,80,192.151.158.210,mail.stack.ws.,tuned.ws
+2025-12-06T01:26:32Z,Hacker News,llmparty.pixeletes.com,80,159.69.45.13,static.13.45.69.159.clients.your-server.de.,llmparty.pixeletes.com
+2025-12-06T01:26:32Z,Hacker News,taskwand.io,80,91.99.227.37,static.37.227.99.91.clients.your-server.de.,taskwand.io
+2025-12-06T01:26:32Z,Hacker News,x101.tech,100,185.158.133.1,Unknown,x101.tech
