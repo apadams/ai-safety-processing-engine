@@ -1053,3 +1053,40 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-06T01:26:32Z,Hacker News,llmparty.pixeletes.com,80,159.69.45.13,static.13.45.69.159.clients.your-server.de.,llmparty.pixeletes.com
 2025-12-06T01:26:32Z,Hacker News,taskwand.io,80,91.99.227.37,static.37.227.99.91.clients.your-server.de.,taskwand.io
 2025-12-06T01:26:32Z,Hacker News,x101.tech,100,185.158.133.1,Unknown,x101.tech
+2025-12-07T01:46:31Z,Reddit,accelprompt.xyz,85,104.21.17.153,Cloudflare,http://accelprompt.xyz
+2025-12-07T01:46:31Z,Reddit,aviosa.fun,100,172.67.155.151,Unknown,https://aviosa.fun/
+2025-12-07T01:46:31Z,Reddit,vortext.ca,100,172.67.145.139,Unknown,http://vortext.ca
+2025-12-07T01:46:31Z,Reddit,mentis-ai.net,90,216.24.57.1,Vercel,https://mentis-ai.net
+2025-12-07T01:46:31Z,Reddit,genmysite.com,80,98.84.224.111,AWS,http://Genmysite.com
+2025-12-07T01:46:31Z,Reddit,vectorai.cc,110,216.198.79.1,Unknown,http://vectorai.cc
+2025-12-07T01:46:31Z,Reddit,receiptsync.net,100,185.158.133.1,Unknown,http://Receiptsync.net
+2025-12-07T01:46:31Z,Reddit,kuga.ai,90,31.43.160.6,sites.framer.app.,https://kuga.ai
+2025-12-07T01:46:31Z,Reddit,runwayai.lovable.app,110,185.158.133.2,Unknown,https://runwayai.lovable.app/
+2025-12-07T01:46:31Z,Reddit,tryon.influrate.com,80,198.54.115.93,server213-2.web-hosting.com.,https://tryon.influrate.com
+2025-12-07T01:46:31Z,Reddit,regula-ai.com,110,216.198.79.1,Unknown,https://www.regula-ai.com/en/blog/elon-musk-dsa-fine
+2025-12-07T01:46:31Z,Reddit,bigideasdb.com,100,216.150.1.1,Unknown,https://bigideasdb.com/
+2025-12-07T01:46:31Z,Reddit,receiptify-delta.vercel.app,100,216.198.79.67,Unknown,https://receiptify-delta.vercel.app/
+2025-12-07T01:46:31Z,Reddit,elfreview.com,80,188.166.17.83,teodorsavin.com.,http://ElfReview.com
+2025-12-07T01:46:31Z,Reddit,storybun.com,80,191.96.53.90,srv1085920.hstgr.cloud.,https://storybun.com
+2025-12-07T01:46:31Z,Reddit,truthaiapp.com,110,185.158.133.1,Unknown,https://truthaiapp.com
+2025-12-07T01:46:31Z,Reddit,infraplan.cloud,100,216.198.79.1,Unknown,https://infraplan.cloud/
+2025-12-07T01:46:31Z,Reddit,cramberry.study,80,76.76.21.21,Vercel,https://www.cramberry.study/
+2025-12-07T01:46:31Z,Reddit,clouda.ai,90,3.163.24.22,AWS,https://clouda.ai
+2025-12-07T01:46:31Z,Reddit,removemd.com,80,148.230.116.219,srv940027.hstgr.cloud.,https://www.removemd.com/
+2025-12-07T01:46:31Z,Reddit,aimockups.design,90,31.43.160.6,sites.framer.app.,http://aimockups.design/
+2025-12-07T01:47:11Z,Hacker News,alexcpn-code-review-agent.hf.space,90,54.91.213.114,AWS,alexcpn-code-review-agent.hf.space
+2025-12-07T01:47:11Z,Hacker News,contextpacker.com,85,104.21.89.78,Cloudflare,contextpacker.com
+2025-12-07T01:47:11Z,Hacker News,demo.thinkmoon.ai,90,18.160.18.109,AWS,demo.thinkmoon.ai
+2025-12-07T01:47:11Z,Hacker News,nanoai.run,95,172.64.80.1,Cloudflare,nanoai.run
+2025-12-07T01:47:11Z,Hacker News,isitworththetime.com,80,185.199.110.153,cdn-185-199-110-153.github.com.,isitworththetime.com
+2025-12-07T01:47:11Z,Hacker News,glama.ai,90,37.16.29.120,ip-37-16-29-120.customer.flyio.net.,glama.ai
+2025-12-07T01:47:11Z,Hacker News,maxgfr.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,maxgfr.github.io
+2025-12-07T01:47:11Z,Hacker News,chat-data.com,85,104.18.25.173,Cloudflare,chat-data.com
+2025-12-07T01:47:11Z,Hacker News,manifesto-ai.dev,110,216.198.79.1,Unknown,manifesto-ai.dev
+2025-12-07T01:47:11Z,Hacker News,uisora.com,100,216.198.79.1,Unknown,uisora.com
+2025-12-07T01:47:11Z,Hacker News,dls.labs21.dev,100,172.67.207.147,Unknown,dls.labs21.dev
+2025-12-07T01:47:11Z,Hacker News,goanie.com,80,216.24.57.1,Vercel,goanie.com
+2025-12-07T01:47:11Z,Hacker News,rocketgift.it,100,185.158.133.1,Unknown,rocketgift.it
+2025-12-07T01:47:11Z,Hacker News,chrobox.net,100,216.198.79.1,Unknown,chrobox.net
+2025-12-07T01:47:11Z,Hacker News,subseq.bio,100,165.227.88.233,Unknown,subseq.bio
+2025-12-07T01:47:11Z,Hacker News,sr.ht,80,46.23.81.159,46-23-81-159.high5.nu.,sr.ht
