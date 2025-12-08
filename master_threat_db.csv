@@ -1090,3 +1090,25 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-07T01:47:11Z,Hacker News,chrobox.net,100,216.198.79.1,Unknown,chrobox.net
 2025-12-07T01:47:11Z,Hacker News,subseq.bio,100,165.227.88.233,Unknown,subseq.bio
 2025-12-07T01:47:11Z,Hacker News,sr.ht,80,46.23.81.159,46-23-81-159.high5.nu.,sr.ht
+2025-12-08T01:39:49Z,Reddit,tally.so,85,104.26.1.40,Cloudflare,https://tally.so/r/81qQA5
+2025-12-08T01:39:49Z,Reddit,alphabazaar.ai,110,216.198.79.1,Unknown,https://alphabazaar.ai
+2025-12-08T01:39:49Z,Reddit,boopydoop.com,100,64.29.17.1,Unknown,https://boopydoop.com/
+2025-12-08T01:39:49Z,Reddit,cursor.com,80,76.76.21.21,Vercel,http://cursor.com
+2025-12-08T01:39:49Z,Reddit,israelfirew.co,100,216.198.79.1,Unknown,https://israelfirew.co/projects
+2025-12-08T01:39:49Z,Reddit,itunes.apple.com,80,23.45.136.27,a23-45-136-27.deploy.static.akamaitechnologies.com.,https://itunes.apple.com/app/id6752611039
+2025-12-08T01:39:49Z,Reddit,thesaascfo.com,100,172.67.192.236,Unknown,https://www.thesaascfo.com/the-real-economics-of-saas-versus-ai-companies/
+2025-12-08T01:39:49Z,Reddit,reifai.com,90,52.52.192.191,AWS,http://reifai.com
+2025-12-08T01:39:49Z,Reddit,capycap.ai,95,104.21.16.102,Cloudflare,http://capycap.ai
+2025-12-08T01:39:49Z,Reddit,stratablue.ai,95,104.21.16.2,Cloudflare,https://stratablue.ai/
+2025-12-08T01:39:49Z,Reddit,buildastory.ai,95,104.21.89.125,Cloudflare,https://www.buildastory.ai/
+2025-12-08T01:39:49Z,Reddit,getmorebacklinks.org,100,172.67.138.61,Unknown,http://getmorebacklinks.org
+2025-12-08T01:39:50Z,Reddit,promptlens.io,100,216.198.79.1,Unknown,https://www.promptlens.io/
+2025-12-08T01:39:50Z,Reddit,webhook.site,80,178.63.67.106,app03.webhook.site.,http://webhook.site
+2025-12-08T01:40:30Z,Hacker News,paulgraham-nia.com,100,216.150.16.1,Unknown,paulgraham-nia.com
+2025-12-08T01:40:30Z,Hacker News,acis-trading.com,100,172.67.155.33,Unknown,acis-trading.com
+2025-12-08T01:40:30Z,Hacker News,naval-nia.com,100,216.150.1.193,Unknown,naval-nia.com
+2025-12-08T01:40:30Z,Hacker News,morph-ai-era.online,90,216.24.57.1,Vercel,morph-ai-era.online
+2025-12-08T01:40:30Z,Hacker News,aistickers.app,110,216.150.1.1,Unknown,aistickers.app
+2025-12-08T01:40:30Z,Hacker News,tikpal.ai,95,104.21.44.174,Cloudflare,tikpal.ai
+2025-12-08T01:40:30Z,Hacker News,nanobananapro.me,100,216.198.79.1,Unknown,nanobananapro.me
+2025-12-08T01:40:30Z,Hacker News,textwisely.ai,90,99.83.181.15,a8761e274976ba4eb.awsglobalaccelerator.com.,textwisely.ai
