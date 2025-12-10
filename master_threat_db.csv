@@ -1143,3 +1143,47 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-09T01:39:25Z,Hacker News,dabuun.com,100,64.29.17.1,Unknown,dabuun.com
 2025-12-09T01:39:25Z,Hacker News,realisticaichecker.com,90,185.199.108.153,cdn-185-199-108-153.github.com.,realisticaichecker.com
 2025-12-09T01:39:26Z,Hacker News,super-agentic.ai,100,160.153.128.2,2.128.153.160.host.secureserver.net.,super-agentic.ai
+2025-12-10T01:41:09Z,Reddit,marketplace.atlassian.com,80,13.227.180.4,AWS,https://marketplace.atlassian.com/apps/4265765205
+2025-12-10T01:41:09Z,Reddit,focuspilot-1.ideaverify.com,100,216.198.79.1,Unknown,https://focuspilot-1.ideaverify.com
+2025-12-10T01:41:09Z,Reddit,ghost-testing.vercel.app,100,216.198.79.3,Unknown,https://ghost-testing.vercel.app/
+2025-12-10T01:41:09Z,Reddit,giftstack.co,100,216.150.1.1,Unknown,https://giftstack.co/
+2025-12-10T01:41:09Z,Reddit,crowdstake.com,100,172.67.151.13,Unknown,https://www.crowdstake.com/product-hunt
+2025-12-10T01:41:09Z,Reddit,ai-faq.app,95,104.21.87.197,Cloudflare,https://www.ai-faq.app/
+2025-12-10T01:41:09Z,Reddit,dogtorcito.com,85,104.21.72.53,Cloudflare,https://www.dogtorcito.com
+2025-12-10T01:41:09Z,Reddit,tarotapp-5phjhcdb.manus.space,85,104.19.169.112,Cloudflare,https://tarotapp-5phjhcdb.manus.space/
+2025-12-10T01:41:09Z,Reddit,nflsimulations.com,80,216.239.32.21,any-in-2015.1e100.net.,https://nflsimulations.com
+2025-12-10T01:41:09Z,Reddit,draftless.app,100,216.198.79.1,Unknown,https://draftless.app
+2025-12-10T01:41:09Z,Reddit,fireship.ai,90,76.76.21.21,Vercel,http://fireship.ai
+2025-12-10T01:41:09Z,Reddit,loghacker.vercel.app,100,64.29.17.131,Unknown,http://loghacker.vercel.app
+2025-12-10T01:41:09Z,Reddit,push2.ai,110,172.67.213.109,Unknown,https://push2.ai/
+2025-12-10T01:41:09Z,Reddit,xtended.ai,110,172.67.144.196,Unknown,https://xtended.ai/free-tool/ask-ai?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=freetool&amp;utm_content=sideproject
+2025-12-10T01:41:09Z,Reddit,ortaka.ai,90,76.76.21.21,Vercel,http://ortaka.ai
+2025-12-10T01:41:09Z,Reddit,tubeyakker.com,100,64.225.92.72,Unknown,https://tubeyakker.com/
+2025-12-10T01:41:09Z,Reddit,auragtm.com,80,31.43.161.6,sites.framer.app.,https://www.auragtm.com/?utm_source=Reddit&amp;utm_medium=r-saas&amp;utm_campaign=try-aura
+2025-12-10T01:41:51Z,Hacker News,depsshield.com,80,52.52.192.191,AWS,depsshield.com
+2025-12-10T01:41:51Z,Hacker News,adventofbackends.vercel.app,100,64.29.17.195,Unknown,adventofbackends.vercel.app
+2025-12-10T01:41:51Z,Hacker News,msgmorph.com,100,172.67.210.66,Unknown,msgmorph.com
+2025-12-10T01:41:51Z,Hacker News,ocidol.com,85,104.21.16.92,Cloudflare,ocidol.com
+2025-12-10T01:41:51Z,Hacker News,detail.dev,90,31.43.161.6,sites.framer.app.,detail.dev
+2025-12-10T01:41:51Z,Hacker News,dustinkirk.com,80,76.76.21.21,Vercel,dustinkirk.com
+2025-12-10T01:41:51Z,Hacker News,usesignallabs.com,80,185.199.110.153,cdn-185-199-110-153.github.com.,usesignallabs.com
+2025-12-10T01:41:51Z,Hacker News,repackai.co,110,172.67.138.156,Unknown,repackai.co
+2025-12-10T01:41:51Z,Hacker News,diagram-generator.com,100,216.198.79.1,Unknown,diagram-generator.com
+2025-12-10T01:41:51Z,Hacker News,console.vectorly.app,80,13.32.230.47,AWS,console.vectorly.app
+2025-12-10T01:41:51Z,Hacker News,dechecker.ai,110,172.67.222.101,Unknown,dechecker.ai
+2025-12-10T01:41:52Z,Hacker News,stvck.dev,100,216.198.79.1,Unknown,stvck.dev
+2025-12-10T01:41:52Z,Hacker News,auteng.ai,90,18.238.96.97,AWS,auteng.ai
+2025-12-10T01:41:52Z,Hacker News,agentictuner.ai,100,34.8.103.164,GCP,agentictuner.ai
+2025-12-10T01:41:52Z,Hacker News,safegrub-ai.com,95,104.21.92.183,Cloudflare,safegrub-ai.com
+2025-12-10T01:41:52Z,Hacker News,bankofmyparents.com,100,20.109.133.32,Unknown,bankofmyparents.com
+2025-12-10T01:41:52Z,Hacker News,briddle.io,100,172.67.156.207,Unknown,briddle.io
+2025-12-10T01:41:52Z,Hacker News,opendataloader.org,85,104.21.12.76,Cloudflare,opendataloader.org
+2025-12-10T01:41:52Z,Hacker News,hivetechs.io,100,172.67.141.231,Unknown,hivetechs.io
+2025-12-10T01:41:52Z,Hacker News,birthdayinvitation.ai,110,172.67.130.191,Unknown,birthdayinvitation.ai
+2025-12-10T01:41:52Z,Hacker News,mosscomputing.com,80,185.199.108.153,cdn-185-199-108-153.github.com.,mosscomputing.com
+2025-12-10T01:41:52Z,Hacker News,presently.us,100,199.36.158.100,Unknown,presently.us
+2025-12-10T01:41:52Z,Hacker News,onbeacon.ai,90,31.43.160.6,sites.framer.app.,onbeacon.ai
+2025-12-10T01:41:52Z,Hacker News,contextify.sh,100,143.198.70.216,Unknown,contextify.sh
+2025-12-10T01:41:52Z,Hacker News,devreplay.com,80,23.88.45.191,static.191.45.88.23.clients.your-server.de.,devreplay.com
+2025-12-10T01:41:52Z,Hacker News,humancodeprinciples.org,80,82.141.106.78,82-141-106-78.kalajoki.fi.,humancodeprinciples.org
+2025-12-10T01:41:52Z,Hacker News,bleenk.app,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,bleenk.app
