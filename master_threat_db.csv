@@ -1187,3 +1187,54 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-10T01:41:52Z,Hacker News,devreplay.com,80,23.88.45.191,static.191.45.88.23.clients.your-server.de.,devreplay.com
 2025-12-10T01:41:52Z,Hacker News,humancodeprinciples.org,80,82.141.106.78,82-141-106-78.kalajoki.fi.,humancodeprinciples.org
 2025-12-10T01:41:52Z,Hacker News,bleenk.app,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,bleenk.app
+2025-12-11T01:41:32Z,Reddit,discord.com,100,162.159.137.232,Unknown,https://discord.com/oauth2/authorize?client_id=1434659676343242822&amp;permissions=0&amp;integration_type=0&amp;scope=bot+applications.commands
+2025-12-11T01:41:32Z,Reddit,lovable.dev,80,3.33.186.135,AWS,https://lovable.dev/?utm_feeditemid=&amp;utm_device=c&amp;utm_term=lovable%20ai&amp;utm_source=google&amp;utm_medium=ppc&amp;utm_campaign=US+-+Search+-+Lovable+-+CORE&amp;campaignid=23072209374&amp;devicetype=c&amp;gclid=CjwKCAiA0eTJBhBaEiwA-Pa-hdqp8_tUNPGJ0D1oveI_DryctmGozYraLzsKuBdKtm6Q1Q-Jrks3exoCEmQQAvD_BwE&amp;creativeid=777017041387&amp;gad_source=1&amp;gad_campaignid=23072209374&amp;gbraid=0AAAAA-iIxGeXtBKjE_O1669TCaOJJBpOr&amp;gclid=CjwKCAiA0eTJBhBaEiwA-Pa-hdqp8_tUNPGJ0D1oveI_DryctmGozYraLzsKuBdKtm6Q1Q-Jrks3exoCEmQQAvD_BwE
+2025-12-11T01:41:32Z,Reddit,whitelist.video,100,216.150.1.1,Unknown,http://whitelist.video
+2025-12-11T01:41:32Z,Reddit,apify.com,80,3.170.42.109,AWS,https://apify.com/constant_quadruped/my-actor?v=2
+2025-12-11T01:41:32Z,Reddit,dbwillow.com,100,199.36.158.100,Unknown,https://dbwillow.com
+2025-12-11T01:41:32Z,Reddit,ben854719.github.io,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://ben854719.github.io/
+2025-12-11T01:41:32Z,Reddit,lomar.ai,110,216.150.1.1,Unknown,http://lomar.ai/
+2025-12-11T01:41:32Z,Reddit,fly.io,80,37.16.18.81,ip-37-16-18-81.customer.flyio.net.,http://fly.io/
+2025-12-11T01:41:32Z,Reddit,vaultscan.app,100,216.198.79.1,Unknown,http://vaultscan.app
+2025-12-11T01:41:32Z,Reddit,studievriendje.nl,100,185.158.133.1,Unknown,https://studievriendje.nl
+2025-12-11T01:41:32Z,Reddit,coverseo.com,85,104.21.90.212,Cloudflare,https://coverseo.com/
+2025-12-11T01:41:32Z,Reddit,intentionco-app.com,100,216.198.79.1,Unknown,http://www.intentionco-app.com
+2025-12-11T01:41:32Z,Reddit,dexyoutube.com,100,216.198.79.1,Unknown,https://dexyoutube.com/
+2025-12-11T01:41:32Z,Reddit,imgur.com,100,199.232.192.193,Unknown,https://imgur.com/a/WHk0lwp
+2025-12-11T01:41:32Z,Reddit,planndu.com,80,199.188.200.103,server318-4.web-hosting.com.,https://planndu.com/
+2025-12-11T01:41:32Z,Reddit,junotab.com,80,52.52.192.191,AWS,https://junotab.com/
+2025-12-11T01:41:32Z,Reddit,devcasehub.com,100,199.36.158.100,Unknown,https://www.devcasehub.com
+2025-12-11T01:41:32Z,Reddit,hashflow.in,100,216.198.79.1,Unknown,https://www.hashflow.in/
+2025-12-11T01:41:32Z,Reddit,bulkcomponentdeleter.com,80,18.208.88.157,AWS,http://bulkcomponentdeleter.com
+2025-12-11T01:41:32Z,Reddit,webinar.gptforwork.com,100,185.158.133.1,Unknown,https://webinar.gptforwork.com/
+2025-12-11T01:41:32Z,Reddit,vlix.ai,90,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://vlix.ai
+2025-12-11T01:41:32Z,Reddit,scrap.io,85,104.26.8.119,Cloudflare,https://scrap.io/s/K7A6Y
+2025-12-11T01:41:32Z,Reddit,racetoagi.org,100,216.198.79.1,Unknown,https://www.racetoagi.org/
+2025-12-11T01:42:13Z,Hacker News,think-pol.com,80,18.208.88.157,AWS,think-pol.com
+2025-12-11T01:42:13Z,Hacker News,rosmine.ai,110,192.0.78.144,Unknown,rosmine.ai
+2025-12-11T01:42:13Z,Hacker News,agentflowhq.dev,95,104.21.33.153,Cloudflare,agentflowhq.dev
+2025-12-11T01:42:13Z,Hacker News,meet-zero.co,100,216.198.79.1,Unknown,meet-zero.co
+2025-12-11T01:42:13Z,Hacker News,thingbat.today,100,216.150.1.1,Unknown,thingbat.today
+2025-12-11T01:42:13Z,Hacker News,earthpilot.ai,90,69.163.140.83,apache2-linus.pdx1-shared-a3-07.dreamhost.com.,earthpilot.ai
+2025-12-11T01:42:13Z,Hacker News,steem.dev,100,199.36.158.100,Unknown,steem.dev
+2025-12-11T01:42:13Z,Hacker News,useskald.com,100,172.67.170.31,Unknown,useskald.com
+2025-12-11T01:42:13Z,Hacker News,directoryideas.ai,90,18.208.88.157,AWS,directoryideas.ai
+2025-12-11T01:42:13Z,Hacker News,the-box.dev,85,104.21.3.5,Cloudflare,the-box.dev
+2025-12-11T01:42:13Z,Hacker News,joinvocation.com,80,31.43.160.6,sites.framer.app.,joinvocation.com
+2025-12-11T01:42:13Z,Hacker News,hardwaretest.org,80,76.76.21.142,Vercel,hardwaretest.org
+2025-12-11T01:42:13Z,Hacker News,termkeeper.com,80,34.111.179.208,GCP,termkeeper.com
+2025-12-11T01:42:13Z,Hacker News,clearquran.ai,90,98.84.224.111,AWS,clearquran.ai
+2025-12-11T01:42:13Z,Hacker News,melhorarimagem.net,100,216.198.79.1,Unknown,melhorarimagem.net
+2025-12-11T01:42:13Z,Hacker News,syn-cause.com,100,216.198.79.1,Unknown,syn-cause.com
+2025-12-11T01:42:13Z,Hacker News,riftur.com,80,54.84.197.233,AWS,riftur.com
+2025-12-11T01:42:13Z,Hacker News,spidra.io,85,104.21.56.169,Cloudflare,spidra.io
+2025-12-11T01:42:13Z,Hacker News,livetok.ai,110,216.150.1.193,Unknown,livetok.ai
+2025-12-11T01:42:13Z,Hacker News,crawlercheck.com,100,209.38.188.102,Unknown,crawlercheck.com
+2025-12-11T01:42:13Z,Hacker News,leadscorer.dcog.ai,90,108.138.64.52,server-108-138-64-52.iad12.r.cloudfront.net.,leadscorer.dcog.ai
+2025-12-11T01:42:13Z,Hacker News,protecto.ai,90,106.0.62.91,az1-ts115.a2hosting.com.,protecto.ai
+2025-12-11T01:42:13Z,Hacker News,vgenie.ai,95,104.21.89.211,Cloudflare,vgenie.ai
+2025-12-11T01:42:13Z,Hacker News,meet.readymojo.com,80,99.84.188.121,server-99-84-188-121.iad89.r.cloudfront.net.,meet.readymojo.com
+2025-12-11T01:42:13Z,Hacker News,cvora.net,100,216.198.79.1,Unknown,cvora.net
+2025-12-11T01:42:13Z,Hacker News,trydistilled.ai,110,216.198.79.1,Unknown,trydistilled.ai
+2025-12-11T01:42:13Z,Hacker News,gitmore.io,100,216.198.79.1,Unknown,gitmore.io
+2025-12-11T01:42:13Z,Hacker News,chefs.video,100,216.198.79.65,Unknown,chefs.video
