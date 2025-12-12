@@ -1238,3 +1238,28 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-11T01:42:13Z,Hacker News,trydistilled.ai,110,216.198.79.1,Unknown,trydistilled.ai
 2025-12-11T01:42:13Z,Hacker News,gitmore.io,100,216.198.79.1,Unknown,gitmore.io
 2025-12-11T01:42:13Z,Hacker News,chefs.video,100,216.198.79.65,Unknown,chefs.video
+2025-12-12T01:41:09Z,Reddit,filexai.com,110,216.198.79.1,Unknown,https://filexai.com
+2025-12-12T01:41:09Z,Reddit,welddesk.org,100,216.150.16.129,Unknown,http://welddesk.org
+2025-12-12T01:41:09Z,Reddit,alphaforge.ai,110,185.158.133.1,Unknown,https://alphaforge.ai/
+2025-12-12T01:41:10Z,Reddit,newcv.ai,90,98.84.224.111,AWS,https://newcv.ai
+2025-12-12T01:41:10Z,Reddit,tryflownote.com,100,216.198.79.65,Unknown,https://tryflownote.com/security
+2025-12-12T01:41:10Z,Reddit,vyllo.ai,110,66.33.22.198,Unknown,http://vyllo.ai
+2025-12-12T01:41:50Z,Hacker News,santhoshaditya.netlify.app,80,98.84.224.111,AWS,santhoshaditya.netlify.app
+2025-12-12T01:41:50Z,Hacker News,cybercage.io,85,104.21.20.12,Cloudflare,cybercage.io
+2025-12-12T01:41:50Z,Hacker News,instavm.io,100,20.119.0.51,Unknown,instavm.io
+2025-12-12T01:41:50Z,Hacker News,nexlayer.com,80,34.149.52.245,GCP,nexlayer.com
+2025-12-12T01:41:50Z,Hacker News,voyaige.io,110,172.67.172.10,Unknown,voyaige.io
+2025-12-12T01:41:50Z,Hacker News,knav.app,100,64.29.17.65,Unknown,knav.app
+2025-12-12T01:41:50Z,Hacker News,luxonis.com,85,104.21.86.67,Cloudflare,luxonis.com
+2025-12-12T01:41:50Z,Hacker News,agentdepot.dev,90,18.208.88.157,AWS,agentdepot.dev
+2025-12-12T01:41:50Z,Hacker News,trafficscout.app,100,172.67.215.208,Unknown,trafficscout.app
+2025-12-12T01:41:50Z,Hacker News,librethinker.com,100,172.67.129.29,Unknown,librethinker.com
+2025-12-12T01:41:50Z,Hacker News,t.me,100,149.154.167.99,Unknown,t.me
+2025-12-12T01:41:50Z,Hacker News,ui.manifest.build,100,216.150.16.193,Unknown,ui.manifest.build
+2025-12-12T01:41:50Z,Hacker News,updated.dev,80,31.43.160.6,sites.framer.app.,updated.dev
+2025-12-12T01:41:50Z,Hacker News,amplift.ai,95,104.21.62.96,Cloudflare,amplift.ai
+2025-12-12T01:41:50Z,Hacker News,housepaint.ai,110,216.198.79.1,Unknown,housepaint.ai
+2025-12-12T01:41:50Z,Hacker News,simplychris.ai,110,172.67.133.33,Unknown,simplychris.ai
+2025-12-12T01:41:50Z,Hacker News,pfff.me,100,216.150.1.1,Unknown,pfff.me
+2025-12-12T01:41:50Z,Hacker News,enact.tools,80,185.199.109.153,cdn-185-199-109-153.github.com.,enact.tools
+2025-12-12T01:41:50Z,Hacker News,simo.io,80,89.40.12.7,simo.io.,simo.io
