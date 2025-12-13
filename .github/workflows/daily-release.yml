@@ -28,3 +28,16 @@ jobs:
           git add master_threat_db.csv
           git commit -m "Daily Intel Update: $(date +'%Y-%m-%d')" || exit 0
           git push
+
+      - name: Push to Pro Data Repo
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PUBLIC_REPO_TOKEN }}
+        with:
+          source-file: 'master_threat_db.csv'
+          destination-github-username: 'Tobiwan-Cloud-Solutions'
+          destination-repository-name: 'ai-safety-data-pro'
+          user-email: 'bot@sentinelflow.io'
+          target-branch: main
+          commit-message: "Daily Intel Update"
+
