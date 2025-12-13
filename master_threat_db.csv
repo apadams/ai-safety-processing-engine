@@ -1263,3 +1263,37 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-12T01:41:50Z,Hacker News,pfff.me,100,216.150.1.1,Unknown,pfff.me
 2025-12-12T01:41:50Z,Hacker News,enact.tools,80,185.199.109.153,cdn-185-199-109-153.github.com.,enact.tools
 2025-12-12T01:41:50Z,Hacker News,simo.io,80,89.40.12.7,simo.io.,simo.io
+2025-12-13T01:27:11Z,Reddit,discord.gg,100,162.159.136.234,Unknown,https://discord.gg/6eDfNaz6
+2025-12-13T01:27:11Z,Reddit,interviewstack.io,100,216.198.79.1,Unknown,http://interviewstack.io/
+2025-12-13T01:27:11Z,Reddit,recapnotesai.com,95,104.21.70.42,Cloudflare,https://recapnotesai.com
+2025-12-13T01:27:11Z,Reddit,shaped.ai,90,75.2.70.75,aacb0a264e514dd48.awsglobalaccelerator.com.,https://www.shaped.ai/blog/why-we-built-a-database-for-relevance-introducing-shaped-2-0%5D()
+2025-12-13T01:27:11Z,Reddit,sumgenius.ai,90,67.223.118.176,server363-4.web-hosting.com.,http://sumgenius.ai/chatgenius
+2025-12-13T01:27:11Z,Reddit,pagespeak.ai,110,216.198.79.1,Unknown,https://www.pagespeak.ai/books
+2025-12-13T01:27:11Z,Reddit,apihub.cloud,100,172.67.138.244,Unknown,https://apihub.cloud/
+2025-12-13T01:27:11Z,Reddit,viralrocket.app,100,172.67.192.203,Unknown,http://Viralrocket.app
+2025-12-13T01:27:11Z,Reddit,musicforge.candydungeon.com,85,104.21.34.51,Cloudflare,https://musicforge.candydungeon.com?utm_source=chatgpt.com
+2025-12-13T01:27:11Z,Reddit,lockedinai.com,110,216.150.1.1,Unknown,https://www.lockedinai.com/
+2025-12-13T01:27:11Z,Reddit,elasticrank.com,80,66.241.125.242,ip-66-241-125-242.shared.customer.flyio.net.,https://elasticrank.com/
+2025-12-13T01:27:11Z,Reddit,loadtested.com,80,18.67.76.23,AWS,https://loadtested.com/
+2025-12-13T01:27:11Z,Reddit,docs.shaped.ai,90,185.199.108.153,cdn-185-199-108-153.github.com.,https://docs.shaped.ai/docs/v2/home%5D()
+2025-12-13T01:27:11Z,Reddit,tomcp.org,100,172.67.151.213,Unknown,http://tomcp.org/
+2025-12-13T01:27:11Z,Reddit,tallywhale.com,80,93.127.167.108,srv633450.hstgr.cloud.,http://tallywhale.com
+2025-12-13T01:27:11Z,Reddit,tt-rpg.app,80,46.224.115.190,static.190.115.224.46.clients.your-server.de.,https://www.tt-rpg.app
+2025-12-13T01:27:11Z,Reddit,cheapgpts.store,100,207.174.61.1,Unknown,https://cheapgpts.store/Perplexity
+2025-12-13T01:27:52Z,Hacker News,flowova.ai,95,104.21.37.54,Cloudflare,flowova.ai
+2025-12-13T01:27:52Z,Hacker News,captain-hook.ai,110,216.198.79.1,Unknown,captain-hook.ai
+2025-12-13T01:27:52Z,Hacker News,jottings.me,100,172.67.167.26,Unknown,jottings.me
+2025-12-13T01:27:52Z,Hacker News,fairylandstudio.art,95,104.21.78.218,Cloudflare,fairylandstudio.art
+2025-12-13T01:27:52Z,Hacker News,lensgoai.co,95,104.21.76.169,Cloudflare,lensgoai.co
+2025-12-13T01:27:52Z,Hacker News,prode.ai,90,31.43.160.6,sites.framer.app.,prode.ai
+2025-12-13T01:27:52Z,Hacker News,foundry.siameseai.com,90,13.33.67.47,AWS,foundry.siameseai.com
+2025-12-13T01:27:52Z,Hacker News,imported-lush-slug.clueso.site,80,52.85.132.34,AWS,imported-lush-slug.clueso.site
+2025-12-13T01:27:52Z,Hacker News,videomakerai.app,110,172.67.194.71,Unknown,videomakerai.app
+2025-12-13T01:27:52Z,Hacker News,market-echo.vercel.app,100,64.29.17.67,Unknown,market-echo.vercel.app
+2025-12-13T01:27:52Z,Hacker News,gamepadtuner.com,100,172.67.221.7,Unknown,gamepadtuner.com
+2025-12-13T01:27:52Z,Hacker News,ubiai.tools,110,192.0.78.171,Unknown,ubiai.tools
+2025-12-13T01:27:52Z,Hacker News,shaicli.dev,95,104.21.25.251,Cloudflare,shaicli.dev
+2025-12-13T01:27:52Z,Hacker News,ryjoxdemo.com,100,185.158.133.1,Unknown,ryjoxdemo.com
+2025-12-13T01:27:52Z,Hacker News,advent.abasis.ai,110,64.29.17.1,Unknown,advent.abasis.ai
+2025-12-13T01:27:52Z,Hacker News,wctokyoseoul.com,100,216.198.79.1,Unknown,wctokyoseoul.com
+2025-12-13T01:27:52Z,Hacker News,advent.vs.digital,80,116.203.46.159,static.159.46.203.116.clients.your-server.de.,advent.vs.digital
