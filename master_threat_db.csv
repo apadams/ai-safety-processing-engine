@@ -1297,3 +1297,15 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-13T01:27:52Z,Hacker News,advent.abasis.ai,110,64.29.17.1,Unknown,advent.abasis.ai
 2025-12-13T01:27:52Z,Hacker News,wctokyoseoul.com,100,216.198.79.1,Unknown,wctokyoseoul.com
 2025-12-13T01:27:52Z,Hacker News,advent.vs.digital,80,116.203.46.159,static.159.46.203.116.clients.your-server.de.,advent.vs.digital
+2025-12-13T11:07:21Z,Reddit,shotsy.org,100,216.198.79.1,Unknown,http://shotsy.org
+2025-12-13T11:07:21Z,Reddit,lyaima.com,110,216.198.79.1,Unknown,https://www.lyaima.com/
+2025-12-13T11:07:22Z,Reddit,megalo.tech,80,76.76.21.21,Vercel,https://Megalo.tech
+2025-12-13T11:07:22Z,Reddit,pdfmyhtml.com,80,216.24.57.1,Vercel,http://www.pdfmyhtml.com
+2025-12-13T11:07:22Z,Reddit,clapnow.app,100,216.198.79.1,Unknown,https://clapnow.app
+2025-12-13T11:07:22Z,Reddit,aivideonarrator.com,110,216.198.79.65,Unknown,http://www.aivideonarrator.com
+2025-12-13T11:07:22Z,Reddit,streamable.com,100,151.101.193.63,Unknown,https://streamable.com/d78xq3
+2025-12-13T11:07:22Z,Reddit,perfectmessage.app,100,185.158.133.1,Unknown,https://perfectmessage.app/
+2025-12-13T11:07:22Z,Reddit,youtubetranscriptsai.com,110,147.182.177.177,Unknown,http://youtubetranscriptsai.com
+2025-12-13T11:07:22Z,Reddit,sappio.ai,110,216.198.79.1,Unknown,http://sappio.ai
+2025-12-13T11:07:22Z,Reddit,bridged.vu,80,76.76.21.21,Vercel,https://www.bridged.vu/
+2025-12-13T11:08:01Z,Hacker News,zunorm.com,85,104.21.89.249,Cloudflare,zunorm.com
