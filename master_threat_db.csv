@@ -1309,3 +1309,27 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-13T11:07:22Z,Reddit,sappio.ai,110,216.198.79.1,Unknown,http://sappio.ai
 2025-12-13T11:07:22Z,Reddit,bridged.vu,80,76.76.21.21,Vercel,https://www.bridged.vu/
 2025-12-13T11:08:01Z,Hacker News,zunorm.com,85,104.21.89.249,Cloudflare,zunorm.com
+2025-12-14T01:46:55Z,Reddit,forms.gle,100,199.36.158.100,Unknown,https://forms.gle/SWMcyHXMksH3SrFw6
+2025-12-14T01:46:55Z,Reddit,aithumbnailcreator.com,110,216.198.79.1,Unknown,https://aithumbnailcreator.com/
+2025-12-14T01:46:55Z,Reddit,horichat.vercel.app,100,216.198.79.67,Unknown,https://horichat.vercel.app
+2025-12-14T01:46:55Z,Reddit,opus.pro,100,172.67.72.75,Unknown,https://www.opus.pro/?via=andy-50
+2025-12-14T01:46:55Z,Reddit,lingo.dev,100,172.67.158.58,Unknown,https://lingo.dev/mcp
+2025-12-14T01:46:55Z,Reddit,yourname.vibitely.com,100,172.67.168.102,Unknown,http://yourname.vibitely.com
+2025-12-14T01:46:55Z,Reddit,seatall.co,100,216.198.79.1,Unknown,https://seatall.co
+2025-12-14T01:46:55Z,Reddit,noot-ai.com,110,216.198.79.1,Unknown,http://Noot-ai.com
+2025-12-14T01:46:55Z,Reddit,buildyourbag.ai,90,216.24.57.1,Vercel,http://buildyourbag.ai
+2025-12-14T01:46:55Z,Reddit,smartpalai.vercel.app,110,64.29.17.195,Unknown,http://smartpalai.vercel.app
+2025-12-14T01:46:55Z,Reddit,paidup.app,90,98.84.224.111,AWS,https://paidup.app/
+2025-12-14T01:46:55Z,Reddit,leadagentx.com,90,216.24.57.1,Vercel,https://leadagentx.com
+2025-12-14T01:46:55Z,Reddit,plutosaas-waitlist.vercel.app,110,64.29.17.67,Unknown,http://plutosaas-waitlist.vercel.app
+2025-12-14T01:46:55Z,Reddit,fancytextnow.com,100,64.29.17.1,Unknown,https://www.fancytextnow.com/?utm_source=chatgpt.com
+2025-12-14T01:46:55Z,Reddit,share.google,80,216.239.32.27,any-in-201b.1e100.net.,https://share.google/oTPq93RpMMg4Fj6Aw
+2025-12-14T01:46:55Z,Reddit,hitanshukhandelwal.com,100,216.198.79.1,Unknown,https://hitanshukhandelwal.com
+2025-12-14T01:46:55Z,Reddit,atlantic-ai.vercel.app,110,64.29.17.67,Unknown,http://atlantic-ai.vercel.app
+2025-12-14T01:46:55Z,Reddit,torna-ai.vercel.app,110,216.198.79.67,Unknown,https://torna-ai.vercel.app/
+2025-12-14T01:46:55Z,Reddit,mindbit.online,100,185.27.134.101,Unknown,https://mindbit.online
+2025-12-14T01:47:34Z,Hacker News,llmatcher.com,100,162.159.140.98,Unknown,llmatcher.com
+2025-12-14T01:47:35Z,Hacker News,aisongcreator.app,110,172.67.212.234,Unknown,aisongcreator.app
+2025-12-14T01:47:35Z,Hacker News,free-kids-typing-games.com,80,18.165.98.103,AWS,free-kids-typing-games.com
+2025-12-14T01:47:35Z,Hacker News,aifictionduel.com,90,162.241.24.89,box5859.bluehost.com.,aifictionduel.com
+2025-12-14T01:47:35Z,Hacker News,brandcaster.ai,110,216.198.79.1,Unknown,brandcaster.ai
