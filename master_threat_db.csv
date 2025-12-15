@@ -1333,3 +1333,37 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-14T01:47:35Z,Hacker News,free-kids-typing-games.com,80,18.165.98.103,AWS,free-kids-typing-games.com
 2025-12-14T01:47:35Z,Hacker News,aifictionduel.com,90,162.241.24.89,box5859.bluehost.com.,aifictionduel.com
 2025-12-14T01:47:35Z,Hacker News,brandcaster.ai,110,216.198.79.1,Unknown,brandcaster.ai
+2025-12-15T01:44:33Z,Reddit,aimtica.com,95,104.21.40.54,Cloudflare,https://aimtica.com
+2025-12-15T01:44:33Z,Reddit,tailyland.com,110,172.67.218.119,Unknown,https://www.tailyland.com/
+2025-12-15T01:44:33Z,Reddit,gogroot.live,100,216.198.79.1,Unknown,https://www.gogroot.live/home
+2025-12-15T01:44:33Z,Reddit,thedraft.so,100,216.198.79.1,Unknown,http://TheDraft.so
+2025-12-15T01:44:33Z,Reddit,get-voice-flow.vercel.app,100,216.198.79.3,Unknown,https://get-voice-flow.vercel.app/
+2025-12-15T01:44:33Z,Reddit,roomsy.app,80,18.238.96.126,AWS,https://roomsy.app
+2025-12-15T01:44:33Z,Reddit,flowxp.org,100,185.158.133.1,Unknown,https://flowxp.org
+2025-12-15T01:44:33Z,Reddit,lingoscreen.com,100,185.158.133.1,Unknown,https://lingoscreen.com
+2025-12-15T01:44:33Z,Reddit,equathora.com,100,216.198.79.1,Unknown,https://equathora.com
+2025-12-15T01:44:33Z,Reddit,context-pack.com,100,216.198.79.1,Unknown,http://context-pack.com
+2025-12-15T01:44:33Z,Reddit,resumefy.pro,85,104.21.8.70,Cloudflare,https://resumefy.pro
+2025-12-15T01:44:33Z,Reddit,simpleedit.ai,90,216.24.57.1,Vercel,http://SimpleEdit.ai
+2025-12-15T01:44:34Z,Reddit,timetrack.management,80,34.111.179.208,GCP,https://timetrack.management/family
+2025-12-15T01:44:34Z,Reddit,try.postking.app,80,116.203.251.220,static.220.251.203.116.clients.your-server.de.,http://try.postking.app
+2025-12-15T01:44:34Z,Reddit,blopai.com,90,72.62.53.11,srv1170150.hstgr.cloud.,https://blopai.com/
+2025-12-15T01:44:34Z,Reddit,compli.st,100,216.150.1.1,Unknown,https://compli.st
+2025-12-15T01:45:11Z,Hacker News,randomai.vercel.app,110,216.198.79.131,Unknown,randomai.vercel.app
+2025-12-15T01:45:11Z,Hacker News,remixify.xyz,80,66.241.125.54,ip-66-241-125-54.shared.customer.flyio.net.,remixify.xyz
+2025-12-15T01:45:11Z,Hacker News,charleswiltgen.github.io,80,185.199.110.153,cdn-185-199-110-153.github.com.,charleswiltgen.github.io
+2025-12-15T01:45:11Z,Hacker News,0xfeed.dev,100,216.198.79.1,Unknown,0xfeed.dev
+2025-12-15T01:45:11Z,Hacker News,cvfitr.com,80,3.167.69.36,AWS,cvfitr.com
+2025-12-15T01:45:11Z,Hacker News,tintekka.com,100,185.158.133.1,Unknown,tintekka.com
+2025-12-15T01:45:11Z,Hacker News,postking.app,80,116.203.251.220,static.220.251.203.116.clients.your-server.de.,postking.app
+2025-12-15T01:45:11Z,Hacker News,movyolabs.com,100,216.198.79.1,Unknown,movyolabs.com
+2025-12-15T01:45:11Z,Hacker News,nutriqs.ai,110,216.198.79.1,Unknown,nutriqs.ai
+2025-12-15T01:45:11Z,Hacker News,trylockedin.app,100,216.198.79.1,Unknown,trylockedin.app
+2025-12-15T01:45:11Z,Hacker News,skyz.ai,110,172.67.180.98,Unknown,skyz.ai
+2025-12-15T01:45:11Z,Hacker News,aero.zip,80,162.55.98.90,hoq01.aerozip.net.,aero.zip
+2025-12-15T01:45:11Z,Hacker News,phototovideoai.org,110,216.198.79.1,Unknown,phototovideoai.org
+2025-12-15T01:45:11Z,Hacker News,blog.vect.pro,100,64.29.17.65,Unknown,blog.vect.pro
+2025-12-15T01:45:11Z,Hacker News,seedance-2.org,100,216.150.1.1,Unknown,seedance-2.org
+2025-12-15T01:45:11Z,Hacker News,socdefenders.ai,110,216.150.1.1,Unknown,socdefenders.ai
+2025-12-15T01:45:11Z,Hacker News,willitfront.page,100,216.150.16.193,Unknown,willitfront.page
+2025-12-15T01:45:12Z,Hacker News,talepad.com,80,169.150.236.100,169-150-236-100.bunnyinfra.net.,talepad.com
