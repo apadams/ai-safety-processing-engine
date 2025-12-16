@@ -1367,3 +1367,51 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-15T01:45:11Z,Hacker News,socdefenders.ai,110,216.150.1.1,Unknown,socdefenders.ai
 2025-12-15T01:45:11Z,Hacker News,willitfront.page,100,216.150.16.193,Unknown,willitfront.page
 2025-12-15T01:45:12Z,Hacker News,talepad.com,80,169.150.236.100,169-150-236-100.bunnyinfra.net.,talepad.com
+2025-12-16T01:41:57Z,Reddit,aidesigner.ai,110,216.150.1.1,Unknown,https://aidesigner.ai
+2025-12-16T01:41:57Z,Reddit,bazaar.rocks,100,64.29.17.65,Unknown,https://www.bazaar.rocks/
+2025-12-16T01:41:57Z,Reddit,workfx.ai,90,15.197.225.128,aec037177372cc6cd.awsglobalaccelerator.com.,https://www.workfx.ai/
+2025-12-16T01:41:57Z,Reddit,clevermock.com,100,216.198.79.1,Unknown,https://www.clevermock.com
+2025-12-16T01:41:57Z,Reddit,trylaunch.ai,110,185.158.133.1,Unknown,https://trylaunch.ai/
+2025-12-16T01:41:57Z,Reddit,fomilab.ai,90,185.230.63.107,unalocated.63.wixsite.com.,https://www.fomilab.ai/
+2025-12-16T01:41:57Z,Reddit,form.typeform.com,80,34.194.223.183,GCP,https://form.typeform.com/to/tokU8X0y
+2025-12-16T01:41:57Z,Reddit,chatlo.io,85,104.21.59.88,Cloudflare,https://chatlo.io
+2025-12-16T01:41:57Z,Reddit,blitzer.app,100,216.198.79.1,Unknown,https://www.blitzer.app
+2025-12-16T01:41:57Z,Reddit,offloadyourmind.com,80,34.111.179.208,GCP,https://offloadyourmind.com
+2025-12-16T01:41:57Z,Reddit,vibe-prompts.com,100,216.198.79.1,Unknown,https://www.vibe-prompts.com/
+2025-12-16T01:41:57Z,Reddit,suruvox.com,100,216.198.79.1,Unknown,https://suruvox.com?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=waitlist&amp;utm_content=rsideproject
+2025-12-16T01:41:57Z,Reddit,remembr-ai.com,110,199.36.158.100,Unknown,https://remembr-ai.com
+2025-12-16T01:41:57Z,Reddit,cravies.app,100,185.158.133.1,Unknown,http://www.cravies.app
+2025-12-16T01:41:57Z,Reddit,aiport-app.com,110,185.158.133.1,Unknown,https://aiport-app.com/
+2025-12-16T01:41:57Z,Reddit,cosplayai.app,110,64.29.17.65,Unknown,https://cosplayai.app
+2025-12-16T01:41:58Z,Reddit,autotailor.app,110,216.198.79.1,Unknown,https://www.autotailor.app
+2025-12-16T01:41:58Z,Reddit,tickerterm.com,100,199.36.158.100,Unknown,https://tickerterm.com
+2025-12-16T01:41:58Z,Reddit,9000-firebase-studio-1765811332171.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev,80,35.201.151.248,GCP,https://9000-firebase-studio-1765811332171.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev/
+2025-12-16T01:42:07Z,Reddit,quickads.ai,110,198.202.211.1,Unknown,https://www.quickads.ai/
+2025-12-16T01:42:38Z,Hacker News,crovise.netlify.app,80,18.208.88.157,AWS,crovise.netlify.app
+2025-12-16T01:42:38Z,Hacker News,portfoliogenius.ai,95,104.21.28.132,Cloudflare,portfoliogenius.ai
+2025-12-16T01:42:38Z,Hacker News,focusfour.app,85,104.21.53.150,Cloudflare,focusfour.app
+2025-12-16T01:42:38Z,Hacker News,donutloop.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,donutloop.github.io
+2025-12-16T01:42:38Z,Hacker News,jetogo.com,100,172.67.144.102,Unknown,jetogo.com
+2025-12-16T01:42:38Z,Hacker News,bookpace.pages.dev,100,172.66.45.20,Unknown,bookpace.pages.dev
+2025-12-16T01:42:38Z,Hacker News,spinity.co,85,104.21.28.199,Cloudflare,spinity.co
+2025-12-16T01:42:38Z,Hacker News,beste.co,100,216.150.16.129,Unknown,beste.co
+2025-12-16T01:42:38Z,Hacker News,gameenginehub.com,85,104.21.12.158,Cloudflare,gameenginehub.com
+2025-12-16T01:42:38Z,Hacker News,shopos.ai,110,195.35.35.122,Unknown,shopos.ai
+2025-12-16T01:42:38Z,Hacker News,mino.ai,90,54.176.10.24,AWS,mino.ai
+2025-12-16T01:42:38Z,Hacker News,vishalv.com,100,64.29.17.65,Unknown,vishalv.com
+2025-12-16T01:42:38Z,Hacker News,intermock.com,80,99.86.229.107,server-99-86-229-107.iad79.r.cloudfront.net.,intermock.com
+2025-12-16T01:42:38Z,Hacker News,model-guessr.com,80,18.208.88.157,AWS,model-guessr.com
+2025-12-16T01:42:38Z,Hacker News,voideditor.com,100,216.150.1.193,Unknown,voideditor.com
+2025-12-16T01:42:38Z,Hacker News,naiman.ai,110,216.150.1.1,Unknown,naiman.ai
+2025-12-16T01:42:38Z,Hacker News,wan-animate.com,100,216.198.79.1,Unknown,wan-animate.com
+2025-12-16T01:42:38Z,Hacker News,appscreenshots.net,100,216.198.79.1,Unknown,appscreenshots.net
+2025-12-16T01:42:38Z,Hacker News,speckjs.dev,100,172.67.221.224,Unknown,speckjs.dev
+2025-12-16T01:42:38Z,Hacker News,supaguard.app,100,216.198.79.1,Unknown,supaguard.app
+2025-12-16T01:42:38Z,Hacker News,dontloseyourjob.com,80,185.199.108.153,cdn-185-199-108-153.github.com.,dontloseyourjob.com
+2025-12-16T01:42:38Z,Hacker News,mailnotes.es,90,217.154.181.243,ip217-154-181-243.pbiaas.com.,mailnotes.es
+2025-12-16T01:42:38Z,Hacker News,agentcontainers.com,100,99.83.231.61,acd89244c803f7181.awsglobalaccelerator.com.,agentcontainers.com
+2025-12-16T01:42:38Z,Hacker News,apmcommunication.com,80,98.84.224.111,AWS,apmcommunication.com
+2025-12-16T01:42:38Z,Hacker News,gochu.app,80,157.180.26.86,static.86.26.180.157.clients.your-server.de.,gochu.app
+2025-12-16T01:42:38Z,Hacker News,vibecoco.app,100,199.36.158.100,Unknown,vibecoco.app
+2025-12-16T01:42:38Z,Hacker News,p2p.radio,80,65.108.250.14,static.14.250.108.65.clients.your-server.de.,p2p.radio
+2025-12-16T01:42:38Z,Hacker News,platform.papr.ai,90,44.205.165.195,AWS,platform.papr.ai
