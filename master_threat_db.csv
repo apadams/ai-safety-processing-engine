@@ -1415,3 +1415,45 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-16T01:42:38Z,Hacker News,vibecoco.app,100,199.36.158.100,Unknown,vibecoco.app
 2025-12-16T01:42:38Z,Hacker News,p2p.radio,80,65.108.250.14,static.14.250.108.65.clients.your-server.de.,p2p.radio
 2025-12-16T01:42:38Z,Hacker News,platform.papr.ai,90,44.205.165.195,AWS,platform.papr.ai
+2025-12-17T01:27:59Z,Reddit,search-x-ai.vercel.app,110,64.29.17.3,Unknown,https://search-x-ai.vercel.app/
+2025-12-17T01:27:59Z,Reddit,zapwrite.vercel.app,100,216.198.79.3,Unknown,https://zapwrite.vercel.app/
+2025-12-17T01:27:59Z,Reddit,prepare.fyi,100,216.198.79.1,Unknown,https://prepare.fyi
+2025-12-17T01:27:59Z,Reddit,curiokeep.app,100,216.198.79.1,Unknown,https://curiokeep.app
+2025-12-17T01:27:59Z,Reddit,arxiv.org,100,151.101.3.42,Unknown,https://arxiv.org/abs/2507.12482
+2025-12-17T01:27:59Z,Reddit,greendragon.silmaril.dev,100,216.150.16.193,Unknown,https://greendragon.silmaril.dev/
+2025-12-17T01:27:59Z,Reddit,tidyfy.io,80,76.76.21.21,Vercel,https://tidyfy.io/
+2025-12-17T01:27:59Z,Reddit,socket.io,80,76.76.21.241,Vercel,http://Socket.IO
+2025-12-17T01:27:59Z,Reddit,nextjs.org,100,216.230.86.193,Unknown,https://nextjs.org/
+2025-12-17T01:27:59Z,Reddit,screen.vision,100,216.198.79.1,Unknown,https://screen.vision/
+2025-12-17T01:27:59Z,Reddit,ledda.ai,110,216.198.79.1,Unknown,https://www.ledda.ai/en
+2025-12-17T01:27:59Z,Reddit,thedrive.ai,110,216.150.1.1,Unknown,https://thedrive.ai/
+2025-12-17T01:28:00Z,Reddit,remy-the-fox.lovable.app,100,185.158.133.1,Unknown,https://remy-the-fox.lovable.app
+2025-12-17T01:28:00Z,Reddit,imup.cc,80,38.242.216.102,vmi1563312.contaboserver.net.,https://imup.cc/en/polls/create
+2025-12-17T01:28:00Z,Reddit,coderblocks.eu,80,188.210.222.3,h52.seohost.pl.,https://coderblocks.eu/mobility
+2025-12-17T01:28:03Z,Reddit,promptlab.tech,80,217.217.248.79,vmi2934058.contaboserver.net.,https://promptlab.tech/
+2025-12-17T01:28:42Z,Hacker News,quicklyseo.com,85,104.21.38.247,Cloudflare,quicklyseo.com
+2025-12-17T01:28:42Z,Hacker News,paprai.substack.com,95,172.64.150.56,Cloudflare,paprai.substack.com
+2025-12-17T01:28:42Z,Hacker News,lustra.news,80,34.8.132.97,GCP,lustra.news
+2025-12-17T01:28:42Z,Hacker News,securamem.com,80,76.76.21.21,Vercel,securamem.com
+2025-12-17T01:28:42Z,Hacker News,hopelessapi.com,100,216.198.79.1,Unknown,hopelessapi.com
+2025-12-17T01:28:42Z,Hacker News,largemem.com,100,216.198.79.1,Unknown,largemem.com
+2025-12-17T01:28:42Z,Hacker News,webui.ailoy.co,95,104.21.61.171,Cloudflare,webui.ailoy.co
+2025-12-17T01:28:42Z,Hacker News,useboardspace.com,100,216.198.79.1,Unknown,useboardspace.com
+2025-12-17T01:28:42Z,Hacker News,weekinpapers.com,100,216.150.1.193,Unknown,weekinpapers.com
+2025-12-17T01:28:42Z,Hacker News,tonefitai.com,110,216.198.79.1,Unknown,tonefitai.com
+2025-12-17T01:28:42Z,Hacker News,incremark-docs.vercel.app,100,64.29.17.131,Unknown,incremark-docs.vercel.app
+2025-12-17T01:28:42Z,Hacker News,gptimage15.app,100,216.150.1.1,Unknown,gptimage15.app
+2025-12-17T01:28:42Z,Hacker News,aitrolleyproblem.com,110,216.198.79.1,Unknown,aitrolleyproblem.com
+2025-12-17T01:28:42Z,Hacker News,commercetxt.org,85,104.21.84.223,Cloudflare,commercetxt.org
+2025-12-17T01:28:42Z,Hacker News,a24z.ai,110,216.198.79.1,Unknown,a24z.ai
+2025-12-17T01:28:42Z,Hacker News,ragmetrics.ai,110,216.198.79.1,Unknown,ragmetrics.ai
+2025-12-17T01:28:42Z,Hacker News,fullscore.org,100,172.66.43.131,Unknown,fullscore.org
+2025-12-17T01:28:42Z,Hacker News,vectorart.ai,110,216.150.16.193,Unknown,vectorart.ai
+2025-12-17T01:28:42Z,Hacker News,speechbolt.ai,95,104.18.11.96,Cloudflare,speechbolt.ai
+2025-12-17T01:28:42Z,Hacker News,resumeup.ai,95,104.21.29.18,Cloudflare,resumeup.ai
+2025-12-17T01:28:42Z,Hacker News,interviewkithq.com,100,216.150.1.65,Unknown,interviewkithq.com
+2025-12-17T01:28:42Z,Hacker News,symbolica.ai,110,216.150.1.1,Unknown,symbolica.ai
+2025-12-17T01:28:42Z,Hacker News,coniva.ai,110,216.198.79.1,Unknown,coniva.ai
+2025-12-17T01:28:43Z,Hacker News,zencoder.ai,110,199.60.103.29,Unknown,zencoder.ai
+2025-12-17T01:28:43Z,Hacker News,docs.hera.video,85,104.18.10.78,Cloudflare,docs.hera.video
+2025-12-17T01:28:43Z,Hacker News,actory.ai,90,76.76.21.21,Vercel,actory.ai
