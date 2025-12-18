@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
+	"sync"
 )
 
 type ThreatRecord struct {
@@ -20,6 +21,7 @@ type ThreatRecord struct {
 type DB struct {
 	FilePath string
 	Records  map[string]bool // Map of CleanURL to existence
+	mu       sync.RWMutex
 }
 
 func NewDB(filePath string) (*DB, error) {
@@ -37,6 +39,9 @@ func NewDB(filePath string) (*DB, error) {
 }
 
 func (db *DB) load() error {
+	db.mu.Lock()
+	defer db.mu.Unlock()
+
 	file, err := os.Open(db.FilePath)
 	if os.IsNotExist(err) {
 		return nil // File doesn't exist yet, that's fine
@@ -65,7 +70,16 @@ func (db *DB) load() error {
 	return nil
 }
 
+func (db *DB) Exists(url string) bool {
+	db.mu.RLock()
+	defer db.mu.RUnlock()
+	return db.Records[url]
+}
+
 func (db *DB) Save(records []ThreatRecord) error {
+	db.mu.Lock()
+	defer db.mu.Unlock()
+
 	// Check if file exists to write header
 	fileExists := false
 	if _, err := os.Stat(db.FilePath); err == nil {
