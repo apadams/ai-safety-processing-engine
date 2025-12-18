@@ -21,13 +21,20 @@ jobs:
         run: go run publisher/main.go
         # Creates public_export/shadow-ai-lite.txt
 
-      - name: Prepare Public Readme
+      - name: Prepare Public Files
         run: |
-          # Copy the community readme to the export folder as the default README.md
+          # 1. Copy the Readme
           cp README_COMMUNITY.md public_export/README.md
-
-          # Verify the folder content before pushing (for logs)
+          
+          # 2. Create the .github folder inside the export
+          mkdir -p public_export/.github
+          
+          # 3. Create the FUNDING.yml file
+          echo 'github: Tobiwan-Cloud-Solutions' > public_export/.github/FUNDING.yml
+          
+          # Verify content
           ls -la public_export/
+          ls -la public_export/.github/
 
       - name: Push to Public Repo
         uses: cpina/github-action-push-to-another-repository@main
