@@ -11,25 +11,31 @@ import (
 
 // ThreadSafeStats tracks ingestion statistics safely across goroutines
 type ThreadSafeStats struct {
-	DomainsBlocked int
-	TopSources     map[string]int
-	WeirdFinds     []string
-	mu             sync.Mutex
+	DomainsBlocked  int
+	NewDomainsCount int
+	TopSources      map[string]int
+	TopHosts        map[string]int
+	WeirdFinds      []string
+	mu              sync.Mutex
 }
 
 // Current is the global instance for easy access
 var Current = &ThreadSafeStats{
 	TopSources: make(map[string]int),
+	TopHosts:   make(map[string]int),
 	WeirdFinds: make([]string, 0),
 }
 
 // Track safely increments counters and checks for "WeirdFinds"
-func (s *ThreadSafeStats) Track(source string, domain string) {
+func (s *ThreadSafeStats) Track(source string, domain string, host string) {
 	s.mu.Lock()
 	defer s.mu.Unlock()
 
 	s.DomainsBlocked++
 	s.TopSources[source]++
+	if host != "" && host != "Unknown" {
+		s.TopHosts[host]++
+	}
 
 	// Check for weird finds
 	// Keywords: "tax", "finance", "gpt"
@@ -55,6 +61,13 @@ func (s *ThreadSafeStats) Track(source string, domain string) {
 	}
 }
 
+// SetNewDomainsCount allows external setting of the new domains metric
+func (s *ThreadSafeStats) SetNewDomainsCount(count int) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	s.NewDomainsCount = count
+}
+
 // GenerateSummary generates a Markdown string for a LinkedIn post and writes it to GITHUB_STEP_SUMMARY and stats.md
 func (s *ThreadSafeStats) GenerateSummary() error {
 	s.mu.Lock()
@@ -63,26 +76,45 @@ func (s *ThreadSafeStats) GenerateSummary() error {
 	var sb strings.Builder
 
 	// Header
-	sb.WriteString("# Daily Threat Intelligence Stats\n\n")
+	sb.WriteString("# Weekly Shadow AI Finds\n\n")
 
-	sb.WriteString(fmt.Sprintf("Daily Threat Report: We have identified %d domains...\n\n", s.DomainsBlocked))
-	sb.WriteString("**Top Sources:**\n")
+	// Stats
+	sb.WriteString(fmt.Sprintf("🛡️ New domains/tools identified: %d\n\n", s.NewDomainsCount))
 
-	// Sort sources by count descending
+	// Primary Vector
+	var topSource string
+	var topSourceCount int
+	for k, v := range s.TopSources {
+		if v > topSourceCount {
+			topSource = k
+			topSourceCount = v
+		}
+	}
+	if topSource != "" {
+		sb.WriteString(fmt.Sprintf("**Primary Vector:** %s (%d)\n\n", topSource, topSourceCount))
+	}
+
+	// Top Hosting Providers
+	sb.WriteString("**Top Hosting Providers:**\n")
 	type kv struct {
 		Key   string
 		Value int
 	}
-	var ss []kv
-	for k, v := range s.TopSources {
-		ss = append(ss, kv{k, v})
+	var hosts []kv
+	for k, v := range s.TopHosts {
+		hosts = append(hosts, kv{k, v})
 	}
-	sort.Slice(ss, func(i, j int) bool {
-		return ss[i].Value > ss[j].Value
+	sort.Slice(hosts, func(i, j int) bool {
+		return hosts[i].Value > hosts[j].Value
 	})
 
-	for _, kv := range ss {
-		sb.WriteString(fmt.Sprintf("- %s: %d\n", kv.Key, kv.Value))
+	// Top 5 Hosts
+	limit := 5
+	if len(hosts) < limit {
+		limit = len(hosts)
+	}
+	for i := 0; i < limit; i++ {
+		sb.WriteString(fmt.Sprintf("- %s: %d\n", hosts[i].Key, hosts[i].Value))
 	}
 
 	if len(s.WeirdFinds) > 0 {

@@ -154,7 +154,6 @@ func RunIngest(outputFile string) error {
 	// Send jobs
 	go func() {
 		for _, job := range allCandidates {
-			stats.Current.Track(job.Source, job.Candidate.URL)
 			jobs <- job
 		}
 		close(jobs)
@@ -165,6 +164,7 @@ func RunIngest(outputFile string) error {
 		res := <-results
 		if res.Error == nil {
 			threatRecords = append(threatRecords, res.Record)
+			stats.Current.Track(res.Record.Source, res.Record.CleanURL, res.Record.HostingProvider)
 		}
 		if i > 0 && i%100 == 0 {
 			fmt.Printf("Processed %d/%d...\n", i, totalJobs)
