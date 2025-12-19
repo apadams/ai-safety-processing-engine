@@ -77,8 +77,8 @@ func main() {
 	}
 
 	// 8. Generate stats.md (LinkedIn Summary)
-	// Populate stats first
-	for _, r := range highRisk {
+	// Populate stats first (from Master DB as requested)
+	for _, r := range records {
 		stats.Current.Track(r.Source, r.CleanURL)
 	}
 	if err := stats.Current.GenerateSummary(); err != nil {
