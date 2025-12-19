@@ -90,12 +90,24 @@ func (s *ThreadSafeStats) GenerateSummary() error {
 			topSourceCount = v
 		}
 	}
-	if topSource != "" {
-		sb.WriteString(fmt.Sprintf("**Primary Vector:** %s (%d)\n\n", topSource, topSourceCount))
+
+	// Map source names
+	displaySource := topSource
+	switch topSource {
+	case "Reddit":
+		displaySource = "Unverified Developer Forums"
+	case "Hacker News":
+		displaySource = "Tech Aggregators"
+	case "Product Hunt":
+		displaySource = "SaaS Launchpads"
 	}
 
-	// Top Hosting Providers
-	sb.WriteString("**Top Hosting Providers:**\n")
+	if topSource != "" {
+		sb.WriteString(fmt.Sprintf("**Primary Vector:** %s (%d)\n\n", displaySource, topSourceCount))
+	}
+
+	// Top Hosting Infrastructure
+	sb.WriteString("**Top Hosting Infrastructure:**\n")
 	type kv struct {
 		Key   string
 		Value int

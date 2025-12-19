@@ -19,7 +19,7 @@ This list is designed for security engineers, network administrators, and privac
 | Feature | **Community Edition** (This Repo) | **Enterprise Feed** |
 | :--- | :--- | :--- |
 | **Volume** | Top 500 (High Confidence) | Full Database (5,000+) |
-| **Update Speed** | Weekly | Real-time (Hourly) |
+| **Update Speed** | Weekly | Real-time (Daily) |
 | **Metadata** | Domain Only | IP, Hosting Provider, Risk Score |
 | **Format** | `.txt` (Pi-hole compatible) | JSON / CSV / API |
 | **Support** | Community Issues | SLA Support |

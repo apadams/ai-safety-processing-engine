@@ -82,13 +82,12 @@ func main() {
 	cutoff := time.Now().AddDate(0, 0, -7)
 	newCount := 0
 	for _, r := range records {
-		stats.Current.Track(r.Source, r.CleanURL, r.HostingProvider)
-
 		// Parse time to count new domains
 		t, err := time.Parse(time.RFC3339, r.TimestampFound)
 		// If parse fails, ignore (or treat as old). If successful, check if after cutoff.
 		if err == nil && t.After(cutoff) {
 			newCount++
+			stats.Current.Track(r.Source, r.CleanURL, r.HostingProvider)
 		}
 	}
 	stats.Current.SetNewDomainsCount(newCount)
