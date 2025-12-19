@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"shadow-ai-feed/stats"
 	"shadow-ai-feed/utils"
 	"sync"
 	"time"
@@ -153,6 +154,7 @@ func RunIngest(outputFile string) error {
 	// Send jobs
 	go func() {
 		for _, job := range allCandidates {
+			stats.Current.Track(job.Source, job.Candidate.URL)
 			jobs <- job
 		}
 		close(jobs)
@@ -175,14 +177,14 @@ func RunIngest(outputFile string) error {
 	}
 
 	// Save stats for publisher
-	stats := map[string]int{
+	ingestStats := map[string]int{
 		"raw_items":      totalJobs,
 		"filtered_items": len(threatRecords),
 		"written_to_db":  len(threatRecords),
 	}
 	statsFile, _ := os.Create("data/ingest_stats.json")
 	defer statsFile.Close()
-	json.NewEncoder(statsFile).Encode(stats)
+	json.NewEncoder(statsFile).Encode(ingestStats)
 
 	fmt.Println("--------------------------------------------------")
 	fmt.Printf("Total Raw Items Fetched: %d\n", totalJobs)

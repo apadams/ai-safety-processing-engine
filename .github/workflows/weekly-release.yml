@@ -2,7 +2,9 @@ name: Weekly Public Release
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Runs at 00:00 UTC every Sunday
+    # 05:00 UTC = 00:00 EST (Midnight Friday Morning)
+    # 5 = Friday
+    - cron: "0 5 * * 5"
   workflow_dispatch:
 
 jobs:
@@ -17,22 +19,25 @@ jobs:
         with:
           go-version: "1.25"
 
-      - name: Generate Lite File
+      - name: Generate Lite File & Stats
         run: go run publisher/main.go
-        # Creates public_export/shadow-ai-lite.txt
 
       - name: Prepare Public Files
         run: |
           # 1. Copy the Readme
           cp README_COMMUNITY.md public_export/README.md
-          
-          # 2. Create the .github folder inside the export
+
+          # 2. Copy the Stats File
+          cp stats.md public_export/stats.md
+
+          # 3. Create the .github folder inside the export
           mkdir -p public_export/.github
-          
-          # 3. Create the FUNDING.yml file
+
+          # 4. Create the FUNDING.yml file
           echo 'github: Tobiwan-Cloud-Solutions' > public_export/.github/FUNDING.yml
-          
+
           # Verify content
+          echo "--- Verifying Export Folder Content ---"
           ls -la public_export/
           ls -la public_export/.github/
 

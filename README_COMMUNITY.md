@@ -16,13 +16,15 @@ This list is designed for security engineers, network administrators, and privac
 
 ## What's Included (Lite vs. Pro)
 
-| Feature | **Community Edition** (This Repo) | **Enterprise Feed** (Coming Soon) |
+| Feature | **Community Edition** (This Repo) | **Enterprise Feed** |
 | :--- | :--- | :--- |
 | **Volume** | Top 500 (High Confidence) | Full Database (5,000+) |
 | **Update Speed** | Weekly | Real-time (Hourly) |
 | **Metadata** | Domain Only | IP, Hosting Provider, Risk Score |
 | **Format** | `.txt` (Pi-hole compatible) | JSON / CSV / API |
 | **Support** | Community Issues | SLA Support |
+
+> **Note:** To access the full master database, please sponsor the repository.
 
 ## Usage
 
