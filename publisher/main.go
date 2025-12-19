@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"shadow-ai-feed/stats"
 	"sort"
 	"strconv"
 	"strings"
@@ -75,6 +76,16 @@ func main() {
 		return
 	}
 
+	// 8. Generate stats.md (LinkedIn Summary)
+	// Populate stats first
+	for _, r := range highRisk {
+		stats.Current.Track(r.Source, r.CleanURL)
+	}
+	if err := stats.Current.GenerateSummary(); err != nil {
+		fmt.Printf("Failed to generate stats summary: %v\n", err)
+		return
+	}
+
 	// 5. Generate run_report.md
 	reportFile := "run_report.md"
 	reportFileObj, err := os.Create(reportFile)
@@ -95,7 +106,7 @@ func main() {
 	reportWriter := bufio.NewWriter(reportFileObj)
 	_, _ = reportWriter.WriteString("# Ingestion & Risk Report\n\n")
 	_, _ = reportWriter.WriteString(fmt.Sprintf("Generated on: %s\n\n", time.Now().Format(time.RFC1123)))
-	
+
 	if stats != nil {
 		_, _ = reportWriter.WriteString("## Execution Stats\n")
 		_, _ = reportWriter.WriteString(fmt.Sprintf("- **Total Raw Items Fetched:** %d\n", stats["raw_items"]))
@@ -138,7 +149,7 @@ func readMasterDB(filePath string) ([]ThreatRecord, error) {
 		if len(row) < 7 {
 			continue
 		}
-		
+
 		score, _ := strconv.Atoi(row[3])
 
 		records = append(records, ThreatRecord{
@@ -183,7 +194,7 @@ func writeLiteFeed(records []ThreatRecord, filePath string) error {
 		domain = strings.TrimPrefix(domain, "http://")
 		domain = strings.TrimPrefix(domain, "https://")
 		domain = strings.TrimPrefix(domain, "www.")
-		
+
 		// Strip Path
 		if idx := strings.Index(domain, "/"); idx != -1 {
 			domain = domain[:idx]

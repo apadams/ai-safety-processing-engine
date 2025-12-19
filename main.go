@@ -43,4 +43,5 @@ func main() {
 		}
 		fmt.Printf("Filter finished. Data saved to %s\n", *outputFile)
 	}
+	stats.Current.GenerateSummary()
 }
