@@ -1811,3 +1811,27 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-20T01:28:36Z,Hacker News,guageai.com,110,216.198.79.1,Unknown,guageai.com
 2025-12-20T01:28:36Z,Hacker News,minform.io,100,172.67.210.252,Unknown,minform.io
 2025-12-20T01:28:46Z,Reddit,scrollvalue.com,100,198.202.211.1,Unknown,http://scrollvalue.com
+2025-12-21T01:47:30Z,Reddit,agentjette.com,90,34.111.179.208,GCP,https://agentjette.com
+2025-12-21T01:47:30Z,Hacker News,dreyx.com,80,52.52.192.191,AWS,dreyx.com
+2025-12-21T01:47:30Z,Reddit,app.skail.ai,110,185.158.133.1,Unknown,https://app.skail.ai/
+2025-12-21T01:47:30Z,Reddit,filezen.online,100,216.198.79.1,Unknown,https://filezen.online
+2025-12-21T01:47:30Z,Reddit,gopoolparty.com,80,216.239.32.21,any-in-2015.1e100.net.,http://gopoolparty.com/
+2025-12-21T01:47:30Z,Reddit,doctree-ai.com,110,172.67.137.135,Unknown,https://doctree-ai.com
+2025-12-21T01:47:30Z,Hacker News,mantisfury.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,mantisfury.github.io
+2025-12-21T01:47:30Z,Reddit,smock.app,100,216.150.1.65,Unknown,https://smock.app/
+2025-12-21T01:47:30Z,Hacker News,rvarunrathod.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,rvarunrathod.github.io
+2025-12-21T01:47:30Z,Reddit,promptwireai.com,95,104.16.243.55,Cloudflare,https://www.promptwireai.com/products/ai-business-toolkit-hub
+2025-12-21T01:47:30Z,Reddit,ethastro.com,100,172.67.133.185,Unknown,https://ethastro.com/
+2025-12-21T01:47:30Z,Reddit,applaunchflow.com,100,216.198.79.1,Unknown,https://applaunchflow.com
+2025-12-21T01:47:30Z,Reddit,poe.com,100,162.159.152.17,Unknown,https://poe.com/PredictionlyAI
+2025-12-21T01:47:30Z,Reddit,whisperplan.app,100,216.198.79.1,Unknown,https://whisperplan.app
+2025-12-21T01:47:30Z,Hacker News,depsy.io,80,75.2.43.161,aaca61c1cde711eac.awsglobalaccelerator.com.,depsy.io
+2025-12-21T01:47:30Z,Hacker News,onethingatatimeplease.com,80,185.199.111.153,cdn-185-199-111-153.github.com.,onethingatatimeplease.com
+2025-12-21T01:47:30Z,Hacker News,myeverly.app,100,172.67.180.204,Unknown,myeverly.app
+2025-12-21T01:47:30Z,Hacker News,eze.lovable.app,100,185.158.133.2,Unknown,eze.lovable.app
+2025-12-21T01:47:30Z,Reddit,bucket-notes-7f51cb7d.base44.app,80,216.24.57.251,Vercel,https://bucket-notes-7f51cb7d.base44.app
+2025-12-21T01:47:30Z,Reddit,diffused-dreams.itch.io,100,172.67.69.99,Unknown,https://diffused-dreams.itch.io/moonfall
+2025-12-21T01:47:30Z,Hacker News,wingspan.games,100,172.67.209.127,Unknown,wingspan.games
+2025-12-21T01:47:30Z,Hacker News,x102.tech,100,185.158.133.1,Unknown,x102.tech
+2025-12-21T01:47:31Z,Hacker News,indest.ee,100,109.106.246.121,Unknown,indest.ee
+2025-12-21T01:47:31Z,Reddit,ideavo.ai,110,66.33.22.82,Unknown,https://ideavo.ai/
