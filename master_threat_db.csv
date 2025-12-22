@@ -1835,3 +1835,37 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-21T01:47:30Z,Hacker News,x102.tech,100,185.158.133.1,Unknown,x102.tech
 2025-12-21T01:47:31Z,Hacker News,indest.ee,100,109.106.246.121,Unknown,indest.ee
 2025-12-21T01:47:31Z,Reddit,ideavo.ai,110,66.33.22.82,Unknown,https://ideavo.ai/
+2025-12-22T01:47:02Z,Reddit,192.168.1.1,100,192.168.1.1,Unknown,http://192.168.1.1
+2025-12-22T01:47:02Z,Reddit,useorbit.manus.space,85,104.19.168.112,Cloudflare,https://useorbit.manus.space
+2025-12-22T01:47:02Z,Reddit,dearcomic.com,80,76.76.21.21,Vercel,https://www.dearcomic.com
+2025-12-22T01:47:02Z,Reddit,videoeffectvibe.com,85,104.21.26.117,Cloudflare,https://videoeffectvibe.com/
+2025-12-22T01:47:02Z,Reddit,toolpipeline.com,85,104.18.26.150,Cloudflare,https://toolpipeline.com
+2025-12-22T01:47:02Z,Reddit,bigaicanvas.com,95,104.21.67.207,Cloudflare,https://www.bigaicanvas.com
+2025-12-22T01:47:02Z,Reddit,naryai.com,90,65.8.54.38,server-65-8-54-38.sfo53.r.cloudfront.net.,http://naryai.com
+2025-12-22T01:47:02Z,Reddit,ibb.co,100,45.43.142.1,Unknown,https://ibb.co/YT3DfGHd
+2025-12-22T01:47:02Z,Reddit,x.megalo.tech,100,216.198.79.1,Unknown,https://x.Megalo.tech
+2025-12-22T01:47:02Z,Reddit,shaslab.com,100,216.198.79.1,Unknown,https://shaslab.com
+2025-12-22T01:47:02Z,Hacker News,arguewiki.com,100,172.67.162.201,Unknown,argueWiki.com
+2025-12-22T01:47:02Z,Hacker News,picxstudio.com,85,104.21.50.127,Cloudflare,picxstudio.com
+2025-12-22T01:47:02Z,Hacker News,zimage2.online,85,104.21.28.236,Cloudflare,zimage2.online
+2025-12-22T01:47:02Z,Hacker News,chishiko.com,100,216.198.79.1,Unknown,chishiko.com
+2025-12-22T01:47:03Z,Reddit,21st.dev,80,76.76.21.21,Vercel,http://21st.dev
+2025-12-22T01:47:03Z,Reddit,lection.app,100,216.198.79.65,Unknown,https://www.lection.app
+2025-12-22T01:47:03Z,Reddit,editron.app,85,104.21.40.238,Cloudflare,https://editron.app/
+2025-12-22T01:47:03Z,Hacker News,aiseodatabase.com,110,216.198.79.1,Unknown,aiseodatabase.com
+2025-12-22T01:47:03Z,Hacker News,comicsai.org,95,104.21.75.81,Cloudflare,comicsai.org
+2025-12-22T01:47:03Z,Hacker News,tasklanes.app,80,34.111.179.208,GCP,tasklanes.app
+2025-12-22T01:47:03Z,Hacker News,ava.muthu.co,80,185.199.108.153,cdn-185-199-108-153.github.com.,ava.muthu.co
+2025-12-22T01:47:03Z,Hacker News,gamingcouch.com,100,162.159.140.98,Unknown,gamingcouch.com
+2025-12-22T01:47:03Z,Reddit,sendable.email,110,216.198.79.1,Unknown,https://sendable.email/
+2025-12-22T01:47:03Z,Reddit,socialart.ai,95,104.21.58.95,Cloudflare,https://socialart.ai
+2025-12-22T01:47:03Z,Reddit,fal.ai,110,172.66.174.212,Unknown,http://fal.ai
+2025-12-22T01:47:03Z,Reddit,countthefingers.com,80,13.124.64.95,AWS,https://countthefingers.com
+2025-12-22T01:47:03Z,Reddit,justcopy.ai,90,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,http://JustCopy.ai
+2025-12-22T01:47:03Z,Reddit,removepeople.ai,90,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://removepeople.ai/
+2025-12-22T01:47:03Z,Hacker News,geomapping.qcw.ai,110,68.70.205.3,Unknown,geomapping.qcw.ai
+2025-12-22T01:47:03Z,Hacker News,twitch.tv,100,151.101.130.167,Unknown,twitch.tv
+2025-12-22T01:47:03Z,Hacker News,walletwallet.alen.ro,100,172.67.152.158,Unknown,walletwallet.alen.ro
+2025-12-22T01:47:03Z,Hacker News,santa.veris.ai,90,34.111.179.208,GCP,santa.veris.ai
+2025-12-22T01:47:03Z,Reddit,sabbatical.voyage,100,64.29.17.1,Unknown,https://sabbatical.voyage/
+2025-12-22T01:47:03Z,Reddit,dharm.is,100,66.33.22.24,Unknown,https://dharm.is
