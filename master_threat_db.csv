@@ -1869,3 +1869,41 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-22T01:47:03Z,Hacker News,santa.veris.ai,90,34.111.179.208,GCP,santa.veris.ai
 2025-12-22T01:47:03Z,Reddit,sabbatical.voyage,100,64.29.17.1,Unknown,https://sabbatical.voyage/
 2025-12-22T01:47:03Z,Reddit,dharm.is,100,66.33.22.24,Unknown,https://dharm.is
+2025-12-23T01:42:46Z,Reddit,subredditsignals.com,80,76.76.21.21,Vercel,http://www.subredditsignals.com
+2025-12-23T01:42:46Z,Hacker News,notsoaaa.com,85,104.21.81.218,Cloudflare,notsoaaa.com
+2025-12-23T01:42:46Z,Reddit,youdomo.com,80,216.24.57.1,Vercel,http://www.youdomo.com
+2025-12-23T01:42:46Z,Reddit,lurvay.com,100,216.150.1.1,Unknown,https://lurvay.com
+2025-12-23T01:42:46Z,Reddit,blogcore.app,100,172.185.24.181,Unknown,http://blogcore.app
+2025-12-23T01:42:46Z,Reddit,geo.base44.app,80,216.24.57.251,Vercel,http://geo.base44.app
+2025-12-23T01:42:46Z,Hacker News,haystackeditor.com,100,172.67.179.17,Unknown,haystackeditor.com
+2025-12-23T01:42:46Z,Hacker News,browserforge.ai,110,216.150.1.1,Unknown,browserforge.ai
+2025-12-23T01:42:46Z,Hacker News,wordsnake.co,100,172.67.221.107,Unknown,wordsnake.co
+2025-12-23T01:42:46Z,Hacker News,utter.to,85,104.21.96.77,Cloudflare,utter.to
+2025-12-23T01:42:47Z,Hacker News,new-frontend-4ake.vercel.app,100,64.29.17.3,Unknown,new-frontend-4ake.vercel.app
+2025-12-23T01:42:47Z,Hacker News,theskiblackbox.com,100,77.37.76.178,Unknown,theskiblackbox.com
+2025-12-23T01:42:47Z,Reddit,reborncareer.ai,110,216.150.1.1,Unknown,https://reborncareer.ai
+2025-12-23T01:42:47Z,Reddit,launchbackers.com,100,216.198.79.1,Unknown,https://launchbackers.com/
+2025-12-23T01:42:47Z,Reddit,wanderpin.com,100,216.198.79.1,Unknown,https://wanderpin.com/
+2025-12-23T01:42:47Z,Hacker News,langtrak.com,100,216.198.79.1,Unknown,langtrak.com
+2025-12-23T01:42:47Z,Reddit,ignidash.com,100,216.198.79.1,Unknown,https://www.ignidash.com
+2025-12-23T01:42:47Z,Reddit,vexai.ai,110,216.198.79.1,Unknown,https://vexai.ai
+2025-12-23T01:42:47Z,Reddit,investbuddy.ai,110,216.198.79.1,Unknown,https://investbuddy.ai/mcp
+2025-12-23T01:42:47Z,Reddit,stickycanvas.app,100,199.36.158.100,Unknown,https://stickycanvas.app
+2025-12-23T01:42:47Z,Hacker News,blog.snowsignals.com,85,104.18.68.40,Cloudflare,blog.snowsignals.com
+2025-12-23T01:42:47Z,Hacker News,superappp.com,100,216.150.1.1,Unknown,superappp.com
+2025-12-23T01:42:47Z,Reddit,hermesvoice.com,80,31.43.160.6,sites.framer.app.,https://hermesvoice.com/
+2025-12-23T01:42:47Z,Hacker News,logchef.app,80,185.199.108.153,cdn-185-199-108-153.github.com.,logchef.app
+2025-12-23T01:42:47Z,Hacker News,aichristmasphoto.com,95,104.21.66.116,Cloudflare,aichristmasphoto.com
+2025-12-23T01:42:47Z,Hacker News,worldsbacklog.com,100,216.198.79.1,Unknown,worldsbacklog.com
+2025-12-23T01:42:47Z,Reddit,thealbum.studio,100,185.158.133.1,Unknown,https://thealbum.studio/
+2025-12-23T01:42:47Z,Hacker News,goodbookfinder.com,100,185.158.133.1,Unknown,goodbookfinder.com
+2025-12-23T01:42:47Z,Reddit,predictent.ai,110,216.198.79.1,Unknown,https://www.predictent.ai/saas-directories
+2025-12-23T01:42:47Z,Reddit,signova.ai,90,192.124.249.165,cloudproxy10165.sucuri.net.,https://signova.ai/templates/nda
+2025-12-23T01:42:47Z,Hacker News,skylerinbox.com,80,138.199.152.191,static.191.152.199.138.clients.your-server.de.,skylerinbox.com
+2025-12-23T01:42:47Z,Hacker News,primedirectiveshop.danprice.ai,95,104.21.94.169,Cloudflare,primedirectiveshop.danprice.ai
+2025-12-23T01:42:47Z,Hacker News,music0.org,100,172.67.167.92,Unknown,music0.org
+2025-12-23T01:42:47Z,Hacker News,art-of-x.com,100,162.159.140.98,Unknown,art-of-x.com
+2025-12-23T01:42:47Z,Hacker News,skillpasspro.com,100,172.67.167.173,Unknown,skillpasspro.com
+2025-12-23T01:42:47Z,Hacker News,nichtech.uk,80,188.245.190.255,static.255.190.245.188.clients.your-server.de.,nichtech.uk
+2025-12-23T01:42:49Z,Hacker News,game.iddqd.kr,80,158.247.237.118,158.247.237.118.vultrusercontent.com.,game.iddqd.kr
+2025-12-23T01:43:07Z,Hacker News,methodsagent.com,90,31.43.161.6,sites.framer.app.,methodsagent.com
