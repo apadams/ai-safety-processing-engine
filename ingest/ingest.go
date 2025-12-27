@@ -27,7 +27,6 @@ func RunIngest(outputFile string) error {
 
 	collectors := []Collector{
 		&RedditCollector{},
-		&GitHubCollector{},
 		&HackerNewsCollector{},
 	}
 
@@ -130,21 +129,57 @@ func RunIngest(outputFile string) error {
 	}
 
 	// Collector
-	// We don't know exactly how many jobs there are unless we count them first or use a WaitGroup.
-	// But since we are streaming from collectors, it's a bit tricky.
-	// Let's simplify: Collect all candidates first, then process.
+	// We use a channel to stream results from all collectors
+	collectorResults := make(chan ThreatData, 1000)
+	var collectorWg sync.WaitGroup
 
-	var allCandidates []Job
+	// Launch New Collectors
+	collectorWg.Add(1)
+	go func() {
+		defer collectorWg.Done()
+		// Token from env ideally, or passed in. For now empty or hardcoded placeholder if user didn't provide.
+		// Assuming env var processing happens elsewhere or we just pass empty string.
+		IngestGitHub(os.Getenv("GITHUB_TOKEN"), collectorResults)
+	}()
+
+	collectorWg.Add(1)
+	go func() {
+		defer collectorWg.Done()
+		IngestAIDirectories(collectorResults)
+	}()
+
+	// Launch Legacy Collectors
 	for _, c := range collectors {
-		candidates, err := c.Collect()
-		if err != nil {
-			fmt.Printf("Error collecting from %s: %v\n", c.Name(), err)
+		collectorWg.Add(1)
+		go func(c Collector) {
+			defer collectorWg.Done()
+			fmt.Printf("Starting collector: %s\n", c.Name())
+			candidates, err := c.Collect()
+			if err != nil {
+				fmt.Printf("Error collecting from %s: %v\n", c.Name(), err)
+				return
+			}
+			fmt.Printf("Found %d candidates from %s\n", len(candidates), c.Name())
+			for _, cand := range candidates {
+				collectorResults <- ThreatData(cand)
+			}
+		}(c)
+	}
+
+	// Close channel when all collectors are done
+	go func() {
+		collectorWg.Wait()
+		close(collectorResults)
+	}()
+
+	// Collect all candidates
+	var allCandidates []Job
+	for cand := range collectorResults {
+		// Quality Gate
+		if !ValidateURL(cand.URL) {
 			continue
 		}
-		fmt.Printf("Found %d candidates from %s\n", len(candidates), c.Name())
-		for _, cand := range candidates {
-			allCandidates = append(allCandidates, Job{Candidate: cand, Source: c.Name()})
-		}
+		allCandidates = append(allCandidates, Job{Candidate: cand, Source: cand.Source})
 	}
 
 	// Now we know the count

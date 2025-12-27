@@ -1,4 +1,4 @@
-# Community Edition. For full enterprise feed with IPs & Context, visit [Link]
+# Community Edition. For full enterprise feed with IPs & Context, please sponsor this repository.
 artisans-ai.com
 aiphotoshoots.app
 textherright.base44.app

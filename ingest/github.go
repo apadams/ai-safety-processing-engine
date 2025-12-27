@@ -1,112 +1,117 @@
 package ingest
 
 import (
-	"encoding/json"
+	"context"
 	"fmt"
-	"io"
 	"net/http"
-	"net/url"
 	"time"
+
+	"github.com/google/go-github/v53/github"
+	"golang.org/x/oauth2"
 )
 
-type GitHubCollector struct{}
+// IngestGitHub searches GitHub for AI-related repositories and sends results to the channel.
+// It enforces rate limiting (2s sleep between pages) to avoid 403 errors.
+func IngestGitHub(token string, results chan<- ThreatData) {
+	fmt.Println("[GitHub] Starting ingestion...")
 
-func (g *GitHubCollector) Name() string {
-	return "GitHub"
-}
+	var tc *http.Client
+	if token != "" {
+		ctx := context.Background()
+		ts := oauth2.StaticTokenSource(
+			&oauth2.Token{AccessToken: token},
+		)
+		tc = oauth2.NewClient(ctx, ts)
+	}
 
-type GitHubResponse struct {
-	Items []struct {
-		HTMLURL string `json:"html_url"`
-	} `json:"items"`
-}
+	client := github.NewClient(tc)
 
-func (g *GitHubCollector) Collect() ([]Candidate, error) {
-	topics := []string{"ai-agent", "automation"}
-	var candidates []Candidate
-	client := &http.Client{Timeout: 10 * time.Second}
-	
-	// Date range: created:>2025-09-01
-	dateQuery := "created:>2025-09-01"
+	topics := []string{"ai-agent", "gpt-wrapper", "llm-tool"}
+
+	// Search created in the last 6 months to keep it fresh
+	dateQuery := fmt.Sprintf("created:>%s", time.Now().AddDate(0, -6, 0).Format("2006-01-02"))
 
 	for _, topic := range topics {
-		page := 1
+		// Enforce rate limit (30 req/min => 1 req every 2 sec safer)
+		time.Sleep(2 * time.Second)
+
+		query := fmt.Sprintf("topic:%s %s", topic, dateQuery)
+		opts := &github.SearchOptions{
+			Sort:  "updated",
+			Order: "desc",
+			ListOptions: github.ListOptions{
+				PerPage: 100,
+				Page:    1,
+			},
+		}
+
 		for {
-			query := fmt.Sprintf("topic:%s %s", topic, dateQuery)
-			encodedQuery := url.QueryEscape(query)
-			apiURL := fmt.Sprintf("https://api.github.com/search/repositories?q=%s&sort=updated&per_page=100&page=%d", encodedQuery, page)
-			
-			fmt.Printf("Querying GitHub API (Page %d): %s\n", page, apiURL)
-
-			req, err := http.NewRequest("GET", apiURL, nil)
+			fmt.Printf("[GitHub] Searching topic '%s' page %d...\n", topic, opts.Page)
+			res, resp, err := client.Search.Repositories(context.Background(), query, opts)
 			if err != nil {
-				fmt.Printf("Failed to create request: %v\n", err)
-				break
-			}
-			
-			req.Header.Set("User-Agent", "ShadowAI-Feed-Generator/1.0")
-			req.Header.Set("Accept", "application/vnd.github.v3+json")
-
-			resp, err := client.Do(req)
-			if err != nil {
-				fmt.Printf("Failed to query GitHub API: %v\n", err)
-				break
-			}
-			
-			if resp.StatusCode != http.StatusOK {
-				body, _ := io.ReadAll(resp.Body)
-				resp.Body.Close()
-				fmt.Printf("GitHub API returned status: %d, body: %s\n", resp.StatusCode, string(body))
-				// Rate limit or error, stop this topic
-				break
-			}
-
-			body, err := io.ReadAll(resp.Body)
-			resp.Body.Close()
-			if err != nil {
-				fmt.Printf("Failed to read response body: %v\n", err)
-				break
-			}
-
-			var result GitHubResponse
-			if err := json.Unmarshal(body, &result); err != nil {
-				fmt.Printf("Failed to unmarshal JSON: %v\n", err)
-				break
-			}
-
-			if len(result.Items) == 0 {
-				break
-			}
-
-			fmt.Printf("Found %d items from GitHub (Topic: %s, Page: %d)\n", len(result.Items), topic, page)
-
-			for _, item := range result.Items {
-				if item.HTMLURL == "" {
+				fmt.Printf("[GitHub] Error searching topic %s: %v\n", topic, err)
+				// If rate limit hit, backoff
+				if _, ok := err.(*github.RateLimitError); ok {
+					fmt.Println("[GitHub] Rate limit hit, sleeping 60s...")
+					time.Sleep(60 * time.Second)
 					continue
 				}
-
-				candidates = append(candidates, Candidate{
-					Source: g.Name(),
-					URL:    item.HTMLURL,
-					Risk:   "Medium",
-				})
-			}
-			
-			// Pagination check
-			// GitHub search API limit is 1000 results usually.
-			if len(result.Items) < 100 {
 				break
 			}
-			
-			page++
-			// Safety break to avoid hitting rate limits too hard or infinite loops
-			if page > 5 { 
-				break 
+
+			fmt.Printf("[GitHub] Found %d repos on page %d\n", len(res.Repositories), opts.Page)
+
+			for _, repo := range res.Repositories {
+				url := ""
+				if repo.Homepage != nil && *repo.Homepage != "" {
+					url = *repo.Homepage
+				} else if repo.HTMLURL != nil {
+					url = *repo.HTMLURL
+				}
+
+				if url != "" {
+					// Basic check to skip github urls if homepage is just the repo itself,
+					// we prefer external tools but repo links are okay if valid.
+					// User requested Homepage field specifically in extraction logic,
+					// but fallback to HTMLURL is usually good practice if Homepage is missing.
+					// The prompt said: "specificially look for the Homepage field in repo metadata."
+					// Implementation: Prioritize Homepage, but if missing, maybe we skip?
+					// Let's stick to the prompt implication: if Homepage is present, use it.
+					// Taking "look for" as "extract if available".
+					// If the user meant ONLY homepage, I should probably filter.
+					// Re-reading: "specificially look for the Homepage field in repo metadata."
+					// often implies that's the high value target.
+					// I will emit if Homepage is present, or fall back to Repo URL if it looks useful?
+					// Let's safe-guard: if Homepage is non-empty, use it.
+					// If empty, the repo itself is the "tool".
+
+					// Let's prioritize Homepage.
+					targetURL := ""
+					if repo.Homepage != nil && *repo.Homepage != "" {
+						targetURL = *repo.Homepage
+					} else if repo.HTMLURL != nil {
+						targetURL = *repo.HTMLURL
+					}
+
+					if targetURL != "" {
+						results <- ThreatData{
+							Source: "GitHub",
+							URL:    targetURL,
+							Risk:   "Medium",
+						}
+					}
+				}
 			}
-			
-			time.Sleep(1 * time.Second)
+
+			if resp.NextPage == 0 {
+				break
+			}
+			opts.Page = resp.NextPage
+
+			// Rate limiting sleep
+			time.Sleep(2 * time.Second)
 		}
 	}
 
-	return candidates, nil
+	fmt.Println("[GitHub] Ingestion complete.")
 }
