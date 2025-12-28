@@ -2213,3 +2213,18 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-27T01:17:32Z,GitHub,evolpe.ai,30,51.254.249.136,web2.evolpe.it.,https://evolpe.ai/
 2025-12-27T01:48:27Z,GitHub,searchsphere-agent-frontend.netlify.app,30,18.208.88.157,AWS,https://searchsphere-agent-frontend.netlify.app/
 2025-12-27T01:48:27Z,GitHub,entropy-community-forum.vercel.app,40,216.198.79.67,Unknown,https://entropy-community-forum.vercel.app/
+2025-12-28T02:02:23Z,Reddit (r/SideProject),martialmovies.com,100,216.198.79.1,Unknown,https://martialmovies.com/
+2025-12-28T02:02:23Z,Reddit (r/SideProject),genvibe.pro,85,104.21.77.32,Cloudflare,https://genvibe.pro/
+2025-12-28T02:02:23Z,GitHub,insightflow-agent.rnazre.workers.dev,35,104.21.12.253,Cloudflare,https://insightflow-agent.rnazre.workers.dev/
+2025-12-28T02:02:23Z,Reddit (r/SideProject),vooz.co,80,13.107.213.69,AWS,https://vooz.co/
+2025-12-28T02:02:23Z,Reddit (r/SideProject),usescope.dev,100,216.198.79.1,Unknown,http://usescope.dev
+2025-12-28T02:02:23Z,Reddit (r/SideProject),peakmv.com,100,216.198.79.1,Unknown,http://Peakmv.com
+2025-12-28T02:02:23Z,Reddit (r/SaaS),leadgrids.com,100,185.158.133.1,Unknown,https://LeadGrids.com
+2025-12-28T02:02:23Z,GitHub,bloxtor.com,20,192.185.48.178,gator4128.hostgator.com.,https://www.bloxtor.com
+2025-12-28T02:02:23Z,Reddit (r/SideProject),sanqian.io,85,104.21.78.85,Cloudflare,https://sanqian.io/
+2025-12-28T02:02:23Z,Reddit (r/SaaS),alotel.app,80,72.61.192.202,srv1145003.hstgr.cloud.,http://alotel.app
+2025-12-28T02:02:23Z,GitHub,my.home-assistant.io,40,172.67.68.90,Unknown,https://my.home-assistant.io/redirect/hacs_repository/?owner=alves-dev&repository=stackspot-homeassistant&category=integration
+2025-12-28T02:02:23Z,Reddit (r/SideProject),getmegadesk.com,80,116.202.30.117,static.117.30.202.116.clients.your-server.de.,https://getmegadesk.com/onboarding
+2025-12-28T02:02:24Z,GitHub,docbot.surge.sh,50,138.197.235.123,Unknown,https://docbot.surge.sh/
+2025-12-28T02:02:24Z,Reddit (r/SideProject),tivor.me,80,91.98.162.245,static.245.162.98.91.clients.your-server.de.,https://tivor.me?utm_source=rd&amp;utm_medium=sidea&amp;utm_campaign=post&amp;utm_id=1
+2025-12-28T02:02:33Z,GitHub,deepmyst.com,20,52.223.52.2,AWS,https://www.deepmyst.com
