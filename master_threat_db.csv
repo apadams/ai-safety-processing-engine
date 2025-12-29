@@ -2228,3 +2228,17 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-28T02:02:24Z,GitHub,docbot.surge.sh,50,138.197.235.123,Unknown,https://docbot.surge.sh/
 2025-12-28T02:02:24Z,Reddit (r/SideProject),tivor.me,80,91.98.162.245,static.245.162.98.91.clients.your-server.de.,https://tivor.me?utm_source=rd&amp;utm_medium=sidea&amp;utm_campaign=post&amp;utm_id=1
 2025-12-28T02:02:33Z,GitHub,deepmyst.com,20,52.223.52.2,AWS,https://www.deepmyst.com
+2025-12-29T02:00:41Z,Reddit (r/SaaS),sainthetic.com,90,216.24.57.1,Vercel,https://sainthetic.com
+2025-12-29T02:00:41Z,Reddit (r/SideProject),onestepnow.me,100,216.198.79.1,Unknown,http://OneStepNow.Me
+2025-12-29T02:00:41Z,Reddit (r/SaaS),rytar.ca,100,172.67.142.21,Unknown,https://rytar.ca
+2025-12-29T02:00:41Z,Reddit (r/SideProject),albertcares.com,100,216.150.16.129,Unknown,https://www.albertcares.com/
+2025-12-29T02:00:41Z,GitHub,mikailu-agent---autonomous-on-chain-ai-canister-n06.caffeine.xyz,60,23.142.184.129,Unknown,https://mikailu-agent---autonomous-on-chain-ai-canister-n06.caffeine.xyz/
+2025-12-29T02:00:41Z,Reddit (r/SideProject),crea8.co.in,100,216.198.79.1,Unknown,http://www.crea8.co.in/
+2025-12-29T02:00:41Z,GitHub,binati-ai.com,50,82.29.191.8,Unknown,https://binati-ai.com
+2025-12-29T02:00:41Z,GitHub,rechainvc.codemagic.app,30,34.74.17.159,GCP,https://rechainvc.codemagic.app
+2025-12-29T02:00:41Z,Reddit (r/SideProject),waifupixel.com,110,216.150.1.193,Unknown,https://waifupixel.com
+2025-12-29T02:00:42Z,Reddit (r/SideProject),aiconstructhub.app,110,185.158.133.1,Unknown,http://aiconstructhub.app/
+2025-12-29T02:00:42Z,Reddit (r/SaaS),eldspark.com,100,216.198.79.1,Unknown,http://eldspark.com
+2025-12-29T02:00:42Z,Reddit (r/SideProject),academiclab-edu.ch,80,84.16.66.164,vip12-reverse-proxy.infomaniak.ch.,http://academiclab-edu.ch
+2025-12-29T02:00:42Z,Reddit (r/SideProject),whisper.money,80,147.93.126.54,srv850854.hstgr.cloud.,http://whisper.money?ref=r-sideProject
+2025-12-29T02:00:43Z,GitHub,unit09.org,20,31.43.161.6,sites.framer.app.,https://unit09.org/
