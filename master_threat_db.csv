@@ -2242,3 +2242,21 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2025-12-29T02:00:42Z,Reddit (r/SideProject),academiclab-edu.ch,80,84.16.66.164,vip12-reverse-proxy.infomaniak.ch.,http://academiclab-edu.ch
 2025-12-29T02:00:42Z,Reddit (r/SideProject),whisper.money,80,147.93.126.54,srv850854.hstgr.cloud.,http://whisper.money?ref=r-sideProject
 2025-12-29T02:00:43Z,GitHub,unit09.org,20,31.43.161.6,sites.framer.app.,https://unit09.org/
+2025-12-30T01:52:22Z,Reddit (r/SaaS),voicemeetai.com,90,76.76.21.21,Vercel,https://www.voicemeetai.com/
+2025-12-30T01:52:22Z,GitHub,vbhanuprasad55-coder.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://vbhanuprasad55-coder.github.io
+2025-12-30T01:52:22Z,Reddit (r/SideProject),primordiagi.com,80,3.167.152.85,AWS,https://primordiagi.com
+2025-12-30T01:52:22Z,Reddit (r/SideProject),optimizeyour.blog,80,34.111.179.208,GCP,http://OptimizeYour.Blog
+2025-12-30T01:52:22Z,Reddit (r/SideProject),understandable.vercel.app,100,216.198.79.131,Unknown,https://understandable.vercel.app/
+2025-12-30T01:52:22Z,Reddit (r/SaaS),lblander.vercel.app,100,64.29.17.3,Unknown,https://lblander.vercel.app
+2025-12-30T01:52:22Z,Reddit (r/SideProject),vrykol.com,80,45.32.72.153,45.32.72.153.vultrusercontent.com.,https://vrykol.com/
+2025-12-30T01:52:22Z,Reddit (r/SaaS),gruntless.work,80,216.24.57.1,Vercel,http://gruntless.work
+2025-12-30T01:52:22Z,Reddit (r/SideProject),serno.ai,90,216.239.34.21,any-in-2215.1e100.net.,https://serno.ai
+2025-12-30T01:52:22Z,Reddit (r/SaaS),foundershook.com,100,216.198.79.1,Unknown,https://foundershook.com
+2025-12-30T01:52:22Z,Reddit (r/SideProject),bolt.new,85,104.26.6.237,Cloudflare,http://Bolt.new
+2025-12-30T01:52:22Z,GitHub,osfit.akramcodez.tech,40,216.198.79.65,Unknown,https://osfit.akramcodez.tech
+2025-12-30T01:52:22Z,GitHub,synap-seven.vercel.app,40,216.198.79.67,Unknown,https://synap-seven.vercel.app
+2025-12-30T01:52:22Z,Reddit (r/SideProject),splitit-amber.vercel.app,100,216.198.79.67,Unknown,https://splitit-amber.vercel.app/
+2025-12-30T01:52:22Z,GitHub,vibe.fzhiyu2333.top,25,104.21.2.152,Cloudflare,https://vibe.fzhiyu2333.top/
+2025-12-30T01:52:22Z,Reddit (r/SideProject),yearly.world,100,216.198.79.1,Unknown,https://www.yearly.world/
+2025-12-30T01:52:22Z,Reddit (r/SideProject),askrapp.org,100,185.158.133.1,Unknown,https://askrapp.org/
+2025-12-30T01:52:22Z,Reddit (r/SideProject),securenow.dev,100,216.198.79.1,Unknown,https://www.securenow.dev/
