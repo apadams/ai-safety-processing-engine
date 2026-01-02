@@ -2296,3 +2296,23 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-01T02:02:38Z,Reddit (r/SaaS),scanny-ai.com,90,108.159.227.123,server-108-159-227-123.ord56.r.cloudfront.net.,https://scanny-ai.com/
 2026-01-01T02:02:38Z,Reddit (r/SideProject),ai-analysis.ai,90,34.111.179.208,GCP,https://ai-analysis.ai
 2026-01-01T02:02:38Z,Reddit (r/SideProject),steamvent.net,80,212.69.55.149,cust149-dsl55.idnet.net.,http://steamvent.net
+2026-01-02T01:53:30Z,Reddit (r/SideProject),flywithbeaver.ca,100,216.150.1.1,Unknown,https://flywithbeaver.ca/
+2026-01-02T01:53:30Z,Reddit (r/SideProject),work.tabtabtab.ai,90,18.208.88.157,AWS,https://work.tabtabtab.ai/present/mellow-thunder-w5r
+2026-01-02T01:53:30Z,GitHub,amphydia.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://amphydia.github.io/bert-cli/
+2026-01-02T01:53:30Z,Reddit (r/SideProject),buzzbear.ai,95,104.21.72.85,Cloudflare,https://buzzbear.ai
+2026-01-02T01:53:30Z,Reddit (r/SaaS),fyrstly.io,100,216.198.79.1,Unknown,https://www.fyrstly.io
+2026-01-02T01:53:30Z,Reddit (r/SideProject),echosofme.io,100,216.198.79.1,Unknown,https://www.echosofme.io
+2026-01-02T01:53:30Z,Reddit (r/SideProject),marketdesire.com,100,216.198.79.1,Unknown,https://marketdesire.com/
+2026-01-02T01:53:30Z,Reddit (r/SideProject),pickmyplay.com,100,216.198.79.1,Unknown,https://pickmyplay.com
+2026-01-02T01:53:30Z,Reddit (r/SideProject),calc-verse.com,100,172.67.223.57,Unknown,https://www.calc-verse.com/
+2026-01-02T01:53:30Z,Reddit (r/SideProject),goat-workout.vercel.app,100,64.29.17.3,Unknown,https://goat-workout.vercel.app/
+2026-01-02T01:53:30Z,Reddit (r/SideProject),stashed.in,100,172.67.144.152,Unknown,http://stashed.in/
+2026-01-02T01:53:30Z,Reddit (r/SideProject),resumerefiner.ai,90,216.24.57.7,Vercel,http://ResumeRefiner.ai
+2026-01-02T01:53:30Z,Reddit (r/SideProject),getcarcurious.com,85,104.21.37.120,Cloudflare,https://getcarcurious.com/episodes/the-best-and-worst-cars-this-year-the-carmudgeon-show-w-jason-cammisa-derek-tam-scott-ep-219
+2026-01-02T01:53:30Z,Reddit (r/SideProject),chaterface.com,80,76.76.21.21,Vercel,https://www.chaterface.com/
+2026-01-02T01:53:30Z,Reddit (r/SideProject),reallyappreciate.com,80,63.250.43.146,ingress-helicon.ewp.live.,http://reallyappreciate.com
+2026-01-02T01:53:30Z,GitHub,bridgerust.dev,40,216.150.1.193,Unknown,https://bridgerust.dev
+2026-01-02T01:53:30Z,Reddit (r/SaaS),glitter.io,80,76.76.21.21,Vercel,https://www.glitter.io/compare
+2026-01-02T01:53:30Z,Reddit (r/SideProject),supernotebook.ai,110,185.158.133.1,Unknown,https://supernotebook.ai/
+2026-01-02T01:53:30Z,Reddit (r/SideProject),launchtank.xyz,100,64.29.17.65,Unknown,https://launchtank.xyz/
+2026-01-02T01:53:30Z,GitHub,reasonkit.sh,20,45.151.142.12,v2-deb-ams-nl.3lh.net.,https://reasonkit.sh
