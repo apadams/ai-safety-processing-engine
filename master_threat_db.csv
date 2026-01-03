@@ -2316,3 +2316,20 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-02T01:53:30Z,Reddit (r/SideProject),supernotebook.ai,110,185.158.133.1,Unknown,https://supernotebook.ai/
 2026-01-02T01:53:30Z,Reddit (r/SideProject),launchtank.xyz,100,64.29.17.65,Unknown,https://launchtank.xyz/
 2026-01-02T01:53:30Z,GitHub,reasonkit.sh,20,45.151.142.12,v2-deb-ams-nl.3lh.net.,https://reasonkit.sh
+2026-01-03T01:48:52Z,Reddit (r/SideProject),freightsnap.online,80,76.76.21.21,Vercel,https://freightsnap.online/
+2026-01-03T01:48:52Z,Reddit (r/SideProject),getchronoatlas.com,80,13.52.188.95,AWS,https://getchronoatlas.com
+2026-01-03T01:48:52Z,GitHub,ursul.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ursul.github.io/mcp-director/
+2026-01-03T01:48:52Z,Reddit (r/SaaS),creonjobs.vercel.app,100,64.29.17.195,Unknown,https://creonjobs.vercel.app/
+2026-01-03T01:48:52Z,GitHub,firecrawl-power-app.vercel.app,40,64.29.17.131,Unknown,https://firecrawl-power-app.vercel.app
+2026-01-03T01:48:52Z,GitHub,free-crypto-news.vercel.app,40,64.29.17.195,Unknown,https://free-crypto-news.vercel.app
+2026-01-03T01:48:52Z,Reddit (r/SaaS),propelkit.dev,100,216.198.79.1,Unknown,https://propelkit.dev
+2026-01-03T01:48:52Z,Reddit (r/SideProject),app.imeett.ai,90,216.24.57.251,Vercel,https://app.imeett.ai
+2026-01-03T01:48:52Z,Reddit (r/SaaS),plantweb.io,100,172.67.196.156,Unknown,https://plantweb.io
+2026-01-03T01:48:52Z,Reddit (r/SideProject),ochaflo.com,80,18.154.132.57,AWS,https://ochaflo.com
+2026-01-03T01:48:52Z,GitHub,nodenest-blond.vercel.app,40,216.198.79.195,Unknown,https://nodenest-blond.vercel.app/
+2026-01-03T01:48:52Z,GitHub,docs.supermodeltools.com,20,76.76.21.98,Vercel,https://docs.supermodeltools.com
+2026-01-03T01:48:52Z,Reddit (r/SideProject),itforlater.com,100,216.150.1.193,Unknown,https://itforlater.com/
+2026-01-03T01:48:52Z,Reddit (r/SideProject),resumier.com,100,20.99.157.72,Unknown,https://resumier.com
+2026-01-03T01:48:52Z,Reddit (r/SaaS),sigmaeo.com,100,82.27.1.23,Unknown,https://sigmaeo.com
+2026-01-03T01:48:52Z,Reddit (r/SideProject),zolly.dev,100,216.198.79.1,Unknown,https://www.zolly.dev
+2026-01-03T01:48:52Z,Reddit (r/SideProject),jobbyo.ai,90,52.52.192.191,AWS,https://jobbyo.ai/resources/resume-review
