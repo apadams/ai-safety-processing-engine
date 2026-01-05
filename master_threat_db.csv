@@ -2349,3 +2349,22 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-04T02:02:28Z,Reddit (r/SideProject),imagelift-online.vercel.app,100,216.198.79.195,Unknown,https://imagelift-online.vercel.app/
 2026-01-04T02:02:28Z,GitHub,adnify.vercel.app,40,64.29.17.67,Unknown,https://adnify.vercel.app/
 2026-01-04T02:02:28Z,Reddit (r/SaaS),automerchant.vercel.app,100,216.198.79.195,Unknown,http://automerchant.vercel.app
+2026-01-05T02:02:46Z,Reddit (r/SideProject),fluent-kids-953912809060.us-west1.run.app,80,34.143.75.2,GCP,https://fluent-kids-953912809060.us-west1.run.app/
+2026-01-05T02:02:46Z,Reddit (r/SideProject),daily-motivation-gray.vercel.app,110,216.198.79.3,Unknown,https://daily-motivation-gray.vercel.app
+2026-01-05T02:02:46Z,Reddit (r/SaaS),outflow.global,100,185.158.133.1,Unknown,https://outflow.global/
+2026-01-05T02:02:46Z,Reddit (r/SaaS),leadvoice.assistaix.com,110,185.158.133.1,Unknown,https://leadvoice.assistaix.com/
+2026-01-05T02:02:46Z,GitHub,react-lm.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://react-lm.github.io/
+2026-01-05T02:02:46Z,Reddit (r/SideProject),latticeai.app,110,216.150.1.193,Unknown,https://latticeai.app/
+2026-01-05T02:02:46Z,Reddit (r/SaaS),hiveresume.com,80,216.239.36.21,any-in-2415.1e100.net.,https://hiveresume.com
+2026-01-05T02:02:46Z,Reddit (r/SideProject),littleprogress.app,100,216.150.1.1,Unknown,https://www.littleprogress.app/tools/paragraph-generator
+2026-01-05T02:02:46Z,Reddit (r/SideProject),linguachat.app,100,216.198.79.1,Unknown,https://www.linguachat.app
+2026-01-05T02:02:46Z,Reddit (r/SideProject),prismbot.net,110,216.198.79.1,Unknown,http://prismbot.net
+2026-01-05T02:02:46Z,Reddit (r/SideProject),2025.aipedals.com,90,18.163.163.204,AWS,https://2025.aipedals.com/
+2026-01-05T02:02:46Z,GitHub,noxrunner.readthedocs.io,25,104.16.253.120,Cloudflare,https://noxrunner.readthedocs.io
+2026-01-05T02:02:46Z,Reddit (r/SaaS),moodscan-ai.vercel.app,110,64.29.17.195,Unknown,https://moodscan-ai.vercel.app/
+2026-01-05T02:02:46Z,GitHub,greenzeta.com,20,173.236.136.78,apache2-cid.iad1-shared-e1-23.dreamhost.com.,https://greenzeta.com
+2026-01-05T02:02:46Z,Reddit (r/SaaS),genizes.com,100,172.67.137.111,Unknown,http://Genizes.com
+2026-01-05T02:02:46Z,Reddit (r/SideProject),homebrewbridge.vercel.app,100,216.198.79.3,Unknown,https://homebrewbridge.vercel.app/
+2026-01-05T02:02:46Z,Reddit (r/SideProject),distractionfree.app,80,99.83.231.61,acd89244c803f7181.awsglobalaccelerator.com.,https://distractionfree.app/
+2026-01-05T02:02:46Z,Reddit (r/SideProject),underpriced.app,100,216.198.79.1,Unknown,https://www.underpriced.app/
+2026-01-05T02:02:46Z,Reddit (r/SideProject),kangae.ai,110,66.33.22.239,Unknown,https://kangae.ai/demo
