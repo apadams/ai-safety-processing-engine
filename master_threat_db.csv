@@ -2368,3 +2368,25 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-05T02:02:46Z,Reddit (r/SideProject),distractionfree.app,80,99.83.231.61,acd89244c803f7181.awsglobalaccelerator.com.,https://distractionfree.app/
 2026-01-05T02:02:46Z,Reddit (r/SideProject),underpriced.app,100,216.198.79.1,Unknown,https://www.underpriced.app/
 2026-01-05T02:02:46Z,Reddit (r/SideProject),kangae.ai,110,66.33.22.239,Unknown,https://kangae.ai/demo
+2026-01-06T01:53:07Z,Reddit (r/SaaS),jotform.com,80,34.102.158.113,GCP,https://www.jotform.com/app/webnoteai/webnote-ai
+2026-01-06T01:53:07Z,GitHub,azzan1235.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://azzan1235.github.io
+2026-01-06T01:53:07Z,Reddit (r/SideProject),docstash.org,100,216.198.79.1,Unknown,http://www.docstash.org
+2026-01-06T01:53:07Z,Reddit (r/SideProject),getverdict.in,100,216.198.79.1,Unknown,https://getverdict.in
+2026-01-06T01:53:07Z,Reddit (r/SaaS),getcontextos.com,100,216.198.79.1,Unknown,http://getcontextos.com
+2026-01-06T01:53:07Z,Reddit (r/SideProject),drosk.net,85,104.21.24.160,Cloudflare,https://drosk.net/
+2026-01-06T01:53:07Z,Reddit (r/SideProject),norse-voice-481106-b7-356815525118.us-central1.run.app,80,34.143.78.2,GCP,https://norse-voice-481106-b7-356815525118.us-central1.run.app/
+2026-01-06T01:53:07Z,Reddit (r/SaaS),trendditapp.com,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,http://Trendditapp.com
+2026-01-06T01:53:07Z,Reddit (r/SideProject),lemonvite.com,100,216.150.1.1,Unknown,https://www.lemonvite.com
+2026-01-06T01:53:07Z,GitHub,darknoah.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://darknoah.github.io/aime-chat/
+2026-01-06T01:53:07Z,GitHub,build-ai-teal.vercel.app,50,64.29.17.3,Unknown,https://build-ai-teal.vercel.app
+2026-01-06T01:53:07Z,Reddit (r/SaaS),prepr.online,80,66.29.148.134,server43-1.shared.spaceship.host.,http://Prepr.online
+2026-01-06T01:53:08Z,Reddit (r/SideProject),spaceprompts.com,100,172.67.201.74,Unknown,http://www.spaceprompts.com
+2026-01-06T01:53:08Z,Reddit (r/SideProject),seefuturebaby.com,100,216.198.79.1,Unknown,http://seefuturebaby.com
+2026-01-06T01:53:08Z,Reddit (r/SideProject),globebug.com,80,98.84.224.111,AWS,https://www.globebug.com/
+2026-01-06T01:53:08Z,Reddit (r/SideProject),rachidnichan.com,80,76.76.21.21,Vercel,https://rachidnichan.com
+2026-01-06T01:53:08Z,Reddit (r/SideProject),testflight.apple.com,80,23.9.134.67,a23-9-134-67.deploy.static.akamaitechnologies.com.,https://testflight.apple.com/join/ntUgTBbY
+2026-01-06T01:53:08Z,GitHub,gorkx.clan.su,40,88.211.243.183,Unknown,https://gorkx.clan.su/
+2026-01-06T01:53:08Z,Reddit (r/SideProject),pagepilot.nerb-solutions.com,100,66.33.22.82,Unknown,https://pagepilot.nerb-solutions.com/
+2026-01-06T01:53:08Z,Reddit (r/SaaS),mivvo.life,80,88.222.215.95,srv1140768.hstgr.cloud.,https://mivvo.life
+2026-01-06T01:53:08Z,Reddit (r/SaaS),go.agenticdogma.com,90,148.251.87.120,server4.cretaforce.gr.,https://go.agenticdogma.com/rdss
+2026-01-06T01:53:17Z,Reddit (r/SaaS),fathom.ai,110,198.202.211.1,Unknown,https://www.fathom.ai/integrations/transcriptexporter
