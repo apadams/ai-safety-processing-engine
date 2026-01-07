@@ -2390,3 +2390,15 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-06T01:53:08Z,Reddit (r/SaaS),mivvo.life,80,88.222.215.95,srv1140768.hstgr.cloud.,https://mivvo.life
 2026-01-06T01:53:08Z,Reddit (r/SaaS),go.agenticdogma.com,90,148.251.87.120,server4.cretaforce.gr.,https://go.agenticdogma.com/rdss
 2026-01-06T01:53:17Z,Reddit (r/SaaS),fathom.ai,110,198.202.211.1,Unknown,https://www.fathom.ai/integrations/transcriptexporter
+2026-01-07T01:54:31Z,Reddit (r/SideProject),gitnexus.vercel.app,100,216.198.79.3,Unknown,https://gitnexus.vercel.app/
+2026-01-07T01:54:31Z,Reddit (r/SideProject),vfxai.com,90,18.65.25.15,AWS,http://www.vfxai.com/
+2026-01-07T01:54:31Z,GitHub,agents.kaijusolutions.ca,40,185.199.111.153,cdn-185-199-111-153.github.com.,https://agents.kaijusolutions.ca
+2026-01-07T01:54:31Z,GitHub,lab-interview.vercel.app,40,64.29.17.3,Unknown,https://lab-interview.vercel.app/
+2026-01-07T01:54:31Z,Reddit (r/SideProject),spotify-playlist-generator-ai.vercel.app,110,216.198.79.195,Unknown,https://spotify-playlist-generator-ai.vercel.app/
+2026-01-07T01:54:31Z,Reddit (r/SideProject),nome.fly.dev,80,66.241.125.118,ip-66-241-125-118.shared.customer.flyio.net.,https://nome.fly.dev
+2026-01-07T01:54:31Z,Reddit (r/SaaS),payping.space,100,216.198.79.1,Unknown,https://payping.space/
+2026-01-07T01:54:31Z,GitHub,rznai.com,30,34.41.77.92,GCP,https://rznai.com/?page_id=52
+2026-01-07T01:54:31Z,Reddit (r/SaaS),soloposts.com,100,216.198.79.1,Unknown,https://soloposts.com
+2026-01-07T01:54:31Z,Reddit (r/SideProject),miftah.studio,85,104.21.48.129,Cloudflare,http://miftah.studio
+2026-01-07T01:54:31Z,Reddit (r/SideProject),zerotwo.ai,90,13.52.188.95,AWS,https://zerotwo.ai
+2026-01-07T01:54:31Z,Reddit (r/SideProject),video.a2e.ai,90,3.167.212.84,AWS,http://Video.a2e.ai
