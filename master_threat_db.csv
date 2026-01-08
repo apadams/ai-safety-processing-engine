@@ -2402,3 +2402,25 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-07T01:54:31Z,Reddit (r/SideProject),miftah.studio,85,104.21.48.129,Cloudflare,http://miftah.studio
 2026-01-07T01:54:31Z,Reddit (r/SideProject),zerotwo.ai,90,13.52.188.95,AWS,https://zerotwo.ai
 2026-01-07T01:54:31Z,Reddit (r/SideProject),video.a2e.ai,90,3.167.212.84,AWS,http://Video.a2e.ai
+2026-01-08T01:55:45Z,Reddit (r/SideProject),twisted-logic.vercel.app,100,64.29.17.131,Unknown,https://twisted-logic.vercel.app/
+2026-01-08T01:55:45Z,Reddit (r/SaaS),relto.app,100,216.150.16.1,Unknown,https://relto.app/
+2026-01-08T01:55:45Z,Reddit (r/SideProject),dalexor.com,80,52.52.192.191,AWS,http://dalexor.com
+2026-01-08T01:55:46Z,Reddit (r/SideProject),mithex.com,85,104.21.28.8,Cloudflare,https://mithex.com
+2026-01-08T01:55:46Z,Reddit (r/SideProject),tabiway.com,80,76.76.21.21,Vercel,https://tabiway.com/
+2026-01-08T01:55:46Z,Reddit (r/SideProject),applytailor.com,110,216.198.79.1,Unknown,http://applytailor.com
+2026-01-08T01:55:46Z,Reddit (r/SideProject),snapexpenses.com,100,216.150.1.1,Unknown,https://snapexpenses.com/
+2026-01-08T01:55:46Z,Reddit (r/SideProject),forteapp.dev,100,64.29.17.1,Unknown,https://www.forteapp.dev/
+2026-01-08T01:55:46Z,GitHub,portfolio-hrithik-burnwal.vercel.app,40,216.198.79.195,Unknown,https://portfolio-hrithik-burnwal.vercel.app
+2026-01-08T01:55:46Z,Reddit (r/SideProject),airgapchat.app,95,104.21.63.233,Cloudflare,https://airgapchat.app/
+2026-01-08T01:55:46Z,Reddit (r/SideProject),resumeanalyzerai.com,110,216.198.79.1,Unknown,http://ResumeAnalyzerAi.com
+2026-01-08T01:55:46Z,GitHub,kuncimu.com,20,216.239.34.21,any-in-2215.1e100.net.,https://www.kuncimu.com/
+2026-01-08T01:55:46Z,GitHub,base-agent-wallet.vercel.app,50,64.29.17.67,Unknown,https://base-agent-wallet.vercel.app
+2026-01-08T01:55:46Z,GitHub,hana402.xyz,40,216.150.16.193,Unknown,https://hana402.xyz
+2026-01-08T01:55:46Z,Reddit (r/SideProject),taleapp.it,85,104.21.13.183,Cloudflare,https://taleapp.it/
+2026-01-08T01:55:46Z,GitHub,beta.acontext.io,40,172.67.140.85,Unknown,https://beta.acontext.io
+2026-01-08T01:55:46Z,Reddit (r/SaaS),cently.ai,110,172.67.211.70,Unknown,http://cently.ai/
+2026-01-08T01:55:46Z,Reddit (r/SaaS),slaab.ai,90,216.239.32.21,any-in-2015.1e100.net.,http://Slaab.ai
+2026-01-08T01:55:46Z,Reddit (r/SaaS),stift.ai,90,89.58.2.138,v2202512326255420052.quicksrv.de.,http://Stift.ai
+2026-01-08T01:55:46Z,Reddit (r/SideProject),write.withmargin.app,100,66.33.22.184,Unknown,https://write.withmargin.app
+2026-01-08T01:55:46Z,Reddit (r/SideProject),santuri.io,100,216.198.79.1,Unknown,http://santuri.io
+2026-01-08T01:55:46Z,Reddit (r/SideProject),thumbellina-v51-backup-production.up.railway.app,110,66.33.22.164,Unknown,http://thumbellina-v51-backup-production.up.railway.app
