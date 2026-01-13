@@ -2513,3 +2513,24 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-12T02:00:28Z,Reddit (r/SideProject),subformer.com,80,178.156.145.20,static.20.145.156.178.clients.your-server.de.,https://subformer.com
 2026-01-12T02:00:29Z,Reddit (r/SaaS),mimatechnologies.se,100,185.158.133.1,Unknown,http://mimatechnologies.se/
 2026-01-12T02:00:29Z,Reddit (r/SideProject),fixthisphoto.com,100,216.198.79.1,Unknown,http://www.fixthisphoto.com
+2026-01-13T01:51:24Z,Reddit (r/SideProject),tippingpoint.watch,100,172.67.131.26,Unknown,https://tippingpoint.watch
+2026-01-13T01:51:24Z,Reddit (r/SideProject),debackground.com,100,172.67.179.7,Unknown,https://debackground.com/
+2026-01-13T01:51:24Z,Reddit (r/SideProject),franchise-x.io,80,216.24.57.1,Vercel,https://franchise-x.io
+2026-01-13T01:51:24Z,GitHub,abuthahir101.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://abuthahir101.github.io
+2026-01-13T01:51:24Z,Reddit (r/SideProject),titantrainingacademy.co.uk,90,76.76.21.21,Vercel,http://titantrainingacademy.co.uk
+2026-01-13T01:51:24Z,Reddit (r/SideProject),azurite-labs.vercel.app,100,216.198.79.195,Unknown,https://azurite-labs.vercel.app/
+2026-01-13T01:51:24Z,GitHub,ralph-complete.coy.workers.dev,25,104.21.85.63,Cloudflare,https://ralph-complete.coy.workers.dev
+2026-01-13T01:51:24Z,GitHub,magenx.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://magenx.github.io/hek3ster/
+2026-01-13T01:51:24Z,Reddit (r/SideProject),quizmagic.io,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://quizmagic.io/
+2026-01-13T01:51:24Z,Reddit (r/SaaS),recruta.xyz,100,216.198.79.1,Unknown,https://www.recruta.xyz
+2026-01-13T01:51:24Z,Reddit (r/SideProject),aimenuscanner.xyz,110,185.158.133.1,Unknown,https://aiMenuScanner.xyz
+2026-01-13T01:51:24Z,Reddit (r/SaaS),po-file.com,100,172.67.146.207,Unknown,https://po-file.com/
+2026-01-13T01:51:24Z,Reddit (r/SaaS),clipstar.ironslash.com,85,104.207.65.200,Cloudflare,https://clipstar.ironslash.com
+2026-01-13T01:51:24Z,GitHub,industrial-monitor-ecogaurd.vercel.app,40,216.198.79.131,Unknown,https://industrial-monitor-ecogaurd.vercel.app/
+2026-01-13T01:51:24Z,Reddit (r/SideProject),taap.it,100,216.150.1.1,Unknown,https://taap.it/caloriz
+2026-01-13T01:51:24Z,GitHub,covibes.ai,30,13.49.82.10,AWS,https://covibes.ai
+2026-01-13T01:51:24Z,GitHub,firebase-genkit-ai.vercel.app,50,64.29.17.131,Unknown,https://firebase-genkit-ai.vercel.app/
+2026-01-13T01:51:24Z,Reddit (r/SideProject),subterranean.io,80,54.192.55.84,AWS,https://www.subterranean.io/
+2026-01-13T01:51:24Z,Reddit (r/SideProject),hiddensignal.app,80,5.78.158.189,static.189.158.78.5.clients.your-server.de.,http://hiddensignal.app
+2026-01-13T01:51:24Z,Reddit (r/SideProject),brainbreak.games,95,104.21.19.2,Cloudflare,https://brainbreak.games?utm_source=reddit&amp;utm_medium=post&amp;utm_campaign=validation&amp;utm_content=sideproject
+2026-01-13T01:51:24Z,Reddit (r/SideProject),routerlab.ch,80,46.105.190.249,ip249.ip-46-105-190.eu.,https://routerlab.ch
