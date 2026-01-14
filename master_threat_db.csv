@@ -2534,3 +2534,21 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-13T01:51:24Z,Reddit (r/SideProject),hiddensignal.app,80,5.78.158.189,static.189.158.78.5.clients.your-server.de.,http://hiddensignal.app
 2026-01-13T01:51:24Z,Reddit (r/SideProject),brainbreak.games,95,104.21.19.2,Cloudflare,https://brainbreak.games?utm_source=reddit&amp;utm_medium=post&amp;utm_campaign=validation&amp;utm_content=sideproject
 2026-01-13T01:51:24Z,Reddit (r/SideProject),routerlab.ch,80,46.105.190.249,ip249.ip-46-105-190.eu.,https://routerlab.ch
+2026-01-14T01:58:43Z,GitHub,academicoracle.onrender.com,20,216.24.57.251,Vercel,https://academicoracle.onrender.com/
+2026-01-14T01:58:43Z,Reddit (r/SideProject),trackmylogs.com,85,104.21.19.169,Cloudflare,https://trackmylogs.com/
+2026-01-14T01:58:43Z,GitHub,agent-tars.com,30,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://agent-tars.com
+2026-01-14T01:58:43Z,GitHub,karthik61958.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://karthik61958.github.io
+2026-01-14T01:58:43Z,Reddit (r/SideProject),moneymatter.featurebase.app,85,104.26.5.58,Cloudflare,https://moneymatter.featurebase.app/dashboard/roadmap
+2026-01-14T01:58:43Z,Reddit (r/SideProject),fakeout.dev,100,64.29.17.65,Unknown,https://fakeout.dev
+2026-01-14T01:58:43Z,Reddit (r/SideProject),classix.app,100,216.198.79.1,Unknown,https://classix.app
+2026-01-14T01:58:43Z,Reddit (r/SideProject),canvaschatai.com,110,216.198.79.1,Unknown,https://www.canvaschatai.com/
+2026-01-14T01:58:43Z,Reddit (r/SideProject),makershub.dev,100,216.150.1.1,Unknown,https://makershub.dev/
+2026-01-14T01:58:43Z,Reddit (r/SideProject),babewfd.com,100,216.198.79.65,Unknown,http://babewfd.com
+2026-01-14T01:58:43Z,Reddit (r/SideProject),neuraldraft.io,85,104.21.19.8,Cloudflare,https://neuraldraft.io
+2026-01-14T01:58:43Z,Reddit (r/SideProject),checkalyzer.com,80,192.67.197.74,ip192-67-197-74.pbiaas.com.,https://checkalyzer.com
+2026-01-14T01:58:43Z,Reddit (r/SideProject),myresolve.ai,110,216.198.79.1,Unknown,http://myresolve.ai
+2026-01-14T01:58:43Z,Reddit (r/SideProject),yoonoo.ai,95,104.21.27.33,Cloudflare,https://yoonoo.ai
+2026-01-14T01:58:43Z,Reddit (r/SaaS),rillow.ai,110,216.198.79.1,Unknown,https://rillow.ai/
+2026-01-14T01:58:43Z,Reddit (r/SideProject),beyondtube.pro,80,18.208.88.157,AWS,https://beyondtube.pro
+2026-01-14T01:58:43Z,Reddit (r/SaaS),websiteaiscore.com,90,217.174.152.178,cloud-efdde3.managed-vps.net.,https://websiteaiscore.com/ucp-compliance-generator
+2026-01-14T01:58:53Z,Reddit (r/SideProject),heydayfocus.com,100,198.202.211.1,Unknown,https://www.heydayfocus.com/
