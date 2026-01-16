@@ -2581,3 +2581,16 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-15T01:53:12Z,GitHub,showcase.okidoki.chat,40,216.150.1.193,Unknown,https://showcase.okidoki.chat
 2026-01-15T01:53:12Z,Reddit (r/SideProject),vantage-cv.com,80,34.111.179.208,GCP,https://vantage-cv.com
 2026-01-15T01:53:12Z,GitHub,zenodo.org,20,137.138.52.235,paas-apps-shard-3-avz-b-247x5.cern.ch.,https://zenodo.org/records/18226675
+2026-01-16T01:56:05Z,Reddit (r/SaaS),scrapingduck.com,85,104.21.80.106,Cloudflare,https://scrapingduck.com/docs/llms.txt
+2026-01-16T01:56:05Z,Reddit (r/SaaS),1kfounderplaybook.framer.website,80,52.223.52.2,AWS,https://1kfounderplaybook.framer.website/
+2026-01-16T01:56:05Z,Reddit (r/SideProject),pulsedaily.carrd.co,95,104.18.40.34,Cloudflare,https://pulsedaily.carrd.co
+2026-01-16T01:56:05Z,Reddit (r/SaaS),cubiktech.com,85,104.21.48.106,Cloudflare,https://cubiktech.com/blogs/rlms-and-context-graph-integrated
+2026-01-16T01:56:05Z,GitHub,jaydencoolis.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://jaydencoolis.github.io
+2026-01-16T01:56:05Z,Reddit (r/SideProject),ai-study-buddy-one.vercel.app,110,216.198.79.3,Unknown,https://ai-study-buddy-one.vercel.app
+2026-01-16T01:56:05Z,Reddit (r/SideProject),mirror-app-pink.vercel.app,100,64.29.17.195,Unknown,https://mirror-app-pink.vercel.app/
+2026-01-16T01:56:05Z,Reddit (r/SideProject),mapstrology.com,100,92.112.198.34,Unknown,https://mapstrology.com
+2026-01-16T01:56:05Z,Reddit (r/SideProject),vixeo.video,100,185.158.133.1,Unknown,https://vixeo.video/
+2026-01-16T01:56:05Z,Reddit (r/SaaS),wixma-ai.com,110,172.67.164.61,Unknown,https://wixma-ai.com
+2026-01-16T01:56:05Z,Reddit (r/SideProject),v0-dividend-paycheck-architect.vercel.app,100,64.29.17.131,Unknown,http://v0-dividend-paycheck-architect.vercel.app
+2026-01-16T01:56:05Z,Reddit (r/SideProject),senelo.ai,110,185.158.133.1,Unknown,http://www.senelo.ai
+2026-01-16T01:56:05Z,Reddit (r/SaaS),znanytrener.ai,110,216.150.1.1,Unknown,https://znanytrener.ai/en
