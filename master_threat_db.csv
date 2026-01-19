@@ -2643,3 +2643,23 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-18T02:01:41Z,Reddit (r/SideProject),gist-app-two.vercel.app,100,64.29.17.195,Unknown,https://gist-app-two.vercel.app
 2026-01-18T02:01:41Z,GitHub,docs.ifai.today,30,45.77.85.43,45.77.85.43.vultrusercontent.com.,https://docs.ifai.today
 2026-01-18T02:01:42Z,GitHub,jianyan.hcid274.xyz,40,180.163.146.91,Unknown,https://jianyan.hcid274.xyz/
+2026-01-19T02:00:27Z,GitHub,twitch.com,20,52.42.212.97,AWS,https://twitch.com/meteor_314
+2026-01-19T02:00:27Z,Reddit (r/SideProject),getdione.app,85,104.21.34.74,Cloudflare,https://getdione.app
+2026-01-19T02:00:27Z,GitHub,re.flyingcloudtech.com,20,34.111.179.208,GCP,https://re.flyingcloudtech.com
+2026-01-19T02:00:27Z,GitHub,9093333310.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://9093333310.github.io
+2026-01-19T02:00:27Z,Reddit (r/SaaS),oravo.ai,90,52.52.192.191,AWS,http://oravo.ai
+2026-01-19T02:00:27Z,GitHub,aisenh037.github.io,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://aisenh037.github.io/FollowUpAI/
+2026-01-19T02:00:27Z,Reddit (r/SideProject),getdock.io,100,172.67.167.45,Unknown,https://getdock.io
+2026-01-19T02:00:27Z,Reddit (r/SideProject),velacloud.sloppybits.uk,80,52.52.192.191,AWS,https://velacloud.sloppybits.uk/
+2026-01-19T02:00:27Z,Reddit (r/SideProject),viberzzz.com,100,216.198.79.1,Unknown,https://viberzzz.com
+2026-01-19T02:00:27Z,Reddit (r/SideProject),promptfluid.com,100,185.158.133.1,Unknown,https://promptfluid.com
+2026-01-19T02:00:27Z,Reddit (r/SideProject),savvysmithsolutions.com,100,185.158.133.1,Unknown,https://savvysmithsolutions.com
+2026-01-19T02:00:27Z,GitHub,ai-deadlines-tau.vercel.app,50,216.198.79.67,Unknown,https://ai-deadlines-tau.vercel.app
+2026-01-19T02:00:27Z,GitHub,weagentchat.pages.dev,50,172.66.46.240,Unknown,https://weagentchat.pages.dev/
+2026-01-19T02:00:27Z,GitHub,cortex.subashsaajan.site,20,13.224.187.60,AWS,https://cortex.subashsaajan.site/
+2026-01-19T02:00:27Z,Reddit (r/SideProject),verifact.fly.dev,80,66.241.125.137,ip-66-241-125-137.shared.customer.flyio.net.,https://verifact.fly.dev
+2026-01-19T02:00:27Z,Reddit (r/SideProject),lovetunesai.com,110,216.198.79.1,Unknown,https://lovetunesai.com/
+2026-01-19T02:00:27Z,Reddit (r/SaaS),tavlo.ca,100,216.198.79.1,Unknown,https://www.tavlo.ca/
+2026-01-19T02:00:27Z,Reddit (r/SideProject),syllabi.dev,100,199.36.158.100,Unknown,http://syllabi.dev
+2026-01-19T02:00:27Z,Reddit (r/SaaS),blumu.ai,95,104.21.34.135,Cloudflare,https://blumu.ai/survey?ref=reddit_saas
+2026-01-19T02:00:28Z,Reddit (r/SaaS),instant-ugc.com,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://instant-ugc.com/?utm_source=redo
