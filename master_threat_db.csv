@@ -2684,3 +2684,28 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-20T01:54:43Z,Reddit (r/SaaS),kleiber.ai,90,216.24.57.251,Vercel,https://kleiber.ai/
 2026-01-20T01:54:43Z,Reddit (r/SideProject),actionboo.st,100,216.150.1.1,Unknown,https://actionboo.st
 2026-01-20T01:54:43Z,Reddit (r/SideProject),takt.chat,85,172.64.80.1,Cloudflare,http://takt.chat
+2026-01-21T01:57:24Z,Reddit (r/SaaS),opinon.net,100,216.198.79.1,Unknown,http://opinon.net/
+2026-01-21T01:57:25Z,Reddit (r/SideProject),resumate.ca,80,18.154.110.97,AWS,https://resumate.ca
+2026-01-21T01:57:25Z,Reddit (r/SideProject),userem.site,80,216.24.57.1,Vercel,https://userem.site/
+2026-01-21T01:57:25Z,Reddit (r/SideProject),runfeed.io,80,54.192.55.119,AWS,https://runfeed.io
+2026-01-21T01:57:25Z,Reddit (r/SideProject),cvedatabase.com,100,216.150.16.1,Unknown,https://www.cvedatabase.com
+2026-01-21T01:57:25Z,Reddit (r/SideProject),spec-force.vercel.app,100,216.198.79.131,Unknown,https://spec-force.vercel.app/
+2026-01-21T01:57:25Z,Reddit (r/SaaS),sparkpal.vercel.app,100,64.29.17.67,Unknown,https://sparkpal.vercel.app/
+2026-01-21T01:57:25Z,GitHub,mac-os.replit.app,20,34.117.33.233,GCP,https://mac-os.replit.app/
+2026-01-21T01:57:25Z,GitHub,zoozo790.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://zoozo790.github.io
+2026-01-21T01:57:25Z,Reddit (r/SideProject),jouleaio.com,110,216.198.79.1,Unknown,http://www.jouleaio.com/
+2026-01-21T01:57:25Z,Reddit (r/SideProject),multiblock.space,100,216.198.79.1,Unknown,https://multiblock.space/
+2026-01-21T01:57:25Z,GitHub,clear-terms.vercel.app,40,216.198.79.195,Unknown,https://clear-terms.vercel.app
+2026-01-21T01:57:25Z,Reddit (r/SideProject),dueday.fr,100,216.198.79.1,Unknown,https://dueday.fr
+2026-01-21T01:57:25Z,Reddit (r/SideProject),useshipyard.com,85,104.21.38.53,Cloudflare,http://useshipyard.com
+2026-01-21T01:57:25Z,Reddit (r/SideProject),prsm.so,100,216.150.1.193,Unknown,https://prsm.so
+2026-01-21T01:57:25Z,Reddit (r/SideProject),tagshop.ai,95,104.26.10.230,Cloudflare,https://tagshop.ai/?utm_source=Reddit_post&amp;utm_medium=Reddit&amp;utm_campaign=Video_Easy_steps_to_generate_personalized_talking_avatar_videos_with_AI
+2026-01-21T01:57:25Z,Reddit (r/SideProject),momwise.ai,110,216.150.1.1,Unknown,https://www.momwise.ai/tools/meal-plan-generator
+2026-01-21T01:57:25Z,Reddit (r/SideProject),summitnotes.app,85,104.21.12.184,Cloudflare,https://summitnotes.app
+2026-01-21T01:57:25Z,Reddit (r/SaaS),synthro.io,100,216.198.79.1,Unknown,https://www.synthro.io
+2026-01-21T01:57:25Z,Reddit (r/SideProject),gradetracker.me,100,216.198.79.1,Unknown,https://www.gradetracker.me/
+2026-01-21T01:57:25Z,GitHub,adam2777123.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://adam2777123.github.io
+2026-01-21T01:57:25Z,GitHub,den4ik4.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://den4ik4.github.io
+2026-01-21T01:57:25Z,Reddit (r/SaaS),oppora.ai,110,172.67.149.72,Unknown,http://oppora.ai
+2026-01-21T01:57:25Z,GitHub,tweetsave.org,40,172.67.199.200,Unknown,https://tweetsave.org
+2026-01-21T01:57:25Z,Reddit (r/SideProject),latenighttech.news,80,203.161.45.23,server704-1.shared.spaceship.host.,https://latenighttech.news
