@@ -2783,3 +2783,23 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-25T02:03:36Z,Reddit (r/SideProject),openlys.app,100,159.65.170.2,Unknown,https://openlys.app
 2026-01-25T02:03:36Z,Reddit (r/SideProject),meter.sh,100,216.198.79.1,Unknown,https://meter.sh
 2026-01-25T02:03:36Z,Reddit (r/SideProject),vibe-tr.com,80,31.192.214.122,1228c8pn2.guzel.net.tr.,https://vibe-tr.com
+2026-01-26T02:05:03Z,Reddit (r/SaaS),launchpaddesk.com,100,216.198.79.1,Unknown,http://launchpaddesk.com
+2026-01-26T02:05:03Z,Reddit (r/SideProject),magnt.app,100,216.198.79.1,Unknown,https://magnt.app/
+2026-01-26T02:05:03Z,Reddit (r/SideProject),visualbook.app,85,104.21.82.10,Cloudflare,https://www.visualbook.app
+2026-01-26T02:05:03Z,Reddit (r/SideProject),shotglow.vercel.app,100,64.29.17.3,Unknown,https://shotglow.vercel.app
+2026-01-26T02:05:03Z,Reddit (r/SaaS),chatcanvas-studio.vercel.app,100,216.198.79.67,Unknown,https://chatcanvas-studio.vercel.app/
+2026-01-26T02:05:03Z,Reddit (r/SaaS),videoness.com,100,172.67.177.130,Unknown,https://videoness.com/pricing
+2026-01-26T02:05:04Z,GitHub,geofreyfoya.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://geofreyfoya.github.io
+2026-01-26T02:05:04Z,GitHub,drakon55rus.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://drakon55rus.github.io
+2026-01-26T02:05:04Z,GitHub,agentindex.app,35,104.21.62.165,Cloudflare,https://agentindex.app
+2026-01-26T02:05:04Z,Reddit (r/SaaS),creayo.ai,110,216.198.79.1,Unknown,http://Creayo.ai
+2026-01-26T02:05:04Z,Reddit (r/SideProject),pullpdf.com,100,216.198.79.1,Unknown,https://pullpdf.com
+2026-01-26T02:05:04Z,Reddit (r/SideProject),otter.ai,90,35.160.71.223,GCP,http://otter.ai
+2026-01-26T02:05:04Z,Reddit (r/SaaS),leadly.live,100,144.24.2.197,Unknown,http://leadly.live
+2026-01-26T02:05:04Z,Reddit (r/SaaS),viblo.ai,90,72.52.158.199,host1.vega6.co.,https://viblo.ai/?ref=ethany3
+2026-01-26T02:05:04Z,Reddit (r/SideProject),fablango.com,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://fablango.com
+2026-01-26T02:05:04Z,Reddit (r/SideProject),tuberizer.com,100,185.158.133.1,Unknown,http://tuberizer.com
+2026-01-26T02:05:04Z,Reddit (r/SaaS),synoptas.com,100,185.158.133.1,Unknown,http://synoptas.com
+2026-01-26T02:05:04Z,GitHub,timesheet.io,20,35.219.200.3,GCP,https://timesheet.io
+2026-01-26T02:05:04Z,Reddit (r/SideProject),gettether.dev,80,95.217.26.94,sites.statichost.eu.,https://gettether.dev
+2026-01-26T02:05:04Z,GitHub,aicowork.chat,50,216.198.79.1,Unknown,https://aicowork.chat
