@@ -2803,3 +2803,21 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-26T02:05:04Z,GitHub,timesheet.io,20,35.219.200.3,GCP,https://timesheet.io
 2026-01-26T02:05:04Z,Reddit (r/SideProject),gettether.dev,80,95.217.26.94,sites.statichost.eu.,https://gettether.dev
 2026-01-26T02:05:04Z,GitHub,aicowork.chat,50,216.198.79.1,Unknown,https://aicowork.chat
+2026-01-27T02:01:05Z,Reddit (r/SideProject),paintingrecognition.com,110,185.224.138.15,Unknown,https://paintingrecognition.com/
+2026-01-27T02:01:05Z,Reddit (r/SideProject),spacelift.io,80,3.170.185.6,AWS,https://spacelift.io/blog/password-statistics
+2026-01-27T02:01:05Z,GitHub,lancedesk.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://lancedesk.github.io/ms-office-ai-helper/
+2026-01-27T02:01:05Z,Reddit (r/SaaS),magnetengine.vercel.app,100,64.29.17.195,Unknown,http://magnetengine.vercel.app
+2026-01-27T02:01:05Z,GitHub,kaban-board.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://kaban-board.github.io/kaban/
+2026-01-27T02:01:05Z,GitHub,mohsen6210.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://mohsen6210.github.io
+2026-01-27T02:01:05Z,GitHub,behavior.kaijusolutions.ca,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://behavior.kaijusolutions.ca
+2026-01-27T02:01:05Z,Reddit (r/SideProject),2kkcal.com,100,198.185.159.145,Unknown,http://2kkcal.com
+2026-01-27T02:01:05Z,Reddit (r/SideProject),deepthinker-ai.vercel.app,110,64.29.17.67,Unknown,https://deepthinker-ai.vercel.app/
+2026-01-27T02:01:05Z,Reddit (r/SideProject),ai2qa.com,90,216.239.38.21,any-in-2615.1e100.net.,https://ai2qa.com
+2026-01-27T02:01:05Z,Reddit (r/SaaS),cvcomp.com,100,216.198.79.1,Unknown,https://cvcomp.com
+2026-01-27T02:01:05Z,Reddit (r/SideProject),articulate-snowy.vercel.app,100,216.198.79.67,Unknown,https://articulate-snowy.vercel.app/
+2026-01-27T02:01:05Z,Reddit (r/SaaS),drizz.dev,80,52.223.52.2,AWS,https://www.drizz.dev/book-a-demo?utm_source=post&amp;utm_medium=social&amp;utm_campaign=reddit
+2026-01-27T02:01:05Z,Reddit (r/SideProject),doodleduel.co,80,108.156.107.92,server-108-156-107-92.ord56.r.cloudfront.net.,http://DoodleDuel.co
+2026-01-27T02:01:05Z,GitHub,daily-post-j4wa.onrender.com,30,216.24.57.251,Vercel,https://daily-post-j4wa.onrender.com
+2026-01-27T02:01:05Z,GitHub,ai-code-sage.vercel.app,50,216.198.79.195,Unknown,https://ai-code-sage.vercel.app
+2026-01-27T02:01:05Z,Reddit (r/SideProject),pr0mptr.app,100,216.150.1.129,Unknown,https://pr0mptr.app/
+2026-01-27T02:01:06Z,Reddit (r/SaaS),xreplyguy.io,100,216.198.79.1,Unknown,http://xreplyguy.io
