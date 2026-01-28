@@ -2821,3 +2821,24 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-01-27T02:01:05Z,GitHub,ai-code-sage.vercel.app,50,216.198.79.195,Unknown,https://ai-code-sage.vercel.app
 2026-01-27T02:01:05Z,Reddit (r/SideProject),pr0mptr.app,100,216.150.1.129,Unknown,https://pr0mptr.app/
 2026-01-27T02:01:06Z,Reddit (r/SaaS),xreplyguy.io,100,216.198.79.1,Unknown,http://xreplyguy.io
+2026-01-28T01:56:56Z,GitHub,kubamc111231.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://kubamc111231.github.io
+2026-01-28T01:56:56Z,GitHub,ajstylsz.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://ajstylsz.github.io
+2026-01-28T01:56:56Z,Reddit (r/SideProject),studyflowww.vercel.app,100,216.198.79.3,Unknown,https://studyflowww.vercel.app/
+2026-01-28T01:56:56Z,Reddit (r/SideProject),commitpolice.ai,90,76.76.21.21,Vercel,http://commitpolice.ai
+2026-01-28T01:56:56Z,Reddit (r/SideProject),stuard.ai,95,172.64.80.1,Cloudflare,http://stuard.ai
+2026-01-28T01:56:56Z,GitHub,clankercloud.ai,35,104.21.89.2,Cloudflare,https://clankercloud.ai/
+2026-01-28T01:56:56Z,Reddit (r/SideProject),simplelistings.co,85,172.64.80.1,Cloudflare,https://simplelistings.co/en
+2026-01-28T01:56:56Z,Reddit (r/SideProject),join.meetaugust.ai,90,15.197.253.102,ac559197a760721c0.awsglobalaccelerator.com.,https://join.meetaugust.ai/?c=pMpgqh
+2026-01-28T01:56:56Z,Reddit (r/SaaS),shipnative.app,100,216.198.79.1,Unknown,https://shipnative.app
+2026-01-28T01:56:56Z,Reddit (r/SaaS),kontenai.net,90,34.111.179.208,GCP,https://kontenai.net
+2026-01-28T01:56:56Z,Reddit (r/SaaS),app.meetaugust.ai,90,3.170.103.47,AWS,https://app.meetaugust.ai/?msg=Hello
+2026-01-28T01:56:56Z,Reddit (r/SideProject),applywave.app,100,206.189.254.128,Unknown,https://applywave.app
+2026-01-28T01:56:56Z,GitHub,klyve.online,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://klyve.online/
+2026-01-28T01:56:56Z,Reddit (r/SideProject),rabona.live,80,76.76.21.21,Vercel,http://rabona.live
+2026-01-28T01:56:56Z,GitHub,brightdata.de,25,104.18.23.162,Cloudflare,https://brightdata.de/blog/ai/openai-sdk-and-web-unlocker
+2026-01-28T01:56:56Z,Reddit (r/SideProject),rewrite-mvp.lovable.app,100,185.158.133.1,Unknown,https://rewrite-mvp.lovable.app/
+2026-01-28T01:56:56Z,Reddit (r/SideProject),lentai.app,110,216.198.79.1,Unknown,https://lentai.app
+2026-01-28T01:56:56Z,Reddit (r/SaaS),loominhq.com,100,216.198.79.1,Unknown,https://www.loominhq.com/
+2026-01-28T01:56:56Z,Reddit (r/SideProject),hyperterse.com,100,216.198.79.1,Unknown,https://hyperterse.com
+2026-01-28T01:56:56Z,Reddit (r/SideProject),damngood.support,100,185.158.133.1,Unknown,https://damngood.support
+2026-01-28T01:56:56Z,GitHub,koromind.com,40,216.198.79.1,Unknown,https://koromind.com
