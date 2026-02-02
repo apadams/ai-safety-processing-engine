@@ -2918,3 +2918,28 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-01T02:33:00Z,GitHub,gopls-mcp.org,40,172.67.143.6,Unknown,https://gopls-mcp.org
 2026-02-01T02:33:00Z,GitHub,search-ai.io,50,167.234.219.57,Unknown,https://search-ai.io
 2026-02-01T02:33:00Z,Reddit (r/SideProject),darkrootcomics.com,80,98.84.224.111,AWS,https://darkrootcomics.com/
+2026-02-02T02:18:11Z,Reddit (r/SaaS),toolclarity.co,85,104.16.243.55,Cloudflare,http://toolclarity.co/subscribe
+2026-02-02T02:18:11Z,Reddit (r/SaaS),pathfinderai.co.uk,110,172.67.200.123,Unknown,https://www.pathfinderai.co.uk
+2026-02-02T02:18:11Z,GitHub,mcpstat.vadim.dev,40,172.67.167.251,Unknown,https://mcpstat.vadim.dev
+2026-02-02T02:18:11Z,Reddit (r/SaaS),bundl.ai,110,216.198.79.1,Unknown,https://www.bundl.ai
+2026-02-02T02:18:11Z,Reddit (r/SideProject),restory.pics,100,172.67.160.118,Unknown,https://restory.pics
+2026-02-02T02:18:11Z,Reddit (r/SaaS),failfinity.com,110,216.198.79.65,Unknown,http://www.failfinity.com
+2026-02-02T02:18:11Z,Reddit (r/SideProject),noctuaassociates.com,80,31.43.160.6,sites.framer.app.,https://noctuaassociates.com/noctua-os
+2026-02-02T02:18:11Z,GitHub,clawhub.ai,50,216.150.1.1,Unknown,https://clawhub.ai/mrbeandev/file-links-tool
+2026-02-02T02:18:11Z,GitHub,hjuming.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://hjuming.github.io/My-Moltbot/
+2026-02-02T02:18:11Z,GitHub,tienlt2406.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://tienlt2406.github.io
+2026-02-02T02:18:11Z,GitHub,alexobiwan-creator.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://alexobiwan-creator.github.io
+2026-02-02T02:18:11Z,Reddit (r/SideProject),getpromptscript.dev,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://getpromptscript.dev
+2026-02-02T02:18:11Z,GitHub,kollaakhil.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://kollaakhil.github.io/actualagent/
+2026-02-02T02:18:11Z,GitHub,jamald33n.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://jamald33n.github.io
+2026-02-02T02:18:11Z,Reddit (r/SaaS),unriddle.voltalabs.space,100,216.198.79.1,Unknown,http://unriddle.voltalabs.space
+2026-02-02T02:18:11Z,GitHub,yandatini.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://yandatini.github.io
+2026-02-02T02:18:11Z,GitHub,azilen.com,20,52.211.41.140,AWS,https://www.azilen.com/ai-agents-development-services/
+2026-02-02T02:18:11Z,GitHub,ownkey.qzz.io,40,172.67.174.51,Unknown,https://ownkey.qzz.io/
+2026-02-02T02:18:11Z,Reddit (r/SideProject),podcast.chandlernguyen.com,80,76.76.21.123,Vercel,https://podcast.chandlernguyen.com/
+2026-02-02T02:18:11Z,GitHub,ghuntley.com,40,151.101.3.7,Unknown,https://ghuntley.com/ralph/
+2026-02-02T02:18:11Z,GitHub,trytrellis.app,25,104.21.4.112,Cloudflare,https://trytrellis.app
+2026-02-02T02:18:11Z,Reddit (r/SideProject),codemock.dev,100,216.198.79.65,Unknown,https://www.codemock.dev/
+2026-02-02T02:18:11Z,GitHub,ccb.pcircle.ai,35,104.21.19.118,Cloudflare,https://ccb.pcircle.ai/
+2026-02-02T02:18:11Z,GitHub,embient.ai,50,216.150.1.1,Unknown,https://embient.ai
+2026-02-02T02:18:11Z,GitHub,bitwarelabs.com,20,77.42.43.15,bifrost.bitwarelabs.com.,https://bitwarelabs.com/projects.html#lunachat
