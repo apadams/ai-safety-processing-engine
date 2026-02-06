@@ -3011,3 +3011,20 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-05T02:12:06Z,Reddit (r/SideProject),revi-sely.vercel.app,100,64.29.17.67,Unknown,https://revi-sely.vercel.app/
 2026-02-05T02:12:06Z,GitHub,datastoria.app,40,216.198.79.1,Unknown,https://datastoria.app
 2026-02-05T02:12:07Z,GitHub,browser.cash,25,104.18.6.197,Cloudflare,https://browser.cash
+2026-02-06T02:11:42Z,GitHub,bastio.com,40,216.150.1.1,Unknown,https://www.bastio.com
+2026-02-06T02:11:42Z,Reddit (r/SideProject),plansweep.com,85,104.21.47.103,Cloudflare,https://plansweep.com/
+2026-02-06T02:11:42Z,Reddit (r/SaaS),coresight.one,100,185.158.133.1,Unknown,https://coresight.one/
+2026-02-06T02:11:42Z,GitHub,kanban-task-management-app.netlify.app,20,98.84.224.111,AWS,https://kanban-task-management-app.netlify.app/
+2026-02-06T02:11:42Z,GitHub,the-arbiter-three.vercel.app,40,64.29.17.67,Unknown,https://the-arbiter-three.vercel.app
+2026-02-06T02:11:42Z,Reddit (r/SaaS),crucible.askodin.app,100,172.67.135.234,Unknown,https://crucible.askodin.app
+2026-02-06T02:11:42Z,Reddit (r/SideProject),clawpilot.app,100,216.198.79.1,Unknown,http://clawpilot.app
+2026-02-06T02:11:42Z,Reddit (r/SideProject),cartara.ai,110,147.182.252.138,Unknown,https://cartara.ai/
+2026-02-06T02:11:42Z,Reddit (r/SaaS),app.quicklydoc.com,100,216.150.1.193,Unknown,https://app.quicklydoc.com/signup
+2026-02-06T02:11:42Z,Reddit (r/SideProject),travel-korea.pages.dev,100,172.66.47.122,Unknown,https://travel-korea.pages.dev
+2026-02-06T02:11:42Z,GitHub,ai.onyx.org,50,216.150.16.129,Unknown,https://ai.onyx.org
+2026-02-06T02:11:42Z,GitHub,veyra.work,20,172.86.127.246,246.127.86.172.static.cloudzy.com.,https://veyra.work
+2026-02-06T02:11:42Z,Reddit (r/SideProject),onlantern.com,100,216.150.1.1,Unknown,https://www.onlantern.com/
+2026-02-06T02:11:42Z,Reddit (r/SideProject),humation.ai,110,216.150.1.1,Unknown,http://humation.ai/
+2026-02-06T02:11:42Z,Reddit (r/SaaS),clawdhost.xyz,80,95.216.117.185,static.185.117.216.95.clients.your-server.de.,http://clawdhost.xyz/?ref=reddit
+2026-02-06T02:11:42Z,Reddit (r/SideProject),dolfy.ai,110,216.198.79.1,Unknown,https://www.dolfy.ai/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=subreddit_tracking&amp;utm_content=SideProject
+2026-02-06T02:11:42Z,Reddit (r/SideProject),rendershop.ai,110,216.198.79.1,Unknown,https://rendershop.ai
