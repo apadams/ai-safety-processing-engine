@@ -3028,3 +3028,32 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-06T02:11:42Z,Reddit (r/SaaS),clawdhost.xyz,80,95.216.117.185,static.185.117.216.95.clients.your-server.de.,http://clawdhost.xyz/?ref=reddit
 2026-02-06T02:11:42Z,Reddit (r/SideProject),dolfy.ai,110,216.198.79.1,Unknown,https://www.dolfy.ai/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=subreddit_tracking&amp;utm_content=SideProject
 2026-02-06T02:11:42Z,Reddit (r/SideProject),rendershop.ai,110,216.198.79.1,Unknown,https://rendershop.ai
+2026-02-07T02:07:53Z,Reddit (r/SaaS),coldgenius.ai,95,104.21.29.3,Cloudflare,https://coldgenius.ai
+2026-02-07T02:07:53Z,GitHub,itzsiddharth.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://itzsiddharth.github.io
+2026-02-07T02:07:53Z,Reddit (r/SideProject),getcomposed.io,80,34.111.179.208,GCP,https://getcomposed.io
+2026-02-07T02:07:53Z,Reddit (r/SideProject),textclarifier.com,100,216.150.1.65,Unknown,https://textclarifier.com
+2026-02-07T02:07:53Z,Reddit (r/SideProject),smartcontractauditor.ai,90,34.111.179.208,GCP,http://SmartContractAuditor.ai
+2026-02-07T02:07:53Z,GitHub,vestauth.com,25,104.21.66.177,Cloudflare,https://vestauth.com
+2026-02-07T02:07:53Z,Reddit (r/SideProject),viralonx.app,100,185.158.133.1,Unknown,http://ViralOnX.app
+2026-02-07T02:07:53Z,Reddit (r/SaaS),mais.audio,110,185.158.133.1,Unknown,https://mais.audio
+2026-02-07T02:07:53Z,Reddit (r/SaaS),entrives.com,100,185.158.133.1,Unknown,https://entrives.com/
+2026-02-07T02:07:53Z,Reddit (r/SideProject),jobby-blond.vercel.app,100,64.29.17.67,Unknown,https://jobby-blond.vercel.app/
+2026-02-07T02:07:53Z,GitHub,divyanshupatel.com,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://divyanshupatel.com/mech-guide-gemini-3/
+2026-02-07T02:07:53Z,GitHub,granitereply.vercel.app,40,64.29.17.3,Unknown,https://granitereply.vercel.app
+2026-02-07T02:07:53Z,Reddit (r/SideProject),bonvo.ski,80,76.76.21.21,Vercel,http://Bonvo.Ski
+2026-02-07T02:07:53Z,Reddit (r/SaaS),thetabber.com,100,216.198.79.193,Unknown,http://thetabber.com
+2026-02-07T02:07:53Z,GitHub,jianan1104.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://jianan1104.github.io/kubeclaw/
+2026-02-07T02:07:53Z,GitHub,soli.blue,40,199.36.158.100,Unknown,https://soli.blue
+2026-02-07T02:07:53Z,Reddit (r/SideProject),image-optimizer.vjranga.com,85,104.21.49.103,Cloudflare,https://image-optimizer.vjranga.com/
+2026-02-07T02:07:53Z,GitHub,resonatehq.io,40,172.67.181.203,Unknown,https://resonatehq.io
+2026-02-07T02:07:53Z,Reddit (r/SideProject),doodleduel.ai,110,216.150.1.1,Unknown,https://doodleduel.ai
+2026-02-07T02:07:53Z,GitHub,moltbook.com,40,216.150.1.1,Unknown,https://www.moltbook.com/u/RecursiveEcho
+2026-02-07T02:07:53Z,GitHub,clawhub.com,40,216.150.1.1,Unknown,https://clawhub.com
+2026-02-07T02:07:53Z,GitHub,malachi.aiassist.net,50,172.67.192.192,Unknown,https://malachi.aiassist.net
+2026-02-07T02:07:53Z,GitHub,openagentsbox.com,35,172.64.80.1,Cloudflare,https://www.openagentsbox.com/interview
+2026-02-07T02:07:53Z,Reddit (r/SaaS),founderclarity.co.uk,100,185.158.133.1,Unknown,https://founderclarity.co.uk/
+2026-02-07T02:07:53Z,GitHub,cryptocurrency.cv,40,216.150.1.1,Unknown,https://cryptocurrency.cv
+2026-02-07T02:07:53Z,Reddit (r/SideProject),codeplusequalsai.com,90,172.234.228.117,172-234-228-117.ip.linodeusercontent.com.,https://codeplusequalsai.com
+2026-02-07T02:07:53Z,Reddit (r/SideProject),worldplayzone.com,100,82.29.199.2,Unknown,https://worldplayzone.com/tic-tac-toe-no-tie-mode/
+2026-02-07T02:07:53Z,Reddit (r/SideProject),hivewire.news,85,104.21.91.223,Cloudflare,http://hivewire.news
+2026-02-07T02:07:53Z,GitHub,debug-mcp.net,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://debug-mcp.net
