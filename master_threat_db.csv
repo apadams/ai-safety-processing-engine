@@ -3057,3 +3057,41 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-07T02:07:53Z,Reddit (r/SideProject),worldplayzone.com,100,82.29.199.2,Unknown,https://worldplayzone.com/tic-tac-toe-no-tie-mode/
 2026-02-07T02:07:53Z,Reddit (r/SideProject),hivewire.news,85,104.21.91.223,Cloudflare,http://hivewire.news
 2026-02-07T02:07:53Z,GitHub,debug-mcp.net,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://debug-mcp.net
+2026-02-08T02:40:59Z,Reddit (r/SaaS),getflow.ca,80,76.76.21.21,Vercel,http://getflow.ca
+2026-02-08T02:40:59Z,Reddit (r/SideProject),ozz.fm,80,76.76.21.21,Vercel,http://ozz.fm
+2026-02-08T02:40:59Z,Reddit (r/SideProject),interactivity.studio,85,104.26.13.171,Cloudflare,https://Interactivity.Studio
+2026-02-08T02:40:59Z,Reddit (r/SaaS),neuriumai.vercel.app,110,64.29.17.131,Unknown,http://neuriumai.vercel.app/
+2026-02-08T02:40:59Z,Reddit (r/SideProject),jenny.scintai.com,95,104.21.94.236,Cloudflare,https://jenny.scintai.com
+2026-02-08T02:40:59Z,Reddit (r/SaaS),privacypal.ai,90,185.199.110.153,cdn-185-199-110-153.github.com.,http://www.privacypal.ai
+2026-02-08T02:40:59Z,Reddit (r/SaaS),ai-interviewer.nuvoice.ai,90,16.148.189.189,AWS,https://ai-interviewer.nuvoice.ai
+2026-02-08T02:40:59Z,Reddit (r/SideProject),dunsocial.com,85,104.21.62.149,Cloudflare,https://dunsocial.com
+2026-02-08T02:40:59Z,Reddit (r/SideProject),hypedecay.com,100,172.66.43.6,Unknown,https://hypedecay.com
+2026-02-08T02:40:59Z,Reddit (r/SideProject),scopeshield.cloud,100,172.67.209.102,Unknown,https://scopeshield.cloud
+2026-02-08T02:40:59Z,GitHub,golemcore.me,20,18.155.192.25,AWS,https://golemcore.me
+2026-02-08T02:40:59Z,GitHub,aegis-kappa-eight.vercel.app,40,64.29.17.131,Unknown,https://aegis-kappa-eight.vercel.app/
+2026-02-08T02:40:59Z,Reddit (r/SideProject),v0-v0prompttoproduction2026.vercel.app,100,216.198.79.131,Unknown,https://v0-v0prompttoproduction2026.vercel.app/browse
+2026-02-08T02:40:59Z,GitHub,manku-max.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://manku-max.github.io
+2026-02-08T02:40:59Z,Reddit (r/SideProject),onwatch.onllm.dev,100,89.117.27.122,Unknown,http://onwatch.onllm.dev
+2026-02-08T02:40:59Z,GitHub,confluxarena.org,25,104.26.5.117,Cloudflare,https://confluxarena.org/x402-demo
+2026-02-08T02:40:59Z,Reddit (r/SaaS),precogniai.com,90,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://precogniai.com/
+2026-02-08T02:40:59Z,GitHub,ampcode.com,20,34.54.147.251,GCP,https://ampcode.com
+2026-02-08T02:40:59Z,Reddit (r/SaaS),videoscore.app,100,216.198.79.1,Unknown,https://videoscore.app
+2026-02-08T02:40:59Z,Reddit (r/SaaS),screensorts.app,100,216.198.79.1,Unknown,https://screensorts.app/
+2026-02-08T02:40:59Z,GitHub,build-buddy-pi.vercel.app,40,216.198.79.131,Unknown,https://build-buddy-pi.vercel.app
+2026-02-08T02:40:59Z,GitHub,mattwarren.co,20,3.97.239.10,AWS,https://mattwarren.co
+2026-02-08T02:40:59Z,GitHub,zenalexa.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://zenalexa.github.io/glass-ripple/
+2026-02-08T02:40:59Z,GitHub,rotcsgame.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://rotcsgame.github.io/seksbot
+2026-02-08T02:40:59Z,GitHub,vaheed.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://vaheed.github.io/HER-Ai/
+2026-02-08T02:40:59Z,GitHub,iumairjamil.github.io,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://iumairjamil.github.io
+2026-02-08T02:40:59Z,Reddit (r/SaaS),pillarlabai.com,110,185.158.133.1,Unknown,https://pillarlabai.com/
+2026-02-08T02:40:59Z,GitHub,cf-ai-fishing-guru.taylor-white3.workers.dev,50,172.67.158.181,Unknown,https://cf-ai-fishing-guru.taylor-white3.workers.dev/
+2026-02-08T02:40:59Z,Reddit (r/SideProject),noaibills.app,90,52.52.192.191,AWS,https://noaibills.app/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=launch_sideproject
+2026-02-08T02:40:59Z,Reddit (r/SaaS),appramp.dev,100,172.67.197.73,Unknown,https://appramp.dev/
+2026-02-08T02:40:59Z,GitHub,note.com,20,65.8.180.106,server-65-8-180-106.sfo53.r.cloudfront.net.,https://note.com/aichan_openclaw
+2026-02-08T02:40:59Z,GitHub,7sitellc.com,20,34.174.186.164,GCP,http://7SiteLLC.com
+2026-02-08T02:40:59Z,GitHub,devstool.dev,40,216.198.79.1,Unknown,https://devstool.dev
+2026-02-08T02:40:59Z,Reddit (r/SideProject),findlight.uk,100,64.29.17.1,Unknown,https://www.findlight.uk/
+2026-02-08T02:40:59Z,Reddit (r/SideProject),formula1.plus,85,104.21.14.138,Cloudflare,https://formula1.plus
+2026-02-08T02:40:59Z,Reddit (r/SaaS),hiseven.live,80,135.181.150.43,static.43.150.181.135.clients.your-server.de.,http://hiseven.live
+2026-02-08T02:40:59Z,Reddit (r/SideProject),quickclaw.se,80,34.111.179.208,GCP,http://www.quickclaw.se
+2026-02-08T02:40:59Z,GitHub,systemprompt.io,20,66.241.124.85,ip-66-241-124-85.shared.customer.flyio.net.,https://systemprompt.io
