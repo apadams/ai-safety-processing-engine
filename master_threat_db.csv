@@ -3095,3 +3095,36 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-08T02:40:59Z,Reddit (r/SaaS),hiseven.live,80,135.181.150.43,static.43.150.181.135.clients.your-server.de.,http://hiseven.live
 2026-02-08T02:40:59Z,Reddit (r/SideProject),quickclaw.se,80,34.111.179.208,GCP,http://www.quickclaw.se
 2026-02-08T02:40:59Z,GitHub,systemprompt.io,20,66.241.124.85,ip-66-241-124-85.shared.customer.flyio.net.,https://systemprompt.io
+2026-02-09T02:18:44Z,Reddit (r/SideProject),creatives-hub.online,100,172.67.166.17,Unknown,https://creatives-hub.online/
+2026-02-09T02:18:44Z,Reddit (r/SaaS),meetingsai.app,110,216.198.79.1,Unknown,https://meetingsai.app/
+2026-02-09T02:18:44Z,Reddit (r/SideProject),ai-academy-learning.lovable.app,110,185.158.133.2,Unknown,https://ai-academy-learning.lovable.app/
+2026-02-09T02:18:44Z,Reddit (r/SaaS),screenshot-to-code.vibecode.run,85,104.248.2.97,Cloudflare,https://screenshot-to-code.vibecode.run
+2026-02-09T02:18:44Z,Reddit (r/SaaS),peptibase.dev,80,76.76.21.21,Vercel,http://peptibase.dev
+2026-02-09T02:18:44Z,Reddit (r/SideProject),ai-readme-generator-pied.vercel.app,110,64.29.17.67,Unknown,https://ai-readme-generator-pied.vercel.app
+2026-02-09T02:18:44Z,Reddit (r/SideProject),klateai.com,110,185.158.133.1,Unknown,http://klateai.com
+2026-02-09T02:18:44Z,Reddit (r/SideProject),molt-scope.com,85,104.21.6.68,Cloudflare,https://molt-scope.com
+2026-02-09T02:18:44Z,Reddit (r/SaaS),app.tstai.in,110,20.85.123.91,Unknown,https://app.tstai.in
+2026-02-09T02:18:44Z,GitHub,skool.com,25,104.26.1.43,Cloudflare,https://www.skool.com/ai-with-apex/about
+2026-02-09T02:18:44Z,Reddit (r/SideProject),clipsift.vercel.app,100,216.198.79.131,Unknown,http://clipsift.vercel.app
+2026-02-09T02:18:44Z,Reddit (r/SideProject),doingjapan.vercel.app,100,216.198.79.131,Unknown,https://doingjapan.vercel.app/en
+2026-02-09T02:18:44Z,Reddit (r/SaaS),synapse.cloudnerve.com,80,142.251.16.121,bl-in-f121.1e100.net.,https://synapse.cloudnerve.com/
+2026-02-09T02:18:44Z,Reddit (r/SideProject),firstvibe.app,80,216.24.57.7,Vercel,https://firstvibe.app
+2026-02-09T02:18:44Z,Reddit (r/SideProject),odieapp.com,100,64.29.17.65,Unknown,https://odieapp.com/
+2026-02-09T02:18:44Z,GitHub,clawdmint.xyz,20,98.84.224.111,AWS,https://clawdmint.xyz
+2026-02-09T02:18:44Z,Reddit (r/SideProject),catalyxt.cloud,100,216.198.79.1,Unknown,https://catalyxt.cloud
+2026-02-09T02:18:44Z,Reddit (r/SaaS),oculum.dev,100,216.198.79.1,Unknown,https://oculum.dev
+2026-02-09T02:18:44Z,Reddit (r/SaaS),nohumans.live,100,172.67.154.124,Unknown,https://nohumans.live
+2026-02-09T02:18:44Z,GitHub,mihai.codes,35,104.21.85.111,Cloudflare,https://mihai.codes
+2026-02-09T02:18:44Z,GitHub,mupengi-bot.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://mupengi-bot.github.io/mupengism
+2026-02-09T02:18:44Z,GitHub,block.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://block.github.io/goose/
+2026-02-09T02:18:44Z,Reddit (r/SideProject),madplaner.rasmusbendtsen.dk,80,198.23.134.23,mail6.cantonna.org.,https://madplaner.rasmusbendtsen.dk/
+2026-02-09T02:18:44Z,Reddit (r/SaaS),trusera.dev,100,172.67.169.146,Unknown,https://trusera.dev
+2026-02-09T02:18:44Z,GitHub,noor-ai-an-islamic-stories-app.vercel.app,50,64.29.17.67,Unknown,https://noor-ai-an-islamic-stories-app.vercel.app/
+2026-02-09T02:18:44Z,Reddit (r/SideProject),bite.delishable.app,100,191.101.104.19,Unknown,https://bite.delishable.app
+2026-02-09T02:18:44Z,GitHub,elara.navigatorbuilds.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://elara.navigatorbuilds.com
+2026-02-09T02:18:44Z,GitHub,agentskill.sh,35,104.21.28.245,Cloudflare,https://agentskill.sh
+2026-02-09T02:18:44Z,Reddit (r/SideProject),verdict-alpha.vercel.app,100,216.198.79.3,Unknown,https://verdict-alpha.vercel.app/
+2026-02-09T02:18:44Z,Reddit (r/SideProject),devmotion.app,80,167.235.67.205,static.205.67.235.167.clients.your-server.de.,https://devmotion.app/
+2026-02-09T02:18:44Z,GitHub,swarm-ai.org,50,216.198.79.1,Unknown,https://www.swarm-ai.org/
+2026-02-09T02:18:44Z,GitHub,flamehaven.space,20,153.92.8.216,srv40.niagahoster.com.,https://www.flamehaven.space
+2026-02-09T02:18:44Z,Reddit (r/SideProject),glyph.software,80,76.76.21.21,Vercel,http://glyph.software
