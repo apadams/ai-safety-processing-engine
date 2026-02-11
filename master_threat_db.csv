@@ -3157,3 +3157,38 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-10T02:36:10Z,GitHub,studiobrittany.com,40,198.49.23.144,Unknown,https://studiobrittany.com
 2026-02-10T02:36:10Z,GitHub,athinking.xyz,40,216.198.79.1,Unknown,https://www.athinking.xyz
 2026-02-10T02:36:10Z,Reddit (r/SideProject),upvote.social,80,213.175.200.150,nimrod.eukhosting.net.,http://upvote.social/
+2026-02-11T02:32:00Z,Reddit (r/SideProject),clawhosters.com,85,104.21.63.231,Cloudflare,http://clawhosters.com
+2026-02-11T02:32:00Z,Reddit (r/SaaS),infiniax.ai,90,34.111.179.208,GCP,https://infiniax.ai
+2026-02-11T02:32:00Z,Reddit (r/SideProject),transparentnews.org,100,172.67.160.184,Unknown,https://transparentnews.org
+2026-02-11T02:32:00Z,Reddit (r/SaaS),ragora.app,85,104.21.20.116,Cloudflare,https://ragora.app
+2026-02-11T02:32:00Z,Reddit (r/SideProject),chiefclaw.com,100,216.150.1.65,Unknown,http://chiefclaw.com/
+2026-02-11T02:32:00Z,Reddit (r/SideProject),breeva.app,85,104.21.27.67,Cloudflare,https://breeva.app
+2026-02-11T02:32:00Z,Reddit (r/SaaS),ssubfloww.com,100,172.67.188.134,Unknown,http://ssubfloww.com
+2026-02-11T02:32:00Z,GitHub,defillama.com,40,172.66.145.73,Unknown,https://defillama.com
+2026-02-11T02:32:00Z,GitHub,xitami.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://xitami.github.io/arbeitsmarkt-2035-analyse/
+2026-02-11T02:32:00Z,Reddit (r/SideProject),myceliapp.com,100,216.198.79.1,Unknown,http://Myceliapp.com
+2026-02-11T02:32:00Z,Reddit (r/SideProject),rebrandmyself.net,100,216.198.79.1,Unknown,http://rebrandmyself.net
+2026-02-11T02:32:00Z,Reddit (r/SideProject),atlarix.dev,100,216.198.79.1,Unknown,http://atlarix.dev
+2026-02-11T02:32:00Z,Reddit (r/SideProject),reddit-pilot-phi.vercel.app,100,216.198.79.3,Unknown,https://reddit-pilot-phi.vercel.app/
+2026-02-11T02:32:00Z,GitHub,bigmoostache.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://bigmoostache.github.io/context-pilot/
+2026-02-11T02:32:00Z,Reddit (r/SaaS),novyn.pstepanov.dev,100,216.198.79.65,Unknown,https://novyn.pstepanov.dev/
+2026-02-11T02:32:00Z,Reddit (r/SaaS),yokeai.app,110,216.198.79.1,Unknown,http://www.yokeai.app
+2026-02-11T02:32:00Z,Reddit (r/SideProject),tuckmein.app,100,216.150.16.193,Unknown,https://tuckmein.app/
+2026-02-11T02:32:00Z,Reddit (r/SideProject),nullgaze-ohm8.vercel.app,100,64.29.17.3,Unknown,https://nullgaze-ohm8.vercel.app
+2026-02-11T02:32:00Z,GitHub,ramsbaby.netlify.app,20,18.208.88.157,AWS,https://ramsbaby.netlify.app
+2026-02-11T02:32:00Z,Reddit (r/SaaS),writtte.com,85,172.64.80.1,Cloudflare,https://writtte.com
+2026-02-11T02:32:00Z,GitHub,neflibata-feng.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://neflibata-feng.github.io/MyArxiv-Agent/
+2026-02-11T02:32:00Z,GitHub,wiggum.app,40,172.67.215.58,Unknown,https://wiggum.app
+2026-02-11T02:32:00Z,Reddit (r/SideProject),motus-sigma.vercel.app,100,216.198.79.131,Unknown,https://motus-sigma.vercel.app/
+2026-02-11T02:32:00Z,Reddit (r/SaaS),interviewai360.com,90,91.108.121.170,srv1307060.hstgr.cloud.,https://interviewai360.com
+2026-02-11T02:32:00Z,GitHub,repos.supermodeltools.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://repos.supermodeltools.com/mcp/
+2026-02-11T02:32:00Z,GitHub,block-nature.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://block-nature.github.io/block-nature-ai-gallery/
+2026-02-11T02:32:00Z,Reddit (r/SideProject),mytinytale.ai,110,185.158.133.1,Unknown,https://mytinytale.ai/
+2026-02-11T02:32:00Z,GitHub,yushi.prodouga.com,25,104.21.44.196,Cloudflare,https://yushi.prodouga.com
+2026-02-11T02:32:00Z,Reddit (r/SideProject),salespire.io,80,162.0.212.2,alpha.supersonic.ai.,https://salespire.io/
+2026-02-11T02:32:00Z,GitHub,urlcheck.dev,40,185.158.133.1,Unknown,https://urlcheck.dev
+2026-02-11T02:32:00Z,GitHub,bullcheck.pontus-dorsay.workers.dev,40,172.67.216.36,Unknown,https://bullcheck.pontus-dorsay.workers.dev/
+2026-02-11T02:32:00Z,Reddit (r/SaaS),g3ner8.com,80,46.242.240.71,cloudserver3197561-3197592.home.pl.,http://www.g3ner8.com
+2026-02-11T02:32:00Z,GitHub,magic-point-to-read-v3.vercel.app,40,64.29.17.131,Unknown,https://magic-point-to-read-v3.vercel.app
+2026-02-11T02:32:00Z,GitHub,mill.mindrevolution.com,20,46.225.74.84,static.84.74.225.46.clients.your-server.de.,https://mill.mindrevolution.com
+2026-02-11T02:32:00Z,GitHub,poly-mcp.com,20,18.194.5.49,AWS,https://www.poly-mcp.com/
