@@ -3192,3 +3192,34 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-11T02:32:00Z,GitHub,magic-point-to-read-v3.vercel.app,40,64.29.17.131,Unknown,https://magic-point-to-read-v3.vercel.app
 2026-02-11T02:32:00Z,GitHub,mill.mindrevolution.com,20,46.225.74.84,static.84.74.225.46.clients.your-server.de.,https://mill.mindrevolution.com
 2026-02-11T02:32:00Z,GitHub,poly-mcp.com,20,18.194.5.49,AWS,https://www.poly-mcp.com/
+2026-02-12T02:18:23Z,Reddit (r/SaaS),storytracker.news,80,34.111.179.208,GCP,http://StoryTracker.news
+2026-02-12T02:18:23Z,Reddit (r/SideProject),thecookbook.ai,90,216.239.38.21,any-in-2615.1e100.net.,https://thecookbook.ai
+2026-02-12T02:18:23Z,Reddit (r/SideProject),rankai.ai,90,76.76.21.21,Vercel,https://rankai.ai/#case-studies
+2026-02-12T02:18:23Z,Reddit (r/SaaS),kopi.so,100,216.150.1.1,Unknown,http://kopi.so/
+2026-02-12T02:18:23Z,Reddit (r/SideProject),wanderwell.tech,80,76.76.21.21,Vercel,https://wanderwell.tech/
+2026-02-12T02:18:23Z,Reddit (r/SideProject),wetikohowl.world,100,216.198.79.65,Unknown,https://Wetikohowl.world
+2026-02-12T02:18:23Z,GitHub,bug-ops.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://bug-ops.github.io/zeph/
+2026-02-12T02:18:23Z,Reddit (r/SideProject),opentweet.io,100,139.59.142.52,Unknown,https://opentweet.io
+2026-02-12T02:18:23Z,GitHub,docs.cdp.coinbase.com,20,76.76.21.98,Vercel,https://docs.cdp.coinbase.com/
+2026-02-12T02:18:23Z,Reddit (r/SaaS),tailorresumeai.app,90,216.24.57.251,Vercel,https://tailorresumeai.app/Home
+2026-02-12T02:18:23Z,Reddit (r/SideProject),calculatemyroi.com,80,76.76.21.21,Vercel,https://www.calculatemyroi.com/
+2026-02-12T02:18:23Z,Reddit (r/SideProject),ai-search-check.com,110,172.67.181.87,Unknown,http://ai-search-check.com
+2026-02-12T02:18:23Z,GitHub,robutsume.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://robutsume.github.io/
+2026-02-12T02:18:23Z,Reddit (r/SaaS),fanfuel.art,100,216.198.79.1,Unknown,https://www.fanfuel.art/
+2026-02-12T02:18:23Z,Reddit (r/SaaS),retainer-ai-waitlist.vercel.app,110,216.198.79.67,Unknown,https://retainer-ai-waitlist.vercel.app
+2026-02-12T02:18:23Z,GitHub,penfield.app,40,172.67.196.147,Unknown,https://penfield.app
+2026-02-12T02:18:23Z,Reddit (r/SideProject),midsummerr.com,100,172.67.189.95,Unknown,https://www.midsummerr.com/listen
+2026-02-12T02:18:23Z,GitHub,xiaobei930.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://xiaobei930.github.io/cc-best/
+2026-02-12T02:18:23Z,Reddit (r/SaaS),linkdify.io,85,104.21.42.81,Cloudflare,http://Linkdify.io
+2026-02-12T02:18:23Z,Reddit (r/SideProject),botview.app,110,172.67.223.35,Unknown,https://botview.app
+2026-02-12T02:18:23Z,Reddit (r/SideProject),trypromptpro.com,100,172.67.166.36,Unknown,http://trypromptpro.com
+2026-02-12T02:18:23Z,GitHub,cerebralvalley.ai,50,216.150.16.193,Unknown,https://cerebralvalley.ai/e/claude-code-hackathon
+2026-02-12T02:18:23Z,GitHub,kiki2555.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://kiki2555.github.io
+2026-02-12T02:18:23Z,Reddit (r/SaaS),instantjarvis.com,100,216.150.1.1,Unknown,https://instantjarvis.com
+2026-02-12T02:18:23Z,Reddit (r/SideProject),eolas-app.com,80,99.83.231.61,acd89244c803f7181.awsglobalaccelerator.com.,http://www.eolas-app.com
+2026-02-12T02:18:23Z,GitHub,deadends.dev,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://deadends.dev
+2026-02-12T02:18:23Z,Reddit (r/SideProject),themillionlines.com,100,216.150.1.1,Unknown,https://www.themillionlines.com
+2026-02-12T02:18:23Z,GitHub,gamescout-ai.vercel.app,50,64.29.17.131,Unknown,https://gamescout-ai.vercel.app
+2026-02-12T02:18:23Z,Reddit (r/SideProject),soul.md,80,185.199.109.153,cdn-185-199-109-153.github.com.,http://SOUL.md
+2026-02-12T02:18:23Z,Reddit (r/SaaS),brandflow.dev,100,66.33.22.176,Unknown,https://brandflow.dev/
+2026-02-12T02:18:23Z,GitHub,openclawautomation.ai,50,216.150.1.1,Unknown,https://www.openclawautomation.ai/
