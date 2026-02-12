@@ -28,13 +28,7 @@ This repo uses **GitHub Actions** to run autonomously.
 * **Action:** Runs `ingest/main.go --mode=daily`.
 * **Output:** Commits new threats to `master_threat_db.csv` inside this repo.
 
-### 2. The Weekly Release (`.github/workflows/weekly-release.yml`)
-* **Schedule:** Every Sunday at 00:00 UTC.
-* **Action:** Runs `publisher/main.go`.
-* **Output:** Pushes `shadow-ai-lite.txt` to the **Public Repository**.
-* **Requirement:** Needs `PUBLIC_REPO_TOKEN` secret.
-
-## 🛠️ Local Development (Antigravity)
+## 🛠️ Local Development 
 
 **Prerequisites:**
 * Go 1.21+
