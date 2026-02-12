@@ -2,8 +2,8 @@ name: Daily Threat Intel Ingest
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
-  workflow_dispatch: # Allows you to click "Run Now" manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-db:
@@ -19,7 +19,6 @@ jobs:
 
       - name: Run Ingestor (Daily Delta)
         run: go run main.go
-        # Note: Ensure your main.go accepts flags, or just run the specific file
 
       - name: Commit Updated DB
         run: |
@@ -28,27 +27,6 @@ jobs:
           git add master_threat_db.csv
           git commit -m "Daily Intel Update: $(date +'%Y-%m-%d')" || exit 0
           git push
-
-      - name: Prepare Pro Export
-        run: |
-          mkdir pro_export
-          cp master_threat_db.csv pro_export/
-          
-          # Optional: Create a README for the data repo so it looks professional
-          echo "# Enterprise Threat Database" > pro_export/README.md
-          echo "Updated daily by SentinelFlow Engine." >> pro_export/README.md
-
-      - name: Push to Pro Data Repo
-        uses: cpina/github-action-push-to-another-repository@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.PUBLIC_REPO_TOKEN }}
-        with:
-          source-directory: 'pro_export'   # <--- CHANGED: Use directory, not file
-          destination-github-username: 'Tobiwan-Cloud-Solutions'
-          destination-repository-name: 'ai-safety-data-pro'
-          user-email: 'bot@sentinelflow.io'
-          target-branch: main
-          commit-message: "Daily Intel Update"
 
 
       
