@@ -3246,3 +3246,28 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-13T02:21:12Z,Reddit (r/SaaS),satori.sh,100,216.150.1.1,Unknown,https://satori.sh
 2026-02-13T02:21:12Z,Reddit (r/SideProject),choozza.com,80,34.111.179.208,GCP,https://choozza.com/experience/76
 2026-02-13T02:21:12Z,GitHub,the-nexus-guard.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://the-nexus-guard.github.io/aip/
+2026-02-14T02:08:53Z,Reddit (r/SideProject),unfairgaps.com,110,172.67.172.55,Unknown,https://unfairgaps.com/
+2026-02-14T02:08:53Z,Reddit (r/SaaS),mimir.build,100,216.150.1.1,Unknown,https://www.mimir.build/
+2026-02-14T02:08:53Z,Reddit (r/SideProject),resellchecker.com,100,216.198.79.1,Unknown,http://www.resellchecker.com
+2026-02-14T02:08:53Z,Reddit (r/SaaS),hypeframe.ai,110,216.198.79.1,Unknown,http://hypeframe.ai
+2026-02-14T02:08:53Z,Reddit (r/SideProject),realsmile.online,100,216.198.79.1,Unknown,http://realsmile.online
+2026-02-14T02:08:53Z,GitHub,byrktrofficial.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://byrktrofficial.github.io
+2026-02-14T02:08:53Z,GitHub,moltis.org,40,172.67.163.175,Unknown,https://moltis.org
+2026-02-14T02:08:53Z,Reddit (r/SideProject),usesnippet.app,80,52.0.225.58,AWS,https://usesnippet.app
+2026-02-14T02:08:53Z,Reddit (r/SideProject),thedossier.xyz,100,216.198.79.1,Unknown,https://www.thedossier.xyz/
+2026-02-14T02:08:53Z,Reddit (r/SaaS),vorch.co,100,216.198.79.1,Unknown,https://vorch.co/
+2026-02-14T02:08:53Z,GitHub,agentaudit.dev,50,216.150.1.1,Unknown,https://agentaudit.dev
+2026-02-14T02:08:53Z,GitHub,useagentpay.com,30,52.33.207.7,AWS,https://useagentpay.com
+2026-02-14T02:08:53Z,GitHub,pactkit.dev,40,172.67.160.213,Unknown,https://pactkit.dev
+2026-02-14T02:08:53Z,GitHub,akompani.cc,25,172.64.80.1,Cloudflare,http://akompani.cc/
+2026-02-14T02:08:53Z,GitHub,jfarcand.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://jfarcand.github.io/iphone-mirroir-mcp/
+2026-02-14T02:08:53Z,GitHub,cardsorting.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://cardsorting.github.io/mariecoderweb/
+2026-02-14T02:08:53Z,GitHub,rubysthedog.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://rubysthedog.github.io
+2026-02-14T02:08:53Z,Reddit (r/SaaS),wecatchai.com,110,40.70.147.10,Unknown,http://WeCatchAI.com
+2026-02-14T02:08:53Z,Reddit (r/SaaS),propertylensai.lovable.app,110,185.158.133.1,Unknown,https://propertylensai.lovable.app
+2026-02-14T02:08:53Z,GitHub,decodo.com,25,104.20.21.191,Cloudflare,https://decodo.com
+2026-02-14T02:08:53Z,Reddit (r/SaaS),joingarden.ai,90,216.24.57.7,Vercel,https://www.joingarden.ai/
+2026-02-14T02:08:53Z,GitHub,chatwidget.bot,35,104.21.29.234,Cloudflare,https://chatwidget.bot/mobile_agent.html?companyId=698b8a54318f15cc75373fe5&botId=BOTID1770752682019&agentId=698b8a54318f15cc75373fe5
+2026-02-14T02:08:53Z,Reddit (r/SideProject),textkitapi.com,80,74.208.236.40,74-208-236-40.elastic-ssl.ui-r.com.,https://www.textkitapi.com
+2026-02-14T02:08:53Z,Reddit (r/SaaS),superun.ai,110,170.106.112.112,Unknown,http://superun.ai
+2026-02-14T02:08:53Z,Reddit (r/SaaS),crator.ai,110,216.198.79.1,Unknown,https://crator.ai
