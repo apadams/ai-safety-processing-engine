@@ -3271,3 +3271,37 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-14T02:08:53Z,Reddit (r/SideProject),textkitapi.com,80,74.208.236.40,74-208-236-40.elastic-ssl.ui-r.com.,https://www.textkitapi.com
 2026-02-14T02:08:53Z,Reddit (r/SaaS),superun.ai,110,170.106.112.112,Unknown,http://superun.ai
 2026-02-14T02:08:53Z,Reddit (r/SaaS),crator.ai,110,216.198.79.1,Unknown,https://crator.ai
+2026-02-15T02:20:15Z,Reddit (r/SideProject),usenix.org,85,104.21.9.67,Cloudflare,https://www.usenix.org/conference/usenixsecurity25/presentation/zou-yunkai
+2026-02-15T02:20:15Z,Reddit (r/SideProject),getnudged.ai,90,76.76.21.21,Vercel,https://getnudged.ai?utm_source=reddit_adhd
+2026-02-15T02:20:15Z,Reddit (r/SideProject),kitful.ai,95,104.21.34.104,Cloudflare,http://kitful.ai/write-tools/serp-content-analyzer
+2026-02-15T02:20:15Z,Reddit (r/SideProject),maevein.andsnetwork.com,100,64.29.17.1,Unknown,http://maevein.andsnetwork.com
+2026-02-15T02:20:15Z,Reddit (r/SaaS),feedb.co,100,216.198.79.1,Unknown,https://feedb.co/
+2026-02-15T02:20:15Z,Reddit (r/SideProject),tabiji.ai,110,172.67.212.65,Unknown,https://tabiji.ai
+2026-02-15T02:20:15Z,Reddit (r/SaaS),screen.studio,80,76.76.21.21,Vercel,https://screen.studio/share/awQrpQ9i
+2026-02-15T02:20:15Z,Reddit (r/SaaS),rizzmaker.vercel.app,100,216.198.79.67,Unknown,https://rizzmaker.vercel.app/
+2026-02-15T02:20:15Z,Reddit (r/SideProject),turtlenoir.com,100,172.67.144.136,Unknown,https://turtlenoir.com
+2026-02-15T02:20:15Z,Reddit (r/SaaS),stetos.co,100,216.150.1.129,Unknown,https://stetos.co/s/ik6m19v1
+2026-02-15T02:20:15Z,Reddit (r/SideProject),waitlist.maxgent.ai,90,3.168.86.2,AWS,https://waitlist.maxgent.ai/
+2026-02-15T02:20:15Z,Reddit (r/SaaS),heymeetai.com,110,216.198.79.65,Unknown,https://www.heymeetai.com
+2026-02-15T02:20:15Z,Reddit (r/SaaS),openclaw.unloopa.com,80,76.76.21.21,Vercel,https://openclaw.unloopa.com/
+2026-02-15T02:20:15Z,GitHub,greetdeck.io,40,64.29.17.65,Unknown,https://greetdeck.io
+2026-02-15T02:20:15Z,GitHub,zemloai-api.onrender.com,30,216.24.57.7,Vercel,https://zemloai-api.onrender.com
+2026-02-15T02:20:15Z,GitHub,tinyclaw.ai,35,104.21.78.22,Cloudflare,https://tinyclaw.ai
+2026-02-15T02:20:15Z,GitHub,omegamax.co,20,76.76.21.21,Vercel,https://omegamax.co
+2026-02-15T02:20:15Z,Reddit (r/SideProject),get-fovea.app,100,172.67.205.22,Unknown,https://get-fovea.app/
+2026-02-15T02:20:15Z,Reddit (r/SideProject),aurasearch.app,80,34.111.179.208,GCP,https://aurasearch.app/
+2026-02-15T02:20:15Z,Reddit (r/SaaS),blog2video.app,100,64.29.17.1,Unknown,https://blog2video.app/
+2026-02-15T02:20:15Z,GitHub,hales.ai,30,134.199.239.171,hales.ai-n8n-main-2025.,https://hales.ai
+2026-02-15T02:20:15Z,Reddit (r/SideProject),fluxstudio.vercel.app,100,216.198.79.195,Unknown,https://fluxstudio.vercel.app/
+2026-02-15T02:20:15Z,GitHub,yaoapps.com,25,104.21.37.228,Cloudflare,http://yaoapps.com
+2026-02-15T02:20:15Z,GitHub,aofp.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://aofp.github.io/yume/
+2026-02-15T02:20:15Z,GitHub,ai-deterministic-ui-generator.vercel.app,50,216.198.79.67,Unknown,https://ai-deterministic-ui-generator.vercel.app
+2026-02-15T02:20:15Z,GitHub,tunnelagent.dev,50,172.67.147.183,Unknown,https://tunnelagent.dev
+2026-02-15T02:20:15Z,Reddit (r/SideProject),skiplec.com,100,172.67.142.175,Unknown,https://skiplec.com/
+2026-02-15T02:20:15Z,GitHub,utility.kaijusolutions.ca,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://utility.kaijusolutions.ca
+2026-02-15T02:20:15Z,GitHub,clumcloud.com,40,216.198.79.1,Unknown,https://www.clumcloud.com
+2026-02-15T02:20:15Z,Reddit (r/SideProject),clawtrace.dev,100,216.198.79.1,Unknown,https://clawtrace.dev
+2026-02-15T02:20:15Z,Reddit (r/SideProject),stockainsights.com,110,216.198.79.1,Unknown,http://www.stockainsights.com
+2026-02-15T02:20:15Z,Reddit (r/SideProject),foodcraft.app,80,51.38.53.22,ns3107270.ip-51-38-53.eu.,https://foodcraft.app/en
+2026-02-15T02:20:15Z,Reddit (r/SideProject),openreq.app,80,194.164.49.218,ip194-164-49-218.pbiaas.com.,https://openreq.app/
+2026-02-15T02:20:15Z,Reddit (r/SideProject),alphasignal.fund,100,159.89.88.38,Unknown,https://alphasignal.fund
