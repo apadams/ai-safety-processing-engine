@@ -3305,3 +3305,37 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-15T02:20:15Z,Reddit (r/SideProject),foodcraft.app,80,51.38.53.22,ns3107270.ip-51-38-53.eu.,https://foodcraft.app/en
 2026-02-15T02:20:15Z,Reddit (r/SideProject),openreq.app,80,194.164.49.218,ip194-164-49-218.pbiaas.com.,https://openreq.app/
 2026-02-15T02:20:15Z,Reddit (r/SideProject),alphasignal.fund,100,159.89.88.38,Unknown,https://alphasignal.fund
+2026-02-16T02:15:58Z,Reddit (r/SaaS),chirps.cc,80,34.61.9.172,GCP,http://Chirps.cc
+2026-02-16T02:15:58Z,Reddit (r/SideProject),firl.nl,100,172.66.0.96,Unknown,https://firl.nl/research/blog/Manifesto/
+2026-02-16T02:15:58Z,Reddit (r/SideProject),competitive-system-web.vercel.app,100,216.198.79.67,Unknown,https://competitive-system-web.vercel.app
+2026-02-16T02:15:58Z,Reddit (r/SaaS),salesai-main.vercel.app,110,64.29.17.67,Unknown,http://salesai-main.vercel.app
+2026-02-16T02:15:58Z,Reddit (r/SideProject),waynav.quest,100,216.198.79.65,Unknown,https://waynav.quest/
+2026-02-16T02:15:58Z,Reddit (r/SaaS),gtmnow.com,100,162.159.135.42,Unknown,https://gtmnow.com/arr-vs-err-why-every-dollar-isnt-equal/
+2026-02-16T02:15:58Z,Reddit (r/SideProject),jobound.io,100,216.198.79.1,Unknown,https://jobound.io
+2026-02-16T02:15:58Z,Reddit (r/SideProject),initrunner.ai,110,216.198.79.1,Unknown,https://www.initrunner.ai/
+2026-02-16T02:15:58Z,Reddit (r/SideProject),imposter.pro,100,216.198.79.1,Unknown,http://imposter.pro
+2026-02-16T02:15:58Z,Reddit (r/SideProject),lnkdly.com,100,216.198.79.1,Unknown,http://lnkdly.com
+2026-02-16T02:15:58Z,Reddit (r/SideProject),simpleclaw.shop,100,216.198.79.1,Unknown,http://simpleclaw.shop
+2026-02-16T02:15:58Z,Reddit (r/SideProject),marimood.com,100,216.198.79.1,Unknown,https://www.marimood.com/
+2026-02-16T02:15:58Z,GitHub,ko-fi.com,25,104.20.38.66,Cloudflare,https://ko-fi.com/s/a41fa4588d
+2026-02-16T02:15:58Z,GitHub,citedy.com,25,104.21.32.66,Cloudflare,https://www.citedy.com
+2026-02-16T02:15:58Z,GitHub,claudeking-dashboard.vercel.app,40,216.198.79.67,Unknown,https://claudeking-dashboard.vercel.app
+2026-02-16T02:15:58Z,GitHub,openclaw.ai,50,216.150.1.1,Unknown,https://openclaw.ai
+2026-02-16T02:15:58Z,GitHub,irahardianto.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://irahardianto.github.io/antigravity-setup/
+2026-02-16T02:15:58Z,GitHub,george923.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://george923.github.io
+2026-02-16T02:15:58Z,Reddit (r/SideProject),simul8or.com,100,65.19.178.211,Unknown,http://simul8or.com
+2026-02-16T02:15:58Z,GitHub,agentic-trust-labs.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://agentic-trust-labs.github.io/glassbox-ai/
+2026-02-16T02:15:58Z,GitHub,sike3e.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://sike3e.github.io
+2026-02-16T02:15:58Z,GitHub,daymon.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,http://daymon.io
+2026-02-16T02:15:58Z,GitHub,futureproof.daza.ar,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://futureproof.daza.ar
+2026-02-16T02:15:58Z,GitHub,clawland.ai,50,172.67.75.230,Unknown,https://clawland.ai
+2026-02-16T02:15:58Z,GitHub,agentskills.io,30,76.76.21.21,Vercel,https://agentskills.io
+2026-02-16T02:15:58Z,GitHub,smicolon.com,20,65.8.54.3,server-65-8-54-3.sfo53.r.cloudfront.net.,https://smicolon.com
+2026-02-16T02:15:58Z,GitHub,projectlancelot.dev,40,216.198.79.1,Unknown,https://projectlancelot.dev
+2026-02-16T02:15:58Z,GitHub,novel-copilot.doctoroyy.net,40,172.67.195.186,Unknown,https://novel-copilot.doctoroyy.net/
+2026-02-16T02:15:58Z,GitHub,code.hybscloud.com,40,20.109.133.32,Unknown,https://code.hybscloud.com/
+2026-02-16T02:15:58Z,Reddit (r/SideProject),alu.pics,100,64.29.17.65,Unknown,http://alu.pics/
+2026-02-16T02:15:58Z,Reddit (r/SaaS),agentmeter.edesto.com,90,142.251.46.179,nuq04s44-in-f19.1e100.net.,http://agentmeter.edesto.com
+2026-02-16T02:15:58Z,GitHub,packagist.org,20,143.244.49.183,143-244-49-183.bunnyinfra.net.,https://packagist.org/packages/izzuddinmohsin/neuron-sqlserver-toolkit
+2026-02-16T02:15:58Z,Reddit (r/SaaS),creatr-ai.com,90,37.27.193.76,static.76.193.27.37.clients.your-server.de.,https://creatr-ai.com
+2026-02-16T02:15:59Z,GitHub,knowlyr.com,40,8.159.150.234,Unknown,https://knowlyr.com/opensource/data-recipe.html
