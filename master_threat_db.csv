@@ -3339,3 +3339,39 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-16T02:15:58Z,GitHub,packagist.org,20,143.244.49.183,143-244-49-183.bunnyinfra.net.,https://packagist.org/packages/izzuddinmohsin/neuron-sqlserver-toolkit
 2026-02-16T02:15:58Z,Reddit (r/SaaS),creatr-ai.com,90,37.27.193.76,static.76.193.27.37.clients.your-server.de.,https://creatr-ai.com
 2026-02-16T02:15:59Z,GitHub,knowlyr.com,40,8.159.150.234,Unknown,https://knowlyr.com/opensource/data-recipe.html
+2026-02-17T02:13:45Z,Reddit (r/SaaS),lithora.io,80,35.170.130.110,GCP,https://lithora.io
+2026-02-17T02:13:45Z,Reddit (r/SaaS),cur.to,100,172.67.199.64,Unknown,https://cur.to/whaj
+2026-02-17T02:13:45Z,Reddit (r/SaaS),ai.plottie.art,95,104.21.45.127,Cloudflare,https://ai.plottie.art
+2026-02-17T02:13:45Z,Reddit (r/SideProject),ugcjam.com,100,216.198.79.1,Unknown,https://ugcjam.com
+2026-02-17T02:13:45Z,GitHub,ycagent.ai,60,216.198.79.1,Unknown,https://ycagent.ai
+2026-02-17T02:13:45Z,GitHub,aio-core.vercel.app,50,216.198.79.67,Unknown,https://aio-core.vercel.app/
+2026-02-17T02:13:45Z,GitHub,gigamaster.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://gigamaster.github.io/notesdb/
+2026-02-17T02:13:45Z,GitHub,montage-tecg.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://montage-tecg.github.io
+2026-02-17T02:13:45Z,GitHub,gizmo212215.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://gizmo212215.github.io
+2026-02-17T02:13:45Z,GitHub,pphouse.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://pphouse.github.io/screenpilot/
+2026-02-17T02:13:45Z,Reddit (r/SaaS),agentvault-two.vercel.app,110,64.29.17.3,Unknown,https://agentvault-two.vercel.app/
+2026-02-17T02:13:45Z,GitHub,clawmetry.com,20,216.239.34.21,any-in-2215.1e100.net.,https://clawmetry.com
+2026-02-17T02:13:45Z,GitHub,subhashkhileri.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://subhashkhileri.github.io/agntree/
+2026-02-17T02:13:45Z,Reddit (r/SaaS),cabbageseo.com,100,216.150.1.1,Unknown,https://www.cabbageseo.com/
+2026-02-17T02:13:45Z,GitHub,cyberstrike.io,25,104.21.83.161,Cloudflare,https://cyberstrike.io
+2026-02-17T02:13:45Z,Reddit (r/SideProject),useautomated.com,80,31.43.161.6,sites.framer.app.,https://useautomated.com/
+2026-02-17T02:13:45Z,GitHub,cognition-engines.ai,35,104.21.45.11,Cloudflare,https://cognition-engines.ai
+2026-02-17T02:13:45Z,Reddit (r/SaaS),soundmakr.io,100,172.67.215.121,Unknown,https://soundmakr.io/
+2026-02-17T02:13:45Z,Reddit (r/SideProject),travelwithsira.com,100,216.198.79.1,Unknown,http://www.travelwithsira.com
+2026-02-17T02:13:45Z,GitHub,contextsubstrate.superdocs.cloud,40,216.198.79.1,Unknown,https://contextsubstrate.superdocs.cloud/
+2026-02-17T02:13:45Z,Reddit (r/SideProject),listaza.app,100,216.198.79.1,Unknown,https://listaza.app
+2026-02-17T02:13:45Z,GitHub,creel-ai.com,50,216.198.79.1,Unknown,https://creel-ai.com
+2026-02-17T02:13:45Z,GitHub,corvid-agent.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://corvid-agent.github.io/agent-profile/
+2026-02-17T02:13:45Z,GitHub,westphaljonas.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://westphaljonas.github.io/x-bot/
+2026-02-17T02:13:45Z,Reddit (r/SideProject),stracti.com,100,147.79.120.84,Unknown,https://stracti.com/
+2026-02-17T02:13:45Z,GitHub,confidant.one,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://confidant.one/
+2026-02-17T02:13:45Z,GitHub,fan0tashi.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://fan0tashi.github.io
+2026-02-17T02:13:45Z,GitHub,gabrielcardoso30.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://gabrielcardoso30.github.io/devai-prompts/
+2026-02-17T02:13:45Z,GitHub,autoclaw.co,40,216.198.79.1,Unknown,https://autoclaw.co
+2026-02-17T02:13:45Z,GitHub,wolf-cha.com,40,216.198.79.1,Unknown,https://wolf-cha.com
+2026-02-17T02:13:45Z,Reddit (r/SideProject),kokofinance.net,80,216.239.32.21,any-in-2015.1e100.net.,https://kokofinance.net
+2026-02-17T02:13:45Z,GitHub,dora.so,40,216.198.79.1,Unknown,https://dora.so
+2026-02-17T02:13:45Z,Reddit (r/SideProject),agents.md,110,64.239.109.1,Unknown,http://AGENTS.md
+2026-02-17T02:13:45Z,GitHub,izan.io,20,18.244.214.73,AWS,https://izan.io
+2026-02-17T02:13:45Z,Reddit (r/SideProject),unawkward.app,80,185.170.212.135,ip-185-170-212-135-134284.vps.hosted-by-mvps.net.,https://unawkward.app
+2026-02-17T02:13:46Z,GitHub,spacemars.ai,30,187.77.80.196,srv1381422.hstgr.cloud.,https://spacemars.ai
