@@ -3375,3 +3375,32 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-17T02:13:45Z,GitHub,izan.io,20,18.244.214.73,AWS,https://izan.io
 2026-02-17T02:13:45Z,Reddit (r/SideProject),unawkward.app,80,185.170.212.135,ip-185-170-212-135-134284.vps.hosted-by-mvps.net.,https://unawkward.app
 2026-02-17T02:13:46Z,GitHub,spacemars.ai,30,187.77.80.196,srv1381422.hstgr.cloud.,https://spacemars.ai
+2026-02-18T02:17:47Z,Reddit (r/SideProject),smallacts.app,80,52.52.192.191,AWS,https://smallacts.app
+2026-02-18T02:17:47Z,Reddit (r/SaaS),gofetchapp.ca,80,216.24.57.1,Vercel,http://Gofetchapp.ca
+2026-02-18T02:17:47Z,Reddit (r/SaaS),monara.vip,100,216.198.79.1,Unknown,https://www.monara.vip/
+2026-02-18T02:17:47Z,GitHub,httpay.xyz,40,216.198.79.1,Unknown,https://httpay.xyz
+2026-02-18T02:17:47Z,Reddit (r/SideProject),knot-app.co,100,216.198.79.1,Unknown,https://knot-app.co/
+2026-02-18T02:17:47Z,GitHub,clw.cash,25,104.21.42.231,Cloudflare,https://clw.cash
+2026-02-18T02:17:47Z,GitHub,recall-docs-sand.vercel.app,40,64.29.17.3,Unknown,https://recall-docs-sand.vercel.app
+2026-02-18T02:17:47Z,GitHub,academiciq.vercel.app,40,216.198.79.3,Unknown,https://academiciq.vercel.app/
+2026-02-18T02:17:47Z,Reddit (r/SideProject),matchedbeauty.me,100,216.150.16.193,Unknown,https://matchedbeauty.me
+2026-02-18T02:17:47Z,GitHub,zacharyzcr.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://zacharyzcr.github.io/NLUI/
+2026-02-18T02:17:47Z,GitHub,relaygent.ai,30,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://relaygent.ai
+2026-02-18T02:17:47Z,GitHub,bmsuisse.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://bmsuisse.github.io/httpxr/
+2026-02-18T02:17:47Z,GitHub,niiyeboah.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://niiyeboah.github.io/daemon/
+2026-02-18T02:17:47Z,GitHub,mirroir.dev,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://mirroir.dev
+2026-02-18T02:17:47Z,GitHub,theauroraai.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://theauroraai.github.io/blog/why-i-built-alive.html
+2026-02-18T02:17:47Z,GitHub,mcptoolshop.com,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://mcptoolshop.com/tools/mcp-voice-soundboard/
+2026-02-18T02:17:47Z,GitHub,prompts.datalin.com.br,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://prompts.datalin.com.br/
+2026-02-18T02:17:47Z,GitHub,clawbridge.ai,35,104.21.71.44,Cloudflare,https://clawbridge.ai
+2026-02-18T02:17:47Z,Reddit (r/SideProject),inkundo.app,100,64.29.17.65,Unknown,https://inkundo.app/
+2026-02-18T02:17:47Z,Reddit (r/SaaS),weeziq.com,100,216.198.79.1,Unknown,https://www.weeziq.com/
+2026-02-18T02:17:47Z,Reddit (r/SideProject),diffen.ai,95,104.21.23.237,Cloudflare,http://diffen.ai
+2026-02-18T02:17:47Z,Reddit (r/SaaS),finault.ai,95,104.21.41.37,Cloudflare,https://finault.ai/audit
+2026-02-18T02:17:47Z,Reddit (r/SideProject),pilotprotocol.network,100,172.67.165.193,Unknown,https://pilotprotocol.network/
+2026-02-18T02:17:47Z,Reddit (r/SaaS),pixelmotion.io,100,216.198.79.1,Unknown,http://pixelmotion.io
+2026-02-18T02:17:47Z,Reddit (r/SaaS),clawbuild.ai,110,216.150.1.1,Unknown,http://Clawbuild.ai
+2026-02-18T02:17:47Z,GitHub,zene.run,40,172.67.212.8,Unknown,https://zene.run
+2026-02-18T02:17:47Z,GitHub,spacesq.org,40,216.198.79.65,Unknown,https://spacesq.org
+2026-02-18T02:17:47Z,GitHub,molthands.com,40,66.33.60.193,Unknown,https://molthands.com
+2026-02-18T02:17:47Z,GitHub,aithon.tech,30,50.6.4.238,server.visionarynow.com.,https://aithon.tech
