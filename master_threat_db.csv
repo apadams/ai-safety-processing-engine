@@ -3444,3 +3444,30 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-19T02:15:31Z,GitHub,promptly-ten-sooty.vercel.app,40,216.198.79.195,Unknown,https://promptly-ten-sooty.vercel.app
 2026-02-19T02:15:31Z,GitHub,crewai-gmail-agent.up.railway.app,60,66.33.22.4,Unknown,https://crewai-gmail-agent.up.railway.app
 2026-02-19T02:15:32Z,GitHub,mastermind.pyserve.org,40,45.12.74.8,Unknown,https://mastermind.pyserve.org
+2026-02-20T02:11:36Z,Reddit (r/SaaS),getcommish.io,85,104.21.83.243,Cloudflare,https://getcommish.io/
+2026-02-20T02:11:36Z,Reddit (r/SideProject),musiclaw.app,80,76.76.21.21,Vercel,http://musiclaw.app/
+2026-02-20T02:11:36Z,GitHub,wireclaw.io,20,18.208.88.157,AWS,https://wireclaw.io
+2026-02-20T02:11:36Z,Reddit (r/SideProject),mailtail.io,95,104.21.29.78,Cloudflare,https://mailtail.io
+2026-02-20T02:11:36Z,GitHub,visieasy.com,40,172.66.0.96,Unknown,https://visieasy.com
+2026-02-20T02:11:36Z,Reddit (r/SideProject),auxillo.health,100,216.198.79.1,Unknown,http://auxillo.health
+2026-02-20T02:11:36Z,GitHub,yourfocus.io,40,216.198.79.1,Unknown,https://yourfocus.io
+2026-02-20T02:11:36Z,Reddit (r/SaaS),iogate.net,85,104.21.76.242,Cloudflare,http://iogate.net
+2026-02-20T02:11:36Z,Reddit (r/SaaS),multifyco.com,85,104.21.12.194,Cloudflare,https://multifyco.com
+2026-02-20T02:11:36Z,Reddit (r/SideProject),creader.io,100,216.150.1.129,Unknown,http://Creader.io
+2026-02-20T02:11:36Z,Reddit (r/SideProject),nymio.app,100,216.150.1.1,Unknown,https://www.nymio.app
+2026-02-20T02:11:36Z,GitHub,democrito-design-system.lovable.app,40,185.41.148.2,Unknown,https://democrito-design-system.lovable.app
+2026-02-20T02:11:36Z,Reddit (r/SaaS),computer-agents.com,110,199.36.158.100,Unknown,https://computer-agents.com/
+2026-02-20T02:11:36Z,GitHub,labs.moski.co.uk,40,199.36.158.100,Unknown,https://labs.moski.co.uk/protocol
+2026-02-20T02:11:36Z,GitHub,mindforhire.xyz,20,34.111.179.208,GCP,https://mindforhire.xyz
+2026-02-20T02:11:36Z,GitHub,jerry.geekatron.org,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://jerry.geekatron.org
+2026-02-20T02:11:36Z,GitHub,humanbrowser.dev,40,64.29.17.1,Unknown,https://humanbrowser.dev
+2026-02-20T02:11:36Z,GitHub,ryanmeg123.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://ryanmeg123.github.io/openclaw-monitor
+2026-02-20T02:11:36Z,GitHub,kotkit.pro,20,66.241.125.243,ip-66-241-125-243.shared.customer.flyio.net.,https://kotkit.pro/
+2026-02-20T02:11:36Z,Reddit (r/SaaS),orighub.com,100,216.198.79.1,Unknown,https://orighub.com
+2026-02-20T02:11:36Z,GitHub,nextjs-seo-skill.vercel.app,40,216.198.79.131,Unknown,https://nextjs-seo-skill.vercel.app/
+2026-02-20T02:11:36Z,GitHub,soluneai.com,50,172.67.164.179,Unknown,https://soluneai.com/vibe-to-spec
+2026-02-20T02:11:36Z,GitHub,agorio.dev,20,76.76.21.21,Vercel,https://agorio.dev
+2026-02-20T02:11:36Z,Reddit (r/SideProject),site--sekai-bot-manager.us-east4.hosted.app,100,35.219.200.214,GCP,https://site--sekai-bot-manager.us-east4.hosted.app/
+2026-02-20T02:11:36Z,Reddit (r/SideProject),jollycat.app,100,172.67.184.200,Unknown,https://jollycat.app
+2026-02-20T02:11:36Z,Reddit (r/SaaS),spanora.ai,95,172.64.80.1,Cloudflare,https://spanora.ai
+2026-02-20T02:11:36Z,GitHub,opencode.ai,50,172.65.90.20,Unknown,https://opencode.ai
