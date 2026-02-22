@@ -3502,3 +3502,23 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-21T02:06:59Z,GitHub,basileus-agent.eth.limo,30,3.135.72.151,AWS,https://basileus-agent.eth.limo
 2026-02-21T02:06:59Z,GitHub,alcanah.ai,50,172.67.216.8,Unknown,https://alcanah.ai
 2026-02-21T02:06:59Z,Reddit (r/SideProject),flowflavor.com,80,84.17.46.53,84-17-46-53.bunnyinfra.net.,http://www.flowflavor.com
+2026-02-22T02:14:33Z,GitHub,freibergergarcia.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://freibergergarcia.github.io/phone-a-friend/
+2026-02-22T02:14:33Z,Reddit (r/SideProject),v0-embed-typeform.vercel.app,100,216.198.79.131,Unknown,https://v0-embed-typeform.vercel.app/
+2026-02-22T02:14:33Z,Reddit (r/SaaS),songaifarm.com,90,76.76.21.21,Vercel,http://www.songaifarm.com
+2026-02-22T02:14:33Z,GitHub,plexifyai.com,50,185.158.133.1,Unknown,https://plexifyai.com/
+2026-02-22T02:14:33Z,GitHub,jihan972025.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://jihan972025.github.io/Sancho/
+2026-02-22T02:14:33Z,GitHub,epantke.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://epantke.github.io/discord-autopilot/
+2026-02-22T02:14:33Z,GitHub,zyling.ai,35,172.64.80.1,Cloudflare,https://zyling.ai
+2026-02-22T02:14:33Z,Reddit (r/SaaS),scorafy.com,100,216.198.79.1,Unknown,https://scorafy.com
+2026-02-22T02:14:33Z,Reddit (r/SaaS),betterblood.app,100,64.29.17.1,Unknown,http://betterblood.app/
+2026-02-22T02:14:33Z,Reddit (r/SideProject),ielts-ai-evaluator.vercel.app,110,216.198.79.67,Unknown,https://ielts-ai-evaluator.vercel.app/
+2026-02-22T02:14:33Z,GitHub,mobileclaw.vercel.app,40,216.198.79.131,Unknown,https://mobileclaw.vercel.app?demo
+2026-02-22T02:14:33Z,GitHub,5warm.ai,50,172.67.165.141,Unknown,http://www.5warm.ai
+2026-02-22T02:14:33Z,GitHub,nextool.app,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://nextool.app/anima/
+2026-02-22T02:14:33Z,Reddit (r/SideProject),artif.design,100,216.198.79.1,Unknown,http://Artif.Design
+2026-02-22T02:14:33Z,GitHub,nerve.zone,20,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://nerve.zone
+2026-02-22T02:14:33Z,Reddit (r/SideProject),heatseat.app,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://heatseat.app
+2026-02-22T02:14:33Z,GitHub,yfge.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://yfge.github.io
+2026-02-22T02:14:33Z,Reddit (r/SaaS),mobiforge.dev,100,216.150.1.1,Unknown,https://mobiforge.dev
+2026-02-22T02:14:33Z,GitHub,entire.vc,20,45.77.142.206,45.77.142.206.vultrusercontent.com.,https://entire.vc
+2026-02-22T02:14:33Z,Reddit (r/SideProject),claude.md,100,160.79.104.10,Unknown,http://CLAUDE.md
