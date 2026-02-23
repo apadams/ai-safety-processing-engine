@@ -3522,3 +3522,38 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-02-22T02:14:33Z,Reddit (r/SaaS),mobiforge.dev,100,216.150.1.1,Unknown,https://mobiforge.dev
 2026-02-22T02:14:33Z,GitHub,entire.vc,20,45.77.142.206,45.77.142.206.vultrusercontent.com.,https://entire.vc
 2026-02-22T02:14:33Z,Reddit (r/SideProject),claude.md,100,160.79.104.10,Unknown,http://CLAUDE.md
+2026-02-23T02:15:46Z,Reddit (r/SideProject),slate-ai-nu.vercel.app,110,64.29.17.195,Unknown,https://slate-ai-nu.vercel.app/
+2026-02-23T02:15:46Z,Reddit (r/SaaS),unbuilt.beehiiv.com,85,104.18.69.40,Cloudflare,https://unbuilt.beehiiv.com
+2026-02-23T02:15:46Z,GitHub,founddream.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://founddream.github.io/pi-mono-master/
+2026-02-23T02:15:46Z,GitHub,secbear.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://secbear.github.io/neuron/
+2026-02-23T02:15:46Z,Reddit (r/SideProject),beta.geminivideo.studio,100,172.67.207.131,Unknown,https://beta.geminivideo.studio/
+2026-02-23T02:15:46Z,GitHub,fraction12.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://fraction12.github.io/agentrem/
+2026-02-23T02:15:46Z,Reddit (r/SaaS),aiochecker.vercel.app,110,216.198.79.67,Unknown,https://aiochecker.vercel.app/
+2026-02-23T02:15:46Z,Reddit (r/SideProject),summonersearcher.com,100,172.67.149.77,Unknown,https://summonersearcher.com/
+2026-02-23T02:15:46Z,Reddit (r/SideProject),divd.me,80,52.4.27.220,AWS,https://divd.me/
+2026-02-23T02:15:46Z,GitHub,angels-os.vercel.app,40,216.198.79.3,Unknown,https://angels-os.vercel.app
+2026-02-23T02:15:46Z,Reddit (r/SideProject),stopsocial.media,80,31.43.161.6,sites.framer.app.,https://stopsocial.media
+2026-02-23T02:15:46Z,Reddit (r/SideProject),landing.normies.work,100,64.29.17.65,Unknown,https://landing.normies.work/
+2026-02-23T02:15:46Z,Reddit (r/SideProject),ybee.app,85,104.21.81.210,Cloudflare,http://YBee.app
+2026-02-23T02:15:46Z,Reddit (r/SideProject),spoken.click,80,18.160.10.109,AWS,https://spoken.click/download
+2026-02-23T02:15:46Z,Reddit (r/SideProject),clawdy-ai.com,95,104.21.8.118,Cloudflare,https://clawdy-ai.com
+2026-02-23T02:15:46Z,Reddit (r/SaaS),autheona.com,100,172.67.187.229,Unknown,https://autheona.com/invitation/
+2026-02-23T02:15:46Z,Reddit (r/SideProject),plottwists.xyz,80,143.198.154.71,1277420.cloudwaysapps.com.,https://plottwists.xyz
+2026-02-23T02:15:46Z,GitHub,nikiforovall.blog,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://nikiforovall.blog/company_intel/rag-pydantic-ai-example/
+2026-02-23T02:15:46Z,Reddit (r/SideProject),prawnhub.app,100,185.158.133.1,Unknown,https://prawnhub.app/
+2026-02-23T02:15:46Z,GitHub,jeebs.club,20,192.227.193.148,eyleme.reophage.uk.,https://jeebs.club
+2026-02-23T02:15:46Z,GitHub,shipmytoken.com,25,104.21.54.207,Cloudflare,https://shipmytoken.com
+2026-02-23T02:15:46Z,GitHub,valuearchitects.ai,50,172.67.218.210,Unknown,https://valuearchitects.ai/
+2026-02-23T02:15:46Z,Reddit (r/SaaS),temetro.com,100,216.198.79.1,Unknown,https://temetro.com/
+2026-02-23T02:15:46Z,Reddit (r/SaaS),clarilo-ai.com,110,216.198.79.1,Unknown,https://www.clarilo-ai.com/
+2026-02-23T02:15:46Z,GitHub,mqttunsviewer.com,20,51.44.195.180,AWS,https://www.mqttunsviewer.com
+2026-02-23T02:15:46Z,GitHub,sciclaw.dev,40,172.67.164.40,Unknown,https://sciclaw.dev
+2026-02-23T02:15:46Z,Reddit (r/SideProject),aishortcutlab.com,90,49.13.137.145,static.145.137.13.49.clients.your-server.de.,https://aishortcutlab.com/articles/solo-founders/ai-basics/orientation-reality-check
+2026-02-23T02:15:46Z,GitHub,myagenticseo.com,50,216.150.1.1,Unknown,https://myagenticseo.com/
+2026-02-23T02:15:46Z,Reddit (r/SaaS),standupai.xyz,110,216.198.79.1,Unknown,https://standupai.xyz/
+2026-02-23T02:15:46Z,GitHub,ai.biodockify.com,30,217.76.55.124,vmi3097749.contaboserver.net.,https://ai.biodockify.com/
+2026-02-23T02:15:46Z,GitHub,fjordagentic.com,30,194.63.248.52,bristol.domeneshop.no.,https://www.fjordagentic.com
+2026-02-23T02:15:46Z,GitHub,purpleflea.com,20,80.78.27.26,504e1b1a.host.njalla.net.,https://purpleflea.com
+2026-02-23T02:15:46Z,GitHub,jaktestowac.pl,20,5.9.120.212,sv41-3.x14.eu.,https://jaktestowac.pl/
+2026-02-23T02:15:46Z,GitHub,liliumai.cn,50,47.238.165.86,Unknown,https://liliumai.cn
+2026-02-23T02:15:56Z,Reddit (r/SaaS),copy.ai,110,198.202.211.1,Unknown,http://Copy.ai
