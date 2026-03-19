@@ -4082,3 +4082,4 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-03-18T02:17:46Z,GitHub,axonix.live,20,64.184.102.133,ip-64-184-102-133.ligtel.com.,https://axonix.live
 2026-03-18T02:17:46Z,GitHub,supercharged.works,20,51.91.236.255,cluster029.hosting.ovh.net.,https://www.supercharged.works/judges-initia.html
 2026-03-18T02:17:46Z,GitHub,cppay.finance,40,172.67.219.29,Unknown,https://www.cppay.finance
+2026-03-19T02:11:36Z,GitHub,skillscan.sh,25,104.21.8.16,Cloudflare,https://skillscan.sh
