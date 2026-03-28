@@ -4407,3 +4407,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-03-27T02:32:30Z,GitHub,itcv-software.com,20,78.46.181.14,www107.your-server.de.,https://itcv-software.com
 2026-03-27T02:32:30Z,GitHub,orquesta.live,20,35.193.152.214,GCP,https://orquesta.live
 2026-03-27T02:32:30Z,GitHub,inteloverdrive.com,20,5.78.158.43,static.43.158.78.5.clients.your-server.de.,https://inteloverdrive.com
+2026-03-28T02:15:51Z,Reddit (r/SideProject),jugnew.github.io,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://jugnew.github.io/DUExt/DUExt.html
+2026-03-28T02:15:51Z,Reddit (r/SaaS),rankbeyond.co,80,18.155.192.79,AWS,http://rankbeyond.co
+2026-03-28T02:15:51Z,Reddit (r/SaaS),chvor.ai,110,172.67.173.12,Unknown,https://chvor.ai/
+2026-03-28T02:15:51Z,Reddit (r/SaaS),usero.io,85,104.21.71.89,Cloudflare,https://usero.io
+2026-03-28T02:15:51Z,Reddit (r/SaaS),bytecalculators.com,80,162.254.39.102,server336-4.web-hosting.com.,https://bytecalculators.com/deepseek-ai-token-cost-calculator
+2026-03-28T02:15:51Z,Reddit (r/SaaS),hallucinationherald.com,100,216.198.79.1,Unknown,http://hallucinationherald.com/advertise
+2026-03-28T02:15:51Z,Reddit (r/SideProject),updat3.ai,110,216.198.79.1,Unknown,https://www.updat3.ai
+2026-03-28T02:15:51Z,Reddit (r/SaaS),sorca.life,100,64.29.17.1,Unknown,http://sorca.life
+2026-03-28T02:15:51Z,Reddit (r/SideProject),explainyourbugtotherubberduck.com,95,104.21.90.119,Cloudflare,http://explainyourbugtotherubberduck.com/
+2026-03-28T02:15:51Z,GitHub,meridianedge.io,40,172.67.160.186,Unknown,https://meridianedge.io
+2026-03-28T02:15:51Z,Reddit (r/SideProject),laralean.com,100,172.67.217.124,Unknown,https://laralean.com
+2026-03-28T02:15:51Z,Reddit (r/SaaS),synvolv.com,80,18.238.192.24,AWS,https://synvolv.com
+2026-03-28T02:15:51Z,Reddit (r/SideProject),smallshifts.in,100,172.67.194.132,Unknown,https://smallshifts.in
+2026-03-28T02:15:51Z,GitHub,registry.modelcontextprotocol.io,20,34.61.200.254,GCP,https://registry.modelcontextprotocol.io
+2026-03-28T02:15:51Z,Reddit (r/SaaS),giguphq.com,100,172.67.218.175,Unknown,https://giguphq.com/
+2026-03-28T02:15:51Z,GitHub,thumbrise.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://thumbrise.github.io/autosolve/
+2026-03-28T02:15:51Z,GitHub,yousefautomates.pages.dev,40,172.66.44.104,Unknown,https://yousefautomates.pages.dev/
+2026-03-28T02:15:51Z,GitHub,zijian-ni.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://zijian-ni.github.io/agent-replay/
+2026-03-28T02:15:51Z,GitHub,threatclaw.io,40,172.67.178.107,Unknown,https://threatclaw.io
+2026-03-28T02:15:51Z,GitHub,web-theta-two-99.vercel.app,40,216.198.79.131,Unknown,https://web-theta-two-99.vercel.app
+2026-03-28T02:15:51Z,GitHub,walnut.world,20,76.76.21.21,Vercel,https://walnut.world
+2026-03-28T02:15:51Z,GitHub,doi.org,25,104.26.4.132,Cloudflare,https://doi.org/10.5281/zenodo.18955103
+2026-03-28T02:15:51Z,Reddit (r/SaaS),rivetedinc.com,100,151.101.2.15,Unknown,https://rivetedinc.com/blog/what-to-look-for-in-a-technical-co-founder
+2026-03-28T02:15:51Z,GitHub,mails0.com,50,172.67.176.158,Unknown,https://mails0.com/
+2026-03-28T02:15:51Z,GitHub,cyberpuck-chaos.vercel.app,40,216.198.79.3,Unknown,https://cyberpuck-chaos.vercel.app
+2026-03-28T02:15:51Z,GitHub,squishplugin.dev,20,76.76.21.21,Vercel,https://squishplugin.dev
+2026-03-28T02:15:51Z,GitHub,open-agent3.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://open-agent3.github.io/agent3/
+2026-03-28T02:15:51Z,GitHub,sinch.com,40,141.193.213.11,Unknown,https://sinch.com/
+2026-03-28T02:15:51Z,GitHub,tactus.cc.cd,40,172.67.187.176,Unknown,https://tactus.cc.cd/
+2026-03-28T02:15:51Z,GitHub,openclaw-termux.vercel.app,40,216.198.79.67,Unknown,https://openclaw-termux.vercel.app
+2026-03-28T02:15:51Z,Reddit (r/SideProject),nextrez.app,80,13.52.188.95,AWS,https://nextrez.app
+2026-03-28T02:15:51Z,GitHub,ken11.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://ken11.github.io/tokuye/
+2026-03-28T02:15:51Z,GitHub,cortexc0de.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://cortexc0de.github.io/argus-lite/
+2026-03-28T02:15:51Z,GitHub,ares-community.framer.website,20,31.43.161.6,sites.framer.app.,https://ares-community.framer.website/
+2026-03-28T02:15:51Z,GitHub,rendex.dev,20,76.76.21.21,Vercel,https://rendex.dev
+2026-03-28T02:15:51Z,GitHub,moneystyle.app,20,13.49.228.143,AWS,https://moneystyle.app
+2026-03-28T02:15:51Z,GitHub,agent-ci.dev,35,104.21.66.217,Cloudflare,https://agent-ci.dev
+2026-03-28T02:15:51Z,GitHub,ferlay.dev,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://ferlay.dev
+2026-03-28T02:15:51Z,Reddit (r/SideProject),agenttimes.live,110,172.67.165.169,Unknown,https://agenttimes.live/info
