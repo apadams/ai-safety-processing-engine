@@ -4598,3 +4598,46 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-01T02:42:15Z,GitHub,gebruder.ottenheimer.app,20,159.69.181.191,static.191.181.69.159.clients.your-server.de.,https://gebruder.ottenheimer.app/briefs/wirken.html
 2026-04-01T02:42:15Z,Reddit (r/SaaS),pagealert.io,100,216.198.79.1,Unknown,https://pagealert.io
 2026-04-01T02:42:15Z,GitHub,heylimbo.com,40,216.198.79.1,Unknown,https://www.heylimbo.com/
+2026-04-02T02:21:21Z,Reddit (r/SaaS),recallit.tech,85,104.21.85.225,Cloudflare,https://recallit.tech
+2026-04-02T02:21:21Z,Reddit (r/SaaS),cinexis.ai,110,172.67.202.228,Unknown,http://cinexis.ai
+2026-04-02T02:21:21Z,GitHub,burn451.cloud,20,76.76.21.21,Vercel,https://burn451.cloud
+2026-04-02T02:21:21Z,Reddit (r/SideProject),trytether.ai,110,216.150.1.1,Unknown,https://trytether.ai/
+2026-04-02T02:21:21Z,Reddit (r/SideProject),potusmood.app,85,104.21.95.35,Cloudflare,https://potusmood.app
+2026-04-02T02:21:21Z,GitHub,beecork.com,25,104.21.95.49,Cloudflare,https://beecork.com
+2026-04-02T02:21:21Z,Reddit (r/SaaS),usefastlane.ai,90,31.43.160.6,sites.framer.app.,http://usefastlane.ai
+2026-04-02T02:21:21Z,Reddit (r/SideProject),schema.org,80,142.251.210.110,ncorda-ak-in-f14.1e100.net.,http://Schema.org
+2026-04-02T02:21:21Z,Reddit (r/SideProject),sansara.app,100,216.150.1.193,Unknown,https://sansara.app
+2026-04-02T02:21:21Z,GitHub,andookg.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://andookg.github.io/agentic-chat-widget/
+2026-04-02T02:21:21Z,GitHub,arnie016.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://arnie016.github.io/claude-agent-playbook/
+2026-04-02T02:21:21Z,GitHub,windy3f3f3f3f.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://windy3f3f3f3f.github.io/how-claude-code-works/#/
+2026-04-02T02:21:21Z,Reddit (r/SideProject),getsavethedate.com,100,216.198.79.1,Unknown,http://getsavethedate.com
+2026-04-02T02:21:21Z,Reddit (r/SideProject),usesynapse.dev,100,172.67.201.87,Unknown,https://usesynapse.dev/
+2026-04-02T02:21:21Z,GitHub,jacobinwwey.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://jacobinwwey.github.io/astrbot_plugin_sharelife/
+2026-04-02T02:21:21Z,GitHub,clopinette.app,40,172.67.209.60,Unknown,https://clopinette.app
+2026-04-02T02:21:21Z,GitHub,stihia.ai,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://stihia.ai
+2026-04-02T02:21:21Z,GitHub,near-launchpad.com,25,104.21.85.119,Cloudflare,https://near-launchpad.com
+2026-04-02T02:21:21Z,GitHub,github-skill-analyzer.vercel.app,40,64.29.17.3,Unknown,https://github-skill-analyzer.vercel.app
+2026-04-02T02:21:21Z,GitHub,thirdrail.world,30,76.76.21.21,Vercel,https://thirdrail.world
+2026-04-02T02:21:21Z,GitHub,workermill.com,20,13.225.47.100,AWS,https://workermill.com
+2026-04-02T02:21:21Z,Reddit (r/SideProject),brobot.dev,90,51.222.27.28,vps-02bcd26b.vps.ovh.ca.,https://brobot.dev/prismcv/
+2026-04-02T02:21:21Z,Reddit (r/SideProject),tiloka.com,100,172.67.134.148,Unknown,https://tiloka.com/
+2026-04-02T02:21:21Z,Reddit (r/SideProject),conduitai.io,110,216.198.79.1,Unknown,http://Conduitai.io
+2026-04-02T02:21:21Z,GitHub,agricidaniel.com,40,216.198.79.1,Unknown,https://agricidaniel.com
+2026-04-02T02:21:21Z,GitHub,aiqing20230305-bot.github.io,40,185.199.110.153,cdn-185-199-110-153.github.com.,https://aiqing20230305-bot.github.io/void-colosseum/
+2026-04-02T02:21:21Z,GitHub,docs.searxng.org,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://docs.searxng.org/
+2026-04-02T02:21:21Z,GitHub,forethought-studio.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://forethought-studio.github.io/ai-trash/
+2026-04-02T02:21:21Z,Reddit (r/SaaS),aipowerstacks.com,110,216.150.1.129,Unknown,https://aipowerstacks.com
+2026-04-02T02:21:21Z,Reddit (r/SideProject),draftready.teloslab.mobi,100,216.198.79.65,Unknown,http://draftready.teloslab.mobi/en
+2026-04-02T02:21:21Z,GitHub,guesty-mcp-server.vercel.app,40,216.198.79.131,Unknown,https://guesty-mcp-server.vercel.app
+2026-04-02T02:21:21Z,GitHub,mina-saad.com,40,185.158.133.1,Unknown,https://mina-saad.com/pbi-cli
+2026-04-02T02:21:21Z,GitHub,cli.darce.dev,40,216.150.16.129,Unknown,https://cli.darce.dev
+2026-04-02T02:21:21Z,GitHub,mdrules.dev,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://mdrules.dev
+2026-04-02T02:21:21Z,GitHub,nannykeeper.com,40,216.150.16.129,Unknown,https://www.nannykeeper.com/developers
+2026-04-02T02:21:21Z,GitHub,vectoringai.com,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://vectoringai.com/
+2026-04-02T02:21:21Z,GitHub,lexq.io,40,216.198.79.1,Unknown,https://lexq.io
+2026-04-02T02:21:21Z,GitHub,jmcai.cn,35,104.21.49.139,Cloudflare,https://jmcai.cn
+2026-04-02T02:21:21Z,GitHub,claude-blog.md,40,64.29.17.65,Unknown,https://claude-blog.md
+2026-04-02T02:21:21Z,Reddit (r/SideProject),blind.codes,85,104.21.8.125,Cloudflare,http://Blind.Codes
+2026-04-02T02:21:21Z,GitHub,docs.axio-agent.com,35,104.21.57.68,Cloudflare,https://axio-agent.com
+2026-04-02T02:21:22Z,GitHub,emoji.icu,40,116.62.77.46,Unknown,https://www.emoji.icu
+2026-04-02T02:21:31Z,Reddit (r/SaaS),smith.ai,110,198.202.211.1,Unknown,http://Smith.ai
