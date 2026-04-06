@@ -4758,3 +4758,32 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-05T02:37:24Z,GitHub,coderlegion.com,40,158.106.136.183,Unknown,http://coderlegion.com
 2026-04-05T02:37:25Z,GitHub,pythia.c3x-solutions.com,20,94.127.7.186,cp60.cpanelhosting.rs.,https://pythia.c3x-solutions.com
 2026-04-05T02:37:34Z,Reddit (r/SaaS),bookmarkify.io,100,198.202.211.1,Unknown,https://www.bookmarkify.io
+2026-04-06T02:37:21Z,GitHub,dosk.ai,35,104.21.81.140,Cloudflare,https://dosk.ai
+2026-04-06T02:37:21Z,GitHub,halo-ai.studio,35,104.21.6.14,Cloudflare,https://halo-ai.studio
+2026-04-06T02:37:21Z,GitHub,aibutler.me,35,104.21.93.85,Cloudflare,https://aibutler.me
+2026-04-06T02:37:21Z,GitHub,companyscope-mcp.stewwilli.workers.dev,25,104.21.87.128,Cloudflare,https://companyscope-mcp.stewwilli.workers.dev
+2026-04-06T02:37:21Z,GitHub,pikoclaw.com,25,104.21.81.85,Cloudflare,https://pikoclaw.com
+2026-04-06T02:37:21Z,GitHub,remoteopenclaw.com,20,76.76.21.21,Vercel,https://remoteopenclaw.com/marketplace.html
+2026-04-06T02:37:21Z,GitHub,redhound.us,25,104.21.59.36,Cloudflare,https://redhound.us
+2026-04-06T02:37:21Z,Reddit (r/SideProject),snowchat.ai,110,216.150.1.1,Unknown,https://snowchat.ai
+2026-04-06T02:37:21Z,Reddit (r/SaaS),sharpii.ai,95,104.21.22.107,Cloudflare,https://sharpii.ai/
+2026-04-06T02:37:21Z,GitHub,kiyeonjeon21.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://kiyeonjeon21.github.io/dart-fss-cli/
+2026-04-06T02:37:21Z,GitHub,yeongseon.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://yeongseon.github.io/azure-functions-langgraph/
+2026-04-06T02:37:21Z,GitHub,codeck.xyz,25,104.21.47.11,Cloudflare,https://codeck.xyz
+2026-04-06T02:37:21Z,Reddit (r/SideProject),productfiftyone.com,100,172.67.188.204,Unknown,http://productfiftyone.com
+2026-04-06T02:37:21Z,GitHub,botcall.io,50,172.67.162.171,Unknown,http://botcall.io
+2026-04-06T02:37:21Z,Reddit (r/SideProject),kemblegifts.com,100,185.158.133.1,Unknown,http://kemblegifts.com
+2026-04-06T02:37:21Z,GitHub,artifactvirtual.com,25,104.21.96.33,Cloudflare,https://artifactvirtual.com
+2026-04-06T02:37:21Z,Reddit (r/SaaS),debatr.live,100,216.198.79.1,Unknown,http://debatr.live
+2026-04-06T02:37:21Z,GitHub,autosearch.dev,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://www.autosearch.dev
+2026-04-06T02:37:21Z,GitHub,library-agent-iota.vercel.app,50,216.198.79.131,Unknown,https://library-agent-iota.vercel.app
+2026-04-06T02:37:21Z,Reddit (r/SideProject),growaso.com,80,54.178.134.13,AWS,https://www.growaso.com/
+2026-04-06T02:37:21Z,Reddit (r/SaaS),luma-studio-waitlist--lumastudioapp.replit.app,90,34.117.33.233,GCP,https://luma-studio-waitlist--lumastudioapp.replit.app
+2026-04-06T02:37:21Z,GitHub,docs.clawker.dev,40,172.67.135.163,Unknown,https://docs.clawker.dev
+2026-04-06T02:37:21Z,Reddit (r/SaaS),lensy.uk,100,216.198.79.1,Unknown,http://lensy.uk/
+2026-04-06T02:37:21Z,Reddit (r/SaaS),mailmark.dev,110,216.198.79.1,Unknown,https://www.mailmark.dev/
+2026-04-06T02:37:21Z,GitHub,edgecrab.com,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://www.edgecrab.com
+2026-04-06T02:37:21Z,GitHub,chessclaw.dev,20,213.186.33.5,redirect.ovh.net.,https://www.chessclaw.dev/
+2026-04-06T02:37:21Z,GitHub,afkbot.io,30,81.177.6.3,srv210-h-st.jino.ru.,https://afkbot.io
+2026-04-06T02:37:21Z,GitHub,bom.bomtobe.com,40,20.249.108.150,Unknown,https://bom.bomtobe.com
+2026-04-06T02:37:22Z,GitHub,nemoclaw.hitechclaw.com,40,116.118.2.56,Unknown,https://nemoclaw.hitechclaw.com
