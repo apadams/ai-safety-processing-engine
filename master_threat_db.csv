@@ -4908,3 +4908,55 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-10T02:33:15Z,Reddit (r/SideProject),pocketstubs.com,100,216.198.79.1,Unknown,http://PocketStubs.com
 2026-04-10T02:33:15Z,Reddit (r/SideProject),podready.io,100,216.150.1.1,Unknown,https://www.podready.io/
 2026-04-10T02:33:15Z,Reddit (r/SideProject),contral.ai,110,216.198.79.1,Unknown,http://contral.ai
+2026-04-11T02:19:32Z,Reddit (r/SideProject),chessmasterai.itch.io,95,104.26.9.198,Cloudflare,https://chessmasterai.itch.io/chess-master-ai
+2026-04-11T02:19:32Z,GitHub,wjak-official.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://wjak-official.github.io/ai-chat/
+2026-04-11T02:19:32Z,GitHub,googleadsagent.ai,45,104.26.2.210,Cloudflare,https://googleadsagent.ai
+2026-04-11T02:19:32Z,Reddit (r/SideProject),bingwow.com,100,216.150.16.129,Unknown,https://bingwow.com/reports/edtech-engagement-report-2026
+2026-04-11T02:19:32Z,GitHub,karan0310.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://karan0310.github.io/prompt-architect/
+2026-04-11T02:19:32Z,Reddit (r/SideProject),future-story-map.lovable.app,100,185.41.148.2,Unknown,https://future-story-map.lovable.app/
+2026-04-11T02:19:32Z,GitHub,sbti-ai.com,50,172.67.181.162,Unknown,https://sbti-ai.com
+2026-04-11T02:19:32Z,Reddit (r/SideProject),vulk.dev,85,172.64.80.1,Cloudflare,http://vulk.dev
+2026-04-11T02:19:32Z,GitHub,agent-express.ai,45,104.21.77.217,Cloudflare,https://agent-express.ai
+2026-04-11T02:19:32Z,GitHub,sefaertunc.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://sefaertunc.github.io/Worclaude/
+2026-04-11T02:19:32Z,Reddit (r/SideProject),bactrix.com,100,162.255.119.150,Unknown,https://www.bactrix.com/
+2026-04-11T02:19:32Z,GitHub,amfs.sense-lab.ai,30,74.125.126.121,ik-in-f121.1e100.net.,https://amfs.sense-lab.ai
+2026-04-11T02:19:33Z,Reddit (r/SideProject),snpit.app,100,172.67.200.89,Unknown,http://snpit.app
+2026-04-11T02:19:33Z,GitHub,clawtrace.ai,50,216.198.79.1,Unknown,https://www.clawtrace.ai/
+2026-04-11T02:19:33Z,GitHub,m-i-n-d.ai,50,216.198.79.1,Unknown,https://www.m-i-n-d.ai/openclaw.html
+2026-04-11T02:19:33Z,GitHub,cookbook-render-pr-summarizer--scalekit-starlight.netlify.app,20,18.208.88.157,AWS,https://cookbook-render-pr-summarizer--scalekit-starlight.netlify.app/cookbooks/render-github-pr-summarizer/
+2026-04-11T02:19:33Z,GitHub,eurovalidate.com,25,104.21.9.70,Cloudflare,https://eurovalidate.com
+2026-04-11T02:19:33Z,GitHub,lab.partoska.com,40,130.61.176.224,Unknown,https://lab.partoska.com/p6a
+2026-04-11T02:19:33Z,GitHub,diplomat.run,20,216.239.32.21,any-in-2015.1e100.net.,https://diplomat.run
+2026-04-11T02:19:33Z,GitHub,platfone.com,25,104.21.2.102,Cloudflare,https://platfone.com/docs/mcp/
+2026-04-11T02:19:33Z,GitHub,pwos.app,25,104.21.26.97,Cloudflare,https://pwos.app
+2026-04-11T02:19:33Z,GitHub,midieditor-ai.de,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://midieditor-ai.de/
+2026-04-11T02:19:33Z,GitHub,kobana.com.br,40,216.150.16.193,Unknown,https://www.kobana.com.br/ia/cli
+2026-04-11T02:19:33Z,Reddit (r/SideProject),c2story.com,100,151.101.2.15,Unknown,https://c2story.com/
+2026-04-11T02:19:33Z,GitHub,studio.lyzr.ai,30,108.156.107.3,server-108-156-107-3.ord56.r.cloudfront.net.,https://studio.lyzr.ai
+2026-04-11T02:19:33Z,GitHub,autoapply-ai-delta.vercel.app,50,64.29.17.131,Unknown,https://autoapply-ai-delta.vercel.app
+2026-04-11T02:19:33Z,GitHub,ai-ink-brain.vercel.app,50,64.29.17.131,Unknown,https://ai-ink-brain.vercel.app
+2026-04-11T02:19:33Z,Reddit (r/SideProject),reel-iq-eosin.vercel.app,100,64.29.17.67,Unknown,http://reel-iq-eosin.vercel.app
+2026-04-11T02:19:33Z,GitHub,soulacp.dev,40,172.67.160.54,Unknown,https://SoulACP.dev
+2026-04-11T02:19:33Z,GitHub,ai-candidate-evaluator.vercel.app,50,216.198.79.131,Unknown,https://ai-candidate-evaluator.vercel.app
+2026-04-11T02:19:33Z,GitHub,aetherconcept02.vercel.app,40,216.198.79.195,Unknown,https://aetherconcept02.vercel.app
+2026-04-11T02:19:33Z,GitHub,booklib-ai.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://booklib-ai.github.io/booklib/
+2026-04-11T02:19:33Z,GitHub,kendr.org,20,34.111.179.208,GCP,https://kendr.org
+2026-04-11T02:19:33Z,GitHub,dinovitale.com,25,172.64.80.1,Cloudflare,https://dinovitale.com
+2026-04-11T02:19:33Z,GitHub,adjutantapp.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,http://adjutantapp.com/
+2026-04-11T02:19:33Z,GitHub,satsmith-opportunity-digest.nftgabpub.workers.dev,40,172.67.210.62,Unknown,https://satsmith-opportunity-digest.nftgabpub.workers.dev
+2026-04-11T02:19:33Z,GitHub,obscuraai.xyz,50,64.29.17.65,Unknown,https://obscuraai.xyz/builder
+2026-04-11T02:19:33Z,GitHub,hermes-agent.nousresearch.com,50,216.150.16.129,Unknown,https://hermes-agent.nousresearch.com/docs/
+2026-04-11T02:19:33Z,GitHub,bsreeram08.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://bsreeram08.github.io/gurl/
+2026-04-11T02:19:33Z,GitHub,getagentaudit.xyz,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://getagentaudit.xyz/
+2026-04-11T02:19:33Z,GitHub,aterna.ai,50,216.150.1.1,Unknown,https://aterna.ai
+2026-04-11T02:19:33Z,GitHub,kodama.run,40,216.150.1.1,Unknown,https://kodama.run
+2026-04-11T02:19:33Z,GitHub,exe.dev,20,52.35.87.134,AWS,https://exe.dev
+2026-04-11T02:19:33Z,GitHub,nangman.cloud,40,175.208.202.40,Unknown,https://nangman.cloud
+2026-04-11T02:19:33Z,GitHub,omicshorizon.ai,30,31.43.160.6,sites.framer.app.,https://omicshorizon.ai/en/
+2026-04-11T02:19:33Z,GitHub,yscjrh.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://yscjrh.github.io/skylattice/
+2026-04-11T02:19:33Z,Reddit (r/SideProject),gggk720.github.io,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://gggk720.github.io/the-coach/soccer/
+2026-04-11T02:19:33Z,GitHub,jb.gg,20,34.78.67.165,GCP,https://jb.gg/tc/docs
+2026-04-11T02:19:33Z,GitHub,occp.ai,30,195.201.238.144,static.144.238.201.195.clients.your-server.de.,https://occp.ai
+2026-04-11T02:19:33Z,GitHub,jtracking.ai,50,172.67.216.110,Unknown,https://www.jtracking.ai/skills
+2026-04-11T02:19:33Z,GitHub,agent.haih.net,40,159.65.106.200,assists.digital.,https://agent.haih.net
+2026-04-11T02:19:40Z,GitHub,clawclip.luelan.online,40,121.4.98.150,Unknown,https://clawclip.luelan.online
