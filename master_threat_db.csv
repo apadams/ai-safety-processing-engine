@@ -5098,3 +5098,44 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-15T02:38:45Z,GitHub,ptek.tech,20,52.252.23.178,AWS,https://www.ptek.tech/
 2026-04-15T02:38:45Z,GitHub,avabot.net,50,162.243.29.91,Unknown,https://avabot.net
 2026-04-15T02:38:55Z,GitHub,notchup.com,40,198.202.211.1,Unknown,https://notchup.com/
+2026-04-16T02:45:10Z,Reddit (r/SideProject),fieldcamp.ai,90,76.76.21.21,Vercel,https://fieldcamp.ai/
+2026-04-16T02:45:10Z,Reddit (r/SideProject),majiks.studio,85,104.21.70.229,Cloudflare,https://majiks.studio
+2026-04-16T02:45:10Z,Reddit (r/SideProject),arifa.today,85,104.21.91.100,Cloudflare,https://arifa.today
+2026-04-16T02:45:10Z,Reddit (r/SideProject),cast.bsct.so,85,104.26.1.117,Cloudflare,https://cast.bsct.so/
+2026-04-16T02:45:10Z,Reddit (r/SideProject),recapd.co,85,104.21.53.118,Cloudflare,https://recapd.co
+2026-04-16T02:45:10Z,GitHub,wambokoallandavid-source.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://wambokoallandavid-source.github.io/Activity2Context-for-openclaw/
+2026-04-16T02:45:10Z,GitHub,chenyuheee.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://chenyuheee.github.io/marginlens/
+2026-04-16T02:45:10Z,GitHub,threatrecall.ai,50,172.67.179.251,Unknown,https://threatrecall.ai
+2026-04-16T02:45:10Z,Reddit (r/SideProject),markket.place,100,172.66.0.96,Unknown,https://markket.place/pet
+2026-04-16T02:45:10Z,GitHub,aictl.app,35,104.21.71.150,Cloudflare,https://aictl.app
+2026-04-16T02:45:10Z,Reddit (r/SaaS),blog.tally.so,100,146.75.31.7,Unknown,https://blog.tally.so/the-road-from-4m-to-5m-arr/
+2026-04-16T02:45:10Z,Reddit (r/SideProject),caseycoach.com,100,216.150.1.193,Unknown,http://caseycoach.com
+2026-04-16T02:45:10Z,Reddit (r/SideProject),echo-net-bot.vercel.app,110,64.29.17.3,Unknown,https://echo-net-bot.vercel.app/
+2026-04-16T02:45:10Z,GitHub,etyb.ai,35,104.21.43.149,Cloudflare,https://etyb.ai
+2026-04-16T02:45:10Z,GitHub,thresher.sh,40,172.67.210.46,Unknown,https://thresher.sh
+2026-04-16T02:45:10Z,GitHub,drakonsystems.com,20,66.241.124.29,ip-66-241-124-29.shared.customer.flyio.net.,https://drakonsystems.com/products/agent-optimizer
+2026-04-16T02:45:10Z,GitHub,labtether.com,40,172.67.206.65,Unknown,https://labtether.com
+2026-04-16T02:45:10Z,GitHub,hibahf.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://hibahf.github.io/VISION/
+2026-04-16T02:45:10Z,Reddit (r/SideProject),getdealfriend.com,100,216.150.1.1,Unknown,https://getdealfriend.com
+2026-04-16T02:45:10Z,GitHub,clambot.ai,60,172.67.204.22,Unknown,https://clambot.ai
+2026-04-16T02:45:10Z,GitHub,can4hou6joeng4.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://can4hou6joeng4.github.io/boss-agent-cli/
+2026-04-16T02:45:10Z,GitHub,opusautomations.com,40,151.101.2.15,Unknown,https://opusautomations.com
+2026-04-16T02:45:10Z,GitHub,aiagent.huabei.pro,60,172.67.142.148,Unknown,https://aiagent.huabei.pro
+2026-04-16T02:45:10Z,GitHub,flyto2.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://flyto2.com
+2026-04-16T02:45:10Z,Reddit (r/SideProject),surmado.com,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://www.surmado.com/review/
+2026-04-16T02:45:10Z,GitHub,deskive.com,40,172.67.146.149,Unknown,https://deskive.com
+2026-04-16T02:45:10Z,GitHub,memclaw.me,40,172.67.160.122,Unknown,https://memclaw.me
+2026-04-16T02:45:10Z,Reddit (r/SideProject),applystudio.net,100,64.29.17.1,Unknown,http://applystudio.net
+2026-04-16T02:45:10Z,GitHub,headhunter-nine.vercel.app,40,216.198.79.3,Unknown,https://headhunter-nine.vercel.app
+2026-04-16T02:45:10Z,GitHub,agentapplicationprotocol.com,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://agentapplicationprotocol.com/
+2026-04-16T02:45:10Z,GitHub,nexusflow-app-five.vercel.app,40,64.29.17.195,Unknown,https://nexusflow-app-five.vercel.app
+2026-04-16T02:45:10Z,Reddit (r/SideProject),carouselposter.com,80,178.104.90.31,static.31.90.104.178.clients.your-server.de.,https://carouselposter.com
+2026-04-16T02:45:10Z,Reddit (r/SideProject),clipfinder.org,85,104.21.58.12,Cloudflare,https://clipfinder.org/rate-my-clip
+2026-04-16T02:45:10Z,GitHub,compliancepass.vercel.app,40,216.198.79.67,Unknown,https://compliancepass.vercel.app
+2026-04-16T02:45:10Z,GitHub,wbc-telehealth-project.vercel.app,40,216.198.79.67,Unknown,https://wbc-telehealth-project.vercel.app
+2026-04-16T02:45:10Z,Reddit (r/SideProject),getpodex.com,100,216.198.79.1,Unknown,https://getpodex.com/
+2026-04-16T02:45:10Z,GitHub,agent-layers.com,50,216.198.79.1,Unknown,https://agent-layers.com
+2026-04-16T02:45:10Z,GitHub,getpatter.com,40,216.198.79.1,Unknown,https://getpatter.com
+2026-04-16T02:45:10Z,Reddit (r/SideProject),smallest.ai,90,18.165.98.113,AWS,https://smallest.ai/lazyvoice
+2026-04-16T02:45:11Z,GitHub,haiy.space,50,47.115.130.244,Unknown,https://haiy.space
+2026-04-16T02:45:11Z,Reddit (r/SideProject),nonconfirmed.com,100,91.237.124.88,Unknown,https://nonconfirmed.com/app/prompt-vault/
