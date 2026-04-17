@@ -5139,3 +5139,34 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-16T02:45:10Z,Reddit (r/SideProject),smallest.ai,90,18.165.98.113,AWS,https://smallest.ai/lazyvoice
 2026-04-16T02:45:11Z,GitHub,haiy.space,50,47.115.130.244,Unknown,https://haiy.space
 2026-04-16T02:45:11Z,Reddit (r/SideProject),nonconfirmed.com,100,91.237.124.88,Unknown,https://nonconfirmed.com/app/prompt-vault/
+2026-04-17T02:43:42Z,Reddit (r/SaaS),pulsecrew.ai,110,216.198.79.1,Unknown,https://pulsecrew.ai
+2026-04-17T02:43:42Z,Reddit (r/SideProject),opero.so,100,216.198.79.1,Unknown,https://opero.so?utm_source=reddit&amp;utm_campaign=sideproject
+2026-04-17T02:43:42Z,GitHub,yborunov.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://yborunov.github.io/ghostledger/
+2026-04-17T02:43:42Z,GitHub,sigil.trade,25,104.21.1.153,Cloudflare,https://sigil.trade/
+2026-04-17T02:43:42Z,Reddit (r/SideProject),chessagents.ai,105,104.21.33.187,Cloudflare,https://chessagents.ai
+2026-04-17T02:43:42Z,Reddit (r/SideProject),artishare.app,100,64.29.17.1,Unknown,https://artishare.app
+2026-04-17T02:43:42Z,GitHub,kyntra.ai.kr,35,104.21.27.219,Cloudflare,https://kyntra.ai.kr
+2026-04-17T02:43:42Z,GitHub,cognithor.ai,50,216.198.79.1,Unknown,https://cognithor.ai
+2026-04-17T02:43:42Z,Reddit (r/SideProject),ilty.co,100,216.198.79.1,Unknown,https://ilty.co
+2026-04-17T02:43:42Z,GitHub,agenvoy.com,25,104.21.16.37,Cloudflare,https://agenvoy.com/
+2026-04-17T02:43:42Z,GitHub,puzhre.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://puzhre.github.io/agent-orchestration-book
+2026-04-17T02:43:42Z,Reddit (r/SideProject),pixishift.vercel.app,100,216.198.79.131,Unknown,http://pixishift.vercel.app
+2026-04-17T02:43:42Z,GitHub,beautyfree.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://beautyfree.github.io/skiller-desktop-skills-manager/
+2026-04-17T02:43:42Z,GitHub,bglglzd.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://bglglzd.github.io/bugkit/
+2026-04-17T02:43:42Z,Reddit (r/SideProject),open-cabinet.org,100,216.150.1.1,Unknown,https://open-cabinet.org/
+2026-04-17T02:43:42Z,GitHub,hub.docker.com,25,104.18.43.187,Cloudflare,https://hub.docker.com/r/xeloxa/temodar-agent
+2026-04-17T02:43:42Z,GitHub,getscaleforge.com,40,172.67.131.173,Unknown,https://getscaleforge.com
+2026-04-17T02:43:42Z,GitHub,clawdcursor.com,40,172.67.218.16,Unknown,https://clawdcursor.com
+2026-04-17T02:43:42Z,GitHub,odei.ai,50,172.67.74.127,Unknown,https://odei.ai
+2026-04-17T02:43:42Z,GitHub,migratowl.bitkaio.com,50,172.67.222.1,Unknown,https://migratowl.bitkaio.com
+2026-04-17T02:43:42Z,Reddit (r/SideProject),youflow.app,85,104.21.32.228,Cloudflare,http://youflow.app
+2026-04-17T02:43:42Z,GitHub,grow.glitchexecutor.com,20,136.115.184.123,GCP,https://grow.glitchexecutor.com
+2026-04-17T02:43:42Z,GitHub,hive-mind.work,40,172.67.200.188,Unknown,https://www.hive-mind.work
+2026-04-17T02:43:42Z,Reddit (r/SideProject),pricingpulse.io,100,216.198.79.1,Unknown,http://pricingpulse.io
+2026-04-17T02:43:42Z,GitHub,predictdog.xyz,40,216.150.1.1,Unknown,https://predictdog.xyz
+2026-04-17T02:43:42Z,GitHub,carrickcheah.com,40,172.67.185.123,Unknown,https://www.carrickcheah.com/
+2026-04-17T02:43:42Z,GitHub,lk-520.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://lk-520.github.io/music-agent/
+2026-04-17T02:43:42Z,GitHub,fmepm.com,20,52.52.192.191,AWS,https://fmepm.com
+2026-04-17T02:43:42Z,Reddit (r/SideProject),ionapp.online,100,185.158.133.1,Unknown,https://ionapp.online
+2026-04-17T02:43:42Z,GitHub,creatorweave.eo2suite.cn,40,43.174.246.53,Unknown,https://creatorweave.eo2suite.cn/
+2026-04-17T02:43:42Z,GitHub,buywhere.ai,50,143.198.87.39,Unknown,https://buywhere.ai
