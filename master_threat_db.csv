@@ -5343,3 +5343,50 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-22T02:41:12Z,Reddit (r/SaaS),kepler.gl,80,98.84.224.111,AWS,http://Kepler.gl
 2026-04-22T02:41:12Z,GitHub,sidixlab.com,20,72.62.125.6,srv1521061.hstgr.cloud.,https://sidixlab.com
 2026-04-22T02:41:12Z,GitHub,workrally.qq.com,40,183.60.15.206,Unknown,https://workrally.qq.com/
+2026-04-23T02:45:30Z,Reddit (r/SideProject),myfolioapp.site,100,216.198.79.1,Unknown,http://myfolioapp.site
+2026-04-23T02:45:30Z,Reddit (r/SideProject),schema.biz,100,172.67.142.80,Unknown,http://schema.biz
+2026-04-23T02:45:30Z,Reddit (r/SaaS),linguamic.com,80,76.76.21.21,Vercel,http://www.linguamic.com
+2026-04-23T02:45:30Z,Reddit (r/SaaS),writewithclio.com,80,76.76.21.21,Vercel,http://writewithclio.com
+2026-04-23T02:45:30Z,Reddit (r/SideProject),pyrun.xyz,100,216.198.79.1,Unknown,https://pyrun.xyz/
+2026-04-23T02:45:30Z,Reddit (r/SaaS),readthevid.com,100,216.198.79.1,Unknown,https://readthevid.com
+2026-04-23T02:45:30Z,Reddit (r/SaaS),passiveagents.com,110,216.198.79.1,Unknown,https://passiveagents.com/
+2026-04-23T02:45:30Z,Reddit (r/SideProject),developer.stockfit.io,80,18.65.25.7,AWS,https://developer.stockfit.io/playground
+2026-04-23T02:45:30Z,Reddit (r/SideProject),getcue.net,100,172.67.128.77,Unknown,https://getcue.net
+2026-04-23T02:45:30Z,Reddit (r/SideProject),promptbrake.com,85,104.21.36.21,Cloudflare,http://promptbrake.com/free-tools
+2026-04-23T02:45:30Z,Reddit (r/SideProject),creatorhunt.ytstats.co,80,216.24.57.7,Vercel,https://creatorhunt.ytstats.co/
+2026-04-23T02:45:30Z,GitHub,ai-crm-agent.vercel.app,60,216.198.79.131,Unknown,https://ai-crm-agent.vercel.app
+2026-04-23T02:45:30Z,Reddit (r/SideProject),aimastertools.com,110,172.67.189.46,Unknown,http://aimastertools.com/crypto-signals
+2026-04-23T02:45:30Z,GitHub,ghostvault.bizs.app,40,172.67.222.82,Unknown,https://ghostvault.bizs.app/
+2026-04-23T02:45:30Z,GitHub,appclaw.in,25,104.21.40.181,Cloudflare,https://appclaw.in/
+2026-04-23T02:45:30Z,Reddit (r/SaaS),jottler.co,100,216.150.1.1,Unknown,https://jottler.co
+2026-04-23T02:45:30Z,GitHub,tianhaoz95.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://tianhaoz95.github.io/cyberpaw/
+2026-04-23T02:45:30Z,GitHub,chai-analytics-dashboard.onrender.com,30,216.24.57.7,Vercel,https://chai-analytics-dashboard.onrender.com
+2026-04-23T02:45:30Z,Reddit (r/SaaS),ghostpilotai.com,110,172.67.137.3,Unknown,http://ghostpilotai.com
+2026-04-23T02:45:30Z,GitHub,emblemvault.ai,50,216.150.1.1,Unknown,https://emblemvault.ai
+2026-04-23T02:45:30Z,Reddit (r/SideProject),tracktion.pro,100,216.198.79.1,Unknown,http://tracktion.pro
+2026-04-23T02:45:30Z,Reddit (r/SideProject),kahtooee.com,100,185.158.133.1,Unknown,http://Kahtooee.com
+2026-04-23T02:45:30Z,Reddit (r/SideProject),legiseye.com,85,104.21.16.238,Cloudflare,http://legiseye.com
+2026-04-23T02:45:30Z,GitHub,docs.ihuus.com,40,66.33.60.66,Unknown,https://docs.ihuus.com/guides/mcp
+2026-04-23T02:45:30Z,Reddit (r/SideProject),kumbukum.com,100,172.67.169.114,Unknown,https://kumbukum.com/blog/now-available-kumbukum/
+2026-04-23T02:45:30Z,GitHub,docs.haiku.trade,35,104.26.12.175,Cloudflare,https://docs.haiku.trade
+2026-04-23T02:45:30Z,GitHub,evomap.ai,35,104.26.2.245,Cloudflare,https://evomap.ai
+2026-04-23T02:45:30Z,GitHub,differentbyte.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://differentbyte.github.io/bugwiser/
+2026-04-23T02:45:30Z,GitHub,agentlimb.com,50,172.67.155.10,Unknown,https://agentlimb.com/
+2026-04-23T02:45:30Z,GitHub,schchit.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://schchit.github.io/claimback-ai/
+2026-04-23T02:45:30Z,GitHub,suprsonic.ai,50,216.150.1.1,Unknown,https://suprsonic.ai
+2026-04-23T02:45:30Z,Reddit (r/SaaS),meriseai.vercel.app,110,64.29.17.131,Unknown,https://meriseai.vercel.app
+2026-04-23T02:45:30Z,Reddit (r/SaaS),alternytics.com,100,216.198.79.1,Unknown,https://alternytics.com/
+2026-04-23T02:45:30Z,GitHub,agent-sh.dev,30,13.52.188.95,AWS,https://agent-sh.dev
+2026-04-23T02:45:30Z,GitHub,meshy.ai,30,35.80.170.208,GCP,https://www.meshy.ai/
+2026-04-23T02:45:30Z,GitHub,fractality.studio,20,31.43.160.6,sites.framer.app.,https://fractality.studio/
+2026-04-23T02:45:30Z,GitHub,foremanjobs.lovable.app,40,185.41.148.2,Unknown,https://foremanjobs.lovable.app/
+2026-04-23T02:45:30Z,Reddit (r/SideProject),tunesalonai.com,110,151.101.2.15,Unknown,https://tunesalonai.com
+2026-04-23T02:45:30Z,Reddit (r/SaaS),dataentrylm.com,100,64.29.17.1,Unknown,https://www.dataentrylm.com
+2026-04-23T02:45:30Z,GitHub,offers.jp,20,65.8.20.100,server-65-8-20-100.phx50.r.cloudfront.net.,https://offers.jp
+2026-04-23T02:45:30Z,GitHub,aria-landing-one.vercel.app,40,64.29.17.195,Unknown,https://aria-landing-one.vercel.app
+2026-04-23T02:45:30Z,GitHub,docs.hrns.dev,20,76.76.21.61,Vercel,https://docs.hrns.dev/
+2026-04-23T02:45:30Z,Reddit (r/SideProject),voxyflow.snaf.foo,80,217.216.90.67,vmi3077814.contaboserver.net.,https://voxyflow.snaf.foo
+2026-04-23T02:45:30Z,GitHub,vibeknow.ai,50,107.150.102.254,Unknown,https://vibeknow.ai
+2026-04-23T02:45:30Z,GitHub,mbeditor.mbluostudio.com,40,129.204.250.203,Unknown,https://mbeditor.mbluostudio.com
+2026-04-23T02:45:30Z,GitHub,auraclaw.cc,40,8.138.15.72,Unknown,https://auraclaw.cc
+2026-04-23T02:45:30Z,GitHub,fontdo.com,40,39.108.237.96,Unknown,https://www.fontdo.com/
