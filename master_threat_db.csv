@@ -5497,3 +5497,51 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-26T02:49:35Z,GitHub,api.ideafactorylab.org,20,89.167.115.8,static.8.115.167.89.clients.your-server.de.,https://api.ideafactorylab.org
 2026-04-26T02:49:35Z,GitHub,ianneo.xyz,40,216.198.79.1,Unknown,https://ianneo.xyz
 2026-04-26T02:49:35Z,GitHub,symbiont.dev,20,87.118.112.188,de2.cryptocartel.com.,https://symbiont.dev
+2026-04-27T02:52:32Z,Reddit (r/SideProject),janardan.xyz,100,216.198.79.1,Unknown,https://www.janardan.xyz/writing/deconstructing-ai-eval-lab-workings
+2026-04-27T02:52:32Z,Reddit (r/SideProject),unicornds.io,100,216.198.79.1,Unknown,http://unicornds.io
+2026-04-27T02:52:32Z,Reddit (r/SideProject),proposal-ai-production.up.railway.app,110,151.101.2.15,Unknown,https://proposal-ai-production.up.railway.app
+2026-04-27T02:52:32Z,Reddit (r/SaaS),singlebit.xyz,100,216.198.79.65,Unknown,https://www.singlebit.xyz/
+2026-04-27T02:52:32Z,Reddit (r/SaaS),dividends.amoeba-ai.com,110,20.75.109.112,Unknown,http://dividends.amoeba-ai.com
+2026-04-27T02:52:32Z,Reddit (r/SaaS),returnsaver.co,100,216.198.79.1,Unknown,http://returnsaver.co
+2026-04-27T02:52:32Z,Reddit (r/SideProject),volleysmart.app,100,172.67.174.212,Unknown,https://volleysmart.app/
+2026-04-27T02:52:32Z,GitHub,vaddadisurya.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://vaddadisurya.github.io/Building-59-Digital-Twin-with-AI/
+2026-04-27T02:52:32Z,GitHub,algovoi.co.uk,25,104.21.5.115,Cloudflare,https://algovoi.co.uk
+2026-04-27T02:52:32Z,Reddit (r/SideProject),app.heygen.com,80,13.35.78.53,AWS,https://app.heygen.com/videos/4ebf9b8c7d544cd89adbffafd98686e8
+2026-04-27T02:52:32Z,GitHub,arpels.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://arpels.github.io/arpels-agent/
+2026-04-27T02:52:32Z,GitHub,strikersam.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://strikersam.github.io/local-llm-server/
+2026-04-27T02:52:32Z,GitHub,repairman29.github.io,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://repairman29.github.io/chump/
+2026-04-27T02:52:32Z,GitHub,vininhosts.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://vininhosts.github.io/CommandNest/
+2026-04-27T02:52:32Z,GitHub,ilang.ai,35,104.21.38.206,Cloudflare,https://ilang.ai
+2026-04-27T02:52:32Z,GitHub,weblisk.dev,25,104.21.6.246,Cloudflare,https://weblisk.dev
+2026-04-27T02:52:32Z,Reddit (r/SideProject),timeknot.app,100,216.198.79.1,Unknown,http://timeknot.app
+2026-04-27T02:52:32Z,Reddit (r/SideProject),globalpathwayadvisory.com,80,98.84.224.111,AWS,https://globalpathwayadvisory.com
+2026-04-27T02:52:32Z,GitHub,cebian.catcat.work,25,104.21.81.100,Cloudflare,https://cebian.catcat.work
+2026-04-27T02:52:32Z,GitHub,career-copilot.najinajari.com,25,104.21.59.10,Cloudflare,https://career-copilot.najinajari.com
+2026-04-27T02:52:32Z,GitHub,ethosagent.ai,60,172.67.193.246,Unknown,https://ethosagent.ai
+2026-04-27T02:52:32Z,Reddit (r/SideProject),avidaffiliate.com,80,18.208.88.157,AWS,http://AvidAffiliate.com
+2026-04-27T02:52:32Z,GitHub,mcpshark.sh,40,216.150.1.1,Unknown,https://mcpshark.sh/
+2026-04-27T02:52:32Z,Reddit (r/SaaS),vantascan.net,85,104.21.35.68,Cloudflare,https://vantascan.net
+2026-04-27T02:52:32Z,GitHub,matchitup.in,40,162.159.142.117,Unknown,https://matchitup.in/networkbot?tab=developers
+2026-04-27T02:52:32Z,GitHub,krakennet.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://krakennet.github.io/nautilus/
+2026-04-27T02:52:32Z,GitHub,deccanai.ritik.world,50,145.223.17.135,Unknown,https://deccanai.ritik.world/
+2026-04-27T02:52:32Z,Reddit (r/SaaS),govelum.com,100,216.198.79.1,Unknown,https://govelum.com
+2026-04-27T02:52:32Z,GitHub,arc-reel.com,40,172.67.169.108,Unknown,https://arc-reel.com
+2026-04-27T02:52:32Z,GitHub,alvinxie365.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://alvinxie365.github.io/zhiji-memory/
+2026-04-27T02:52:32Z,Reddit (r/SideProject),getlumia.ca,100,216.150.1.1,Unknown,http://getlumia.ca
+2026-04-27T02:52:32Z,GitHub,talantis.vercel.app,40,64.29.17.131,Unknown,https://talantis.vercel.app
+2026-04-27T02:52:32Z,Reddit (r/SideProject),precise-shadow-agent-ops.base44.app,90,216.24.57.7,Vercel,http://precise-shadow-agent-ops.base44.app
+2026-04-27T02:52:32Z,GitHub,avishek.short.gy,40,91.197.243.143,Unknown,https://avishek.short.gy/docchat
+2026-04-27T02:52:32Z,Reddit (r/SideProject),ultrathink.art,80,34.232.12.125,GCP,https://ultrathink.art/blog/blast-radius-containment?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=replit-guardrails
+2026-04-27T02:52:32Z,GitHub,thclaws.ai,50,159.223.42.56,Unknown,https://thclaws.ai
+2026-04-27T02:52:32Z,GitHub,siftglass.edycu.dev,40,216.198.79.1,Unknown,https://siftglass.edycu.dev
+2026-04-27T02:52:32Z,GitHub,hermesforge.dev,20,51.68.119.197,ns3145178.ip-51-68-119.eu.,https://hermesforge.dev
+2026-04-27T02:52:32Z,Reddit (r/SaaS),permisapi.fr,100,216.198.79.1,Unknown,http://permisapi.fr
+2026-04-27T02:52:32Z,GitHub,discharge-agent-ten.vercel.app,50,64.29.17.131,Unknown,https://discharge-agent-ten.vercel.app
+2026-04-27T02:52:32Z,Reddit (r/SideProject),conduit.arewefriends.org,100,159.65.163.26,Unknown,https://conduit.arewefriends.org/
+2026-04-27T02:52:32Z,GitHub,aishellgate.com,50,147.79.72.9,Unknown,http://www.aishellgate.com
+2026-04-27T02:52:32Z,Reddit (r/SaaS),innovadash.com,100,145.223.124.42,Unknown,http://innovadash.com
+2026-04-27T02:52:32Z,GitHub,webagentbridge.com,30,76.13.39.201,srv1332632.hstgr.cloud.,https://webagentbridge.com
+2026-04-27T02:52:32Z,Reddit (r/SideProject),football-data.org,80,45.142.177.98,v2202111137467168276.nicesrv.de.,https://www.football-data.org/
+2026-04-27T02:52:32Z,GitHub,trtc.io,40,43.159.109.102,Unknown,https://trtc.io/free-chat-api
+2026-04-27T02:52:32Z,GitHub,know.jitword.com,40,111.231.64.186,Unknown,https://know.jitword.com
+2026-04-27T02:52:33Z,GitHub,pagepal.dyn.cloud.e-infra.cz,20,147.251.253.240,kuba-pub.cerit-sc.cz.,https://pagepal.dyn.cloud.e-infra.cz
