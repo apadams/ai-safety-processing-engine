@@ -5545,3 +5545,35 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-27T02:52:32Z,GitHub,trtc.io,40,43.159.109.102,Unknown,https://trtc.io/free-chat-api
 2026-04-27T02:52:32Z,GitHub,know.jitword.com,40,111.231.64.186,Unknown,https://know.jitword.com
 2026-04-27T02:52:33Z,GitHub,pagepal.dyn.cloud.e-infra.cz,20,147.251.253.240,kuba-pub.cerit-sc.cz.,https://pagepal.dyn.cloud.e-infra.cz
+2026-04-28T02:59:57Z,Reddit (r/SideProject),blitzr.web.app,100,199.36.158.100,Unknown,https://blitzr.web.app
+2026-04-28T02:59:57Z,Reddit (r/SideProject),sessionpick.com,100,216.150.1.1,Unknown,https://sessionpick.com/
+2026-04-28T02:59:57Z,Reddit (r/SideProject),rpbuddy.ai,110,216.198.79.1,Unknown,https://rpbuddy.ai
+2026-04-28T02:59:57Z,Reddit (r/SideProject),skillfile.studio,100,216.198.79.65,Unknown,https://skillfile.studio/
+2026-04-28T02:59:57Z,Reddit (r/SaaS),learn.g2.com,100,199.60.103.228,Unknown,https://learn.g2.com/g2-2026-ai-search-insight-report
+2026-04-28T02:59:57Z,GitHub,developers.heygen.com,25,104.18.8.242,Cloudflare,https://developers.heygen.com/docs/quick-start
+2026-04-28T02:59:57Z,Reddit (r/SaaS),calendro.io,100,185.158.133.1,Unknown,https://calendro.io
+2026-04-28T02:59:57Z,Reddit (r/SideProject),socialshield-hlu7.polsia.app,80,216.24.57.7,Vercel,https://socialshield-hlu7.polsia.app/blog/what-makes-posts-go-viral
+2026-04-28T02:59:57Z,GitHub,jiahp0920.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://jiahp0920.github.io/claude-code-source-analysis/
+2026-04-28T02:59:57Z,GitHub,docs.threatrecall.ai,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://docs.threatrecall.ai/
+2026-04-28T02:59:57Z,Reddit (r/SideProject),myniroga.com,100,162.159.142.117,Unknown,http://myniroga.com
+2026-04-28T02:59:57Z,Reddit (r/SideProject),yourideasucksass.lovable.app,100,185.41.148.1,Unknown,https://yourideasucksass.lovable.app/
+2026-04-28T02:59:57Z,GitHub,copair.dugleelabs.io,35,104.21.49.98,Cloudflare,https://copair.dugleelabs.io
+2026-04-28T02:59:57Z,Reddit (r/SaaS),nvestiq.com,80,31.43.161.6,sites.framer.app.,https://www.nvestiq.com/
+2026-04-28T02:59:57Z,Reddit (r/SaaS),seatlogic.app,100,172.67.197.47,Unknown,https://www.seatlogic.app
+2026-04-28T02:59:57Z,GitHub,krishnalabs.ai,30,76.76.21.21,Vercel,https://krishnalabs.ai
+2026-04-28T02:59:57Z,GitHub,matrixgard.com,25,104.21.72.162,Cloudflare,https://matrixgard.com
+2026-04-28T02:59:57Z,GitHub,corazzione.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://corazzione.github.io/skillpulse
+2026-04-28T02:59:57Z,GitHub,kavindu1124-finance-ai-agent.hf.space,40,100.24.242.252,AWS,https://kavindu1124-finance-ai-agent.hf.space
+2026-04-28T02:59:57Z,GitHub,victoriamarafetti.com,20,31.43.160.6,sites.framer.app.,https://www.victoriamarafetti.com/
+2026-04-28T02:59:57Z,Reddit (r/SideProject),wearforecast.app,85,104.21.61.174,Cloudflare,https://wearforecast.app
+2026-04-28T02:59:57Z,GitHub,dearuser.ai,50,64.29.17.1,Unknown,https://dearuser.ai
+2026-04-28T02:59:57Z,GitHub,agent.forgeui.org,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://agent.forgeui.org
+2026-04-28T02:59:57Z,GitHub,mockinterview-agent.vercel.app,50,64.29.17.195,Unknown,https://mockinterview-agent.vercel.app
+2026-04-28T02:59:57Z,Reddit (r/SideProject),paulbuttle.com,80,31.97.118.233,srv1237470.hstgr.cloud.,https://paulbuttle.com/blog/raising-the-dead-bringing-a-long-fallen-platform-back-to-life
+2026-04-28T02:59:57Z,Reddit (r/SaaS),jesuscall.app,80,185.214.134.26,vmi3256617.contaboserver.net.,https://jesuscall.app/
+2026-04-28T02:59:57Z,GitHub,smridhv-conversational-hotel-review-intelligence.hf.space,20,98.91.70.248,AWS,https://smridhv-conversational-hotel-review-intelligence.hf.space/
+2026-04-28T02:59:57Z,Reddit (r/SaaS),hasle.space,80,141.140.12.189,189.12.140.141.az1.linveo.com.,https://hasle.space
+2026-04-28T02:59:57Z,GitHub,journal.dcs.or.kr,20,3.36.166.252,AWS,http://journal.dcs.or.kr/_common/do.php?a=full&b=&bidx=4363&aidx=48548
+2026-04-28T02:59:57Z,GitHub,platform.claude.com,40,160.79.104.10,Unknown,https://platform.claude.com/docs/en/agent-sdk/overview
+2026-04-28T02:59:58Z,GitHub,qiuyiwu.com,40,43.159.171.3,Unknown,http://www.qiuyiwu.com
+2026-04-28T03:00:07Z,GitHub,linkupapi.com,40,198.202.211.1,Unknown,https://linkupapi.com
