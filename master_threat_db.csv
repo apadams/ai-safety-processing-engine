@@ -5577,3 +5577,32 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-04-28T02:59:57Z,GitHub,platform.claude.com,40,160.79.104.10,Unknown,https://platform.claude.com/docs/en/agent-sdk/overview
 2026-04-28T02:59:58Z,GitHub,qiuyiwu.com,40,43.159.171.3,Unknown,http://www.qiuyiwu.com
 2026-04-28T03:00:07Z,GitHub,linkupapi.com,40,198.202.211.1,Unknown,https://linkupapi.com
+2026-04-29T02:58:47Z,Reddit (r/SaaS),arcturus-labs.com,80,185.199.109.153,cdn-185-199-109-153.github.com.,https://arcturus-labs.com/blog/2026/03/22/the-ai-product-era-youre-building-for-might-already-be-over/
+2026-04-29T02:58:47Z,GitHub,chris-peterson.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://chris-peterson.github.io/beacon/
+2026-04-29T02:58:47Z,Reddit (r/SideProject),scriptguide.ai,90,34.111.179.208,GCP,https://scriptguide.ai/
+2026-04-29T02:58:47Z,GitHub,jgabor.se,25,104.21.39.130,Cloudflare,https://jgabor.se
+2026-04-29T02:58:47Z,Reddit (r/SideProject),standuplearn.com,100,216.198.79.1,Unknown,https://standuplearn.com/
+2026-04-29T02:58:47Z,GitHub,v0-repoguide.vercel.app,40,216.198.79.3,Unknown,https://v0-repoguide.vercel.app/
+2026-04-29T02:58:47Z,Reddit (r/SideProject),mailix.ai,110,216.150.1.1,Unknown,http://mailix.ai
+2026-04-29T02:58:47Z,GitHub,three.ws,40,216.150.1.1,Unknown,https://three.ws
+2026-04-29T02:58:47Z,GitHub,supermodeltools.com,25,104.26.12.210,Cloudflare,https://supermodeltools.com/trial
+2026-04-29T02:58:47Z,GitHub,aolingge.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://aolingge.github.io/agent-run-trace-pack/
+2026-04-29T02:58:47Z,Reddit (r/SaaS),creativly.ai,110,216.150.1.1,Unknown,http://www.creativly.ai
+2026-04-29T02:58:47Z,Reddit (r/SaaS),oncallclerk.com,80,216.239.38.21,any-in-2615.1e100.net.,https://oncallclerk.com/
+2026-04-29T02:58:47Z,GitHub,ai-pivot.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://ai-pivot.github.io/xbot/
+2026-04-29T02:58:47Z,Reddit (r/SaaS),turniamo.com,80,34.111.179.208,GCP,http://www.turniamo.com
+2026-04-29T02:58:47Z,GitHub,sql-converter-navy.vercel.app,40,64.29.17.3,Unknown,https://sql-converter-navy.vercel.app
+2026-04-29T02:58:47Z,GitHub,holaos.ai,50,172.67.153.105,Unknown,https://holaos.ai
+2026-04-29T02:58:47Z,GitHub,astranl.com,40,152.42.141.63,Unknown,https://astranl.com/agents
+2026-04-29T02:58:47Z,GitHub,ai-blogersite.vercel.app,50,216.198.79.131,Unknown,https://ai-blogersite.vercel.app/
+2026-04-29T02:58:47Z,Reddit (r/SideProject),steo.ai,90,50.19.89.213,AWS,http://Steo.AI
+2026-04-29T02:58:47Z,Reddit (r/SideProject),roveflow.com,100,64.29.17.65,Unknown,https://roveflow.com/
+2026-04-29T02:58:47Z,Reddit (r/SideProject),decodethevote.com,100,216.150.1.193,Unknown,http://DecodetheVote.com
+2026-04-29T02:58:47Z,Reddit (r/SideProject),appgraveyard.com,100,216.150.16.1,Unknown,https://appgraveyard.com
+2026-04-29T02:58:47Z,Reddit (r/SideProject),slopit.io,80,65.21.204.102,static.102.204.21.65.clients.your-server.de.,https://slopit.io
+2026-04-29T02:58:47Z,GitHub,letsfg.co,40,199.36.158.100,Unknown,https://letsfg.co/en
+2026-04-29T02:58:47Z,GitHub,upstream.cx,40,216.150.1.65,Unknown,https://upstream.cx
+2026-04-29T02:58:47Z,GitHub,swarmsync.ai,30,98.84.224.111,AWS,https://swarmsync.ai/enable-swarmscore
+2026-04-29T02:58:47Z,Reddit (r/SaaS),signalreach.awarenet.io,80,35.219.200.202,GCP,http://www.signalreach.awarenet.io
+2026-04-29T02:58:48Z,GitHub,patchworkos.com,40,185.167.97.141,Unknown,https://patchworkos.com
+2026-04-29T02:58:48Z,GitHub,118.178.242.26,40,118.178.242.26,Unknown,http://118.178.242.26
