@@ -5677,3 +5677,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-05-01T03:30:40Z,Reddit (r/SaaS),wattfactory.fit,85,104.21.65.211,Cloudflare,https://wattfactory.fit/
 2026-05-01T03:30:40Z,GitHub,herodotus.cn,40,47.98.42.163,Unknown,https://www.herodotus.cn
 2026-05-01T03:30:40Z,GitHub,openclawlaunchkit.site,40,216.198.79.1,Unknown,https://www.openclawlaunchkit.site/?utm_source=github&utm_medium=repo_homepage&utm_campaign=openclaw_starter_free
+2026-05-02T02:49:39Z,Reddit (r/SaaS),app.othor.ai,90,13.62.84.15,AWS,https://app.othor.ai
+2026-05-02T02:49:39Z,Reddit (r/SideProject),asthma-minneapolis-customize-causes.trycloudflare.com,85,104.16.230.132,Cloudflare,https://asthma-minneapolis-customize-causes.trycloudflare.com
+2026-05-02T02:49:39Z,Reddit (r/SideProject),liveoutloud.live,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,http://liveoutloud.live
+2026-05-02T02:49:39Z,GitHub,quarkloop.com,40,216.198.79.1,Unknown,https://quarkloop.com
+2026-05-02T02:49:39Z,Reddit (r/SideProject),winproposal.io,100,216.198.79.1,Unknown,https://www.winproposal.io
+2026-05-02T02:49:39Z,Reddit (r/SideProject),laimadesign.com,90,23.227.38.65,myshopify.com.,http://laimadesign.com
+2026-05-02T02:49:39Z,GitHub,garudust-org.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://garudust-org.github.io/garudust-agent/
+2026-05-02T02:49:39Z,GitHub,crewm8.ai,35,104.21.18.47,Cloudflare,https://crewm8.ai
+2026-05-02T02:49:39Z,GitHub,product-dev-blueprint.vercel.app,40,64.29.17.195,Unknown,https://product-dev-blueprint.vercel.app
+2026-05-02T02:49:39Z,GitHub,creator-vetting-agent.vercel.app,50,64.29.17.131,Unknown,https://creator-vetting-agent.vercel.app
+2026-05-02T02:49:39Z,Reddit (r/SideProject),sentient-os.ai,110,64.29.17.65,Unknown,https://sentient-os.ai
+2026-05-02T02:49:39Z,Reddit (r/SideProject),tastor.xyz,100,216.198.79.1,Unknown,http://tastor.xyz
+2026-05-02T02:49:39Z,Reddit (r/SideProject),settlapp.in,100,216.198.79.1,Unknown,https://settlapp.in
+2026-05-02T02:49:39Z,GitHub,lila.sh,20,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://lila.sh
+2026-05-02T02:49:39Z,GitHub,notesapp-production-86ab.up.railway.app,50,151.101.2.15,Unknown,https://notesapp-production-86ab.up.railway.app/
+2026-05-02T02:49:39Z,GitHub,funaibuddy.com,50,192.0.78.205,Unknown,https://www.funaibuddy.com
+2026-05-02T02:49:39Z,GitHub,docs.fastfold.ai,50,216.150.1.129,Unknown,https://docs.fastfold.ai
+2026-05-02T02:49:39Z,GitHub,riposte.sh,40,172.67.213.244,Unknown,https://riposte.sh
+2026-05-02T02:49:39Z,GitHub,autoapply-ai-alpha.vercel.app,50,216.198.79.131,Unknown,https://autoapply-ai-alpha.vercel.app
+2026-05-02T02:49:39Z,GitHub,dollardill.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://dollardill.github.io/beads-superpowers/
+2026-05-02T02:49:39Z,GitHub,bolttx.io,25,104.21.10.40,Cloudflare,https://bolttx.io
+2026-05-02T02:49:39Z,Reddit (r/SideProject),deadblock.app,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://deadblock.app/
+2026-05-02T02:49:39Z,GitHub,k-dense.ai,50,216.150.1.1,Unknown,https://k-dense.ai
+2026-05-02T02:49:39Z,Reddit (r/SideProject),tokens4breakfast.app,100,216.198.79.1,Unknown,http://tokens4breakfast.app
+2026-05-02T02:49:39Z,GitHub,ajbarea.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://ajbarea.github.io/orchestrate-triage/
+2026-05-02T02:49:39Z,GitHub,the-jddev.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://the-jddev.github.io/ManusClaw
+2026-05-02T02:49:39Z,GitHub,heytalepazguato.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://heytalepazguato.github.io/event-horizon/
+2026-05-02T02:49:39Z,GitHub,labs.prompthon.io,40,66.33.60.194,Unknown,https://labs.prompthon.io/
+2026-05-02T02:49:39Z,Reddit (r/SideProject),stepwisely.app,85,104.21.17.198,Cloudflare,http://stepwisely.app
+2026-05-02T02:49:39Z,Reddit (r/SideProject),sellsignal.app,100,216.150.1.193,Unknown,https://sellsignal.app/try
+2026-05-02T02:49:39Z,Reddit (r/SideProject),domain.webtwizz.app,90,76.76.21.164,Vercel,http://domain.webtwizz.app
+2026-05-02T02:49:39Z,GitHub,however-yir.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://however-yir.github.io/projects/forgepilot-studio/
+2026-05-02T02:49:39Z,Reddit (r/SideProject),tellysauce.com,100,216.150.1.1,Unknown,https://www.tellysauce.com/
+2026-05-02T02:49:39Z,Reddit (r/SaaS),stocksanalyzer.app,100,216.198.79.1,Unknown,http://stocksanalyzer.app/
+2026-05-02T02:49:39Z,Reddit (r/SideProject),arky.so,85,104.21.38.111,Cloudflare,http://arky.so
+2026-05-02T02:49:39Z,GitHub,futureagent-c0ab4cnu.edgeone.cool,50,43.174.247.29,Unknown,https://futureagent-c0ab4cnu.edgeone.cool/
+2026-05-02T02:49:39Z,Reddit (r/SaaS),logu.ro,80,168.119.79.123,static.123.79.119.168.clients.your-server.de.,https://logu.ro
+2026-05-02T02:49:39Z,GitHub,24plus.ai.kr,50,123.41.22.70,Unknown,https://24plus.ai.kr
+2026-05-02T02:49:40Z,GitHub,skycetus.cn,40,8.134.132.211,Unknown,https://skycetus.cn/skills/
