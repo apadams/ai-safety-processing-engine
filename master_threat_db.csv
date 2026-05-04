@@ -5746,3 +5746,43 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-05-03T03:01:13Z,GitHub,apps.odoo.com,20,35.205.243.112,GCP,https://apps.odoo.com/apps/modules/17.0/odoopilot
 2026-05-03T03:01:14Z,GitHub,guanlan.xin,40,101.37.70.222,Unknown,https://Guanlan.xin
 2026-05-03T03:01:23Z,GitHub,xuanpu.clawplay.club,40,115.191.64.165,Unknown,https://xuanpu.clawplay.club/
+2026-05-04T02:58:13Z,Reddit (r/SaaS),chess.com,85,104.18.139.67,Cloudflare,http://chess.com
+2026-05-04T02:58:13Z,Reddit (r/SideProject),babypenguin.ai,110,172.67.217.150,Unknown,https://babypenguin.ai
+2026-05-04T02:58:13Z,Reddit (r/SaaS),analytxedge.com,85,172.64.80.1,Cloudflare,http://www.analytxedge.com
+2026-05-04T02:58:13Z,Reddit (r/SaaS),market-sim-tan.vercel.app,100,216.198.79.67,Unknown,https://market-sim-tan.vercel.app/
+2026-05-04T02:58:13Z,Reddit (r/SaaS),sendio.ai,110,216.150.1.1,Unknown,http://Sendio.ai
+2026-05-04T02:58:13Z,Reddit (r/SaaS),letsgatheroffice.github.io,80,185.199.109.153,cdn-185-199-109-153.github.com.,https://letsgatheroffice.github.io/gathering-survey-en/
+2026-05-04T02:58:13Z,Reddit (r/SideProject),feralhq.com,100,172.67.142.139,Unknown,https://feralhq.com
+2026-05-04T02:58:13Z,Reddit (r/SideProject),reflowpdf.com,85,104.21.50.109,Cloudflare,https://reflowpdf.com/
+2026-05-04T02:58:13Z,Reddit (r/SaaS),rustcast.app,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://rustcast.app
+2026-05-04T02:58:13Z,GitHub,cooli.ai,50,172.67.147.46,Unknown,https://cooli.ai
+2026-05-04T02:58:13Z,GitHub,phantommesh.io,40,172.67.132.153,Unknown,https://phantommesh.io
+2026-05-04T02:58:13Z,Reddit (r/SideProject),lingolore.app,80,98.84.224.111,AWS,https://lingolore.app
+2026-05-04T02:58:13Z,GitHub,nextagent.ca,35,104.21.78.41,Cloudflare,https://nextagent.ca
+2026-05-04T02:58:13Z,Reddit (r/SideProject),hera.cello.so,80,52.29.242.248,AWS,https://hera.cello.so/2UcFqlWTG22
+2026-05-04T02:58:13Z,GitHub,chathermes.com,40,172.67.175.131,Unknown,https://chathermes.com
+2026-05-04T02:58:13Z,Reddit (r/SideProject),agentstack-ecru.vercel.app,110,64.29.17.67,Unknown,https://agentstack-ecru.vercel.app/race
+2026-05-04T02:58:13Z,GitHub,40.81.30.244,40,40.81.30.244,Unknown,http://40.81.30.244/
+2026-05-04T02:58:13Z,GitHub,polaris.berkaycubuk.com,20,18.208.88.157,AWS,https://polaris.berkaycubuk.com
+2026-05-04T02:58:13Z,Reddit (r/SideProject),lennysdata.com,100,198.49.23.144,Unknown,http://lennysdata.com
+2026-05-04T02:58:13Z,GitHub,serafim-builds.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://serafim-builds.github.io/PersonaOS/
+2026-05-04T02:58:13Z,GitHub,cyclops.gopalji.me,40,216.198.79.65,Unknown,https://cyclops.gopalji.me
+2026-05-04T02:58:13Z,GitHub,naroka.gumroad.com,25,104.17.176.98,Cloudflare,https://naroka.gumroad.com/l/Ghost-Recruiter-AI-Resume-Screening
+2026-05-04T02:58:13Z,Reddit (r/SideProject),graphloom.app,100,216.198.79.1,Unknown,http://graphloom.app
+2026-05-04T02:58:13Z,Reddit (r/SaaS),freesubstats.com,100,172.67.129.137,Unknown,https://freesubstats.com/
+2026-05-04T02:58:13Z,GitHub,hireproof-sigma.vercel.app,40,216.198.79.195,Unknown,https://hireproof-sigma.vercel.app
+2026-05-04T02:58:13Z,GitHub,re-gent.dev,20,13.248.243.5,AWS,https://re-gent.dev
+2026-05-04T02:58:13Z,GitHub,auto-sop.com,40,216.150.1.1,Unknown,https://auto-sop.com
+2026-05-04T02:58:13Z,GitHub,d2ma.com,20,76.76.21.21,Vercel,https://d2ma.com
+2026-05-04T02:58:13Z,Reddit (r/SideProject),depikt.app,100,185.158.133.1,Unknown,https://depikt.app/
+2026-05-04T02:58:13Z,GitHub,subzone.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://subzone.github.io/Agentctl/
+2026-05-04T02:58:13Z,GitHub,aevum.build,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://aevum.build
+2026-05-04T02:58:13Z,GitHub,pr-sentry-website.vercel.app,40,64.29.17.195,Unknown,https://pr-sentry-website.vercel.app
+2026-05-04T02:58:13Z,Reddit (r/SideProject),tryutopia.app,100,216.150.16.1,Unknown,https://tryutopia.app
+2026-05-04T02:58:13Z,Reddit (r/SaaS),tutortrackai.com,110,216.198.79.1,Unknown,https://tutortrackai.com/
+2026-05-04T02:58:13Z,GitHub,zama-skill.vercel.app,40,216.198.79.3,Unknown,https://zama-skill.vercel.app
+2026-05-04T02:58:13Z,GitHub,aidrivenworkflow.vercel.app,50,216.198.79.67,Unknown,https://aidrivenworkflow.vercel.app/
+2026-05-04T02:58:13Z,Reddit (r/SideProject),humniio.com,100,162.159.140.98,Unknown,https://www.humniio.com
+2026-05-04T02:58:14Z,GitHub,snappedai.com,30,77.42.43.0,static.0.43.42.77.clients.your-server.de.,https://snappedai.com
+2026-05-04T02:58:14Z,GitHub,nova-cognitive.com,20,213.202.230.249,ma258.mars.servdiscount-customer.com.,https://nova-cognitive.com
+2026-05-04T02:58:15Z,GitHub,global.xidao.online,40,155.102.61.53,Unknown,https://global.xidao.online/
