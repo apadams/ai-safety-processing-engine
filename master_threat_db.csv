@@ -5875,3 +5875,35 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-05-07T02:59:16Z,GitHub,8.136.98.175,40,8.136.98.175,Unknown,http://8.136.98.175
 2026-05-07T02:59:16Z,GitHub,116.62.34.146,40,116.62.34.146,Unknown,http://116.62.34.146/
 2026-05-07T02:59:16Z,GitHub,geekzzine.com,20,89.46.108.58,webx1314.aruba.it.,https://www.geekzzine.com
+2026-05-08T03:02:03Z,GitHub,tota-agent.vercel.app,50,216.198.79.195,Unknown,https://tota-agent.vercel.app/
+2026-05-08T03:02:03Z,Reddit (r/SideProject),actionable-ai-olive.vercel.app,110,216.198.79.195,Unknown,https://actionable-ai-olive.vercel.app/
+2026-05-08T03:02:03Z,Reddit (r/SideProject),shipnote.co,100,216.150.1.129,Unknown,https://www.shipnote.co/
+2026-05-08T03:02:03Z,Reddit (r/SideProject),informity.ai,90,3.170.152.21,AWS,https://www.informity.ai
+2026-05-08T03:02:03Z,Reddit (r/SideProject),maibook.app,95,104.21.16.8,Cloudflare,https://maibook.app
+2026-05-08T03:02:03Z,Reddit (r/SaaS),hackindia.org,100,172.67.202.90,Unknown,https://hackindia.org
+2026-05-08T03:02:03Z,GitHub,ttmens.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ttmens.github.io/ai-radar-wiki/graph.html
+2026-05-08T03:02:03Z,Reddit (r/SideProject),liftspot.ai,110,199.36.158.100,Unknown,https://liftspot.ai/?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=launch_w1
+2026-05-08T03:02:03Z,Reddit (r/SideProject),invoko.ai,110,172.66.40.171,Unknown,http://invoko.ai
+2026-05-08T03:02:03Z,GitHub,hermes-machines.vercel.app,40,216.198.79.195,Unknown,https://hermes-machines.vercel.app
+2026-05-08T03:02:03Z,GitHub,learn.shareai.run,50,172.66.46.247,Unknown,https://learn.shareai.run/
+2026-05-08T03:02:03Z,Reddit (r/SideProject),memoryamble.com,80,34.111.179.208,GCP,http://memoryamble.com
+2026-05-08T03:02:03Z,Reddit (r/SaaS),qatodev.com,85,104.21.74.212,Cloudflare,http://qatodev.com
+2026-05-08T03:02:03Z,Reddit (r/SideProject),brieflysec.com,85,104.21.66.61,Cloudflare,https://brieflysec.com
+2026-05-08T03:02:03Z,GitHub,meeting-agent-web.vercel.app,50,216.198.79.3,Unknown,https://meeting-agent-web.vercel.app/
+2026-05-08T03:02:03Z,GitHub,zeno-agent.dev,50,172.67.220.147,Unknown,https://zeno-agent.dev
+2026-05-08T03:02:03Z,GitHub,llamaboss.com,40,172.67.144.160,Unknown,https://llamaboss.com
+2026-05-08T03:02:03Z,GitHub,wesight.ai,30,216.239.34.21,any-in-2215.1e100.net.,https://wesight.ai
+2026-05-08T03:02:03Z,GitHub,cyberraccoon.ai,50,172.67.195.144,Unknown,https://cyberraccoon.ai
+2026-05-08T03:02:03Z,GitHub,sipher-zeta.vercel.app,40,64.29.17.3,Unknown,https://sipher-zeta.vercel.app
+2026-05-08T03:02:03Z,Reddit (r/SaaS),agentscan.chimera-protocol.com,90,16.170.76.15,AWS,https://agentscan.chimera-protocol.com/
+2026-05-08T03:02:03Z,Reddit (r/SaaS),optimatio.io,80,178.156.142.194,static.194.142.156.178.clients.your-server.de.,https://optimatio.io
+2026-05-08T03:02:03Z,GitHub,sanjeev-ragunathan.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://sanjeev-ragunathan.github.io/Cornell-Treasury-Automation/
+2026-05-08T03:02:03Z,GitHub,tarathestar.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://tarathestar.github.io/enso/
+2026-05-08T03:02:03Z,Reddit (r/SideProject),audit.snapsell.ca,100,66.33.22.199,Unknown,https://audit.snapsell.ca/
+2026-05-08T03:02:03Z,GitHub,znzjluo1008-netizen.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://znzjluo1008-netizen.github.io/industrylens/
+2026-05-08T03:02:03Z,Reddit (r/SideProject),helgason.io,80,185.199.109.153,cdn-185-199-109-153.github.com.,http://helgason.io
+2026-05-08T03:02:03Z,GitHub,futurmix.one,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://futurmix.one
+2026-05-08T03:02:03Z,Reddit (r/SaaS),checkwise.ai,90,83.228.212.206,ov-4b70bb.infomaniak.ch.,http://checkwise.ai
+2026-05-08T03:02:03Z,GitHub,osint-for-all.live,20,165.22.120.248,osint-for-all.live.,http://osint-for-all.live
+2026-05-08T03:02:03Z,GitHub,api.halalterminal.com,20,87.106.2.144,ip87-106-2-144.pbiaas.com.,https://api.halalterminal.com
+2026-05-08T03:02:04Z,GitHub,tken.shop,40,8.25.82.166,Unknown,https://www.tken.shop/?utm_source=github&utm_medium=repo_homepage&utm_campaign=openai-compatible-mcp-server
