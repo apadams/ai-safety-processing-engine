@@ -6015,3 +6015,33 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-05-11T03:38:53Z,GitHub,site.scarletwolf.cloud,20,31.97.116.142,srv1294093.hstgr.cloud.,https://site.scarletwolf.cloud
 2026-05-11T03:38:53Z,GitHub,resolvekit.app,20,92.242.187.124,srv1145726.hstgr.cloud.,https://resolvekit.app
 2026-05-11T03:38:53Z,GitHub,docs.thingsarestaging.tech,20,147.93.62.111,srv1627826.hstgr.cloud.,https://docs.thingsarestaging.tech
+2026-05-12T03:03:28Z,GitHub,sfr-development.de,25,104.21.44.35,Cloudflare,https://sfr-development.de
+2026-05-12T03:03:28Z,Reddit (r/SideProject),undertone.co,100,185.158.133.1,Unknown,https://undertone.co
+2026-05-12T03:03:28Z,Reddit (r/SideProject),duebop.com,85,104.214.20.35,Cloudflare,https://duebop.com
+2026-05-12T03:03:28Z,Reddit (r/SaaS),appsumo.com,85,104.18.17.125,Cloudflare,https://appsumo.com/products/writingmate/
+2026-05-12T03:03:28Z,GitHub,helix-tau-two.vercel.app,40,216.198.79.195,Unknown,https://helix-tau-two.vercel.app
+2026-05-12T03:03:28Z,GitHub,epwforge.com,40,216.150.16.129,Unknown,https://epwforge.com
+2026-05-12T03:03:28Z,GitHub,theaioperator.io,35,104.18.36.24,Cloudflare,https://theaioperator.io
+2026-05-12T03:03:28Z,Reddit (r/SaaS),cheapllm.shop,100,172.67.202.3,Unknown,http://CheapLLM.shop
+2026-05-12T03:03:28Z,GitHub,tomyang-tz.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://tomyang-tz.github.io/Gstrl/
+2026-05-12T03:03:28Z,GitHub,stasdodesign.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://stasdodesign.github.io/product-design-portfolio/en.html
+2026-05-12T03:03:28Z,GitHub,olddun.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://olddun.github.io/earn10-clawtasks-deliverables/
+2026-05-12T03:03:28Z,GitHub,wxkingstar.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://wxkingstar.github.io/ai-output-runtime/
+2026-05-12T03:03:28Z,GitHub,spotifai.niclaslindstedt.se,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://spotifai.niclaslindstedt.se/
+2026-05-12T03:03:28Z,GitHub,rumblingb.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://rumblingb.github.io/rental-agent-mcp/
+2026-05-12T03:03:28Z,GitHub,fanhualuoxianting.tech,40,172.67.166.202,Unknown,https://fanhualuoxianting.tech
+2026-05-12T03:03:28Z,GitHub,adityaarsharma.com,40,172.67.147.154,Unknown,https://adityaarsharma.com
+2026-05-12T03:03:28Z,GitHub,tang-vu.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://tang-vu.github.io/reasoning-receipt/
+2026-05-12T03:03:28Z,Reddit (r/SaaS),hugmypdf.com,85,104.21.63.130,Cloudflare,https://hugmypdf.com/
+2026-05-12T03:03:28Z,Reddit (r/SideProject),dezainradar.com,110,185.158.133.1,Unknown,https://dezainradar.com/?utm_source=chatgpt.com
+2026-05-12T03:03:28Z,GitHub,paidsync.ai,50,216.198.79.1,Unknown,https://paidsync.ai/run-ads-with-ai
+2026-05-12T03:03:28Z,GitHub,agent-coherence.dev,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://agent-coherence.dev/
+2026-05-12T03:03:28Z,GitHub,agent-ely.fr,30,72.61.192.29,srv1142072.hstgr.cloud.,https://agent-ely.fr
+2026-05-12T03:03:28Z,GitHub,jobtriage.vercel.app,40,216.198.79.3,Unknown,https://jobtriage.vercel.app
+2026-05-12T03:03:28Z,Reddit (r/SaaS),starterstory.com,100,172.67.72.248,Unknown,https://www.starterstory.com/
+2026-05-12T03:03:28Z,Reddit (r/SideProject),wasitaigenerated.com,110,216.150.1.1,Unknown,http://WasItAIGenerated.com
+2026-05-12T03:03:28Z,Reddit (r/SideProject),getfoyer.dev,80,31.43.160.6,sites.framer.app.,https://getfoyer.dev
+2026-05-12T03:03:28Z,GitHub,zosma.ai,50,216.198.79.1,Unknown,https://zosma.ai
+2026-05-12T03:03:29Z,GitHub,automatelab.tech,20,46.62.237.185,static.185.237.62.46.clients.your-server.de.,https://automatelab.tech/n8n-mcp-server/
+2026-05-12T03:03:29Z,Reddit (r/SideProject),justmeme.wtf,100,172.67.186.234,Unknown,https://justmeme.wtf
+2026-05-12T03:03:29Z,GitHub,madeagents.ai,60,47.243.99.21,Unknown,https://madeagents.ai/innovation/topoclaw/
