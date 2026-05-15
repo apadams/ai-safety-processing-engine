@@ -6109,3 +6109,38 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-05-14T03:34:37Z,Reddit (r/SideProject),ghostcam.app,100,216.198.79.1,Unknown,https://ghostcam.app
 2026-05-14T03:34:38Z,GitHub,chatlab.fun,40,43.174.247.24,Unknown,https://chatlab.fun
 2026-05-14T03:34:41Z,GitHub,radkit.cisco.com,40,192.133.220.120,Unknown,https://radkit.cisco.com/docs/introduction.html
+2026-05-15T03:37:47Z,Reddit (r/SideProject),dmitrithegamer.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,http://dmitrithegamer.github.io/soundcraft
+2026-05-15T03:37:47Z,GitHub,datvietvac-techhub.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://datvietvac-techhub.github.io/mcp-web-tools/
+2026-05-15T03:37:47Z,GitHub,jcdreamjc.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://jcdreamjc.github.io/wudao-mcp/
+2026-05-15T03:37:47Z,Reddit (r/SideProject),imageprompting.org,100,216.198.79.1,Unknown,http://imageprompting.org
+2026-05-15T03:37:47Z,Reddit (r/SaaS),getaskonce.com,100,216.198.79.1,Unknown,http://getaskonce.com
+2026-05-15T03:37:47Z,GitHub,vibetrading.wiki,25,104.21.13.118,Cloudflare,https://vibetrading.wiki/
+2026-05-15T03:37:47Z,Reddit (r/SideProject),whattowatch.fyi,100,66.33.22.53,Unknown,http://whattowatch.fyi
+2026-05-15T03:37:47Z,GitHub,nirium-stellar.vercel.app,40,216.198.79.3,Unknown,https://nirium-stellar.vercel.app
+2026-05-15T03:37:47Z,GitHub,warrencommand.dev,40,134.209.50.232,Unknown,https://warrencommand.dev
+2026-05-15T03:37:47Z,GitHub,taliu.atoue.io,25,104.21.50.248,Cloudflare,https://taliu.atoue.io/
+2026-05-15T03:37:47Z,GitHub,hub.openfinclaw.ai,50,172.67.221.85,Unknown,https://hub.openfinclaw.ai/
+2026-05-15T03:37:47Z,Reddit (r/SideProject),migaku.com,85,104.21.89.63,Cloudflare,https://migaku.com/
+2026-05-15T03:37:47Z,Reddit (r/SaaS),mburaksayici.com,80,185.199.108.153,cdn-185-199-108-153.github.com.,https://mburaksayici.com/blog/2026/05/13/why-dont-we-see-more-swe-products-after-coding-agents.html
+2026-05-15T03:37:47Z,GitHub,cortexiumlabs.com,40,172.67.200.109,Unknown,https://cortexiumlabs.com/products/vectra
+2026-05-15T03:37:47Z,GitHub,drbaher-cli.vercel.app,40,216.198.79.3,Unknown,https://drbaher-cli.vercel.app/
+2026-05-15T03:37:47Z,Reddit (r/SideProject),sofranky.com,100,216.198.79.65,Unknown,http://sofranky.com
+2026-05-15T03:37:47Z,GitHub,goshort.ngockhoi96.dev,25,104.21.8.16,Cloudflare,https://goshort.ngockhoi96.dev/
+2026-05-15T03:37:47Z,GitHub,guanxiaol.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://guanxiaol.github.io/personal-os/
+2026-05-15T03:37:47Z,GitHub,qinxujun-ai-vibecoding.netlify.app,30,18.208.88.157,AWS,https://qinxujun-ai-vibecoding.netlify.app
+2026-05-15T03:37:47Z,Reddit (r/SideProject),postpilot-app-two.vercel.app,100,64.29.17.195,Unknown,https://postpilot-app-two.vercel.app
+2026-05-15T03:37:47Z,GitHub,xiejianjun000.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://xiejianjun000.github.io/taiji-agent/
+2026-05-15T03:37:47Z,Reddit (r/SideProject),sinter-app.vercel.app,100,216.198.79.131,Unknown,https://sinter-app.vercel.app/
+2026-05-15T03:37:47Z,Reddit (r/SideProject),efe.me,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://efe.me/posts/2026-05-14-the-birth-of-yesglot-com/
+2026-05-15T03:37:47Z,Reddit (r/SideProject),javo-bot-vasv.vercel.app,110,216.198.79.67,Unknown,https://javo-bot-vasv.vercel.app/
+2026-05-15T03:37:47Z,Reddit (r/SaaS),flowbooksai.com,110,216.198.79.1,Unknown,http://flowbooksai.com/
+2026-05-15T03:37:47Z,GitHub,jarvis-observability.vercel.app,40,216.198.79.131,Unknown,https://jarvis-observability.vercel.app
+2026-05-15T03:37:47Z,GitHub,leek.io,40,172.67.172.15,Unknown,https://leek.io/articles/stop-stuffing-every-ai-rule-into-one-root-file-apply-agent-rules
+2026-05-15T03:37:47Z,Reddit (r/SideProject),tavrn.top,80,98.84.224.111,AWS,http://tavrn.top
+2026-05-15T03:37:47Z,GitHub,rrtrace.xyz,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://rrtrace.xyz
+2026-05-15T03:37:47Z,Reddit (r/SideProject),batchedits.com,80,135.181.165.230,static.230.165.181.135.clients.your-server.de.,https://batchedits.com
+2026-05-15T03:37:47Z,GitHub,browser-harness.com,40,216.150.1.129,Unknown,https://browser-harness.com
+2026-05-15T03:37:47Z,Reddit (r/SideProject),nearbycrew.com,80,73.151.172.253,c-73-151-172-253.hsd1.ca.comcast.net.,https://nearbycrew.com/promptseeder.html
+2026-05-15T03:37:47Z,GitHub,infaton.ru,40,89.111.165.222,Unknown,https://infaton.ru
+2026-05-15T03:37:47Z,GitHub,deepcode.vegamo.cn,40,1.14.125.213,Unknown,https://deepcode.vegamo.cn
+2026-05-15T03:37:47Z,Reddit (r/SaaS),frontprdev.com,100,194.9.94.86,Unknown,http://www.frontprdev.com
