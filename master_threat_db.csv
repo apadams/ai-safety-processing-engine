@@ -6180,3 +6180,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-05-16T02:59:48Z,GitHub,aecoder.com.br,20,185.230.63.186,unalocated.63.wixsite.com.,https://www.aecoder.com.br
 2026-05-16T02:59:48Z,GitHub,genieclaw.org,20,72.60.125.30,srv1017846.hstgr.cloud.,https://genieclaw.org
 2026-05-16T02:59:48Z,GitHub,master-skill.org,20,45.89.234.110,s49707.vps.hosting.,https://master-skill.org/
+2026-05-17T03:34:20Z,Reddit (r/SideProject),apollyx.com,80,76.76.21.21,Vercel,https://www.apollyx.com
+2026-05-17T03:34:20Z,Reddit (r/SideProject),trysirius.me,100,216.198.79.1,Unknown,http://trysirius.me/
+2026-05-17T03:34:20Z,Reddit (r/SideProject),bonzi.studio,100,216.198.79.1,Unknown,https://www.bonzi.studio/
+2026-05-17T03:34:20Z,GitHub,agent-notch.vercel.app,50,64.29.17.3,Unknown,https://agent-notch.vercel.app/
+2026-05-17T03:34:20Z,GitHub,sherpa-web.vercel.app,40,64.29.17.67,Unknown,https://sherpa-web.vercel.app
+2026-05-17T03:34:20Z,Reddit (r/SaaS),handwriter.app,85,104.21.11.183,Cloudflare,https://www.handwriter.app/
+2026-05-17T03:34:20Z,Reddit (r/SideProject),mangos.ai,110,216.198.79.1,Unknown,http://mangos.ai
+2026-05-17T03:34:20Z,Reddit (r/SideProject),foundercheck.io,100,216.198.79.1,Unknown,http://FounderCheck.io
+2026-05-17T03:34:20Z,Reddit (r/SideProject),coithub.org,100,185.158.133.1,Unknown,https://coithub.org/
+2026-05-17T03:34:20Z,Reddit (r/SideProject),reelvisionai.io,110,185.158.133.1,Unknown,https://reelvisionai.io
+2026-05-17T03:34:20Z,GitHub,bhived.ai,35,104.21.35.141,Cloudflare,https://bhived.ai/
+2026-05-17T03:34:20Z,Reddit (r/SaaS),agent-data.dev,90,54.192.100.16,AWS,https://agent-data.dev/
+2026-05-17T03:34:20Z,GitHub,noelclaw.fun,40,216.198.79.1,Unknown,https://noelclaw.fun
+2026-05-17T03:34:20Z,GitHub,adonskali.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://adonskali.github.io/LinaWeb/
+2026-05-17T03:34:20Z,GitHub,dypintado.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://dypintado.github.io/01-simple-conversational-agent/
+2026-05-17T03:34:20Z,GitHub,ayanami-agent.vercel.app,50,64.29.17.195,Unknown,https://ayanami-agent.vercel.app
+2026-05-17T03:34:20Z,GitHub,remotex.dev,40,172.67.207.231,Unknown,https://remotex.dev
+2026-05-17T03:34:20Z,Reddit (r/SideProject),taag.app,100,20.208.5.33,Unknown,https://taag.app
+2026-05-17T03:34:20Z,Reddit (r/SaaS),bentoapp.io,80,185.199.111.153,cdn-185-199-111-153.github.com.,https://www.bentoapp.io/
+2026-05-17T03:34:20Z,GitHub,ai.lauren-py.dev,30,52.52.192.191,AWS,https://ai.lauren-py.dev
+2026-05-17T03:34:20Z,GitHub,askcricket.ayushmakwana.com,40,172.67.136.253,Unknown,https://askcricket.ayushmakwana.com/
+2026-05-17T03:34:20Z,Reddit (r/SideProject),gititlens.app,85,104.21.51.97,Cloudflare,https://gititlens.app
+2026-05-17T03:34:20Z,GitHub,dev-dashboard.floelabs.xyz,40,216.150.16.193,Unknown,https://dev-dashboard.floelabs.xyz/
+2026-05-17T03:34:20Z,GitHub,juadsuarezsan.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://juadsuarezsan.github.io/ai-portfolio/
+2026-05-17T03:34:20Z,GitHub,unsubly2.vercel.app,40,64.29.17.67,Unknown,https://unsubly2.vercel.app
+2026-05-17T03:34:20Z,GitHub,study-hub.cn,40,172.67.197.232,Unknown,https://study-hub.cn
+2026-05-17T03:34:20Z,GitHub,steinsinn.app,40,172.67.132.2,Unknown,https://SteinsInn.App
+2026-05-17T03:34:20Z,Reddit (r/SaaS),mindflashai.com,110,199.36.158.100,Unknown,https://mindflashai.com
+2026-05-17T03:34:20Z,Reddit (r/SideProject),tonite-dinner.lovable.app,100,185.41.148.2,Unknown,https://tonite-dinner.lovable.app?utm_source=reddit&amp;utm_medium=organic
+2026-05-17T03:34:20Z,GitHub,agentvoy.com,50,216.198.79.1,Unknown,https://agentvoy.com
+2026-05-17T03:34:20Z,GitHub,vibieprince.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://vibieprince.github.io/CourseMate-AI/
+2026-05-17T03:34:20Z,Reddit (r/SideProject),manus.im,80,18.238.96.29,AWS,https://manus.im/edu/invitation/V4XQBL5QQS1KM
+2026-05-17T03:34:21Z,GitHub,cli.drbaher.com,20,76.76.21.21,Vercel,https://cli.drbaher.com/tools/nda-review-cli/
+2026-05-17T03:34:21Z,Reddit (r/SideProject),acuityscan.com,100,216.150.1.1,Unknown,http://acuityscan.com
+2026-05-17T03:34:21Z,GitHub,playground.wordpress.net,20,192.0.79.133,wordpress.com.,https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/lezama/openclawp/main/.wordpress-org/blueprints/blueprint.json
+2026-05-17T03:34:21Z,GitHub,dxbmark.com,20,84.247.179.163,mail.mwheba.com.,https://dxbmark.com
+2026-05-17T03:34:21Z,GitHub,100t.xiaomimimo.com,40,124.251.34.64,Unknown,https://100t.xiaomimimo.com/
+2026-05-17T03:34:21Z,Reddit (r/SideProject),axyz.fit,100,216.198.79.1,Unknown,https://www.axyz.fit/
+2026-05-17T03:34:21Z,GitHub,hpfreilabs.com,20,88.99.1.235,mail.swiss-soft.com.,https://hpfreilabs.com/vistaclair
