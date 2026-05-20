@@ -6279,3 +6279,33 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-05-19T03:40:55Z,GitHub,noosphere-memory.com,40,216.198.79.1,Unknown,https://noosphere-memory.com
 2026-05-19T03:40:55Z,GitHub,frontend-omega-six-37.vercel.app,40,216.198.79.195,Unknown,https://frontend-omega-six-37.vercel.app
 2026-05-19T03:40:55Z,GitHub,trynoguard.com,40,66.33.22.72,Unknown,https://trynoguard.com
+2026-05-20T03:40:29Z,Reddit (r/SaaS),flash7.net,85,104.21.68.198,Cloudflare,https://flash7.net
+2026-05-20T03:40:29Z,GitHub,david-2814.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://david-2814.github.io/metis/
+2026-05-20T03:40:29Z,GitHub,ghanibot.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://ghanibot.github.io/Claude-Code-on-WhatsApp/
+2026-05-20T03:40:29Z,Reddit (r/SaaS),brevl.co,100,216.198.79.1,Unknown,http://www.brevl.co
+2026-05-20T03:40:29Z,Reddit (r/SaaS),tandemplan.xyz,100,216.198.79.1,Unknown,http://www.tandemplan.xyz
+2026-05-20T03:40:29Z,Reddit (r/SideProject),doppelbrain.ai,90,216.24.57.1,Vercel,https://www.doppelbrain.ai
+2026-05-20T03:40:29Z,Reddit (r/SideProject),app.lawnsuite.com.au,100,199.36.158.100,Unknown,http://app.lawnsuite.com.au
+2026-05-20T03:40:29Z,GitHub,meridian.metisos.co,20,35.219.200.6,GCP,https://meridian.metisos.co
+2026-05-20T03:40:29Z,GitHub,nexus-agent-xa12.onrender.com,30,216.24.57.251,Vercel,https://nexus-agent-xa12.onrender.com
+2026-05-20T03:40:29Z,Reddit (r/SideProject),nobulex.com,80,76.76.21.21,Vercel,http://nobulex.com/arena
+2026-05-20T03:40:29Z,GitHub,joanium.com,40,64.29.17.1,Unknown,https://www.joanium.com
+2026-05-20T03:40:29Z,Reddit (r/SaaS),findsimilarstartups.com,100,64.29.17.1,Unknown,https://www.findsimilarstartups.com/en/market-maps/product-hunt-orbit-map-2026-05-18
+2026-05-20T03:40:29Z,Reddit (r/SideProject),rehearse-landing-navy.vercel.app,100,64.29.17.195,Unknown,https://rehearse-landing-navy.vercel.app/
+2026-05-20T03:40:29Z,GitHub,vilaca.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://vilaca.github.io/factory/
+2026-05-20T03:40:29Z,GitHub,zoharbabin.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://zoharbabin.github.io/web-researcher-mcp/
+2026-05-20T03:40:29Z,Reddit (r/SideProject),calame.dev,100,216.198.79.1,Unknown,https://calame.dev
+2026-05-20T03:40:29Z,GitHub,orca-ai-admin.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://orca-ai-admin.github.io/hermit
+2026-05-20T03:40:29Z,Reddit (r/SideProject),bringer.tech,85,104.21.65.138,Cloudflare,https://bringer.tech/live-menus
+2026-05-20T03:40:29Z,GitHub,1ly.store,40,216.150.1.1,Unknown,https://1ly.store
+2026-05-20T03:40:29Z,GitHub,recodexai.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://recodexai.github.io/recodex-skills/
+2026-05-20T03:40:29Z,Reddit (r/SaaS),coverdraft.ai,90,98.84.224.111,AWS,https://coverdraft.ai
+2026-05-20T03:40:29Z,Reddit (r/SideProject),airescue.me,110,199.36.158.100,Unknown,https://airescue.me/
+2026-05-20T03:40:29Z,GitHub,heron.app,20,76.223.54.146,a904c694c05102f30.awsglobalaccelerator.com.,https://heron.app
+2026-05-20T03:40:29Z,Reddit (r/SaaS),indiehackers.com,85,104.26.12.75,Cloudflare,https://www.indiehackers.com/post/i-got-tired-of-stock-photos-that-look-like-stock-photos-so-i-built-inktag-08M4oA3f74XmoH1f4fGR
+2026-05-20T03:40:29Z,GitHub,somegit.dev,20,144.76.70.89,anquietas.itsh.dev.,https://somegit.dev/Owlibou/gnoma
+2026-05-20T03:40:29Z,GitHub,befailproof.ai,50,57.128.165.176,Unknown,https://befailproof.ai
+2026-05-20T03:40:30Z,Reddit (r/SideProject),foilmarket.eu,100,145.223.124.103,Unknown,http://foilmarket.eu
+2026-05-20T03:40:30Z,Reddit (r/SaaS),motion.software,100,216.150.1.1,Unknown,https://www.motion.software/
+2026-05-20T03:40:33Z,GitHub,skillfm.ai,50,172.67.130.147,Unknown,https://skillfm.ai
+2026-05-20T03:40:34Z,GitHub,agentlighthouse.burakgider.com,50,185.95.169.35,Unknown,https://agentlighthouse.burakgider.com
