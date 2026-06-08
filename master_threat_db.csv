@@ -6900,3 +6900,36 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-06-07T04:03:34Z,GitHub,codefizz.dev,40,216.198.79.1,Unknown,https://codefizz.dev
 2026-06-07T04:03:35Z,GitHub,schamja-shahaga.de,20,178.254.0.57,sh4-2.1blu.de.,https://schamja-shahaga.de/DynamischeWebseite-info.html
 2026-06-07T04:03:35Z,GitHub,hmg2ai.com,50,120.27.148.29,Unknown,https://hmg2ai.com/
+2026-06-08T04:06:44Z,Reddit (r/SideProject),startupsmap.xyz,85,104.21.85.182,Cloudflare,https://StartupsMap.xyz
+2026-06-08T04:06:44Z,Reddit (r/SaaS),vuamsterdam.eu.qualtrics.com,80,23.48.9.244,a23-48-9-244.deploy.static.akamaitechnologies.com.,https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_dpoxlg5rJrswqh0
+2026-06-08T04:06:44Z,GitHub,algorithm-reviews.vercel.app,40,216.198.79.195,Unknown,https://algorithm-reviews.vercel.app
+2026-06-08T04:06:44Z,GitHub,foxinthebox.io,25,104.21.96.78,Cloudflare,https://foxinthebox.io
+2026-06-08T04:06:44Z,GitHub,tirth1263.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://tirth1263.github.io/smolagents-starter/
+2026-06-08T04:06:44Z,Reddit (r/SaaS),senaship-templates.vercel.app,100,216.198.79.195,Unknown,https://senaship-templates.vercel.app/
+2026-06-08T04:06:44Z,Reddit (r/SideProject),theverge.com,100,151.101.129.91,Unknown,https://www.theverge.com/2013/1/19/3895444/andrew-kim-the-next-microsoft-designer-hired-by-xbox
+2026-06-08T04:06:44Z,GitHub,ferbin12.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ferbin12.github.io/zoey/
+2026-06-08T04:06:44Z,Reddit (r/SideProject),autoclip.dev,100,216.150.1.65,Unknown,https://autoclip.dev
+2026-06-08T04:06:44Z,Reddit (r/SideProject),tidymail.dev,90,66.241.124.146,ip-66-241-124-146.shared.customer.flyio.net.,https://tidymail.dev/
+2026-06-08T04:06:44Z,GitHub,upilote.com,25,104.21.26.69,Cloudflare,https://upilote.com
+2026-06-08T04:06:44Z,Reddit (r/SaaS),replica-pearl.vercel.app,100,216.198.79.131,Unknown,https://replica-pearl.vercel.app/
+2026-06-08T04:06:44Z,GitHub,merge-flow-ai.vercel.app,50,64.29.17.195,Unknown,https://merge-flow-ai.vercel.app
+2026-06-08T04:06:44Z,Reddit (r/SaaS),repo-mind.ai,110,216.198.79.1,Unknown,https://repo-mind.ai/
+2026-06-08T04:06:44Z,Reddit (r/SaaS),forrcle.com,100,216.198.79.1,Unknown,https://forrcle.com
+2026-06-08T04:06:44Z,GitHub,indusapp.store,25,172.64.148.129,Cloudflare,https://indusapp.store/wphbqhzu
+2026-06-08T04:06:44Z,Reddit (r/SideProject),aidiamondpainting.com,90,142.93.70.86,1607805.cloudwaysapps.com.,https://aidiamondpainting.com/
+2026-06-08T04:06:44Z,Reddit (r/SaaS),applyboostai.com,90,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,http://ApplyBoostAI.com
+2026-06-08T04:06:44Z,Reddit (r/SideProject),your-ritual.vercel.app,100,216.198.79.67,Unknown,https://your-ritual.vercel.app/
+2026-06-08T04:06:44Z,Reddit (r/SaaS),tenantsdb.com,80,31.43.160.6,sites.framer.app.,http://www.tenantsdb.com
+2026-06-08T04:06:44Z,GitHub,zinebmeftah.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://zinebmeftah.github.io
+2026-06-08T04:06:44Z,GitHub,ai-creed.dev,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://ai-creed.dev/projects/ai-cortex/
+2026-06-08T04:06:44Z,Reddit (r/SideProject),nantu.io,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://nantu.io
+2026-06-08T04:06:44Z,GitHub,polarisagi.online,40,172.67.220.29,Unknown,https://polarisagi.online/
+2026-06-08T04:06:44Z,Reddit (r/SideProject),kavara.io,80,216.24.57.1,Vercel,https://kavara.io
+2026-06-08T04:06:44Z,GitHub,eduagentai.vercel.app,60,216.198.79.131,Unknown,https://eduagentai.vercel.app
+2026-06-08T04:06:44Z,GitHub,web-three-tau-86.vercel.app,40,216.198.79.195,Unknown,https://web-three-tau-86.vercel.app/
+2026-06-08T04:06:44Z,GitHub,jaigogineni.com,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://jaigogineni.com/projects.html
+2026-06-08T04:06:44Z,Reddit (r/SideProject),scribeai.online,90,66.241.124.75,ip-66-241-124-75.shared.customer.flyio.net.,https://scribeai.online/
+2026-06-08T04:06:44Z,GitHub,relayops-production.up.railway.app,50,69.46.46.99,Unknown,https://relayops-production.up.railway.app/
+2026-06-08T04:06:44Z,GitHub,xopc.ai,30,199.193.127.67,199.193.127.67.16clouds.com.,https://xopc.ai
+2026-06-08T04:06:45Z,Reddit (r/SaaS),actbrow.depak.dev,100,64.29.17.65,Unknown,https://actbrow.depak.dev
+2026-06-08T04:06:45Z,GitHub,talqo.dyn.cloud.e-infra.cz,20,147.251.253.240,kuba-pub.cerit-sc.cz.,https://talqo.dyn.cloud.e-infra.cz/
