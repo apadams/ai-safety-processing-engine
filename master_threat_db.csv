@@ -6933,3 +6933,39 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-06-08T04:06:44Z,GitHub,xopc.ai,30,199.193.127.67,199.193.127.67.16clouds.com.,https://xopc.ai
 2026-06-08T04:06:45Z,Reddit (r/SaaS),actbrow.depak.dev,100,64.29.17.65,Unknown,https://actbrow.depak.dev
 2026-06-08T04:06:45Z,GitHub,talqo.dyn.cloud.e-infra.cz,20,147.251.253.240,kuba-pub.cerit-sc.cz.,https://talqo.dyn.cloud.e-infra.cz/
+2026-06-09T03:37:56Z,Reddit (r/SideProject),proximath.com,80,76.76.21.21,Vercel,http://proximath.com
+2026-06-09T03:37:56Z,Reddit (r/SideProject),theknowai.com,110,216.150.1.1,Unknown,https://www.theknowai.com/
+2026-06-09T03:37:56Z,Reddit (r/SideProject),indiegrahak.com,100,216.198.79.1,Unknown,https://indiegrahak.com
+2026-06-09T03:37:56Z,Reddit (r/SideProject),joinbuilderhub.vercel.app,100,216.198.79.67,Unknown,https://joinbuilderhub.vercel.app/
+2026-06-09T03:37:56Z,Reddit (r/SideProject),empiremaps.live,80,216.24.57.251,Vercel,https://empiremaps.live/
+2026-06-09T03:37:56Z,Reddit (r/SideProject),trymatchmind.com,85,104.21.84.212,Cloudflare,http://trymatchmind.com
+2026-06-09T03:37:56Z,Reddit (r/SaaS),pitchkitchen.com,100,172.67.134.193,Unknown,https://www.pitchkitchen.com/2026-state-of-b2b-homepage-messaging
+2026-06-09T03:37:56Z,Reddit (r/SideProject),tektap.xyz,100,216.198.79.65,Unknown,http://tektap.xyz
+2026-06-09T03:37:56Z,Reddit (r/SaaS),22-0.app,80,52.52.192.191,AWS,https://22-0.app
+2026-06-09T03:37:56Z,Reddit (r/SideProject),zepee.com,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,http://zepee.com/
+2026-06-09T03:37:56Z,Reddit (r/SideProject),finna.sh,80,18.154.206.59,AWS,https://finna.sh
+2026-06-09T03:37:56Z,Reddit (r/SaaS),sentoma.com,100,172.67.175.114,Unknown,http://sentoma.com/
+2026-06-09T03:37:56Z,GitHub,synkron-frontend-203057390124.asia-south1.run.app,20,34.143.78.2,GCP,https://synkron-frontend-203057390124.asia-south1.run.app
+2026-06-09T03:37:56Z,GitHub,compare.getneurobyte.ai,30,76.76.21.61,Vercel,https://compare.getneurobyte.ai
+2026-06-09T03:37:56Z,GitHub,rssh.ofcoder.com,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://rssh.ofcoder.com/
+2026-06-09T03:37:56Z,Reddit (r/SaaS),restflags.com,100,172.67.143.250,Unknown,https://restflags.com/why-restflags
+2026-06-09T03:37:56Z,GitHub,jackychen-12.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://jackychen-12.github.io/wealthpilot/
+2026-06-09T03:37:56Z,GitHub,turborg.com,40,172.67.210.246,Unknown,https://turborg.com
+2026-06-09T03:37:56Z,GitHub,principles-website.pages.dev,40,172.66.44.110,Unknown,https://principles-website.pages.dev
+2026-06-09T03:37:56Z,Reddit (r/SideProject),heyayo.com,100,172.67.133.110,Unknown,https://heyayo.com/
+2026-06-09T03:37:56Z,GitHub,smoo.ai,50,172.67.154.10,Unknown,https://smoo.ai
+2026-06-09T03:37:56Z,GitHub,izziapi.com,40,172.67.216.77,Unknown,https://izziapi.com
+2026-06-09T03:37:56Z,Reddit (r/SideProject),dedukt.app,100,216.198.79.1,Unknown,https://www.dedukt.app
+2026-06-09T03:37:56Z,GitHub,mimicode.xyz,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://mimicode.xyz/
+2026-06-09T03:37:56Z,GitHub,weiweihu.carrd.co,25,104.18.40.34,Cloudflare,https://weiweihu.carrd.co/
+2026-06-09T03:37:56Z,Reddit (r/SideProject),blunderclub.app,100,216.198.79.65,Unknown,https://www.blunderclub.app/
+2026-06-09T03:37:56Z,GitHub,nuclide-research.com,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://nuclide-research.com
+2026-06-09T03:37:56Z,GitHub,wenyuchiou.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://wenyuchiou.github.io/awesome-agentic-ai-zh/
+2026-06-09T03:37:56Z,GitHub,pi-desktop.com,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://pi-desktop.com
+2026-06-09T03:37:56Z,GitHub,heard.apol.ai,50,216.150.16.129,Unknown,https://heard.apol.ai
+2026-06-09T03:37:56Z,GitHub,artjeck.com,40,216.198.79.1,Unknown,https://www.artjeck.com
+2026-06-09T03:37:56Z,GitHub,fischerman.ch,20,185.85.111.111,static-sr55.firestorm.ch.,https://fischerman.ch/projects/a-r-i-a-adaptive-reasoning-intelligence-agent/
+2026-06-09T03:37:56Z,GitHub,jeet-dhandha.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://jeet-dhandha.github.io/kimi-webbridge-fleet/
+2026-06-09T03:37:56Z,Reddit (r/SaaS),reviews.lyrashaai.com,110,69.46.46.58,Unknown,https://reviews.lyrashaai.com/reviews
+2026-06-09T03:37:56Z,GitHub,axiom-iota-rust.vercel.app,40,64.29.17.195,Unknown,https://axiom-iota-rust.vercel.app
+2026-06-09T03:37:57Z,Reddit (r/SideProject),plexicle.com,100,5.42.117.244,Unknown,http://plexicle.com/
