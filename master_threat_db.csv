@@ -7096,3 +7096,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-06-13T03:49:50Z,Reddit (r/SideProject),chatvault.space,100,216.198.79.65,Unknown,https://chatvault.space
 2026-06-13T03:49:50Z,Reddit (r/SideProject),zhenmingyixue.top,100,43.165.168.142,Unknown,https://zhenmingyixue.top/
 2026-06-13T03:49:50Z,GitHub,token4ai.cloud,50,150.158.84.88,Unknown,https://token4ai.cloud
+2026-06-14T04:10:18Z,GitHub,takoapi.com,20,216.239.34.21,any-in-2215.1e100.net.,https://takoapi.com
+2026-06-14T04:10:18Z,GitHub,morning-verlu.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://morning-verlu.github.io/KAI/
+2026-06-14T04:10:18Z,GitHub,wirestudio.io,25,104.21.13.23,Cloudflare,https://wirestudio.io
+2026-06-14T04:10:18Z,Reddit (r/SideProject),voxelai.studio,110,162.159.140.98,Unknown,https://voxelai.studio
+2026-06-14T04:10:18Z,Reddit (r/SideProject),introdrop.me,100,216.198.79.65,Unknown,https://introdrop.me/
+2026-06-14T04:10:18Z,GitHub,getnightshift.dev,40,216.198.79.65,Unknown,https://getnightshift.dev
+2026-06-14T04:10:18Z,GitHub,ddak-pick.vercel.app,40,64.29.17.67,Unknown,https://ddak-pick.vercel.app
+2026-06-14T04:10:18Z,GitHub,aione-smc.com,50,172.67.180.14,Unknown,https://aione-smc.com/
+2026-06-14T04:10:18Z,Reddit (r/SideProject),nvoyce.ai,110,216.150.1.1,Unknown,http://nvoyce.ai
+2026-06-14T04:10:18Z,Reddit (r/SideProject),useblink.dev,100,172.67.181.131,Unknown,http://useblink.dev
+2026-06-14T04:10:18Z,GitHub,mbabrand.com,40,172.67.202.15,Unknown,https://mbabrand.com
+2026-06-14T04:10:18Z,Reddit (r/SideProject),ai-exodus.com,90,3.162.103.9,AWS,http://ai-exodus.com
+2026-06-14T04:10:18Z,Reddit (r/SideProject),nabinkhair.com.np,110,216.198.79.1,Unknown,https://nabinkhair.com.np/
+2026-06-14T04:10:18Z,Reddit (r/SideProject),rarename.me,100,216.198.79.1,Unknown,http://rarename.me
+2026-06-14T04:10:18Z,Reddit (r/SideProject),nuxs.ai,110,216.198.79.1,Unknown,https://nuxs.ai/nuxscapsule
+2026-06-14T04:10:18Z,GitHub,bigg01.containerize.ch,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://bigg01.containerize.ch/claude-ci-agent/
+2026-06-14T04:10:18Z,Reddit (r/SideProject),battlestationgear.com,100,216.150.1.129,Unknown,http://battlestationgear.com
+2026-06-14T04:10:18Z,GitHub,ayuayue.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://ayuayue.github.io/PiDeck/
+2026-06-14T04:10:18Z,Reddit (r/SideProject),openapistudio.app,100,172.67.151.195,Unknown,https://openapistudio.app
+2026-06-14T04:10:18Z,GitHub,29miaoet.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://29miaoet.github.io/Andrew_WebPage/
+2026-06-14T04:10:18Z,GitHub,manusagents.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://manusagents.github.io/ManusClaw/
+2026-06-14T04:10:18Z,GitHub,paca-ai.org,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://paca-ai.org
+2026-06-14T04:10:18Z,GitHub,thinkrun.ai,50,172.67.209.59,Unknown,https://thinkrun.ai
+2026-06-14T04:10:18Z,GitHub,conatus.rectorspace.com,40,66.33.60.34,Unknown,https://conatus.rectorspace.com
+2026-06-14T04:10:18Z,GitHub,foxfire1st.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://foxfire1st.github.io/agents-remember/
+2026-06-14T04:10:18Z,Reddit (r/SideProject),world.cv,100,172.67.185.35,Unknown,https://world.cv/
+2026-06-14T04:10:18Z,GitHub,hasnainayaz.com,50,199.36.158.100,Unknown,https://hasnainayaz.com/blog/semantic-seo-content-writing
+2026-06-14T04:10:18Z,GitHub,chat.maxfate.com,20,3.111.216.129,AWS,https://chat.maxfate.com
+2026-06-14T04:10:18Z,GitHub,pilot-agent.vercel.app,50,216.198.79.195,Unknown,https://pilot-agent.vercel.app
+2026-06-14T04:10:18Z,Reddit (r/SideProject),iterativesolver.com,100,216.198.79.1,Unknown,https://www.iterativesolver.com
+2026-06-14T04:10:18Z,Reddit (r/SideProject),ocr-buddy.com,100,216.198.79.1,Unknown,https://www.ocr-buddy.com/
+2026-06-14T04:10:18Z,Reddit (r/SideProject),voiceblox.ai,110,216.198.79.1,Unknown,https://www.voiceblox.ai/voiceblox/fuc-djwk-mnx
+2026-06-14T04:10:18Z,GitHub,otto.haus,25,104.21.66.233,Cloudflare,https://otto.haus
+2026-06-14T04:10:18Z,GitHub,cyberiaspace.app,20,76.76.21.21,Vercel,https://cyberiaspace.app
+2026-06-14T04:10:18Z,GitHub,pipeline-operator.vercel.app,40,216.198.79.67,Unknown,https://pipeline-operator.vercel.app/board
+2026-06-14T04:10:18Z,GitHub,vulny.app,20,84.46.249.20,mail.vulny.app.,https://vulny.app/p/agent-scan
+2026-06-14T04:10:18Z,GitHub,cicy-ai.com,50,43.99.56.150,Unknown,https://cicy-ai.com
+2026-06-14T04:10:18Z,GitHub,codewithbee.com,20,88.23.47.127,127.red-88-23-47.staticip.rima-tde.net.,https://codewithbee.com
+2026-06-14T04:10:18Z,GitHub,paperclip.inc,20,46.225.42.135,static.135.42.225.46.clients.your-server.de.,https://paperclip.inc/hermes-agent
