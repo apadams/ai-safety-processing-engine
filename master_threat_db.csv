@@ -7286,3 +7286,37 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-06-18T04:05:52Z,GitHub,partoska.com,40,130.61.176.224,Unknown,https://www.partoska.com
 2026-06-18T04:05:52Z,GitHub,traillens.zorotreeking.online,50,110.40.142.199,Unknown,https://traillens.zorotreeking.online
 2026-06-18T04:05:53Z,GitHub,sciatlas.openkg.cn,20,111.119.209.60,ecs-111-119-209-60.compute.hwclouds-dns.com.,http://sciatlas.openkg.cn/
+2026-06-19T04:25:43Z,GitHub,fennara.io,40,216.198.79.1,Unknown,https://www.fennara.io/godot-mcp
+2026-06-19T04:25:43Z,GitHub,tenka-web.pages.dev,40,172.66.47.182,Unknown,https://tenka-web.pages.dev
+2026-06-19T04:25:43Z,GitHub,estacoda.kemetresearch.com,20,34.111.179.208,GCP,https://estacoda.kemetresearch.com
+2026-06-19T04:25:43Z,Reddit (r/SideProject),wartable.co,100,172.67.164.208,Unknown,http://wartable.co
+2026-06-19T04:25:43Z,GitHub,docs.miracode.ai,50,172.67.128.178,Unknown,https://docs.miracode.ai
+2026-06-19T04:25:43Z,Reddit (r/SideProject),houroverlap.com,100,216.198.79.1,Unknown,https://www.houroverlap.com
+2026-06-19T04:25:43Z,GitHub,greprules.io,25,104.26.0.39,Cloudflare,https://greprules.io
+2026-06-19T04:25:43Z,GitHub,notchly.xyz,40,172.67.164.118,Unknown,https://notchly.xyz
+2026-06-19T04:25:43Z,GitHub,piklen.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://piklen.github.io/manmankan/
+2026-06-19T04:25:43Z,Reddit (r/SideProject),whichstage.com,100,216.150.1.1,Unknown,https://whichstage.com/
+2026-06-19T04:25:43Z,GitHub,xkumakichi.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://xkumakichi.github.io/xaip-protocol/
+2026-06-19T04:25:43Z,GitHub,specdog.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://specdog.github.io/collar
+2026-06-19T04:25:43Z,GitHub,shipiit.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://shipiit.github.io/forge/
+2026-06-19T04:25:43Z,GitHub,blog.sparshbajaj.me,25,104.21.65.20,Cloudflare,https://blog.sparshbajaj.me/i-built-an-ai-job-search-pipeline-so-you-do-not-have-to/
+2026-06-19T04:25:43Z,GitHub,koihubagent.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://koihubagent.github.io/koihub/
+2026-06-19T04:25:43Z,Reddit (r/SideProject),wirelang.net,100,216.198.79.1,Unknown,https://www.wirelang.net/
+2026-06-19T04:25:43Z,GitHub,craftsman-agent.aiagenta2z.com,45,104.21.2.229,Cloudflare,https://craftsman-agent.aiagenta2z.com/
+2026-06-19T04:25:43Z,GitHub,casadoper.com,20,173.236.244.91,apache2-fritz.iad1-shared-b8-17.dreamhost.com.,https://casadoper.com
+2026-06-19T04:25:43Z,GitHub,jackeyhate9.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://jackeyhate9.github.io/StoryMemory-Studio/
+2026-06-19T04:25:43Z,GitHub,browsermcp.dev,40,172.67.170.137,Unknown,https://browsermcp.dev
+2026-06-19T04:25:43Z,GitHub,docs.nastech-agent.workers.dev,50,172.67.206.78,Unknown,https://docs.nastech-agent.workers.dev/docs/
+2026-06-19T04:25:43Z,Reddit (r/SideProject),imgfindr.com,80,216.24.57.1,Vercel,http://imgfindr.com
+2026-06-19T04:25:43Z,GitHub,tripo3d.ai,50,154.85.60.152,Unknown,https://tripo3d.ai
+2026-06-19T04:25:43Z,GitHub,careermate.life,40,216.198.79.1,Unknown,https://careermate.life
+2026-06-19T04:25:43Z,GitHub,landing-ecru-nine-90.vercel.app,40,216.198.79.195,Unknown,https://landing-ecru-nine-90.vercel.app
+2026-06-19T04:25:43Z,GitHub,pixboom.com,20,18.244.214.79,AWS,https://pixboom.com
+2026-06-19T04:25:43Z,GitHub,atlas-sql-agent.vercel.app,50,216.198.79.131,Unknown,https://atlas-sql-agent.vercel.app
+2026-06-19T04:25:43Z,GitHub,portal.clioloop.com,20,91.98.135.9,static.9.135.98.91.clients.your-server.de.,https://portal.clioloop.com
+2026-06-19T04:25:43Z,GitHub,irori.homes,40,216.150.16.1,Unknown,https://irori.homes/
+2026-06-19T04:25:43Z,Reddit (r/SideProject),clawby.chat,100,69.46.46.41,Unknown,https://clawby.chat/
+2026-06-19T04:25:43Z,GitHub,lyraai.space,30,103.150.190.91,ip-91-190-150-103.wjv-1.biznetg.io.,https://lyraai.space
+2026-06-19T04:25:43Z,GitHub,fmasoftwarelabs.up.railway.app,50,69.46.46.104,Unknown,https://fmasoftwarelabs.up.railway.app
+2026-06-19T04:25:43Z,GitHub,starfsh.lrdevstudio.com,20,168.231.109.58,srv900257.hstgr.cloud.,https://starfsh.lrdevstudio.com
+2026-06-19T04:25:43Z,GitHub,simpleti.com.br,20,162.241.61.98,162-241-61-98.unifiedlayer.com.,https://simpleti.com.br/simplicio
