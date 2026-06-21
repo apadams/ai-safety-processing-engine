@@ -7370,3 +7370,46 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-06-20T03:45:41Z,GitHub,cog-agent-2ned.vercel.app,50,216.198.79.131,Unknown,https://cog-agent-2ned.vercel.app/
 2026-06-20T03:45:41Z,GitHub,zenstory.ai,30,76.76.21.21,Vercel,https://zenstory.ai/
 2026-06-20T03:45:41Z,GitHub,opc1.me,40,150.109.55.140,Unknown,https://opc1.me/download/mcp
+2026-06-21T04:19:20Z,Reddit (r/SideProject),cvsolutionwebsaas.z28.web.core.windows.net,100,20.209.215.4,Unknown,https://cvsolutionwebsaas.z28.web.core.windows.net
+2026-06-21T04:19:20Z,GitHub,support-knowledge-agent-control-pla.vercel.app,50,216.198.79.195,Unknown,https://support-knowledge-agent-control-pla.vercel.app
+2026-06-21T04:19:20Z,GitHub,mikkoparkkola.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://mikkoparkkola.github.io/trvl/
+2026-06-21T04:19:20Z,GitHub,pontifex.chrisdare.me,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://pontifex.chrisdare.me/
+2026-06-21T04:19:20Z,GitHub,robin.praveenjuge.com,20,76.76.21.21,Vercel,https://robin.praveenjuge.com
+2026-06-21T04:19:20Z,GitHub,parsazolfaghar.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://parsazolfaghar.github.io/grin/
+2026-06-21T04:19:20Z,GitHub,voclira.xyz,40,216.198.79.1,Unknown,https://www.voclira.xyz/
+2026-06-21T04:19:20Z,GitHub,accountant24.ai,35,104.21.89.25,Cloudflare,https://accountant24.ai
+2026-06-21T04:19:20Z,GitHub,mint.foundrynet.io,20,76.76.21.142,Vercel,https://mint.foundrynet.io
+2026-06-21T04:19:20Z,Reddit (r/SideProject),pitchpilote.com,80,76.76.21.21,Vercel,https://pitchpilote.com
+2026-06-21T04:19:20Z,GitHub,browseragent.icu,35,104.21.66.202,Cloudflare,https://browseragent.icu/
+2026-06-21T04:19:20Z,Reddit (r/SideProject),heybeagle.com,100,216.150.16.193,Unknown,https://www.heybeagle.com/
+2026-06-21T04:19:20Z,Reddit (r/SideProject),devmaniac.com,100,216.198.79.1,Unknown,https://devmaniac.com
+2026-06-21T04:19:20Z,GitHub,velane.sh,40,216.198.79.1,Unknown,https://velane.sh
+2026-06-21T04:19:20Z,GitHub,wenfeizou.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://wenfeizou.github.io/walrus-memory-inspector/
+2026-06-21T04:19:20Z,GitHub,viko-nexus.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://viko-nexus.github.io/viko-agent/
+2026-06-21T04:19:20Z,GitHub,smixs.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://smixs.github.io/iva/
+2026-06-21T04:19:20Z,Reddit (r/SideProject),danzinov.github.io,80,185.199.109.153,cdn-185-199-109-153.github.com.,https://danzinov.github.io/tokengotchi/
+2026-06-21T04:19:20Z,GitHub,loysgerich.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://loysgerich.github.io/Antigravity-IDE-Client/
+2026-06-21T04:19:20Z,GitHub,kokborok-lexlator.vercel.app,40,216.198.79.195,Unknown,https://kokborok-lexlator.vercel.app
+2026-06-21T04:19:20Z,GitHub,124-creator.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://124-creator.github.io/ResearchLoop/
+2026-06-21T04:19:20Z,GitHub,xxww0098.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://xxww0098.github.io/picpilot/
+2026-06-21T04:19:20Z,GitHub,kiriz.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://kiriz.github.io/factwatch/
+2026-06-21T04:19:20Z,GitHub,aisp.dev,35,104.21.46.19,Cloudflare,http://AISP.dev
+2026-06-21T04:19:20Z,GitHub,feverdream-dev.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://feverdream-dev.github.io/Prometheus/
+2026-06-21T04:19:20Z,Reddit (r/SideProject),unorouter.com,85,104.21.54.229,Cloudflare,http://unorouter.com/
+2026-06-21T04:19:20Z,GitHub,korgex-docs.pages.dev,40,172.66.45.8,Unknown,https://korgex-docs.pages.dev
+2026-06-21T04:19:20Z,GitHub,pdfvision.dev,40,172.67.160.216,Unknown,https://pdfvision.dev
+2026-06-21T04:19:20Z,GitHub,authgent.dev,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://authgent.dev/
+2026-06-21T04:19:20Z,GitHub,anurag-dashore.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ANURAG-DASHORE.github.io
+2026-06-21T04:19:20Z,GitHub,nerv-shell.vercel.app,40,216.198.79.67,Unknown,https://nerv-shell.vercel.app
+2026-06-21T04:19:20Z,GitHub,whoami-labs.com,40,172.67.148.191,Unknown,https://whoami-labs.com
+2026-06-21T04:19:20Z,GitHub,deerflow-technology-evaluation-agen.vercel.app,40,64.29.17.3,Unknown,https://deerflow-technology-evaluation-agen.vercel.app
+2026-06-21T04:19:20Z,Reddit (r/SideProject),baroai.app,90,216.24.57.8,Vercel,http://baroai.app
+2026-06-21T04:19:20Z,GitHub,winder.ai,30,65.8.54.45,server-65-8-54-45.sfo53.r.cloudfront.net.,https://winder.ai/services/ai-agent-development/
+2026-06-21T04:19:20Z,Reddit (r/SideProject),pizzazz.app,100,216.150.16.193,Unknown,https://pizzazz.app
+2026-06-21T04:19:20Z,GitHub,domesticoracle.com,40,92.112.198.174,Unknown,https://domesticoracle.com
+2026-06-21T04:19:20Z,GitHub,caredi-48-193-41-194.sslip.io,40,48.193.41.194,Unknown,https://caredi-48-193-41-194.sslip.io
+2026-06-21T04:19:20Z,GitHub,crescent-grove.net,20,112.78.125.154,www2314.sakura.ne.jp.,https://www.crescent-grove.net
+2026-06-21T04:19:20Z,Reddit (r/SideProject),getcomprendo.com,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://getcomprendo.com
+2026-06-21T04:19:20Z,GitHub,max.ru,40,155.212.204.74,Unknown,https://max.ru
+2026-06-21T04:19:21Z,GitHub,chat.z.ai,50,47.246.23.146,Unknown,https://chat.z.ai/space/v1y605zg9wz0-art
+2026-06-21T04:19:21Z,GitHub,deepalpha.mn,40,216.150.1.1,Unknown,https://deepalpha.mn
