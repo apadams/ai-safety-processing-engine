@@ -7413,3 +7413,41 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-06-21T04:19:20Z,GitHub,max.ru,40,155.212.204.74,Unknown,https://max.ru
 2026-06-21T04:19:21Z,GitHub,chat.z.ai,50,47.246.23.146,Unknown,https://chat.z.ai/space/v1y605zg9wz0-art
 2026-06-21T04:19:21Z,GitHub,deepalpha.mn,40,216.150.1.1,Unknown,https://deepalpha.mn
+2026-06-22T04:21:19Z,Reddit (r/SideProject),spritegen.io,80,18.238.192.87,AWS,http://spritegen.io
+2026-06-22T04:21:19Z,GitHub,ummaya-docs.pages.dev,40,172.66.44.52,Unknown,https://ummaya-docs.pages.dev/en/
+2026-06-22T04:21:19Z,Reddit (r/SideProject),typevia.com,85,104.21.74.178,Cloudflare,https://www.typevia.com/
+2026-06-22T04:21:19Z,Reddit (r/SideProject),hellodivy.com,100,216.198.79.1,Unknown,http://hellodivy.com
+2026-06-22T04:21:19Z,Reddit (r/SideProject),aibrandkits.com,110,216.198.79.1,Unknown,https://aibrandkits.com
+2026-06-22T04:21:19Z,GitHub,ibonnis.com,40,216.198.79.1,Unknown,https://www.ibonnis.com/
+2026-06-22T04:21:19Z,GitHub,oneshot-seven-inky.vercel.app,40,216.198.79.67,Unknown,https://oneshot-seven-inky.vercel.app
+2026-06-22T04:21:19Z,GitHub,thepm.dev,25,104.21.54.185,Cloudflare,https://thepm.dev
+2026-06-22T04:21:19Z,GitHub,fattoo.fun,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://fattoo.fun/
+2026-06-22T04:21:19Z,Reddit (r/SideProject),nouta.app,80,31.43.161.6,sites.framer.app.,https://nouta.app/
+2026-06-22T04:21:19Z,Reddit (r/SideProject),trendflamingo.com,100,216.198.79.65,Unknown,https://trendflamingo.com
+2026-06-22T04:21:19Z,Reddit (r/SideProject),ifr-sim.artokun.io,100,216.150.16.129,Unknown,https://ifr-sim.artokun.io/
+2026-06-22T04:21:19Z,GitHub,auto-fde-frontend.vercel.app,40,64.29.17.67,Unknown,https://auto-fde-frontend.vercel.app
+2026-06-22T04:21:19Z,GitHub,maxma1104.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://maxma1104.github.io/a-share-shortline-ledger/
+2026-06-22T04:21:19Z,GitHub,magicalyuyu.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://magicalyuyu.github.io/agent-operating-system/
+2026-06-22T04:21:19Z,GitHub,velobase.cloud,40,172.67.180.81,Unknown,https://velobase.cloud
+2026-06-22T04:21:19Z,GitHub,qodexcli.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://qodexcli.github.io/QodeX/
+2026-06-22T04:21:19Z,GitHub,vnmoorthy.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://vnmoorthy.github.io/ember-journal/
+2026-06-22T04:21:19Z,GitHub,openclaw-apple-mail.jehadurre.me,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://openclaw-apple-mail.jehadurre.me
+2026-06-22T04:21:19Z,GitHub,stardust-bytes.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://stardust-bytes.github.io/agent-hub/
+2026-06-22T04:21:20Z,GitHub,mi-itinerario.web.app,40,199.36.158.100,Unknown,https://mi-itinerario.web.app
+2026-06-22T04:21:20Z,GitHub,useapi.net,40,172.67.71.108,Unknown,https://useapi.net/docs/api-minimax-v1
+2026-06-22T04:21:20Z,GitHub,dddk.perhapxin.com,40,172.67.216.166,Unknown,https://dddk.perhapxin.com
+2026-06-22T04:21:20Z,GitHub,clawcodex.app,20,216.24.57.9,Vercel,https://clawcodex.app
+2026-06-22T04:21:20Z,GitHub,plimsoll-agent.vercel.app,50,216.198.79.195,Unknown,https://plimsoll-agent.vercel.app
+2026-06-22T04:21:20Z,GitHub,burmese-agentic-website-template-wo.vercel.app,50,64.29.17.3,Unknown,https://burmese-agentic-website-template-wo.vercel.app
+2026-06-22T04:21:20Z,GitHub,uniterm.net,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://uniterm.net
+2026-06-22T04:21:20Z,GitHub,indx.cn,20,216.239.34.21,any-in-2215.1e100.net.,https://indx.cn
+2026-06-22T04:21:20Z,GitHub,agentline.cloud,50,216.198.79.1,Unknown,https://agentline.cloud
+2026-06-22T04:21:20Z,GitHub,clearanceflow.vercel.app,40,216.198.79.67,Unknown,https://clearanceflow.vercel.app
+2026-06-22T04:21:20Z,GitHub,niyam-ai-fitness-coach.lovable.app,30,185.41.148.1,lovable-app-wd-1-4.p.l5e.io.,https://niyam-ai-fitness-coach.lovable.app/
+2026-06-22T04:21:20Z,GitHub,manwjh.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://manwjh.github.io/gugu/
+2026-06-22T04:21:20Z,GitHub,soba-agent.dev,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://soba-agent.dev/
+2026-06-22T04:21:20Z,Reddit (r/SideProject),studio.onda.video,100,216.198.79.65,Unknown,https://studio.onda.video
+2026-06-22T04:21:20Z,GitHub,cryptotavern.xyz,20,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://cryptotavern.xyz
+2026-06-22T04:21:20Z,GitHub,developerz.ai,30,144.217.70.169,ns538066.ip-144-217-70.net.,https://developerz.ai
+2026-06-22T04:21:20Z,GitHub,sirocco.gallery,40,216.150.1.1,Unknown,https://www.sirocco.gallery
+2026-06-22T04:21:20Z,Reddit (r/SideProject),sarntinel.com,80,43.250.142.30,s02fe.syd5.hostingplatform.net.au.,https://www.sarntinel.com/
