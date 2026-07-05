@@ -7838,3 +7838,38 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-07-04T02:59:15Z,GitHub,openocta.com,40,116.62.136.121,Unknown,https://www.openocta.com/
 2026-07-04T02:59:16Z,GitHub,tophe.app,40,69.46.46.69,Unknown,https://tophe.app
 2026-07-04T02:59:21Z,GitHub,crystalline-koi-7f8.notion.site,40,208.103.161.33,Unknown,https://crystalline-koi-7f8.notion.site/ARCHITECTURE-PUBLIC-38faa89d75a18064b1dffd857154b272
+2026-07-05T03:29:29Z,GitHub,misar.blog,25,104.21.78.15,Cloudflare,https://www.misar.blog
+2026-07-05T03:29:29Z,GitHub,claude-nymbl.vercel.app,40,64.29.17.195,Unknown,https://claude-nymbl.vercel.app/
+2026-07-05T03:29:29Z,Reddit (r/SideProject),selrano.com,100,216.198.79.1,Unknown,http://selrano.com
+2026-07-05T03:29:29Z,Reddit (r/SideProject),finlingo.ai,110,172.67.192.106,Unknown,https://finlingo.ai/
+2026-07-05T03:29:29Z,Reddit (r/SideProject),carterbeaudoin.net,85,104.21.45.120,Cloudflare,https://carterbeaudoin.net/CAR-TER
+2026-07-05T03:29:29Z,Reddit (r/SideProject),noozra.com,85,104.21.63.141,Cloudflare,https://noozra.com/agents/skill.md
+2026-07-05T03:29:29Z,GitHub,valta.co,40,64.29.17.1,Unknown,https://valta.co
+2026-07-05T03:29:29Z,Reddit (r/SideProject),myhermes.host,100,216.198.79.1,Unknown,https://myhermes.host/
+2026-07-05T03:29:29Z,Reddit (r/SideProject),leadflop.com,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://leadflop.com/
+2026-07-05T03:29:29Z,GitHub,openscience.sh,40,216.150.1.65,Unknown,https://openscience.sh
+2026-07-05T03:29:29Z,GitHub,ilyaosovskoi.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ilyaosovskoi.github.io/Clew/
+2026-07-05T03:29:29Z,GitHub,richhabits.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://richhabits.github.io/sam/
+2026-07-05T03:29:29Z,GitHub,slides.addsum.top,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://slides.addsum.top/
+2026-07-05T03:29:29Z,GitHub,presentation-skill-pack.vercel.app,40,216.198.79.131,Unknown,https://presentation-skill-pack.vercel.app
+2026-07-05T03:29:29Z,GitHub,06fs4dix.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://06fs4dix.github.io/Artgine/help/artgine-agent-promo.html
+2026-07-05T03:29:29Z,GitHub,neotravel-projet.vercel.app,40,216.198.79.3,Unknown,https://neotravel-projet.vercel.app/
+2026-07-05T03:29:29Z,GitHub,ai-agent-portfolio-hub.vercel.app,60,64.29.17.3,Unknown,https://ai-agent-portfolio-hub.vercel.app
+2026-07-05T03:29:29Z,GitHub,aios-akashic.cjw070690.workers.dev,35,104.21.67.238,Cloudflare,https://aios-akashic.cjw070690.workers.dev/
+2026-07-05T03:29:29Z,Reddit (r/SideProject),nytimes.com,100,151.101.65.164,Unknown,https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
+2026-07-05T03:29:29Z,GitHub,makethisbetter.dev,40,172.67.169.167,Unknown,https://makethisbetter.dev
+2026-07-05T03:29:29Z,GitHub,iduyuhe.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://iduyuhe.github.io/agentforge/
+2026-07-05T03:29:29Z,GitHub,earthagent-dev.pages.dev,50,172.66.47.176,Unknown,https://earthagent-dev.pages.dev/
+2026-07-05T03:29:29Z,Reddit (r/SideProject),crestnotch.app,100,172.67.131.135,Unknown,https://crestnotch.app
+2026-07-05T03:29:29Z,Reddit (r/SideProject),chromepilot.org,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://chromepilot.org/
+2026-07-05T03:29:29Z,GitHub,omarnahdi.dev,40,216.198.79.1,Unknown,https://omarnahdi.dev
+2026-07-05T03:29:29Z,GitHub,get-sebo.com,40,64.29.17.65,Unknown,https://get-sebo.com
+2026-07-05T03:29:29Z,Reddit (r/SideProject),shinme.app,80,65.8.180.10,server-65-8-180-10.sfo53.r.cloudfront.net.,https://shinme.app/
+2026-07-05T03:29:29Z,Reddit (r/SideProject),tweetpredictor.io,80,74.208.236.69,74-208-236-69.elastic-ssl.ui-r.com.,http://tweetpredictor.io
+2026-07-05T03:29:29Z,GitHub,8.219.56.30,40,8.219.56.30,Unknown,http://8.219.56.30/panel/
+2026-07-05T03:29:29Z,GitHub,sofagent.ai,60,43.130.27.242,Unknown,http://sofagent.ai/
+2026-07-05T03:29:29Z,GitHub,95.179.216.167,20,95.179.216.167,95.179.216.167.vultrusercontent.com.,http://95.179.216.167/
+2026-07-05T03:29:29Z,GitHub,hara.run,40,47.88.91.171,Unknown,https://hara.run
+2026-07-05T03:29:29Z,GitHub,thumbgate.ai,50,69.46.46.40,Unknown,https://thumbgate.ai
+2026-07-05T03:29:29Z,GitHub,fuusio.org,20,185.179.116.156,panel06.planeettaweb.fi.,https://fuusio.org
+2026-07-05T03:29:29Z,GitHub,myabu.cn,40,47.236.196.156,Unknown,https://myabu.cn
