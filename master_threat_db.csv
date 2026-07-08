@@ -7935,3 +7935,35 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-07-07T03:28:29Z,GitHub,114.55.95.6,40,114.55.95.6,Unknown,http://114.55.95.6/
 2026-07-07T03:28:29Z,GitHub,zaytsv.com,20,207.244.243.16,vmi3325708.contaboserver.net.,https://zaytsv.com
 2026-07-07T03:28:29Z,GitHub,longclaw.cc,40,180.163.146.43,Unknown,https://longclaw.cc
+2026-07-08T02:45:48Z,GitHub,plugins.jetbrains.com,30,108.138.246.76,server-108-138-246-76.sfo5.r.cloudfront.net.,https://plugins.jetbrains.com/plugin/32797-agent-session-relay
+2026-07-08T02:45:48Z,GitHub,swarmattacker.com,40,172.67.205.18,Unknown,https://swarmattacker.com
+2026-07-08T02:45:48Z,GitHub,ai-game.dev,30,51.81.222.213,mail.ai-game.dev.,https://ai-game.dev
+2026-07-08T02:45:48Z,Reddit (r/SideProject),inkbolt.ai,95,104.21.65.155,Cloudflare,https://inkbolt.ai/
+2026-07-08T02:45:48Z,Reddit (r/SideProject),papervoicelab.com,85,104.21.7.58,Cloudflare,https://papervoicelab.com
+2026-07-08T02:45:48Z,Reddit (r/SideProject),odinthecoach.com,100,172.67.199.125,Unknown,https://odinthecoach.com
+2026-07-08T02:45:48Z,Reddit (r/SideProject),chatbotcv.com,90,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,http://chatbotcv.com
+2026-07-08T02:45:48Z,Reddit (r/SideProject),jobscout-dfed1.web.app,100,199.36.158.100,Unknown,https://jobscout-dfed1.web.app/
+2026-07-08T02:45:48Z,Reddit (r/SideProject),endlessnoir.com,85,104.21.28.84,Cloudflare,https://endlessnoir.com
+2026-07-08T02:45:48Z,GitHub,xalgorix.com,25,104.21.1.70,Cloudflare,https://www.xalgorix.com
+2026-07-08T02:45:48Z,Reddit (r/SideProject),pauv.com,80,18.173.121.9,AWS,http://pauv.com/
+2026-07-08T02:45:48Z,Reddit (r/SideProject),vibecleaners.dev,85,104.21.10.108,Cloudflare,https://vibecleaners.dev
+2026-07-08T02:45:48Z,GitHub,querydb.in,40,216.198.79.1,Unknown,https://www.querydb.in/
+2026-07-08T02:45:48Z,GitHub,poetrynan.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://poetrynan.github.io/ZettleAgent/
+2026-07-08T02:45:48Z,GitHub,fencun.vercel.app,40,64.29.17.195,Unknown,https://fencun.vercel.app
+2026-07-08T02:45:48Z,GitHub,casperguard-bay.vercel.app,40,64.29.17.3,Unknown,https://casperguard-bay.vercel.app
+2026-07-08T02:45:48Z,GitHub,prettysmart.dev,40,172.67.222.26,Unknown,https://prettysmart.dev
+2026-07-08T02:45:48Z,GitHub,liu-ethan.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://liu-ethan.github.io/golem/
+2026-07-08T02:45:49Z,GitHub,cs-faith.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://cs-faith.github.io/conversation-distiller
+2026-07-08T02:45:49Z,GitHub,alexar76.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://alexar76.github.io/dioscuri/
+2026-07-08T02:45:49Z,GitHub,myowinthein.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://myowinthein.github.io/claude-compass/
+2026-07-08T02:45:49Z,GitHub,kyleit.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://kyleit.github.io/AI-Agent-Workflow/
+2026-07-08T02:45:49Z,GitHub,brightwave.io,40,216.150.16.193,Unknown,https://brightwave.io
+2026-07-08T02:45:49Z,GitHub,casper-launch.vercel.app,40,216.198.79.195,Unknown,https://casper-launch.vercel.app
+2026-07-08T02:45:49Z,Reddit (r/SideProject),vine.getcourtyard.ai,110,216.150.1.1,Unknown,https://vine.getcourtyard.ai/try
+2026-07-08T02:45:49Z,GitHub,dvalincode.dev,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://dvalincode.dev
+2026-07-08T02:45:49Z,GitHub,abraxasos.de,40,172.67.213.145,Unknown,https://www.abraxasos.de
+2026-07-08T02:45:49Z,GitHub,agent.croo.network,50,43.169.13.122,Unknown,https://agent.croo.network/agents/8dfef95d-cced-406a-98bc-29a5b632292e
+2026-07-08T02:45:49Z,Reddit (r/SideProject),synthiya.ai,110,147.79.120.199,Unknown,https://synthiya.ai/
+2026-07-08T02:45:49Z,GitHub,magic-ai-factory.com,50,5.129.212.122,Unknown,https://magic-ai-factory.com/argus/
+2026-07-08T02:45:49Z,Reddit (r/SideProject),pfia2026.lelabs.tech,80,163.172.156.76,76-156-172-163.instances.scw.cloud.,https://pfia2026.lelabs.tech
+2026-07-08T02:45:49Z,GitHub,ifuryst.com,20,51.222.9.117,vps-9bd588d0.vps.ovh.ca.,https://www.ifuryst.com/en/blog/2026/open-browser-use/
