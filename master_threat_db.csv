@@ -8000,3 +8000,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-07-09T03:04:36Z,GitHub,elowen.dragocz.dev,40,188.130.140.163,Unknown,https://elowen.dragocz.dev
 2026-07-09T03:04:36Z,GitHub,email-assistant.up.railway.app,50,69.46.46.94,Unknown,https://email-assistant.up.railway.app
 2026-07-09T03:04:37Z,GitHub,research-assistant-production-198d.up.railway.app,50,69.46.46.92,Unknown,https://research-assistant-production-198d.up.railway.app
+2026-07-10T03:07:16Z,Reddit (r/SideProject),study-clash.vercel.app,100,216.198.79.195,Unknown,https://study-clash.vercel.app/
+2026-07-10T03:07:16Z,Reddit (r/SideProject),askmygenie.ai,90,76.76.21.21,Vercel,http://AskMyGenie.ai
+2026-07-10T03:07:16Z,Reddit (r/SideProject),basicaistudio.com,110,172.67.190.106,Unknown,https://basicaistudio.com/
+2026-07-10T03:07:16Z,GitHub,u90364321.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://u90364321.github.io
+2026-07-10T03:07:16Z,GitHub,kumarsashank.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://kumarsashank.github.io/motiscope/
+2026-07-10T03:07:16Z,Reddit (r/SideProject),lab451.org,100,172.67.181.209,Unknown,https://lab451.org/
+2026-07-10T03:07:16Z,GitHub,smart-learning-agent.vercel.app,50,216.198.79.131,Unknown,https://smart-learning-agent.vercel.app
+2026-07-10T03:07:16Z,GitHub,hermes-web-sand.vercel.app,40,64.29.17.131,Unknown,https://hermes-web-sand.vercel.app
+2026-07-10T03:07:16Z,GitHub,vexic.dev,40,216.198.79.1,Unknown,https://vexic.dev
+2026-07-10T03:07:16Z,Reddit (r/SideProject),echodaily.app,110,216.198.79.1,Unknown,https://echodaily.app/
+2026-07-10T03:07:16Z,GitHub,aisteward.xyz,30,76.76.21.21,Vercel,https://aisteward.xyz
+2026-07-10T03:07:16Z,Reddit (r/SideProject),sloplocal.com,100,172.67.138.55,Unknown,https://sloplocal.com/
+2026-07-10T03:07:16Z,Reddit (r/SideProject),relayx.dev,100,172.67.217.45,Unknown,https://relayx.dev
+2026-07-10T03:07:16Z,Reddit (r/SideProject),sentrive.ai,110,216.150.1.1,Unknown,http://sentrive.ai/
+2026-07-10T03:07:16Z,Reddit (r/SideProject),hermana.io,80,34.111.179.208,GCP,http://Hermana.io
+2026-07-10T03:07:16Z,GitHub,anchorage.proofoftech.org,25,104.21.49.206,Cloudflare,https://anchorage.proofoftech.org
+2026-07-10T03:07:16Z,GitHub,nanobot-0iyy.onrender.com,30,216.24.57.9,Vercel,https://nanobot-0iyy.onrender.com
+2026-07-10T03:07:16Z,GitHub,jenzo0.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://jenzo0.github.io/max-skill
+2026-07-10T03:07:16Z,GitHub,amanah-casper-rwa.vercel.app,40,64.29.17.195,Unknown,https://amanah-casper-rwa.vercel.app
+2026-07-10T03:07:16Z,GitHub,omniyield.app,40,172.67.163.218,Unknown,https://omniyield.app
+2026-07-10T03:07:16Z,GitHub,hermest-board.vercel.app,40,64.29.17.3,Unknown,https://hermest-board.vercel.app
+2026-07-10T03:07:16Z,GitHub,flynnhq.com,40,172.66.47.98,Unknown,https://flynnhq.com
+2026-07-10T03:07:16Z,GitHub,agritrust-casper.vercel.app,40,216.198.79.195,Unknown,https://agritrust-casper.vercel.app
+2026-07-10T03:07:16Z,GitHub,maekon.dev,20,76.76.21.21,Vercel,https://maekon.dev
+2026-07-10T03:07:16Z,GitHub,wq19901103wq.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://wq19901103wq.github.io/wechat-mac-rpa/
+2026-07-10T03:07:16Z,GitHub,atdy.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://atdy.github.io/maoxuan-product-agent/
+2026-07-10T03:07:16Z,GitHub,blessedbiello.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://blessedbiello.github.io/PrometheonOS/
+2026-07-10T03:07:16Z,GitHub,orythix.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://orythix.github.io/viki/
+2026-07-10T03:07:16Z,GitHub,g-rump.vercel.app,40,216.198.79.67,Unknown,https://g-rump.vercel.app
+2026-07-10T03:07:16Z,GitHub,playguard.dev,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://playguard.dev/
+2026-07-10T03:07:16Z,GitHub,escoffierlabs.dev,20,76.76.21.21,Vercel,https://escoffierlabs.dev/cookbook/
+2026-07-10T03:07:16Z,GitHub,fudai-two.vercel.app,50,64.29.17.195,Unknown,https://fudai-two.vercel.app
+2026-07-10T03:07:16Z,GitHub,mappersio.vercel.app,40,216.198.79.195,Unknown,https://mappersio.vercel.app
+2026-07-10T03:07:16Z,GitHub,ddkeyworth.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://ddkeyworth.github.io/exampleco-ai-test/
+2026-07-10T03:07:16Z,GitHub,junco.ironforgesoftware.com,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://junco.ironforgesoftware.com
+2026-07-10T03:07:16Z,GitHub,unclecheng-li.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://unclecheng-li.github.io/vulnclaw.com
+2026-07-10T03:07:16Z,GitHub,mangrovedeveloper.ai,30,34.160.218.8,GCP,https://mangrovedeveloper.ai
+2026-07-10T03:07:16Z,GitHub,twhsi.com,40,216.198.79.1,Unknown,https://www.twhsi.com/
+2026-07-10T03:07:17Z,GitHub,macrobay.kr,40,216.198.79.1,Unknown,https://macrobay.kr
