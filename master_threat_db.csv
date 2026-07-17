@@ -8238,3 +8238,41 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-07-16T02:41:40Z,GitHub,gitlab.git.nrw,20,128.176.11.83,gitlab.git.nrw.,https://gitlab.git.nrw/jbauss2/konrad
 2026-07-16T02:41:40Z,GitHub,ememndon.com,20,185.28.22.66,srv1194416.hstgr.cloud.,https://ememndon.com/projects/tess_console
 2026-07-16T02:41:40Z,GitHub,autopilot.43.106.13.19.sslip.io,40,43.106.13.19,Unknown,https://autopilot.43.106.13.19.sslip.io
+2026-07-17T02:43:24Z,Reddit (r/SideProject),tryagentscore.com,110,216.198.79.1,Unknown,https://www.tryagentscore.com
+2026-07-17T02:43:24Z,GitHub,daily-coach-iwkg6nbera-de.a.run.app,30,34.143.76.2,GCP,https://daily-coach-iwkg6nbera-de.a.run.app
+2026-07-17T02:43:24Z,Reddit (r/SideProject),semfora.ai,110,172.67.72.130,Unknown,https://semfora.ai
+2026-07-17T02:43:24Z,GitHub,startup-idea-grader-3aum.vercel.app,40,64.29.17.131,Unknown,https://startup-idea-grader-3aum.vercel.app
+2026-07-17T02:43:24Z,Reddit (r/SideProject),unrot.dev,100,64.29.17.65,Unknown,https://unrot.dev
+2026-07-17T02:43:24Z,GitHub,glowfy-ai.vercel.app,50,216.198.79.131,Unknown,https://glowfy-ai.vercel.app
+2026-07-17T02:43:24Z,Reddit (r/SideProject),dashimetrics.com,100,216.150.1.65,Unknown,https://www.dashimetrics.com
+2026-07-17T02:43:24Z,Reddit (r/SideProject),miyagilabs.ai,90,18.238.192.6,AWS,https://miyagilabs.ai/ocw
+2026-07-17T02:43:24Z,GitHub,wispscience.com,40,172.67.130.137,Unknown,https://wispscience.com/
+2026-07-17T02:43:24Z,GitHub,featureboard.ai,50,172.67.178.168,Unknown,https://Featureboard.ai
+2026-07-17T02:43:24Z,GitHub,botsofcog.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://botsofcog.github.io/claude-survives-zomboid/
+2026-07-17T02:43:24Z,Reddit (r/SideProject),svgmaker.io,80,35.219.200.12,GCP,https://svgmaker.io/editor
+2026-07-17T02:43:24Z,GitHub,lydia-agent.stuko.dev,50,172.67.136.119,Unknown,https://lydia-agent.stuko.dev
+2026-07-17T02:43:24Z,GitHub,nuroctane.xyz,40,216.198.79.1,Unknown,https://www.nuroctane.xyz/cli
+2026-07-17T02:43:24Z,Reddit (r/SideProject),devstack.co.nz,100,216.150.1.193,Unknown,https://devstack.co.nz
+2026-07-17T02:43:24Z,GitHub,ares-personal-ai.vercel.app,50,216.198.79.131,Unknown,https://ares-personal-ai.vercel.app/
+2026-07-17T02:43:24Z,GitHub,satun-shop.vercel.app,40,64.29.17.3,Unknown,https://satun-shop.vercel.app
+2026-07-17T02:43:24Z,GitHub,aisoulhub.io,50,43.156.164.72,Unknown,https://aisoulhub.io/about/review-metrics#soul6
+2026-07-17T02:43:24Z,GitHub,vinuscli.dev,25,104.21.39.34,Cloudflare,https://vinuscli.dev
+2026-07-17T02:43:24Z,GitHub,health-guardian-ai-gamma.vercel.app,50,216.198.79.67,Unknown,https://health-guardian-ai-gamma.vercel.app
+2026-07-17T02:43:24Z,GitHub,dwsolutions.company,40,64.29.17.65,Unknown,https://www.dwsolutions.company/hrx-code.html
+2026-07-17T02:43:24Z,GitHub,mcp.singchat.org,40,172.67.192.144,Unknown,https://mcp.singchat.org
+2026-07-17T02:43:24Z,Reddit (r/SideProject),trustmark.app,100,199.36.158.100,Unknown,https://trustmark.app
+2026-07-17T02:43:24Z,GitHub,cryptocapi.com,40,151.101.1.195,Unknown,https://cryptocapi.com
+2026-07-17T02:43:24Z,GitHub,lluc.sh,20,76.76.21.21,Vercel,https://lluc.sh
+2026-07-17T02:43:24Z,GitHub,flowmux-ai.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://flowmux-ai.github.io/
+2026-07-17T02:43:24Z,GitHub,noshitcoding.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://noshitcoding.github.io/LocalAI-Cowork/
+2026-07-17T02:43:24Z,Reddit (r/SideProject),twitchvibecodes.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,https://twitchvibecodes.github.io/
+2026-07-17T02:43:24Z,GitHub,leonlucc.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://leonlucc.github.io/tiny-agent/
+2026-07-17T02:43:24Z,GitHub,hermes-relay.dev,20,149.28.97.72,149.28.97.72.vultrusercontent.com.,https://hermes-relay.dev
+2026-07-17T02:43:24Z,GitHub,servicenow-mcp.com,40,77.37.76.73,Unknown,https://servicenow-mcp.com
+2026-07-17T02:43:24Z,GitHub,personamind.fun,40,69.46.46.17,Unknown,https://personamind.fun
+2026-07-17T02:43:24Z,Reddit (r/SideProject),siket.app,100,66.33.60.35,Unknown,https://siket.app
+2026-07-17T02:43:24Z,GitHub,farm.lllcnm.cn,40,43.155.217.74,Unknown,https://farm.lllcnm.cn
+2026-07-17T02:43:24Z,GitHub,pythonide.xin,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://pythonide.xin/
+2026-07-17T02:43:24Z,GitHub,ainpcengine.com,30,46.225.39.244,static.244.39.225.46.clients.your-server.de.,https://ainpcengine.com
+2026-07-17T02:43:25Z,GitHub,qidianzn.cn,40,47.116.55.216,Unknown,https://www.qidianzn.cn/founder
+2026-07-17T02:43:25Z,GitHub,ceki.me,20,62.181.44.155,prod.ceki.me.,https://ceki.me
