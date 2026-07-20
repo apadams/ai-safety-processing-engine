@@ -8348,3 +8348,48 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-07-19T02:47:04Z,Reddit (r/SideProject),x3dstudios.com,80,216.239.34.21,any-in-2215.1e100.net.,https://x3dstudios.com
 2026-07-19T02:47:04Z,GitHub,mindfeast.life,40,103.89.13.11,Unknown,https://mindfeast.life
 2026-07-19T02:47:06Z,GitHub,juejin.cn,40,163.181.66.190,Unknown,https://juejin.cn/post/7663419348321615922
+2026-07-20T03:51:53Z,GitHub,tianye1999.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://tianye1999.github.io/callpilot/
+2026-07-20T03:51:53Z,GitHub,shayeeboy.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://shayeeboy.github.io/Financial-Intelligence-Strategy-Agent/
+2026-07-20T03:51:53Z,GitHub,qinxujunai.github.io,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://qinxujunai.github.io/ai-work-method/
+2026-07-20T03:51:53Z,Reddit (r/SideProject),frutti.ai,95,104.21.75.156,Cloudflare,https://frutti.ai/ai-fruit-video-examples
+2026-07-20T03:51:53Z,Reddit (r/SideProject),heyedith.com,100,216.198.79.1,Unknown,https://heyedith.com
+2026-07-20T03:51:53Z,GitHub,resume-os-phi.vercel.app,40,216.198.79.67,Unknown,https://resume-os-phi.vercel.app/zh
+2026-07-20T03:51:53Z,Reddit (r/SideProject),momentomori.me,80,76.76.21.21,Vercel,https://momentomori.me
+2026-07-20T03:51:53Z,GitHub,sagasmithai.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://sagasmithai.github.io
+2026-07-20T03:51:53Z,GitHub,entheai.com,35,104.26.4.20,Cloudflare,https://entheai.com/
+2026-07-20T03:51:53Z,GitHub,arxiviq.com,40,216.150.16.193,Unknown,https://arxiviq.com
+2026-07-20T03:51:53Z,Reddit (r/SideProject),gittalent.dev,80,13.52.188.95,AWS,https://gittalent.dev
+2026-07-20T03:51:53Z,GitHub,tietiezhi-1216.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://tietiezhi-1216.github.io/tietiezhi/
+2026-07-20T03:51:53Z,GitHub,usadona.com,25,104.21.16.195,Cloudflare,https://usadona.com
+2026-07-20T03:51:53Z,GitHub,ai.jimizhou.com,50,172.67.142.12,Unknown,https://ai.jimizhou.com/tripweave
+2026-07-20T03:51:53Z,GitHub,bid-genius.vercel.app,40,216.198.79.195,Unknown,https://bid-genius.vercel.app
+2026-07-20T03:51:53Z,Reddit (r/SideProject),promptgena.com,100,64.29.17.65,Unknown,https://promptgena.com
+2026-07-20T03:51:53Z,GitHub,kilin945.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://kilin945.github.io/three-little-pigs/
+2026-07-20T03:51:53Z,GitHub,davidpeguero27.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://davidpeguero27.github.io/aurelia-synapsis-showcase/
+2026-07-20T03:51:53Z,GitHub,daoxe.com,25,104.26.2.213,Cloudflare,https://daoxe.com/?utm_source=github&utm_medium=organic&utm_campaign=daoxe-nocode-templates&utm_content=repo_about
+2026-07-20T03:51:53Z,GitHub,truss-agent.hookerhillstudios.com,50,64.29.17.1,Unknown,https://truss-agent.hookerhillstudios.com
+2026-07-20T03:51:53Z,GitHub,shane.logsdon.io,20,52.52.192.191,AWS,https://shane.logsdon.io/loop-and-gate/
+2026-07-20T03:51:53Z,GitHub,earnsignal.detroxryo.workers.dev,40,172.67.198.25,Unknown,https://earnsignal.detroxryo.workers.dev
+2026-07-20T03:51:53Z,GitHub,omen-launch.vercel.app,40,64.29.17.67,Unknown,https://omen-launch.vercel.app
+2026-07-20T03:51:53Z,GitHub,medquantumninai.vercel.app,50,64.29.17.67,Unknown,https://medquantumninai.vercel.app/
+2026-07-20T03:51:53Z,GitHub,flare-launch.vercel.app,40,64.29.17.3,Unknown,https://flare-launch.vercel.app
+2026-07-20T03:51:53Z,GitHub,pulsesolana-launch.vercel.app,40,64.29.17.3,Unknown,https://pulsesolana-launch.vercel.app
+2026-07-20T03:51:53Z,GitHub,4ais.in,50,216.198.79.1,Unknown,https://4ais.in
+2026-07-20T03:51:53Z,GitHub,aero-migrate.vercel.app,40,216.198.79.195,Unknown,https://aero-migrate.vercel.app
+2026-07-20T03:51:53Z,GitHub,standin.komaa.com,40,20.51.77.88,Unknown,https://standin.komaa.com
+2026-07-20T03:51:53Z,GitHub,zijing271-dot.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://zijing271-dot.github.io/reviewbot/
+2026-07-20T03:51:53Z,GitHub,freelanceguard-eight.vercel.app,40,64.29.17.67,Unknown,https://freelanceguard-eight.vercel.app
+2026-07-20T03:51:53Z,GitHub,sitecheckai.dev,50,216.198.79.1,Unknown,https://sitecheckai.dev
+2026-07-20T03:51:53Z,GitHub,anyviz.aiware.store,50,118.89.79.108,Unknown,https://anyviz.aiware.store
+2026-07-20T03:51:53Z,GitHub,komorgiaogiao.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://komorgiaogiao.github.io/FirstCoder/
+2026-07-20T03:51:53Z,GitHub,quillalpha.com,20,76.76.21.21,Vercel,https://quillalpha.com
+2026-07-20T03:51:53Z,GitHub,shell.magies.top,25,104.21.8.188,Cloudflare,https://shell.magies.top
+2026-07-20T03:51:53Z,Reddit (r/SideProject),zenith-fortify.vercel.app,100,64.29.17.195,Unknown,https://zenith-fortify.vercel.app
+2026-07-20T03:51:53Z,Reddit (r/SideProject),clevernote.net,80,72.61.1.99,srv1663407.hstgr.cloud.,https://clevernote.net/?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=sideproject&amp;utm_content=one-memory
+2026-07-20T03:51:53Z,GitHub,backlinkbot.ai,60,216.198.79.1,Unknown,https://www.backlinkbot.ai/directories
+2026-07-20T03:51:53Z,GitHub,georgkinzel.de,40,216.198.79.1,Unknown,https://georgkinzel.de
+2026-07-20T03:51:53Z,GitHub,tokenmf.com,40,165.154.97.178,Unknown,https://tokenmf.com
+2026-07-20T03:51:53Z,GitHub,sinamsv.ir,25,104.21.32.81,Cloudflare,https://sinamsv.ir/projects/nebula
+2026-07-20T03:51:53Z,Reddit (r/SideProject),chainslash.com,110,77.221.148.42,Unknown,https://chainslash.com/play?src=sdprj
+2026-07-20T03:51:54Z,GitHub,perso.ai,50,162.159.142.20,Unknown,https://perso.ai/dubbing
+2026-07-20T03:51:54Z,GitHub,internauka.org,20,195.209.90.211,cdn.ngenix.net.,https://www.internauka.org/journal/stud/herald/402
