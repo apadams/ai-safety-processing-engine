@@ -9036,3 +9036,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-03T02:51:34Z,GitHub,hy20250221.online,40,120.77.157.112,Unknown,https://www.hy20250221.online
 2026-08-03T02:51:34Z,GitHub,mochingcode.com,40,47.245.112.123,Unknown,https://mochingcode.com
 2026-08-03T02:51:34Z,GitHub,remotewp.dev,40,89.42.42.148,Unknown,https://remotewp.dev/
+2026-08-04T02:36:40Z,GitHub,oaosf.cn,25,104.21.1.100,Cloudflare,https://oaosf.cn
+2026-08-04T02:36:40Z,Reddit (r/SideProject),pausemark-app.satoru0021.chatgpt.site,85,104.18.22.186,Cloudflare,https://pausemark-app.satoru0021.chatgpt.site
+2026-08-04T02:36:40Z,GitHub,docmd.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://docmd.io/assistant/
+2026-08-04T02:36:40Z,GitHub,cassette-editor.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://cassette-editor.github.io/oh-my-cassette/
+2026-08-04T02:36:40Z,GitHub,ovalentine964.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://ovalentine964.github.io/sovereign-resource-dao/
+2026-08-04T02:36:40Z,GitHub,arbiter.run,20,45.33.0.175,li954-175.members.linode.com.,https://arbiter.run/
+2026-08-04T02:36:40Z,GitHub,fiercex.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://fiercex.github.io/mink/
+2026-08-04T02:36:40Z,GitHub,devintern.com,25,104.21.33.167,Cloudflare,https://devintern.com
+2026-08-04T02:36:40Z,GitHub,monkeyking-hq.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://monkeyking-hq.github.io/universal-code/
+2026-08-04T02:36:40Z,Reddit (r/SideProject),stickblade-arena.vercel.app,100,216.198.79.67,Unknown,https://stickblade-arena.vercel.app/
+2026-08-04T02:36:40Z,GitHub,data-pulse.my,40,172.67.209.10,Unknown,https://data-pulse.my
+2026-08-04T02:36:40Z,GitHub,annemarkisgraham.com,20,52.25.226.94,AWS,https://www.annemarkisgraham.com/software-factory-game/
+2026-08-04T02:36:40Z,GitHub,kibitkin.info,25,104.21.7.73,Cloudflare,https://kibitkin.info/openai-codex-cli-python-telegram-bot/
+2026-08-04T02:36:40Z,GitHub,chqjourney.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://chqjourney.github.io/smart_reader/
+2026-08-04T02:36:40Z,GitHub,lensetek.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://lensetek.github.io/SPMI-AI-Agent-Skills/
+2026-08-04T02:36:40Z,GitHub,getlibero.com,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://getlibero.com
+2026-08-04T02:36:40Z,GitHub,ictseoyoungmin.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ictseoyoungmin.github.io/immersive-web-simulation-forge/
+2026-08-04T02:36:40Z,GitHub,anotifier.io,25,104.21.15.218,Cloudflare,https://anotifier.io
+2026-08-04T02:36:40Z,GitHub,amnotyoung.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://amnotyoung.github.io/courses/ai-collaboration-session1/
+2026-08-04T02:36:40Z,GitHub,ouroboros-agent.ai,40,185.199.108.153,cdn-185-199-108-153.github.com.,https://ouroboros-agent.ai/
+2026-08-04T02:36:40Z,GitHub,shricol5839.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://shricol5839.github.io
+2026-08-04T02:36:40Z,GitHub,joshfinlayau.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://joshfinlayau.github.io/mikrotik-drift/
+2026-08-04T02:36:40Z,GitHub,wxhcore.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://wxhcore.github.io/bumblehive/
+2026-08-04T02:36:40Z,GitHub,sigmacode.biz,25,104.21.58.56,Cloudflare,https://sigmacode.biz
+2026-08-04T02:36:40Z,GitHub,opensidebar.com,20,18.173.121.109,AWS,https://opensidebar.com
+2026-08-04T02:36:40Z,GitHub,antolizama931-debug.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://antolizama931-debug.github.io/oncall-agent/
+2026-08-04T02:36:40Z,GitHub,trendsapi.ai,50,172.67.191.20,Unknown,https://trendsapi.ai
+2026-08-04T02:36:40Z,Reddit (r/SideProject),chatmend.app,100,172.67.129.85,Unknown,http://www.chatmend.app
+2026-08-04T02:36:40Z,GitHub,misarreach.com,25,104.21.71.249,Cloudflare,https://www.misarreach.com
+2026-08-04T02:36:40Z,GitHub,classddok.com,20,35.219.200.6,GCP,https://classddok.com/
+2026-08-04T02:36:40Z,GitHub,oh-my-pi-desktop.pulse-core.com,25,104.21.45.128,Cloudflare,https://oh-my-pi-desktop.pulse-core.com
+2026-08-04T02:36:40Z,GitHub,shotluma.com,25,104.21.4.245,Cloudflare,https://shotluma.com
+2026-08-04T02:36:40Z,Reddit (r/SideProject),theflowpulseapp.com,80,216.24.57.7,Vercel,https://theflowpulseapp.com
+2026-08-04T02:36:40Z,Reddit (r/SideProject),rewardrouteweb.vercel.app,100,216.198.79.3,Unknown,https://rewardrouteweb.vercel.app/
+2026-08-04T02:36:40Z,GitHub,cos.ssh.codes,40,172.67.146.113,Unknown,https://cos.ssh.codes
+2026-08-04T02:36:40Z,Reddit (r/SideProject),mind-shield.net,80,54.192.55.38,AWS,https://mind-shield.net/en/learn/logical-fallacies/slippery-slope/
+2026-08-04T02:36:40Z,GitHub,fawen.fun,20,76.76.21.21,Vercel,https://fawen.fun
+2026-08-04T02:36:40Z,Reddit (r/SideProject),okf.eullrich.com,100,172.67.223.163,Unknown,https://okf.eullrich.com/
+2026-08-04T02:36:40Z,GitHub,cypressera.ai,50,216.198.79.1,Unknown,https://cypressera.ai
