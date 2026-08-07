@@ -9167,3 +9167,46 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-06T02:36:31Z,GitHub,omnisignal.ai,30,15.197.225.128,aec037177372cc6cd.awsglobalaccelerator.com.,https://www.omnisignal.ai/mcp
 2026-08-06T02:36:31Z,GitHub,llms.kuris.kiev.ua,40,178.211.99.158,Unknown,https://llms.kuris.kiev.ua
 2026-08-06T02:36:31Z,GitHub,apocdata.com,40,8.163.92.167,Unknown,http://www.apocdata.com
+2026-08-07T02:45:12Z,Reddit (r/SideProject),belf186.github.io,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://belf186.github.io/falling-notes/
+2026-08-07T02:45:12Z,GitHub,soos3d.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://soos3d.github.io/postflight/
+2026-08-07T02:45:12Z,Reddit (r/SideProject),onerep.life,85,104.21.86.141,Cloudflare,https://www.onerep.life
+2026-08-07T02:45:12Z,GitHub,senclaw.bacnd.com,25,104.21.61.206,Cloudflare,https://senclaw.bacnd.com/
+2026-08-07T02:45:12Z,Reddit (r/SideProject),seoloupe.com,85,104.21.71.104,Cloudflare,https://www.seoloupe.com/
+2026-08-07T02:45:12Z,Reddit (r/SideProject),ui-redesign-79.vercel.app,100,216.198.79.3,Unknown,http://ui-redesign-79.vercel.app
+2026-08-07T02:45:12Z,GitHub,greekr4.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://greekr4.github.io/rever-browser/
+2026-08-07T02:45:12Z,GitHub,slottwin517.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://slottwin517.github.io
+2026-08-07T02:45:12Z,GitHub,getzensuite.com,40,172.67.136.10,Unknown,https://getzensuite.com/
+2026-08-07T02:45:12Z,GitHub,pagehand.app,20,76.76.21.21,Vercel,https://pagehand.app
+2026-08-07T02:45:12Z,GitHub,sesori.com,25,104.21.8.5,Cloudflare,https://sesori.com
+2026-08-07T02:45:12Z,GitHub,aetox-puce.vercel.app,40,216.198.79.131,Unknown,https://aetox-puce.vercel.app
+2026-08-07T02:45:12Z,Reddit (r/SideProject),benchpep.vercel.app,100,64.29.17.131,Unknown,http://benchpep.vercel.app/
+2026-08-07T02:45:12Z,GitHub,daimon.decision.ai,35,104.21.45.70,Cloudflare,https://daimon.decision.ai/
+2026-08-07T02:45:12Z,GitHub,crosscode.site,40,172.67.184.25,Unknown,https://crosscode.site
+2026-08-07T02:45:12Z,GitHub,torio.dev,40,216.198.79.65,Unknown,https://torio.dev
+2026-08-07T02:45:12Z,GitHub,tryjarvis.in,25,104.21.81.111,Cloudflare,https://tryjarvis.in
+2026-08-07T02:45:12Z,Reddit (r/SideProject),kippensq.itch.io,85,104.26.9.198,Cloudflare,https://kippensq.itch.io/kimi
+2026-08-07T02:45:12Z,GitHub,spectynmesh.com,40,172.67.195.51,Unknown,https://spectynmesh.com
+2026-08-07T02:45:12Z,GitHub,myshamash.com,40,216.150.1.1,Unknown,https://myshamash.com
+2026-08-07T02:45:12Z,Reddit (r/SideProject),monopol.ai,110,172.67.182.136,Unknown,https://monopol.ai
+2026-08-07T02:45:12Z,GitHub,toolazytoname.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://toolazytoname.github.io/oneplus-8t-mobile-lab/
+2026-08-07T02:45:12Z,GitHub,divecast.org,20,76.76.21.21,Vercel,https://divecast.org
+2026-08-07T02:45:12Z,GitHub,axe01010.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://axe01010.github.io/portfolio-v2/
+2026-08-07T02:45:12Z,GitHub,itxcrusher.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://itxcrusher.github.io/ripple-proof/
+2026-08-07T02:45:12Z,GitHub,nirholas.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://nirholas.github.io/xspace-AI/
+2026-08-07T02:45:12Z,GitHub,li-xiao-technology.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://li-xiao-technology.github.io/Castorice-Agent/
+2026-08-07T02:45:12Z,GitHub,ikhwanuddin.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://ikhwanuddin.github.io/agentic-ai-for-learning/
+2026-08-07T02:45:12Z,GitHub,ai-workmate-buddy-93.lovable.app,30,185.41.148.2,lovable-app-wd-2-4.p.l5e.io.,https://ai-workmate-buddy-93.lovable.app
+2026-08-07T02:45:12Z,Reddit (r/SideProject),thinkbuddyapp.com,85,104.21.1.144,Cloudflare,http://thinkbuddyapp.com
+2026-08-07T02:45:12Z,GitHub,aimidi.baimoo.top,50,172.67.134.14,Unknown,https://aimidi.baimoo.top/
+2026-08-07T02:45:12Z,GitHub,physiclaw.ai,50,172.67.131.64,Unknown,https://physiclaw.ai
+2026-08-07T02:45:12Z,GitHub,agent22.app,30,128.168.132.77,4d.84.a880.ip4.static.sl-reverse.com.,https://agent22.app
+2026-08-07T02:45:12Z,Reddit (r/SideProject),verlox.app,100,64.29.17.65,Unknown,https://www.verlox.app/
+2026-08-07T02:45:12Z,Reddit (r/SideProject),mytradesuite.com,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://mytradesuite.com/
+2026-08-07T02:45:12Z,GitHub,pi-desktop.app,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://pi-desktop.app
+2026-08-07T02:45:12Z,GitHub,withagentic.ai,60,198.185.159.145,Unknown,https://withagentic.ai
+2026-08-07T02:45:12Z,GitHub,krowoc.com,40,216.198.79.1,Unknown,https://krowoc.com
+2026-08-07T02:45:12Z,GitHub,talos-agent.ch,30,217.26.60.154,sl1969.web.hostpoint.ch.,https://talos-agent.ch
+2026-08-07T02:45:12Z,Reddit (r/SideProject),hodlometer.com,80,88.222.222.246,88-222-222-246.init.lt.,https://hodlometer.com/
+2026-08-07T02:45:12Z,GitHub,zyris.attacca.cc,40,110.13.236.125,Unknown,https://zyris.attacca.cc/
+2026-08-07T02:45:12Z,GitHub,qwenpaw.agentscope.io,30,185.199.108.153,cdn-185-199-108-153.github.com.,http://qwenpaw.agentscope.io/
+2026-08-07T02:45:12Z,GitHub,hqc-company.com,40,103.138.88.65,Unknown,https://hqc-company.com
