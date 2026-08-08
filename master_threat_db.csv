@@ -9210,3 +9210,50 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-07T02:45:12Z,GitHub,zyris.attacca.cc,40,110.13.236.125,Unknown,https://zyris.attacca.cc/
 2026-08-07T02:45:12Z,GitHub,qwenpaw.agentscope.io,30,185.199.108.153,cdn-185-199-108-153.github.com.,http://qwenpaw.agentscope.io/
 2026-08-07T02:45:12Z,GitHub,hqc-company.com,40,103.138.88.65,Unknown,https://hqc-company.com
+2026-08-08T01:36:00Z,Reddit (r/SideProject),twinito.ai,95,104.21.18.108,Cloudflare,http://twinito.ai/
+2026-08-08T01:36:00Z,GitHub,edycutjong.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://edycutjong.github.io/worker/
+2026-08-08T01:36:00Z,GitHub,cskwork.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://cskwork.github.io/prime-agent-guide/
+2026-08-08T01:36:00Z,GitHub,taochangle.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://taochangle.github.io/LingCast/
+2026-08-08T01:36:00Z,GitHub,usmanalbaloshi1929-ux.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://usmanalbaloshi1929-ux.github.io/pixelmind-ai/
+2026-08-08T01:36:00Z,GitHub,shiftrouter.greenerai.top,35,104.21.7.211,Cloudflare,https://shiftrouter.greenerai.top
+2026-08-08T01:36:00Z,GitHub,juancsucoder.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://juancsucoder.github.io/flock/
+2026-08-08T01:36:00Z,GitHub,voltolini-space.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://voltolini-space.github.io/NOMOS/
+2026-08-08T01:36:00Z,GitHub,lusrodri.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://lusrodri.github.io/render-useful-mcp/
+2026-08-08T01:36:00Z,GitHub,docs.mecha-factory.ai,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://docs.mecha-factory.ai
+2026-08-08T01:36:00Z,GitHub,neuralbinary.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://neuralbinary.github.io/SAGE/
+2026-08-08T01:36:00Z,GitHub,handochan.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://handochan.github.io/aelix-ai/
+2026-08-08T01:36:00Z,Reddit (r/SideProject),usepoly.co,100,45.55.151.175,Unknown,http://usepoly.co/
+2026-08-08T01:36:00Z,GitHub,faimulus.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://faimulus.github.io/faimulus/
+2026-08-08T01:36:00Z,GitHub,nexus-autonomous-ai.vercel.app,50,216.198.79.67,Unknown,https://nexus-autonomous-ai.vercel.app
+2026-08-08T01:36:01Z,Reddit (r/SideProject),duelai.dev,95,104.21.30.130,Cloudflare,https://www.duelai.dev/
+2026-08-08T01:36:01Z,GitHub,dmythro.com,40,172.67.168.115,Unknown,https://dmythro.com/en/projects/agent-skills
+2026-08-08T01:36:01Z,Reddit (r/SideProject),ai-companions-gules.vercel.app,110,216.198.79.3,Unknown,https://ai-companions-gules.vercel.app
+2026-08-08T01:36:01Z,GitHub,firstday-ai-demo.pages.dev,50,172.66.47.74,Unknown,https://firstday-ai-demo.pages.dev/?judge=1
+2026-08-08T01:36:01Z,GitHub,guardcall-three.vercel.app,40,216.198.79.67,Unknown,https://guardcall-three.vercel.app
+2026-08-08T01:36:01Z,GitHub,kvantatech.com,40,172.67.147.57,Unknown,https://www.kvantatech.com
+2026-08-08T01:36:01Z,Reddit (r/SideProject),funnell.ai,110,216.198.79.1,Unknown,http://www.funnell.ai
+2026-08-08T01:36:01Z,Reddit (r/SideProject),jobhunterteam.ai,110,216.198.79.1,Unknown,https://jobhunterteam.ai
+2026-08-08T01:36:01Z,GitHub,aliwayu3.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://aliwayu3.github.io
+2026-08-08T01:36:01Z,GitHub,ebiyy.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://ebiyy.github.io/open-daily/
+2026-08-08T01:36:01Z,GitHub,lodestar-coach.netlify.app,20,18.208.88.157,AWS,https://lodestar-coach.netlify.app
+2026-08-08T01:36:01Z,GitHub,evidencegraph-datahub.liu891855.chatgpt.site,25,104.18.22.186,Cloudflare,https://evidencegraph-datahub.liu891855.chatgpt.site
+2026-08-08T01:36:01Z,GitHub,agentflowing.app,50,172.67.137.151,Unknown,https://agentflowing.app
+2026-08-08T01:36:01Z,GitHub,snowshadowdoll.online,40,172.67.188.19,Unknown,https://snowshadowdoll.online/
+2026-08-08T01:36:01Z,GitHub,cheshireterminal.ai,30,66.241.124.17,ip-66-241-124-17.shared.customer.flyio.net.,https://cheshireterminal.ai/dark-clawd
+2026-08-08T01:36:01Z,GitHub,jarvis-oauth-server.vercel.app,40,64.29.17.67,Unknown,https://jarvis-oauth-server.vercel.app/
+2026-08-08T01:36:01Z,GitHub,kxen.ai,35,104.21.18.6,Cloudflare,https://kxen.ai
+2026-08-08T01:36:01Z,Reddit (r/SideProject),apexapro.com,100,172.67.204.183,Unknown,https://apexapro.com/
+2026-08-08T01:36:01Z,GitHub,thebuildersopsstudio.com,40,199.36.158.100,Unknown,https://thebuildersopsstudio.com
+2026-08-08T01:36:01Z,GitHub,obelisk.antinomie.org,25,104.21.35.77,Cloudflare,https://obelisk.antinomie.org
+2026-08-08T01:36:01Z,GitHub,zptpartners.com,40,216.198.79.1,Unknown,https://zptpartners.com
+2026-08-08T01:36:01Z,GitHub,stack-in-a-click.vercel.app,40,64.29.17.131,Unknown,https://stack-in-a-click.vercel.app
+2026-08-08T01:36:01Z,Reddit (r/SideProject),crowdwar.io,100,158.178.153.242,Unknown,https://crowdwar.io/
+2026-08-08T01:36:01Z,Reddit (r/SideProject),payriven.com,100,216.150.1.1,Unknown,http://payriven.com
+2026-08-08T01:36:01Z,GitHub,promptcoin.app,40,172.67.173.200,Unknown,https://promptcoin.app/fair
+2026-08-08T01:36:01Z,GitHub,caraka.dev,40,172.67.177.237,Unknown,https://caraka.dev
+2026-08-08T01:36:01Z,GitHub,aegis-react-theta.vercel.app,40,64.29.17.67,Unknown,https://aegis-react-theta.vercel.app
+2026-08-08T01:36:01Z,Reddit (r/SideProject),vabulo.com,80,152.53.68.15,a440f.netcup.net.,http://vabulo.com/contentengine/7
+2026-08-08T01:36:01Z,GitHub,wmux.app,40,216.198.79.1,Unknown,https://www.wmux.app
+2026-08-08T01:36:01Z,GitHub,apply.cubxxw.com,20,103.195.188.236,static.103.195.188.236.orangevps.com.,https://apply.cubxxw.com
+2026-08-08T01:36:01Z,GitHub,tourmind.com,40,155.102.177.40,Unknown,https://tourmind.com/skill
+2026-08-08T01:36:01Z,GitHub,zaivern.com,30,210.157.79.124,sv3123.wpx.ne.jp.,https://zaivern.com/
