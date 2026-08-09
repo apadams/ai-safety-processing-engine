@@ -9257,3 +9257,58 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-08T01:36:01Z,GitHub,apply.cubxxw.com,20,103.195.188.236,static.103.195.188.236.orangevps.com.,https://apply.cubxxw.com
 2026-08-08T01:36:01Z,GitHub,tourmind.com,40,155.102.177.40,Unknown,https://tourmind.com/skill
 2026-08-08T01:36:01Z,GitHub,zaivern.com,30,210.157.79.124,sv3123.wpx.ne.jp.,https://zaivern.com/
+2026-08-09T01:49:37Z,GitHub,gmassello.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://gmassello.github.io/hindsight/
+2026-08-09T01:49:37Z,Reddit (r/SideProject),redcherrys.gumroad.com,85,104.17.176.98,Cloudflare,https://redcherrys.gumroad.com/l/launchkit-template
+2026-08-09T01:49:37Z,GitHub,bigknoxy.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://bigknoxy.github.io/joshbot/
+2026-08-09T01:49:37Z,Reddit (r/SaaS),nivonto.tech,100,216.198.79.1,Unknown,http://nivonto.tech
+2026-08-09T01:49:37Z,Reddit (r/SideProject),leet-git-landing-page.vercel.app,100,216.198.79.67,Unknown,https://leet-git-landing-page.vercel.app/
+2026-08-09T01:49:37Z,Reddit (r/SideProject),bricknote.io,100,172.67.203.20,Unknown,https://bricknote.io/
+2026-08-09T01:49:37Z,Reddit (r/SaaS),appstantly.com,85,104.21.93.152,Cloudflare,https://www.appstantly.com
+2026-08-09T01:49:37Z,GitHub,leapd.ai,50,216.150.1.1,Unknown,https://leapd.ai
+2026-08-09T01:49:37Z,GitHub,pi-go.sh,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://pi-go.sh
+2026-08-09T01:49:37Z,GitHub,n9x.us,40,64.29.17.1,Unknown,https://n9x.us
+2026-08-09T01:49:37Z,Reddit (r/SideProject),deslop.dev,80,52.52.192.191,AWS,https://deslop.dev/
+2026-08-09T01:49:37Z,GitHub,sinhaankur.com,40,172.67.140.175,Unknown,https://www.sinhaankur.com/lab/cognitive-twin
+2026-08-09T01:49:37Z,Reddit (r/SideProject),greenink.app,100,172.67.176.78,Unknown,http://greenink.app
+2026-08-09T01:49:38Z,Reddit (r/SideProject),innerhue.app,100,216.198.79.1,Unknown,https://innerhue.app/
+2026-08-09T01:49:38Z,Reddit (r/SideProject),getfriendo.app,100,216.198.79.1,Unknown,http://getfriendo.app/launch
+2026-08-09T01:49:38Z,GitHub,adventureonthewave.com,40,216.198.79.1,Unknown,https://adventureonthewave.com
+2026-08-09T01:49:38Z,Reddit (r/SideProject),reddlist.xyz,80,31.43.160.6,sites.framer.app.,https://reddlist.xyz
+2026-08-09T01:49:38Z,GitHub,openforge-website.vercel.app,40,64.29.17.67,Unknown,https://openforge-website.vercel.app/
+2026-08-09T01:49:38Z,GitHub,m-taghizadeh.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://m-taghizadeh.github.io/AI-Engineer-Interview/
+2026-08-09T01:49:38Z,GitHub,cockroachcrawler.com,40,172.67.222.169,Unknown,https://cockroachcrawler.com
+2026-08-09T01:49:38Z,Reddit (r/SaaS),eli5.cc,100,172.67.174.131,Unknown,http://eli5.cc/
+2026-08-09T01:49:38Z,Reddit (r/SideProject),informationism.org,100,109.106.254.231,Unknown,https://www.informationism.org/lemchat/lemchat=message=your_message+end
+2026-08-09T01:49:38Z,GitHub,aiguozhi123456.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://aiguozhi123456.github.io/juso-search/
+2026-08-09T01:49:38Z,GitHub,kuzira.uni-core.jp,40,66.33.60.34,Unknown,https://kuzira.uni-core.jp
+2026-08-09T01:49:38Z,GitHub,ai-powered-customer-complaint-manag-navy.vercel.app,50,64.29.17.67,Unknown,https://ai-powered-customer-complaint-manag-navy.vercel.app
+2026-08-09T01:49:38Z,GitHub,jongan69.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://jongan69.github.io/callmemaybe/
+2026-08-09T01:49:38Z,GitHub,kunnash.app,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://kunnash.app
+2026-08-09T01:49:38Z,GitHub,gfaurobert.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://gfaurobert.github.io/excalidraw-offline-bin/
+2026-08-09T01:49:38Z,Reddit (r/SideProject),coarena.ai,90,216.24.57.15,Vercel,http://coarena.ai
+2026-08-09T01:49:38Z,GitHub,genesisconductor.io,40,216.150.16.193,Unknown,https://genesisconductor.io
+2026-08-09T01:49:38Z,GitHub,synex-ai-mu.vercel.app,50,216.198.79.195,Unknown,https://synex-ai-mu.vercel.app
+2026-08-09T01:49:38Z,GitHub,fernandabewitched286.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://fernandabewitched286.github.io
+2026-08-09T01:49:38Z,GitHub,colingpt9.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://colingpt9.github.io/clips-studio/
+2026-08-09T01:49:38Z,GitHub,agent-os-tymepas.vercel.app,50,216.198.79.131,Unknown,https://agent-os-tymepas.vercel.app
+2026-08-09T01:49:38Z,GitHub,wahailong.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://wahailong.github.io/KingdeeMCP/
+2026-08-09T01:49:38Z,GitHub,torm.cloud,20,76.76.21.21,Vercel,https://torm.cloud
+2026-08-09T01:49:38Z,GitHub,gcrab.com,40,172.67.202.18,Unknown,https://gcrab.com
+2026-08-09T01:49:38Z,GitHub,sylo-website-brown.vercel.app,40,216.198.79.195,Unknown,https://sylo-website-brown.vercel.app/
+2026-08-09T01:49:38Z,GitHub,agentline.dev,30,66.241.125.251,ip-66-241-125-251.shared.customer.flyio.net.,https://agentline.dev
+2026-08-09T01:49:38Z,GitHub,godswillai.dev,50,216.198.79.1,Unknown,https://godswillai.dev
+2026-08-09T01:49:38Z,Reddit (r/SaaS),valyria.ai,90,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://valyria.ai/
+2026-08-09T01:49:38Z,Reddit (r/SaaS),gymbro.you,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,http://gymbro.you
+2026-08-09T01:49:38Z,GitHub,v0-ai-marketboard.vercel.app,50,64.29.17.3,Unknown,https://v0-ai-marketboard.vercel.app
+2026-08-09T01:49:38Z,Reddit (r/SideProject),brickforgerai.com,110,69.46.46.45,Unknown,https://brickforgerai.com/?ref=reddit-sideproject
+2026-08-09T01:49:38Z,Reddit (r/SideProject),pingpulse.pro,80,204.168.213.10,static.10.213.168.204.clients.your-server.de.,https://pingpulse.pro/
+2026-08-09T01:49:38Z,GitHub,captainagent.fr,40,148.230.114.78,srv930379.hstgr.cloud.,https://captainagent.fr/
+2026-08-09T01:49:38Z,GitHub,bytestaff.jiomig.com,40,101.132.43.191,Unknown,https://bytestaff.jiomig.com/market/redbeacon
+2026-08-09T01:49:38Z,GitHub,note.xiaoz.top,40,120.79.72.209,Unknown,https://note.xiaoz.top/doc/zacp
+2026-08-09T01:49:38Z,GitHub,noid-privacy.com,20,185.30.32.178,s178.goserver.host.,https://noid-privacy.com/linux.html
+2026-08-09T01:49:38Z,GitHub,elffuss-code.utopiaia.com,30,145.239.65.26,ns3081871.ip-145-239-65.eu.,https://elffuss-code.utopiaia.com
+2026-08-09T01:49:38Z,GitHub,elffuss-claw.utopiaia.com,30,145.239.65.26,ns3081871.ip-145-239-65.eu.,https://elffuss-claw.utopiaia.com
+2026-08-09T01:49:38Z,GitHub,profer.cn,40,47.108.113.94,Unknown,https://profer.cn/
+2026-08-09T01:49:38Z,GitHub,app-2b54-3000.prg1.zerops.app,40,93.185.106.128,Unknown,https://app-2b54-3000.prg1.zerops.app/
+2026-08-09T01:49:38Z,GitHub,zhuatech.cn,40,106.15.235.235,Unknown,https://www.zhuatech.cn/
+2026-08-09T01:49:40Z,GitHub,moongirl.uz,20,167.235.222.200,de.ahost.cloud.,https://moongirl.uz
