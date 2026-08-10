@@ -9312,3 +9312,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-09T01:49:38Z,GitHub,app-2b54-3000.prg1.zerops.app,40,93.185.106.128,Unknown,https://app-2b54-3000.prg1.zerops.app/
 2026-08-09T01:49:38Z,GitHub,zhuatech.cn,40,106.15.235.235,Unknown,https://www.zhuatech.cn/
 2026-08-09T01:49:40Z,GitHub,moongirl.uz,20,167.235.222.200,de.ahost.cloud.,https://moongirl.uz
+2026-08-10T01:51:58Z,GitHub,pain-hunter.netlify.app,30,13.52.188.95,AWS,https://pain-hunter.netlify.app/
+2026-08-10T01:51:58Z,Reddit (r/SideProject),voicebar.ai,95,104.21.71.238,Cloudflare,http://voicebar.ai/
+2026-08-10T01:51:58Z,GitHub,sanlee.me,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://sanlee.me/projects/the-system.html
+2026-08-10T01:51:58Z,Reddit (r/SideProject),neopulse.live,100,216.198.79.1,Unknown,https://neopulse.live
+2026-08-10T01:51:58Z,Reddit (r/SideProject),cinematicphoto.com,85,104.21.28.94,Cloudflare,http://cinematicphoto.com
+2026-08-10T01:51:58Z,Reddit (r/SideProject),cookai-mvp-web.vercel.app,110,64.29.17.67,Unknown,https://cookai-mvp-web.vercel.app
+2026-08-10T01:51:58Z,GitHub,horsie.dev,25,104.21.45.61,Cloudflare,https://horsie.dev
+2026-08-10T01:51:58Z,GitHub,wx-assist-landing.onrender.com,20,216.24.57.15,Vercel,https://wx-assist-landing.onrender.com/
+2026-08-10T01:51:58Z,GitHub,archon-datahub.web.app,40,199.36.158.100,Unknown,https://archon-datahub.web.app
+2026-08-10T01:51:58Z,GitHub,earlcameron.com,40,167.99.232.99,Unknown,https://www.earlcameron.com/projects/codeflux
+2026-08-10T01:51:58Z,GitHub,kujolang.ai,50,172.67.210.133,Unknown,https://kujolang.ai
+2026-08-10T01:51:58Z,GitHub,kikuai.dev,50,172.67.173.122,Unknown,https://kikuai.dev/fitkiku/
+2026-08-10T01:51:58Z,GitHub,nova-ai-console.vercel.app,50,64.29.17.67,Unknown,https://nova-ai-console.vercel.app/
+2026-08-10T01:51:58Z,GitHub,livechatgo.com,25,104.21.87.48,Cloudflare,https://livechatgo.com
+2026-08-10T01:51:58Z,GitHub,orkcom-tech.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://orkcom-tech.github.io/cogitorium/
+2026-08-10T01:51:58Z,GitHub,tencentcloud.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://tencentcloud.github.io/Octop/
+2026-08-10T01:51:58Z,Reddit (r/SideProject),neerajupadhyay90.github.io,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://neerajupadhyay90.github.io/studylens/
+2026-08-10T01:51:58Z,Reddit (r/SideProject),zeidalidiez.github.io,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://zeidalidiez.github.io/Kettermean/
+2026-08-10T01:51:58Z,GitHub,sokra-landing.vercel.app,40,216.198.79.131,Unknown,https://sokra-landing.vercel.app/
+2026-08-10T01:51:58Z,GitHub,satsumacreative.tw,40,172.67.204.152,Unknown,https://satsumacreative.tw
+2026-08-10T01:51:58Z,GitHub,hunter.agentpit.io,30,34.177.103.123,GCP,https://hunter.agentpit.io
+2026-08-10T01:51:58Z,GitHub,pi-from-scratch.vercel.app,40,216.198.79.3,Unknown,https://pi-from-scratch.vercel.app
+2026-08-10T01:51:58Z,GitHub,prasadt1.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://prasadt1.github.io/premortem-datahub/
+2026-08-10T01:51:58Z,GitHub,nemesisat.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://nemesisat.github.io/blast-radius-autopilot/
+2026-08-10T01:51:58Z,GitHub,stableops.dev,40,172.67.209.128,Unknown,https://stableops.dev/agent-payments
+2026-08-10T01:51:58Z,GitHub,aiapplyd.com,35,104.21.65.86,Cloudflare,https://aiapplyd.com/mcps
+2026-08-10T01:51:58Z,GitHub,office.shadeacademia.net,40,172.66.47.53,Unknown,https://office.shadeacademia.net/
+2026-08-10T01:51:58Z,GitHub,jarvis-os-agent.vercel.app,50,64.29.17.67,Unknown,https://jarvis-os-agent.vercel.app/
+2026-08-10T01:51:58Z,GitHub,automated-feed-ai.lovable.app,30,185.41.148.2,lovable-app-wd-2-4.p.l5e.io.,https://automated-feed-ai.lovable.app
+2026-08-10T01:51:58Z,GitHub,ictinnovations.com,20,192.249.123.186,ded3438.inmotionhosting.com.,https://ictinnovations.com
+2026-08-10T01:51:58Z,Reddit (r/SideProject),datavessel.io,100,216.198.79.1,Unknown,https://datavessel.io/use-cases
+2026-08-10T01:51:58Z,GitHub,chromeboost.vercel.app,40,64.29.17.3,Unknown,https://chromeboost.vercel.app
+2026-08-10T01:51:58Z,GitHub,adcopilot.cloud,20,187.77.151.139,srv1849310.hstgr.cloud.,https://adcopilot.cloud
+2026-08-10T01:51:58Z,GitHub,luminbuddy2.ericdocmic.top,40,106.14.222.76,Unknown,https://luminbuddy2.ericdocmic.top/v2/
+2026-08-10T01:51:58Z,GitHub,relayax.com,40,216.150.1.1,Unknown,https://relayax.com
+2026-08-10T01:51:58Z,Reddit (r/SideProject),apexnexus.site,80,76.76.21.21,Vercel,https://apexnexus.site
+2026-08-10T01:51:58Z,Reddit (r/SideProject),rivalads.io,80,65.109.104.222,static.222.104.109.65.clients.your-server.de.,https://www.rivalads.io
+2026-08-10T01:51:58Z,Reddit (r/SideProject),zib.band,100,172.67.192.214,Unknown,http://zib.band
+2026-08-10T01:51:58Z,GitHub,apexaurum.no,20,185.126.36.14,sleipner.domene.no.,http://www.apexaurum.no
