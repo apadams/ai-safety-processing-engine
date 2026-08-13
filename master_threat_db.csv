@@ -9447,3 +9447,44 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-12T02:00:50Z,GitHub,clawdbot.ordnet.io,30,139.59.177.151,1041733.cloudwaysapps.com.,https://clawdbot.ordnet.io
 2026-08-12T02:00:50Z,GitHub,agent.cloudenlight.cn,50,163.179.121.180,Unknown,https://agent.cloudenlight.cn
 2026-08-12T02:00:51Z,GitHub,yanchuaner.cn,20,121.37.68.136,ecs-121-37-68-136.compute.hwclouds-dns.com.,https://yanchuaner.cn
+2026-08-13T02:01:41Z,Reddit (r/SideProject),atomicmail.io,95,104.21.94.171,Cloudflare,https://atomicmail.io/agents
+2026-08-13T02:01:41Z,Reddit (r/SideProject),aitextwatermark.com,110,64.29.17.65,Unknown,https://aitextwatermark.com
+2026-08-13T02:01:41Z,Reddit (r/SideProject),vercel.app,100,216.198.79.3,Unknown,http://vercel.app
+2026-08-13T02:01:41Z,Reddit (r/SideProject),integratedagentics.com,90,13.249.74.26,AWS,https://integratedagentics.com/ghost
+2026-08-13T02:01:41Z,Reddit (r/SideProject),applet-pi.vercel.app,100,64.29.17.195,Unknown,https://applet-pi.vercel.app
+2026-08-13T02:01:41Z,Reddit (r/SideProject),contractlens.plentiersystems.com,80,13.247.16.84,AWS,https://contractlens.plentiersystems.com
+2026-08-13T02:01:41Z,GitHub,getcargo.ai,50,216.150.1.193,Unknown,https://getcargo.ai
+2026-08-13T02:01:41Z,GitHub,loxeai.com,35,104.21.77.29,Cloudflare,https://loxeai.com
+2026-08-13T02:01:41Z,GitHub,adeptbay.com,40,172.67.178.190,Unknown,https://adeptbay.com
+2026-08-13T02:01:41Z,GitHub,docshandbook.vercel.app,40,216.198.79.131,Unknown,https://docshandbook.vercel.app/
+2026-08-13T02:01:41Z,Reddit (r/SideProject),bmprun.com,100,172.67.131.6,Unknown,http://bmprun.com
+2026-08-13T02:01:41Z,GitHub,wireforge-landing.fellwork.workers.dev,40,172.67.216.166,Unknown,https://wireforge-landing.fellwork.workers.dev
+2026-08-13T02:01:41Z,GitHub,shadmin.ahaodev.com,40,172.67.145.185,Unknown,https://shadmin.ahaodev.com
+2026-08-13T02:01:41Z,GitHub,owlstack.app,25,104.21.30.69,Cloudflare,https://owlstack.app
+2026-08-13T02:01:41Z,GitHub,sammyghe.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://sammyghe.github.io/Godena/
+2026-08-13T02:01:41Z,GitHub,yinfy90.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://yinfy90.github.io/PersonaForge/
+2026-08-13T02:01:41Z,GitHub,natuworkguy.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://natuworkguy.github.io/Flash-Site/
+2026-08-13T02:01:41Z,GitHub,eclipseic1848.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://eclipseic1848.github.io/CoreMind/
+2026-08-13T02:01:41Z,GitHub,yosegi-dev.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://yosegi-dev.github.io/yosegi/
+2026-08-13T02:01:41Z,GitHub,yicao-elina.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://yicao-elina.github.io/ARIA/
+2026-08-13T02:01:41Z,GitHub,pi-desktop-website.pages.dev,40,172.66.47.87,Unknown,https://pi-desktop-website.pages.dev/
+2026-08-13T02:01:41Z,GitHub,b-tanyileke.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://b-tanyileke.github.io/ai-insight-agent/
+2026-08-13T02:01:41Z,GitHub,deskpilot-xi.vercel.app,40,64.29.17.67,Unknown,https://deskpilot-xi.vercel.app
+2026-08-13T02:01:41Z,Reddit (r/SideProject),districtindustries.com,85,104.21.11.177,Cloudflare,https://districtindustries.com/billboard
+2026-08-13T02:01:41Z,GitHub,aalis.acenyan.com,40,172.67.165.128,Unknown,https://aalis.acenyan.com
+2026-08-13T02:01:41Z,GitHub,flowkate.vercel.app,40,64.29.17.131,Unknown,https://flowkate.vercel.app
+2026-08-13T02:01:41Z,GitHub,leaseops-psi.vercel.app,40,64.29.17.131,Unknown,https://leaseops-psi.vercel.app
+2026-08-13T02:01:41Z,GitHub,leoncuhk.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://leoncuhk.github.io/quantifact/
+2026-08-13T02:01:41Z,GitHub,ai-news-insightstream.vercel.app,50,216.198.79.67,Unknown,https://ai-news-insightstream.vercel.app/
+2026-08-13T02:01:41Z,Reddit (r/SideProject),deadvibes.app,85,104.21.51.45,Cloudflare,https://Deadvibes.app
+2026-08-13T02:01:41Z,GitHub,taskflow-morii-pops.vercel.app,40,64.29.17.67,Unknown,https://taskflow-morii-pops.vercel.app/
+2026-08-13T02:01:41Z,GitHub,blog.flutterweb.cn,40,49.235.34.145,Unknown,https://blog.flutterweb.cn/infinite-canvas/
+2026-08-13T02:01:41Z,GitHub,kata.dhq-boiler.dev,20,35.76.243.63,GCP,https://kata.dhq-boiler.dev
+2026-08-13T02:01:41Z,GitHub,helioxos.dev,40,216.198.79.65,Unknown,https://www.helioxos.dev
+2026-08-13T02:01:41Z,GitHub,lgresearch.ai,50,165.243.208.248,Unknown,https://www.lgresearch.ai/
+2026-08-13T02:01:41Z,GitHub,coreclaw.com,40,43.168.117.36,Unknown,https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L8&utm_term=&utm_id=L8
+2026-08-13T02:01:41Z,GitHub,rdgz.es,40,216.198.79.1,Unknown,https://www.rdgz.es/blog/im-building-kumo
+2026-08-13T02:01:41Z,GitHub,yongzhen.wang,40,151.101.24.133,Unknown,http://yongzhen.wang/repo-constellation/
+2026-08-13T02:01:41Z,GitHub,speakerweave.com,40,69.46.46.26,Unknown,https://speakerweave.com
+2026-08-13T02:01:41Z,GitHub,fuxicode.com,40,98.96.224.73,Unknown,https://www.fuxicode.com
+2026-08-13T02:01:41Z,GitHub,filtalgo.com,40,121.40.98.214,Unknown,https://www.filtalgo.com/
