@@ -9488,3 +9488,46 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-13T02:01:41Z,GitHub,speakerweave.com,40,69.46.46.26,Unknown,https://speakerweave.com
 2026-08-13T02:01:41Z,GitHub,fuxicode.com,40,98.96.224.73,Unknown,https://www.fuxicode.com
 2026-08-13T02:01:41Z,GitHub,filtalgo.com,40,121.40.98.214,Unknown,https://www.filtalgo.com/
+2026-08-14T02:00:06Z,GitHub,fmxexpress.com,25,104.26.3.218,Cloudflare,https://www.fmxexpress.com/
+2026-08-14T02:00:06Z,Reddit (r/SideProject),hichamster613.gumroad.com,85,104.18.243.99,Cloudflare,https://hichamster613.gumroad.com/l/ykvif
+2026-08-14T02:00:06Z,Reddit (r/SideProject),dataforseo.com,100,172.67.70.216,Unknown,https://dataforseo.com/
+2026-08-14T02:00:06Z,Reddit (r/SideProject),werewolfclub.com,85,104.21.55.25,Cloudflare,https://werewolfclub.com
+2026-08-14T02:00:06Z,Reddit (r/SideProject),code-translator.k-lani.com,100,172.67.163.171,Unknown,https://code-translator.k-lani.com/#demo
+2026-08-14T02:00:06Z,Reddit (r/SideProject),arx0n.com,80,76.76.21.21,Vercel,https://arx0n.com/
+2026-08-14T02:00:06Z,GitHub,dosai.pro,50,66.33.60.129,Unknown,https://dosai.pro
+2026-08-14T02:00:06Z,GitHub,keyframelabs.com,40,64.239.109.193,Unknown,https://keyframelabs.com
+2026-08-14T02:00:06Z,GitHub,workassistant-ai.lovable.app,30,185.41.148.2,lovable-app-wd-2-4.p.l5e.io.,https://workassistant-ai.lovable.app
+2026-08-14T02:00:06Z,GitHub,sunnnn2005.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://sunnnn2005.github.io/data-quality-agent/
+2026-08-14T02:00:06Z,GitHub,deepseek-harness.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://deepseek-harness.github.io/deepseek-harness/
+2026-08-14T02:00:06Z,GitHub,tugrakaymakcioglu.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://tugrakaymakcioglu.github.io/TimmyTest/
+2026-08-14T02:00:06Z,GitHub,owlx.app,25,104.21.1.179,Cloudflare,https://owlx.app/connect
+2026-08-14T02:00:06Z,GitHub,bio-apple.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://bio-apple.github.io/ai/
+2026-08-14T02:00:06Z,GitHub,bookwithhunter.com,40,216.150.1.1,Unknown,https://bookwithhunter.com/book
+2026-08-14T02:00:06Z,GitHub,plantcore-ai.github.io,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://plantcore-ai.github.io/Iteron/
+2026-08-14T02:00:06Z,GitHub,djangoailab.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://djangoailab.github.io/blog-studio/
+2026-08-14T02:00:06Z,GitHub,ykoh42.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://ykoh42.github.io/async-hermes-agent/
+2026-08-14T02:00:06Z,GitHub,truecoder.ryuga.online,20,76.76.21.98,Vercel,https://truecoder.ryuga.online
+2026-08-14T02:00:06Z,GitHub,lovstudio.ai,50,172.67.157.134,Unknown,https://lovstudio.ai
+2026-08-14T02:00:06Z,GitHub,davidedimarco00.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://davidedimarco00.github.io/AgenticProactiveMonitor/
+2026-08-14T02:00:06Z,GitHub,sarembok.com,40,172.67.216.40,Unknown,https://sarembok.com
+2026-08-14T02:00:06Z,GitHub,writer.genedai.md,50,172.67.189.17,Unknown,https://writer.genedai.md
+2026-08-14T02:00:06Z,GitHub,ai-git-hub-agent.vercel.app,60,216.198.79.131,Unknown,https://ai-git-hub-agent.vercel.app
+2026-08-14T02:00:06Z,GitHub,147228.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://147228.github.io/dsh-xiaoyao-skins/
+2026-08-14T02:00:06Z,GitHub,gimmy-tracker.vercel.app,40,216.198.79.195,Unknown,https://gimmy-tracker.vercel.app
+2026-08-14T02:00:06Z,GitHub,handoff.gosuper.dev,40,172.67.164.16,Unknown,https://handoff.gosuper.dev
+2026-08-14T02:00:06Z,GitHub,percho.org,25,104.21.95.76,Cloudflare,https://www.percho.org/
+2026-08-14T02:00:06Z,GitHub,zja0011.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://zja0011.github.io/edgesentinel-visionops/video-gallery.html
+2026-08-14T02:00:06Z,Reddit (r/SideProject),vulx.ai,110,172.67.135.170,Unknown,http://vulx.ai
+2026-08-14T02:00:06Z,Reddit (r/SideProject),activcue.fun,100,69.46.46.15,Unknown,http://activcue.fun
+2026-08-14T02:00:06Z,GitHub,web-production-e4059.up.railway.app,50,69.46.46.74,Unknown,https://web-production-e4059.up.railway.app/login?next=%2Faccount
+2026-08-14T02:00:06Z,Reddit (r/SideProject),causal.so,100,216.198.79.1,Unknown,https://causal.so
+2026-08-14T02:00:06Z,GitHub,flashproject.dev,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://flashproject.dev
+2026-08-14T02:00:06Z,GitHub,subramanyammn.in,40,145.79.211.49,Unknown,https://subramanyammn.in
+2026-08-14T02:00:06Z,Reddit (r/SideProject),true-post.io,100,103.133.1.1,Unknown,http://true-post.io
+2026-08-14T02:00:06Z,Reddit (r/SideProject),referee.chat,80,38.86.78.12,mail.referee.chat.,https://referee.chat/
+2026-08-14T02:00:06Z,Reddit (r/SideProject),vendetrics.io,80,62.238.31.211,static.211.31.238.62.clients.your-server.de.,https://www.vendetrics.io
+2026-08-14T02:00:06Z,GitHub,proboi.site,40,5.129.250.87,Unknown,https://proboi.site
+2026-08-14T02:00:06Z,GitHub,x402.ordnet.io,20,37.27.48.94,static.94.48.27.37.clients.your-server.de.,https://x402.ordnet.io
+2026-08-14T02:00:06Z,GitHub,klai.top,50,111.229.190.132,Unknown,https://www.klai.top
+2026-08-14T02:00:06Z,GitHub,sid-code.cc,40,121.196.144.227,Unknown,https://www.sid-code.cc/
+2026-08-14T02:00:07Z,GitHub,dibachain.ir,30,46.245.76.51,ns111.pws-dns.net.,https://dibachain.ir/
