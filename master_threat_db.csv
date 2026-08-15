@@ -9531,3 +9531,43 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-14T02:00:06Z,GitHub,klai.top,50,111.229.190.132,Unknown,https://www.klai.top
 2026-08-14T02:00:06Z,GitHub,sid-code.cc,40,121.196.144.227,Unknown,https://www.sid-code.cc/
 2026-08-14T02:00:07Z,GitHub,dibachain.ir,30,46.245.76.51,ns111.pws-dns.net.,https://dibachain.ir/
+2026-08-15T01:18:09Z,GitHub,euvinicios.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://euvinicios.github.io/vibeHarness/
+2026-08-15T01:18:09Z,Reddit (r/SideProject),colin-12.itch.io,85,104.26.8.198,Cloudflare,https://colin-12.itch.io/quota-capsule
+2026-08-15T01:18:09Z,Reddit (r/SideProject),imyou.ai,90,76.76.21.21,Vercel,https://imyou.ai
+2026-08-15T01:18:09Z,Reddit (r/SideProject),bagpine.vercel.app,100,64.29.17.3,Unknown,https://bagpine.vercel.app
+2026-08-15T01:18:09Z,Reddit (r/SideProject),resumeio.online,100,216.198.79.1,Unknown,https://resumeio.online
+2026-08-15T01:18:09Z,Reddit (r/SideProject),handbrief.com,100,216.198.79.1,Unknown,https://handbrief.com
+2026-08-15T01:18:09Z,Reddit (r/SideProject),setsquare.pages.dev,100,172.66.44.153,Unknown,http://setsquare.pages.dev/
+2026-08-15T01:18:09Z,Reddit (r/SideProject),chaseos.ai,110,172.67.137.118,Unknown,https://chaseos.ai/?utm_source=reddit&amp;utm_medium=community&amp;utm_campaign=studio-v1
+2026-08-15T01:18:09Z,Reddit (r/SideProject),freethe.app,85,104.21.47.150,Cloudflare,https://freethe.app/
+2026-08-15T01:18:09Z,GitHub,ningbainb.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://ningbainb.github.io/deepseek-harness-desktop/
+2026-08-15T01:18:09Z,GitHub,rung-sat.web.app,40,199.36.158.100,Unknown,https://rung-sat.web.app
+2026-08-15T01:18:09Z,GitHub,miruamel.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://miruamel.github.io/Xiaoyi/
+2026-08-15T01:18:09Z,Reddit (r/SideProject),mariusjomphe.com,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://mariusjomphe.com/
+2026-08-15T01:18:09Z,GitHub,dsh.zhuquan.xyz,25,104.21.68.198,Cloudflare,https://dsh.zhuquan.xyz
+2026-08-15T01:18:09Z,Reddit (r/SideProject),uxlint.net,100,172.67.130.160,Unknown,https://uxlint.net
+2026-08-15T01:18:09Z,Reddit (r/SideProject),tryharness.ai,90,66.241.124.85,ip-66-241-124-85.shared.customer.flyio.net.,https://tryharness.ai
+2026-08-15T01:18:09Z,GitHub,crucible.smshahbaj.com,40,172.67.129.61,Unknown,https://crucible.smshahbaj.com
+2026-08-15T01:18:09Z,GitHub,portfoliodb.app,40,172.67.165.193,Unknown,https://portfoliodb.app
+2026-08-15T01:18:09Z,GitHub,conciv.dev,40,172.67.191.206,Unknown,https://conciv.dev
+2026-08-15T01:18:09Z,GitHub,tidebreak.io,40,216.150.1.1,Unknown,https://tidebreak.io
+2026-08-15T01:18:09Z,GitHub,hamlin-zy.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://hamlin-zy.github.io/hclaw/
+2026-08-15T01:18:09Z,GitHub,protremix.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://protremix.github.io/EvolvixOS/
+2026-08-15T01:18:09Z,GitHub,echoulen.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://echoulen.github.io/claude-unreal/
+2026-08-15T01:18:09Z,GitHub,phinn.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://phinn.github.io/KinetAios/
+2026-08-15T01:18:09Z,Reddit (r/SideProject),renotify.app,85,104.21.26.216,Cloudflare,https://renotify.app
+2026-08-15T01:18:09Z,GitHub,woofapi.com,25,104.21.45.170,Cloudflare,https://woofapi.com
+2026-08-15T01:18:09Z,GitHub,crow-1412.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://crow-1412.github.io/dsh-lab/
+2026-08-15T01:18:09Z,GitHub,brox.sh,40,216.198.79.65,Unknown,https://brox.sh/
+2026-08-15T01:18:09Z,Reddit (r/SideProject),careermatchs.com,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://careermatchs.com/
+2026-08-15T01:18:09Z,Reddit (r/SideProject),oleaai.pixelmatrix.dev,110,208.97.56.197,Unknown,https://oleaai.pixelmatrix.dev
+2026-08-15T01:18:09Z,GitHub,referential.ai,50,138.68.36.41,Unknown,https://referential.ai
+2026-08-15T01:18:09Z,GitHub,developers.ecocitizenz.com,40,48.192.33.154,Unknown,https://developers.ecocitizenz.com/agent-trust
+2026-08-15T01:18:09Z,GitHub,boost-iq-studio.lovable.app,20,185.41.148.1,lovable-app-wd-1-4.p.l5e.io.,https://boost-iq-studio.lovable.app/
+2026-08-15T01:18:09Z,GitHub,ferrum-os.vercel.app,40,216.198.79.195,Unknown,https://ferrum-os.vercel.app
+2026-08-15T01:18:09Z,GitHub,ai798lab.com,50,47.246.23.231,Unknown,https://ai798lab.com
+2026-08-15T01:18:09Z,Reddit (r/SideProject),ecohub.mariadb.org,80,78.46.129.105,static.105.129.46.78.clients.your-server.de.,https://ecohub.mariadb.org/database-management/lakedb
+2026-08-15T01:18:10Z,GitHub,cli.nexus,40,69.46.46.100,Unknown,https://cli.nexus
+2026-08-15T01:18:10Z,GitHub,kwork.ru,40,178.248.232.168,Unknown,https://kwork.ru/user/burashevrubin
+2026-08-15T01:18:10Z,GitHub,execai.ru,50,158.160.178.50,Unknown,https://execai.ru
+2026-08-15T01:18:10Z,GitHub,loveyourclanker.org,40,69.46.46.27,Unknown,https://loveyourclanker.org/
