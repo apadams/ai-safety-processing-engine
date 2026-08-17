@@ -9618,3 +9618,45 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-16T01:22:32Z,GitHub,subsidy-support.tech,40,216.150.1.1,Unknown,https://www.subsidy-support.tech
 2026-08-16T01:22:32Z,GitHub,agrisky-ai.43-207-129-86.sslip.io,30,43.207.129.86,AWS,https://agrisky-ai.43-207-129-86.sslip.io/
 2026-08-16T01:22:32Z,GitHub,qiling.swcbg.com,40,116.62.68.47,Unknown,https://qiling.swcbg.com
+2026-08-17T01:19:58Z,Reddit (r/SideProject),pokerink.com,80,52.40.180.139,AWS,https://pokerink.com/
+2026-08-17T01:19:58Z,Reddit (r/SideProject),goalforge.me,85,104.21.33.107,Cloudflare,https://goalforge.me/
+2026-08-17T01:19:58Z,Reddit (r/SideProject),srdjankotarlic.github.io,80,185.199.111.153,cdn-185-199-111-153.github.com.,https://srdjankotarlic.github.io/showslate/
+2026-08-17T01:19:58Z,GitHub,lindixu6-hash.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://lindixu6-hash.github.io/awesome-agentic-engineering/
+2026-08-17T01:19:58Z,Reddit (r/SideProject),uini.io,100,172.67.149.249,Unknown,http://uini.io?utm_source=reddit
+2026-08-17T01:19:58Z,Reddit (r/SideProject),genspark.ai,95,104.18.25.139,Cloudflare,https://www.genspark.ai/autopilotagent_viewer?id=379f2512-b23d-40ef-b5f1-7628540487ed
+2026-08-17T01:19:58Z,GitHub,jameschatbot.onrender.com,30,216.24.57.7,Vercel,https://jameschatbot.onrender.com
+2026-08-17T01:19:58Z,GitHub,tyrannicawe.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://TyrannicAwe.github.io/claude-skills-pack/
+2026-08-17T01:19:58Z,GitHub,tokx.dev,25,104.21.96.153,Cloudflare,https://tokx.dev
+2026-08-17T01:19:58Z,Reddit (r/SideProject),slopornot.simplicated.dev,100,64.29.17.1,Unknown,https://slopornot.simplicated.dev
+2026-08-17T01:19:58Z,Reddit (r/SideProject),uidrop.site,100,64.29.17.1,Unknown,https://uidrop.site/
+2026-08-17T01:19:58Z,Reddit (r/SideProject),aiveloft-v2.framer.website,90,31.43.160.6,sites.framer.app.,https://aiveloft-v2.framer.website/?utm_source=chatgpt.com
+2026-08-17T01:19:58Z,GitHub,claudiolabs.ai,35,104.21.88.248,Cloudflare,https://www.claudiolabs.ai/
+2026-08-17T01:19:58Z,GitHub,dasasian.com,25,104.21.68.14,Cloudflare,https://dasasian.com/gdocs-mcp
+2026-08-17T01:19:58Z,GitHub,deeplugin.store,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://deeplugin.store
+2026-08-17T01:19:58Z,GitHub,zsyu9779.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://zsyu9779.github.io/dsh-desktop/
+2026-08-17T01:19:58Z,GitHub,nexpeakcore.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://nexpeakcore.github.io/deepseek-harness-pr-review/
+2026-08-17T01:19:58Z,GitHub,daguccicode.com,25,104.21.51.120,Cloudflare,https://daguccicode.com
+2026-08-17T01:19:58Z,GitHub,find-the-fear.vercel.app,40,64.29.17.3,Unknown,https://find-the-fear.vercel.app
+2026-08-17T01:19:58Z,Reddit (r/SideProject),getquok.com,100,172.67.131.57,Unknown,http://getquok.com
+2026-08-17T01:19:58Z,Reddit (r/SideProject),monmedjs.com,85,104.21.67.49,Cloudflare,https://monmedjs.com/
+2026-08-17T01:19:58Z,Reddit (r/SideProject),robustlyapp.com,80,76.142.3.227,c-76-142-3-227.hsd1.tx.comcast.net.,https://robustlyapp.com/?utm_source=rsp
+2026-08-17T01:19:58Z,GitHub,riftbound.chroniclecore.com,40,172.67.198.43,Unknown,https://riftbound.chroniclecore.com
+2026-08-17T01:19:58Z,GitHub,caelis.dev,40,172.67.161.32,Unknown,https://caelis.dev/
+2026-08-17T01:19:58Z,Reddit (r/SideProject),auditortravel.com,80,18.208.88.157,AWS,http://auditortravel.com
+2026-08-17T01:19:58Z,GitHub,yansenlei.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://yansenlei.github.io/dsh-desktop/
+2026-08-17T01:19:58Z,GitHub,allen-studio.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://allen-studio.github.io/feishu-talk-deck/
+2026-08-17T01:19:58Z,GitHub,usebrian.ai,50,172.67.154.10,Unknown,https://usebrian.ai
+2026-08-17T01:19:58Z,GitHub,oscharko.dev,40,64.29.17.1,Unknown,https://oscharko.dev/
+2026-08-17T01:19:58Z,GitHub,mimizuku.autos,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://mimizuku.autos/
+2026-08-17T01:19:58Z,GitHub,13416331611-art.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://13416331611-art.github.io/today-eat-app/
+2026-08-17T01:19:58Z,GitHub,zynexai.co,35,104.18.26.246,Cloudflare,https://zynexai.co/
+2026-08-17T01:19:58Z,Reddit (r/SideProject),revivefitness.app,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://revivefitness.app
+2026-08-17T01:19:58Z,GitHub,alvarocofre.dev,40,216.198.79.1,Unknown,https://alvarocofre.dev
+2026-08-17T01:19:58Z,GitHub,uselabor.com,40,199.36.158.100,Unknown,https://uselabor.com
+2026-08-17T01:19:58Z,GitHub,zoahdev.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://zoahdev.github.io/deepseek-harness-handbook/
+2026-08-17T01:19:58Z,GitHub,kyne0328.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://kyne0328.github.io/rel-ai-mcp/
+2026-08-17T01:19:58Z,GitHub,flowkite.vercel.app,40,216.198.79.3,Unknown,https://flowkite.vercel.app
+2026-08-17T01:19:58Z,GitHub,travel.yiongspace.com,40,43.161.238.20,Unknown,https://travel.yiongspace.com
+2026-08-17T01:19:58Z,GitHub,livedotmap.top,40,43.174.246.110,Unknown,https://livedotmap.top
+2026-08-17T01:19:58Z,GitHub,beyondata.com,40,8.25.82.226,Unknown,https://www.beyondata.com/
+2026-08-17T01:20:08Z,GitHub,art-magazine.ai,50,198.202.211.1,Unknown,https://www.art-magazine.ai/b-side
