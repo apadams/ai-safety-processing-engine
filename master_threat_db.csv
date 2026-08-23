@@ -9873,3 +9873,19 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-22T01:18:46Z,GitHub,101.200.45.180,40,101.200.45.180,Unknown,http://101.200.45.180
 2026-08-22T01:18:46Z,GitHub,skillhub.cn,40,43.170.217.22,Unknown,https://skillhub.cn/skills/chuaimo
 2026-08-22T01:18:47Z,GitHub,liara-copilot-ir.liara.run,40,185.208.181.132,Unknown,https://liara-copilot-ir.liara.run
+2026-08-23T01:16:06Z,Reddit (r/SideProject),forkfolio.dev,80,76.76.21.21,Vercel,http://forkfolio.dev
+2026-08-23T01:16:06Z,Reddit (r/SideProject),lifeguessr.com,85,104.21.2.3,Cloudflare,http://lifeguessr.com
+2026-08-23T01:16:06Z,Reddit (r/SideProject),maprix.io,85,104.21.85.158,Cloudflare,https://maprix.io/en/
+2026-08-23T01:16:06Z,Reddit (r/SideProject),startupgraveyard.lol,85,104.21.31.5,Cloudflare,https://startupgraveyard.lol/
+2026-08-23T01:16:06Z,Reddit (r/SideProject),explorer.withfudge.com,85,104.21.80.225,Cloudflare,http://explorer.withfudge.com
+2026-08-23T01:16:06Z,Reddit (r/SideProject),getaster.co,100,172.67.178.20,Unknown,https://getaster.co
+2026-08-23T01:16:06Z,Reddit (r/SideProject),insights.gg,100,172.66.145.225,Unknown,https://insights.gg/insights-capture
+2026-08-23T01:16:06Z,Reddit (r/SideProject),visualwizard.app,100,172.67.150.99,Unknown,https://visualwizard.app/
+2026-08-23T01:16:06Z,Reddit (r/SideProject),askkynos.ai,90,76.76.21.21,Vercel,http://askKynos.ai
+2026-08-23T01:16:06Z,Reddit (r/SideProject),vulty.org,100,64.29.17.1,Unknown,https://vulty.org/
+2026-08-23T01:16:06Z,Reddit (r/SideProject),lamialibreria.pythonanywhere.com,80,35.173.69.207,GCP,https://lamialibreria.pythonanywhere.com/
+2026-08-23T01:16:06Z,Reddit (r/SideProject),beforeyouscrollapp.com,80,99.83.231.61,acd89244c803f7181.awsglobalaccelerator.com.,https://beforeyouscrollapp.com
+2026-08-23T01:16:06Z,Reddit (r/SideProject),z.ai,110,8.216.131.99,Unknown,http://Z.ai
+2026-08-23T01:16:06Z,Reddit (r/SideProject),baget.ai,110,216.150.1.1,Unknown,http://baget.ai
+2026-08-23T01:16:06Z,Reddit (r/SideProject),usenova.live,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,http://usenova.live
+2026-08-23T01:16:06Z,Reddit (r/SideProject),sponsorapply.com,100,69.46.46.108,Unknown,http://sponsorapply.com
