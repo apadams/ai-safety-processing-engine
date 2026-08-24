@@ -9889,3 +9889,53 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-23T01:16:06Z,Reddit (r/SideProject),baget.ai,110,216.150.1.1,Unknown,http://baget.ai
 2026-08-23T01:16:06Z,Reddit (r/SideProject),usenova.live,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,http://usenova.live
 2026-08-23T01:16:06Z,Reddit (r/SideProject),sponsorapply.com,100,69.46.46.108,Unknown,http://sponsorapply.com
+2026-08-24T01:21:21Z,GitHub,openzot.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://openzot.github.io/arcade/
+2026-08-24T01:21:21Z,Reddit (r/SideProject),drop.calcont.in,85,104.21.10.136,Cloudflare,https://drop.calcont.in/
+2026-08-24T01:21:21Z,Reddit (r/SideProject),attentionproof.com,100,64.29.17.65,Unknown,https://attentionproof.com/
+2026-08-24T01:21:21Z,GitHub,whatsapp-fitness-agent.fkrein.workers.dev,35,104.21.76.84,Cloudflare,https://whatsapp-fitness-agent.fkrein.workers.dev
+2026-08-24T01:21:21Z,GitHub,openamer.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://openamer.github.io/openamer/
+2026-08-24T01:21:21Z,Reddit (r/SideProject),roleframe.ai,110,216.150.1.1,Unknown,https://www.roleframe.ai/
+2026-08-24T01:21:21Z,Reddit (r/SideProject),deckwave.nerrr.xyz,100,172.67.212.47,Unknown,https://deckwave.nerrr.xyz
+2026-08-24T01:21:21Z,Reddit (r/SideProject),spadesinator.com,80,3.171.61.101,AWS,https://spadesinator.com/
+2026-08-24T01:21:21Z,GitHub,pptwise.com,40,172.67.128.28,Unknown,https://pptwise.com
+2026-08-24T01:21:21Z,GitHub,lx.xuepoo.xyz,25,104.21.83.51,Cloudflare,https://lx.xuepoo.xyz
+2026-08-24T01:21:21Z,GitHub,calvinchengx.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://calvinchengx.github.io/data-agent-service/
+2026-08-24T01:21:21Z,GitHub,vibed-project.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://vibed-project.github.io/hiveD/
+2026-08-24T01:21:21Z,GitHub,eihai.cc,50,172.67.160.217,Unknown,https://eihai.cc
+2026-08-24T01:21:21Z,GitHub,d2n13wfb8jv9v.cloudfront.net,20,18.67.79.141,AWS,https://d2n13wfb8jv9v.cloudfront.net
+2026-08-24T01:21:21Z,Reddit (r/SideProject),claudecope.com,85,104.21.23.222,Cloudflare,https://claudecope.com
+2026-08-24T01:21:21Z,GitHub,alvenx.com,40,172.67.191.148,Unknown,https://alvenx.com
+2026-08-24T01:21:21Z,GitHub,landing-one-hazel-88.vercel.app,40,64.29.17.67,Unknown,https://landing-one-hazel-88.vercel.app/
+2026-08-24T01:21:21Z,GitHub,infinite-interview-simulator.vercel.app,40,64.29.17.67,Unknown,https://infinite-interview-simulator.vercel.app
+2026-08-24T01:21:21Z,GitHub,hermes.xpetalab.dev,25,104.21.86.214,Cloudflare,https://hermes.xpetalab.dev
+2026-08-24T01:21:21Z,Reddit (r/SideProject),murderindex.com,85,104.21.34.74,Cloudflare,https://murderindex.com
+2026-08-24T01:21:21Z,GitHub,flowkite.xyz,40,216.198.79.1,Unknown,https://www.flowkite.xyz
+2026-08-24T01:21:21Z,GitHub,doktrace.com,25,104.21.22.239,Cloudflare,https://doktrace.com/docs/
+2026-08-24T01:21:21Z,Reddit (r/SideProject),tendrilcare.app,100,172.67.176.158,Unknown,https://tendrilcare.app
+2026-08-24T01:21:21Z,GitHub,clusterassets.com,25,104.21.85.5,Cloudflare,https://clusterassets.com
+2026-08-24T01:21:21Z,GitHub,clinical-workflows.vercel.app,40,64.29.17.131,Unknown,https://clinical-workflows.vercel.app
+2026-08-24T01:21:21Z,GitHub,linkingoscar.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://linkingoscar.github.io/econ-management-paper-polish/
+2026-08-24T01:21:21Z,GitHub,bettyxu2001.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://bettyxu2001.github.io/how-deepseek-harness-works/
+2026-08-24T01:21:21Z,GitHub,soltex-router.com,40,172.67.207.185,Unknown,https://soltex-router.com/
+2026-08-24T01:21:21Z,GitHub,tiny-agent.geminixiang.com,50,172.67.140.197,Unknown,https://tiny-agent.geminixiang.com
+2026-08-24T01:21:21Z,GitHub,zoeymind.com,40,172.67.167.132,Unknown,https://zoeymind.com
+2026-08-24T01:21:21Z,Reddit (r/SideProject),sceneblue.com,80,3.167.99.26,AWS,http://sceneblue.com
+2026-08-24T01:21:21Z,GitHub,adyber.com,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://www.adyber.com
+2026-08-24T01:21:21Z,GitHub,dsh-blue.dev,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://dsh-blue.dev
+2026-08-24T01:21:21Z,GitHub,duevia.finance,25,104.21.72.105,Cloudflare,https://duevia.finance
+2026-08-24T01:21:21Z,GitHub,investilens.onrender.com,20,216.24.57.7,Vercel,https://investilens.onrender.com
+2026-08-24T01:21:21Z,GitHub,astroloop.larryxue.dev,40,172.67.218.126,Unknown,https://astroloop.larryxue.dev
+2026-08-24T01:21:21Z,GitHub,kyuukyuustone.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://kyuukyuustone.github.io/claude-code-heihei/
+2026-08-24T01:21:21Z,GitHub,arc-ai-project.vercel.app,50,216.198.79.67,Unknown,https://arc-ai-project.vercel.app
+2026-08-24T01:21:21Z,GitHub,superagent.ng,50,172.67.132.146,Unknown,https://superagent.ng
+2026-08-24T01:21:21Z,GitHub,annolux.com,40,172.67.182.216,Unknown,https://annolux.com
+2026-08-24T01:21:21Z,Reddit (r/SideProject),forgeyourway.dev,100,64.29.17.1,Unknown,https://forgeyourway.dev/share/664e4e51-6e78-4e94-9af3-fa294a9bc500
+2026-08-24T01:21:21Z,Reddit (r/SideProject),stresslessdaily.com,90,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://stresslessdaily.com/
+2026-08-24T01:21:21Z,GitHub,gurt.gru0.dev,40,64.29.17.1,Unknown,https://gurt.gru0.dev/
+2026-08-24T01:21:21Z,GitHub,graphenelab.it,20,185.199.111.153,cdn-185-199-111-153.github.com.,http://graphenelab.it/AgentBridge/
+2026-08-24T01:21:21Z,GitHub,ai.kitnav.com,30,23.80.83.85,85.83.80.23.hosted.by.hostdzire.com.,https://ai.kitnav.com
+2026-08-24T01:21:21Z,Reddit (r/SideProject),kodnik.com,80,185.199.109.153,cdn-185-199-109-153.github.com.,https://kodnik.com
+2026-08-24T01:21:21Z,GitHub,kainext.cl,30,76.76.21.21,Vercel,https://www.kainext.cl
+2026-08-24T01:21:21Z,GitHub,jonassuhard.com,20,76.76.21.21,Vercel,https://jonassuhard.com/projets/cortex-bridge
+2026-08-24T01:21:21Z,GitHub,rterm.app,20,131.153.147.50,wghp3.wghservers.com.,https://rterm.app
+2026-08-24T01:21:21Z,GitHub,mobius.you,20,91.98.129.64,static.64.129.98.91.clients.your-server.de.,https://www.mobius.you
