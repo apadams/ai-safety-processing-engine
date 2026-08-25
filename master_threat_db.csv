@@ -9939,3 +9939,43 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-08-24T01:21:21Z,GitHub,jonassuhard.com,20,76.76.21.21,Vercel,https://jonassuhard.com/projets/cortex-bridge
 2026-08-24T01:21:21Z,GitHub,rterm.app,20,131.153.147.50,wghp3.wghservers.com.,https://rterm.app
 2026-08-24T01:21:21Z,GitHub,mobius.you,20,91.98.129.64,static.64.129.98.91.clients.your-server.de.,https://www.mobius.you
+2026-08-25T01:19:33Z,GitHub,deepseek.stream,25,104.21.75.195,Cloudflare,https://deepseek.stream
+2026-08-25T01:19:33Z,GitHub,labs.zaguanai.com,35,104.21.71.122,Cloudflare,https://labs.zaguanai.com/en/experiments/agent-seat-proto
+2026-08-25T01:19:33Z,Reddit (r/SideProject),repoverse.online,85,104.21.36.249,Cloudflare,http://repoverse.online
+2026-08-25T01:19:33Z,GitHub,pre.hiklik.ai,50,216.198.79.65,Unknown,https://pre.hiklik.ai/?utm_source=github&utm_medium=repository_homepage&utm_campaign=kickstarter_prelaunch&utm_content=klik_import_skill
+2026-08-25T01:19:33Z,GitHub,diablo-made.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://diablo-made.github.io/hermes-waitlist/
+2026-08-25T01:19:33Z,GitHub,beaconchain-horizon.github.io,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://beaconchain-horizon.github.io/hub/
+2026-08-25T01:19:33Z,GitHub,gruxai.com,35,104.21.71.37,Cloudflare,https://gruxai.com
+2026-08-25T01:19:33Z,GitHub,donatr.ee,25,104.21.23.213,Cloudflare,https://donatr.ee/aegiswizard?utm_source=copy&utm_medium=share
+2026-08-25T01:19:33Z,GitHub,thegit.ai,35,104.21.40.78,Cloudflare,https://thegit.ai
+2026-08-25T01:19:33Z,Reddit (r/SideProject),invoiceworker.vercel.app,100,64.29.17.67,Unknown,https://invoiceworker.vercel.app
+2026-08-25T01:19:33Z,GitHub,canvas-editor-eight-rust.vercel.app,40,64.29.17.67,Unknown,https://canvas-editor-eight-rust.vercel.app/
+2026-08-25T01:19:33Z,GitHub,boningli.com,25,104.21.84.166,Cloudflare,https://boningli.com/blog/touchdesigner-agent
+2026-08-25T01:19:33Z,Reddit (r/SideProject),dorven.ai,90,99.83.231.61,acd89244c803f7181.awsglobalaccelerator.com.,https://dorven.ai
+2026-08-25T01:19:33Z,GitHub,ai-andromeda.com,50,216.198.79.1,Unknown,https://ai-andromeda.com
+2026-08-25T01:19:33Z,Reddit (r/SideProject),mixologyatlas.com,80,76.76.21.21,Vercel,http://mixologyatlas.com
+2026-08-25T01:19:33Z,GitHub,pennyloop.games.bu.app,40,172.67.220.238,Unknown,https://pennyloop.games.bu.app
+2026-08-25T01:19:33Z,GitHub,hackertrip.space,40,216.150.16.129,Unknown,https://hackertrip.space/haki-desktop
+2026-08-25T01:19:33Z,GitHub,triad-workshop.vercel.app,40,64.29.17.195,Unknown,https://triad-workshop.vercel.app/
+2026-08-25T01:19:33Z,GitHub,here-app-three.vercel.app,40,216.198.79.67,Unknown,https://here-app-three.vercel.app
+2026-08-25T01:19:33Z,Reddit (r/SideProject),fitmarket-app-tirtd70l.blinkpowered.com,80,108.156.107.56,server-108-156-107-56.ord56.r.cloudfront.net.,https://fitmarket-app-tirtd70l.blinkpowered.com/app
+2026-08-25T01:19:33Z,GitHub,laplace-bit.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://laplace-bit.github.io/dsh-pianist/
+2026-08-25T01:19:33Z,GitHub,ourfeed.vercel.app,40,216.198.79.3,Unknown,https://ourfeed.vercel.app
+2026-08-25T01:19:33Z,GitHub,squirrelsong5.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://squirrelsong5.github.io/travel-plans/chengdu-2026-09-18.html
+2026-08-25T01:19:33Z,GitHub,cairnpm.com,30,66.241.124.196,ip-66-241-124-196.shared.customer.flyio.net.,https://cairnpm.com
+2026-08-25T01:19:33Z,GitHub,opengui.ai,50,172.67.195.66,Unknown,https://opengui.ai/
+2026-08-25T01:19:33Z,GitHub,x402-sentinel.vercel.app,40,216.198.79.131,Unknown,https://x402-sentinel.vercel.app
+2026-08-25T01:19:33Z,Reddit (r/SideProject),wirelang.com,80,66.241.124.189,ip-66-241-124-189.shared.customer.flyio.net.,https://wirelang.com/
+2026-08-25T01:19:33Z,GitHub,assistant.ainurhq.cloud,50,172.67.209.144,Unknown,https://assistant.ainurhq.cloud/
+2026-08-25T01:19:33Z,Reddit (r/SideProject),hashitout.app,80,34.111.179.208,GCP,https://hashitout.app
+2026-08-25T01:19:33Z,GitHub,kumanga-website.vercel.app,40,216.198.79.195,Unknown,https://kumanga-website.vercel.app/
+2026-08-25T01:19:33Z,GitHub,aegis.erzen.dev,40,216.150.16.193,Unknown,https://aegis.erzen.dev/
+2026-08-25T01:19:33Z,GitHub,agentkot.ai,40,185.146.2.237,vh356.timeweb.ru.,https://agentkot.ai
+2026-08-25T01:19:33Z,GitHub,arc-ai-project-ten.vercel.app,50,64.29.17.131,Unknown,https://arc-ai-project-ten.vercel.app/
+2026-08-25T01:19:33Z,GitHub,therevo.xyz,20,34.111.179.208,GCP,https://therevo.xyz
+2026-08-25T01:19:33Z,GitHub,wazir-x402.duckdns.org,20,138.201.204.97,static.97.204.201.138.clients.your-server.de.,https://wazir-x402.duckdns.org/yad
+2026-08-25T01:19:33Z,Reddit (r/SideProject),torko.eu,80,76.76.21.21,Vercel,https://torko.eu
+2026-08-25T01:19:33Z,GitHub,dongsheng123132.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://dongsheng123132.github.io/u-dsh-deepseek-harness-portable/
+2026-08-25T01:19:33Z,GitHub,personal-cv-agent-production.up.railway.app,60,69.46.46.17,Unknown,https://personal-cv-agent-production.up.railway.app/docs
+2026-08-25T01:19:33Z,GitHub,xueai.app,50,43.156.97.217,Unknown,https://xueai.app/?from=source-reading-methodology
+2026-08-25T01:19:34Z,GitHub,unsent.tools,40,69.55.60.153,Unknown,https://unsent.tools
