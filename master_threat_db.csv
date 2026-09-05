@@ -10387,3 +10387,47 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-09-04T03:13:36Z,GitHub,project-feldspar.com,20,77.42.7.126,static.126.7.42.77.clients.your-server.de.,https://project-feldspar.com/scan/
 2026-09-04T03:13:36Z,GitHub,ai-support-agent-liard.vercel.app,60,216.198.79.131,Unknown,https://ai-support-agent-liard.vercel.app
 2026-09-04T03:13:37Z,GitHub,octop.cloud,40,106.39.163.164,Unknown,https://octop.cloud
+2026-09-05T03:13:58Z,GitHub,jackxiaozhiren.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://jackxiaozhiren.github.io/data-science-agent/
+2026-09-05T03:13:58Z,GitHub,smart-travel-cn-2026.zhoushuming.chatgpt.site,25,104.18.23.186,Cloudflare,https://smart-travel-cn-2026.zhoushuming.chatgpt.site/travel
+2026-09-05T03:13:58Z,Reddit (r/SideProject),dicee.app,100,64.29.17.1,Unknown,https://dicee.app
+2026-09-05T03:13:58Z,Reddit (r/SideProject),adriselab.com,100,172.67.174.28,Unknown,https://adriselab.com/
+2026-09-05T03:13:58Z,Reddit (r/SideProject),openspender.com,85,104.21.5.231,Cloudflare,https://openspender.com/agent-to-agent
+2026-09-05T03:13:58Z,GitHub,aik8s.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://aik8s.github.io/cubesandbox-agent-adapter/
+2026-09-05T03:13:58Z,GitHub,autocatalytic-quartette9513.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://autocatalytic-quartette9513.github.io
+2026-09-05T03:13:58Z,Reddit (r/SideProject),prompt2brand.vercel.app,100,64.29.17.195,Unknown,https://prompt2brand.vercel.app
+2026-09-05T03:13:58Z,Reddit (r/SideProject),touchworkstation.com,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://touchworkstation.com/alpha
+2026-09-05T03:13:58Z,Reddit (r/SideProject),vibevalley.lol,100,172.66.3.26,Unknown,https://vibevalley.lol
+2026-09-05T03:13:58Z,GitHub,charlesenchine-arch.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://charlesenchine-arch.github.io/Light-weight-Ensemble-Agent/
+2026-09-05T03:13:58Z,GitHub,tmdry4530.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://tmdry4530.github.io/driftmate/
+2026-09-05T03:13:58Z,GitHub,swsgbl.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://swsgbl.github.io/hmharness/
+2026-09-05T03:13:58Z,GitHub,quickstart.sa2web.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://quickstart.sa2web.com/
+2026-09-05T03:13:58Z,GitHub,hephaisto.dev,35,104.21.21.146,Cloudflare,https://hephaisto.dev
+2026-09-05T03:13:58Z,GitHub,achilles.sh,25,104.21.92.121,Cloudflare,https://achilles.sh
+2026-09-05T03:13:58Z,GitHub,yxpil.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://yxpil.github.io/bit/
+2026-09-05T03:13:58Z,GitHub,pipefishlabs.io,40,172.67.182.55,Unknown,https://pipefishlabs.io
+2026-09-05T03:13:58Z,Reddit (r/SideProject),buzzradr.com,80,76.76.21.21,Vercel,https://buzzradr.com/ai
+2026-09-05T03:13:58Z,GitHub,xfinlab.com,40,216.198.79.1,Unknown,https://www.xfinlab.com
+2026-09-05T03:13:58Z,GitHub,ai.nowidevops.com,50,199.36.158.100,Unknown,https://ai.nowidevops.com/agent-go.html
+2026-09-05T03:13:58Z,Reddit (r/SideProject),headlandinsights.ca,100,172.67.197.169,Unknown,https://headlandinsights.ca/comparison-review/
+2026-09-05T03:13:58Z,GitHub,web-psi-woad-18.vercel.app,40,64.29.17.195,Unknown,https://web-psi-woad-18.vercel.app
+2026-09-05T03:13:58Z,GitHub,epicsagas.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://epicsagas.github.io/alcove/
+2026-09-05T03:13:58Z,Reddit (r/SideProject),noid3a.com,85,104.21.94.166,Cloudflare,https://noid3a.com
+2026-09-05T03:13:58Z,GitHub,doom2quake.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://doom2quake.github.io/ledgerkeep/
+2026-09-05T03:13:58Z,GitHub,vladimirrott.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://vladimirrott.github.io/maintainer-agent/
+2026-09-05T03:13:58Z,GitHub,xunino.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://xunino.github.io/aegis-agent-os/
+2026-09-05T03:13:58Z,GitHub,arrya5.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://arrya5.github.io/revenue-recovery-agent/
+2026-09-05T03:13:58Z,GitHub,skill-distiller.vercel.app,40,216.198.79.195,Unknown,https://skill-distiller.vercel.app
+2026-09-05T03:13:58Z,GitHub,sift.mise.fun,40,64.29.17.1,Unknown,https://sift.mise.fun/
+2026-09-05T03:13:58Z,GitHub,aurawebsite-eta.vercel.app,40,216.198.79.195,Unknown,https://aurawebsite-eta.vercel.app/
+2026-09-05T03:13:58Z,GitHub,safeprompt.pro,40,216.198.79.1,Unknown,https://www.safeprompt.pro
+2026-09-05T03:13:59Z,Reddit (r/SideProject),otternote.ai,110,172.67.162.79,Unknown,http://otternote.ai
+2026-09-05T03:13:59Z,GitHub,lightspeedc.com,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://lightspeedc.com/ai-chat-lite-reviewer/
+2026-09-05T03:13:59Z,GitHub,camy.ai,30,52.203.236.181,AWS,https://camy.ai
+2026-09-05T03:13:59Z,Reddit (r/SideProject),kairoagent.io,120,216.150.1.1,Unknown,https://kairoagent.io/
+2026-09-05T03:13:59Z,GitHub,trackmoney-anandsundaramoorthysa.vercel.app,40,64.29.17.195,Unknown,https://trackmoney-anandsundaramoorthysa.vercel.app
+2026-09-05T03:13:59Z,GitHub,lead-pm-landing.vercel.app,40,216.198.79.195,Unknown,https://lead-pm-landing.vercel.app
+2026-09-05T03:13:59Z,Reddit (r/SideProject),downtown.company,100,216.198.79.1,Unknown,https://www.downtown.company
+2026-09-05T03:13:59Z,Reddit (r/SideProject),pichoose.com,80,187.124.6.203,srv1872528.hstgr.cloud.,https://pichoose.com
+2026-09-05T03:13:59Z,GitHub,darkfunnels.ai,50,69.46.46.74,Unknown,https://darkfunnels.ai/agents
+2026-09-05T03:13:59Z,GitHub,agent2.is-best.net,50,185.27.134.110,Unknown,https://agent2.is-best.net
+2026-09-05T03:14:09Z,GitHub,tggai.cn,50,115.191.34.110,Unknown,https://tggai.cn/hongshan-guide/
