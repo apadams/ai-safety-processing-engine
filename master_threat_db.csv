@@ -10567,3 +10567,37 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-09-08T03:23:38Z,GitHub,124.222.197.111,40,124.222.197.111,Unknown,http://124.222.197.111
 2026-09-08T03:23:38Z,GitHub,bossaios.com,30,45.32.94.88,45.32.94.88.vultrusercontent.com.,https://bossaios.com
 2026-09-08T03:23:43Z,GitHub,trendkia.com,40,103.227.210.61,Unknown,https://trendkia.com/
+2026-09-09T03:25:20Z,GitHub,phuthuycoding.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://phuthuycoding.github.io/markcv/
+2026-09-09T03:25:20Z,GitHub,rtc-agent.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://rtc-agent.github.io/docs/
+2026-09-09T03:25:20Z,GitHub,shaguocgl.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://shaguocgl.github.io/buff-term-site/
+2026-09-09T03:25:20Z,GitHub,kogunlowo123.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://kogunlowo123.github.io/ai-support-agent/
+2026-09-09T03:25:20Z,Reddit (r/SideProject),resona-pearl.vercel.app,100,64.29.17.3,Unknown,https://resona-pearl.vercel.app
+2026-09-09T03:25:20Z,GitHub,failsafe-binance-agent.mires-falcons5v.chatgpt.site,45,104.18.22.186,Cloudflare,https://failsafe-binance-agent.mires-falcons5v.chatgpt.site
+2026-09-09T03:25:20Z,Reddit (r/SideProject),atelierworkspace.com,85,104.21.67.225,Cloudflare,https://atelierworkspace.com/
+2026-09-09T03:25:20Z,GitHub,kevinsillo.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://kevinsillo.github.io/pillbox-docs/
+2026-09-09T03:25:20Z,GitHub,lifekernl.com,25,104.21.45.199,Cloudflare,https://lifekernl.com
+2026-09-09T03:25:20Z,Reddit (r/SideProject),inbundly.com,80,185.199.108.153,cdn-185-199-108-153.github.com.,https://inbundly.com
+2026-09-09T03:25:20Z,GitHub,0xwitness.vercel.app,40,216.198.79.67,Unknown,https://0xwitness.vercel.app
+2026-09-09T03:25:20Z,GitHub,syscity.net,40,172.67.164.47,Unknown,https://syscity.net
+2026-09-09T03:25:20Z,Reddit (r/SideProject),a-i-manga.com,85,104.21.12.102,Cloudflare,https://a-i-manga.com/en/developers/connect
+2026-09-09T03:25:20Z,GitHub,tiorai.com,50,172.67.186.145,Unknown,https://tiorai.com
+2026-09-09T03:25:20Z,GitHub,vannt-dev.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://vannt-dev.github.io/openapi-postman-test-generator/
+2026-09-09T03:25:20Z,Reddit (r/SideProject),uztron.com,100,172.67.173.196,Unknown,https://uztron.com
+2026-09-09T03:25:20Z,Reddit (r/SideProject),speakbites.com,80,76.76.21.21,Vercel,https://speakbites.com/
+2026-09-09T03:25:20Z,Reddit (r/SideProject),castsix.com,100,216.150.1.1,Unknown,https://www.castsix.com/?utm_source=reddit&amp;utm_medium=community&amp;utm_campaign=sideproject_launch
+2026-09-09T03:25:20Z,GitHub,riftbound-agent.chroniclecore.com,35,104.21.68.199,Cloudflare,https://riftbound-agent.chroniclecore.com
+2026-09-09T03:25:20Z,GitHub,memra.vercel.app,40,64.29.17.131,Unknown,https://memra.vercel.app
+2026-09-09T03:25:20Z,GitHub,usebrown.online,40,216.198.79.1,Unknown,https://usebrown.online
+2026-09-09T03:25:20Z,GitHub,skiller.download,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://skiller.download
+2026-09-09T03:25:20Z,Reddit (r/SideProject),click.fyi,85,104.21.22.162,Cloudflare,https://click.fyi
+2026-09-09T03:25:20Z,GitHub,causadb.netlify.app,20,98.84.224.111,AWS,https://causadb.netlify.app/
+2026-09-09T03:25:20Z,GitHub,americanpeptide.com,40,216.198.79.1,Unknown,https://americanpeptide.com/
+2026-09-09T03:25:20Z,GitHub,bountydesk.vaibhav.quest,50,64.29.17.65,Unknown,https://bountydesk.vaibhav.quest
+2026-09-09T03:25:20Z,GitHub,ai.qykaiwu.cn,50,192.144.205.77,Unknown,https://ai.qykaiwu.cn/
+2026-09-09T03:25:20Z,GitHub,download.merkyorlynn.com,40,82.156.182.240,Unknown,https://download.merkyorlynn.com/download.html
+2026-09-09T03:25:20Z,Reddit (r/SideProject),aipass.ai,95,104.21.3.129,Cloudflare,https://aipass.ai
+2026-09-09T03:25:20Z,Reddit (r/SideProject),afrixplorer.com,80,5.78.79.33,static.33.79.78.5.clients.your-server.de.,https://afrixplorer.com
+2026-09-09T03:25:20Z,GitHub,121.199.38.43,40,121.199.38.43,Unknown,http://121.199.38.43
+2026-09-09T03:25:20Z,Reddit (r/SideProject),forge.myrlin.io,100,216.150.1.1,Unknown,https://forge.myrlin.io/
+2026-09-09T03:25:20Z,GitHub,helixwork.net,40,121.199.35.55,Unknown,https://helixwork.net
+2026-09-09T03:25:21Z,GitHub,moaono.com,40,45.207.215.233,Unknown,http://www.moaono.com/kiko-workbench/
