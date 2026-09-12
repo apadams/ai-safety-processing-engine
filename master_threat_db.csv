@@ -10657,3 +10657,54 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-09-11T03:12:38Z,Reddit (r/SideProject),landingscore.app,100,216.150.1.65,Unknown,http://landingscore.app
 2026-09-11T03:12:38Z,Reddit (r/SideProject),trysojourn.app,80,185.199.111.153,cdn-185-199-111-153.github.com.,https://trysojourn.app/
 2026-09-11T03:12:38Z,Reddit (r/SideProject),goknowing.app,100,69.46.46.103,Unknown,https://goknowing.app
+2026-09-12T03:26:10Z,GitHub,mira-credit-agent.vercel.app,50,216.198.79.195,Unknown,https://mira-credit-agent.vercel.app
+2026-09-12T03:26:10Z,GitHub,light-remote-mcp.vercel.app,40,216.198.79.195,Unknown,https://light-remote-mcp.vercel.app
+2026-09-12T03:26:10Z,Reddit (r/SideProject),careerlab.electricblue.ai,95,104.21.55.202,Cloudflare,https://careerlab.electricblue.ai/
+2026-09-12T03:26:10Z,Reddit (r/SideProject),madchatter.fun,100,198.51.233.1,Unknown,https://madchatter.fun/
+2026-09-12T03:26:10Z,Reddit (r/SideProject),vissar.ai,110,216.150.1.65,Unknown,https://www.vissar.ai/en
+2026-09-12T03:26:10Z,Reddit (r/SideProject),speedtype.ai,90,76.76.21.21,Vercel,http://speedtype.ai/
+2026-09-12T03:26:10Z,GitHub,velvetform-nunvx3rk.manus.space,25,104.19.168.112,Cloudflare,https://velvetform-nunvx3rk.manus.space/
+2026-09-12T03:26:10Z,GitHub,technicalflight.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,http://technicalflight.github.io/CCHarness/
+2026-09-12T03:26:10Z,GitHub,hanyxd.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://hanyxd.github.io/hany-skills/
+2026-09-12T03:26:10Z,GitHub,nodesign.xiaobuyu.trade,25,104.21.20.19,Cloudflare,https://nodesign.xiaobuyu.trade/welcome/
+2026-09-12T03:26:10Z,Reddit (r/SideProject),talkclara.com,100,172.67.200.191,Unknown,https://talkclara.com/
+2026-09-12T03:26:10Z,Reddit (r/SideProject),solomindlm.com,85,104.21.7.89,Cloudflare,https://www.solomindlm.com
+2026-09-12T03:26:10Z,GitHub,borisbob91.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://borisbob91.github.io/owllayer/
+2026-09-12T03:26:10Z,Reddit (r/SideProject),justsayit.taoxiong.site,100,158.179.25.78,Unknown,https://justsayit.taoxiong.site/
+2026-09-12T03:26:10Z,GitHub,jobscrapper-black.vercel.app,40,216.198.79.67,Unknown,https://jobscrapper-black.vercel.app
+2026-09-12T03:26:10Z,Reddit (r/SideProject),madebyhumans.diy,80,216.239.34.21,any-in-2215.1e100.net.,https://madebyhumans.diy/
+2026-09-12T03:26:10Z,GitHub,virtue-ecru.vercel.app,40,216.198.79.3,Unknown,https://virtue-ecru.vercel.app
+2026-09-12T03:26:10Z,Reddit (r/SideProject),coursemcp.com,80,66.241.124.114,ip-66-241-124-114.shared.customer.flyio.net.,https://coursemcp.com
+2026-09-12T03:26:10Z,GitHub,ryanabcraft.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://ryanabcraft.github.io/zeroreal
+2026-09-12T03:26:10Z,GitHub,sprakvask.no,25,104.21.74.242,Cloudflare,https://sprakvask.no
+2026-09-12T03:26:10Z,Reddit (r/SideProject),bredbox.app,100,172.67.219.69,Unknown,https://bredbox.app/for/developers?utm_source=reddit&amp;utm_campaign=api1
+2026-09-12T03:26:10Z,GitHub,deepdeck.getmegaportal.com,20,76.76.21.164,Vercel,https://deepdeck.getmegaportal.com/
+2026-09-12T03:26:10Z,GitHub,camilachirinocastell-portfolio.netlify.app,20,52.52.192.191,AWS,https://camilachirinocastell-portfolio.netlify.app
+2026-09-12T03:26:10Z,GitHub,trylocode.me,40,172.67.201.72,Unknown,https://trylocode.me
+2026-09-12T03:26:10Z,GitHub,doctor-appointment-agent.vercel.app,50,216.198.79.3,Unknown,https://doctor-appointment-agent.vercel.app
+2026-09-12T03:26:10Z,GitHub,agent-native.site,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://agent-native.site
+2026-09-12T03:26:10Z,GitHub,tool.agent-native.site,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://tool.agent-native.site
+2026-09-12T03:26:10Z,GitHub,sitewright.data-range.com,40,172.67.184.96,Unknown,https://sitewright.data-range.com
+2026-09-12T03:26:10Z,Reddit (r/SideProject),csaf.itch.io,100,172.67.69.99,Unknown,https://csaf.itch.io/refectory
+2026-09-12T03:26:10Z,GitHub,kevin-hdev.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://kevin-hdev.github.io/Beaver/
+2026-09-12T03:26:10Z,GitHub,hellob1889.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://hellob1889.github.io/Pandaone-AI-Agent/
+2026-09-12T03:26:10Z,GitHub,algomakers.com,20,76.76.21.21,Vercel,https://algomakers.com
+2026-09-12T03:26:10Z,GitHub,deskfish.sh,40,216.150.1.1,Unknown,https://deskfish.sh
+2026-09-12T03:26:10Z,GitHub,mikedev115.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://mikedev115.github.io/aetox-landing/
+2026-09-12T03:26:10Z,GitHub,pairlet.org,50,172.67.153.193,Unknown,https://pairlet.org/
+2026-09-12T03:26:10Z,GitHub,romeos.cc,20,45.76.249.237,45.76.249.237.vultrusercontent.com.,https://romeos.cc
+2026-09-12T03:26:10Z,GitHub,itsmarcels.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://itsmarcels.github.io/ZetaTron/
+2026-09-12T03:26:10Z,GitHub,chess-history-analyst.vercel.app,40,64.29.17.195,Unknown,https://chess-history-analyst.vercel.app
+2026-09-12T03:26:10Z,Reddit (r/SideProject),formantika.com,80,192.227.235.38,192-227-235-38-host.colocrossing.com.,https://formantika.com/en/?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=feedback_week&amp;utm_content=reddit_20
+2026-09-12T03:26:10Z,Reddit (r/SaaS),foundel.dev,80,109.199.101.93,mail.webcreationsuite.com.,https://foundel.dev
+2026-09-12T03:26:10Z,GitHub,ekkostudio.xyz,40,172.67.209.172,Unknown,https://ekkostudio.xyz
+2026-09-12T03:26:10Z,GitHub,mechapad.com,40,64.29.17.65,Unknown,https://mechapad.com/megapad.html
+2026-09-12T03:26:10Z,GitHub,alldsh.com,40,172.67.153.213,Unknown,https://www.alldsh.com/skills/
+2026-09-12T03:26:10Z,Reddit (r/SideProject),illusion.quest,85,104.21.84.152,Cloudflare,https://illusion.quest/
+2026-09-12T03:26:10Z,GitHub,rubygems.org,40,151.101.1.227,Unknown,https://rubygems.org/gems/gsc-cli
+2026-09-12T03:26:10Z,GitHub,compareaihardware.com,30,170.249.236.236,cp22-ga.privatesystems.net.,https://compareaihardware.com
+2026-09-12T03:26:10Z,GitHub,weicyang.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://weicyang.github.io/llm-eng-cards/
+2026-09-12T03:26:10Z,GitHub,valoresearch.org,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://valoresearch.org
+2026-09-12T03:26:10Z,GitHub,spawn08.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://spawn08.github.io/chronos-code/
+2026-09-12T03:26:10Z,Reddit (r/SideProject),stickylove.app,100,69.46.46.97,Unknown,https://stickylove.app/
+2026-09-12T03:26:10Z,GitHub,git.lechner-systems.at,40,185.14.93.173,Unknown,https://git.lechner-systems.at/fraujulian/MyAiConfiguration
