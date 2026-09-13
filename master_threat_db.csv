@@ -10708,3 +10708,40 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-09-12T03:26:10Z,GitHub,spawn08.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://spawn08.github.io/chronos-code/
 2026-09-12T03:26:10Z,Reddit (r/SideProject),stickylove.app,100,69.46.46.97,Unknown,https://stickylove.app/
 2026-09-12T03:26:10Z,GitHub,git.lechner-systems.at,40,185.14.93.173,Unknown,https://git.lechner-systems.at/fraujulian/MyAiConfiguration
+2026-09-13T03:30:31Z,GitHub,rmazrim.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://rmazrim.github.io/opencode-artes/
+2026-09-13T03:30:31Z,Reddit (r/SideProject),interrogation.freesoul.games,85,104.21.65.159,Cloudflare,https://interrogation.freesoul.games
+2026-09-13T03:30:31Z,Reddit (r/SideProject),bzdevelopments.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,https://bzdevelopments.github.io/launchpad-showcase/
+2026-09-13T03:30:31Z,GitHub,arthong1.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://arthong1.github.io/vsstudiovibecoding/
+2026-09-13T03:30:31Z,Reddit (r/SideProject),pazvanti.github.io,80,185.199.109.153,cdn-185-199-109-153.github.com.,https://pazvanti.github.io/Chronicle/
+2026-09-13T03:30:31Z,GitHub,dbeley.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://dbeley.github.io/agent-fieldnotes/
+2026-09-13T03:30:31Z,Reddit (r/SideProject),skyos.ink,80,76.76.21.21,Vercel,http://skyos.ink
+2026-09-13T03:30:31Z,GitHub,hackathon-open-ai-vibing-studio-cod.vercel.app,50,216.198.79.3,Unknown,https://hackathon-open-ai-vibing-studio-cod.vercel.app
+2026-09-13T03:30:31Z,Reddit (r/SideProject),worddream.io,100,216.198.79.1,Unknown,https://worddream.io/
+2026-09-13T03:30:31Z,Reddit (r/SideProject),unwatched.world,100,172.66.0.96,Unknown,https://unwatched.world
+2026-09-13T03:30:31Z,GitHub,aiworthusing.com,30,76.76.21.21,Vercel,https://aiworthusing.com/agent-index/galahad-hackathon
+2026-09-13T03:30:31Z,GitHub,moodstone.expo.app,25,104.18.21.213,Cloudflare,https://moodstone.expo.app
+2026-09-13T03:30:31Z,Reddit (r/SideProject),apexweb-adam.github.io,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://apexweb-adam.github.io/original-experiments-2026/experiments/focus-return/index.html
+2026-09-13T03:30:31Z,GitHub,voku.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://voku.github.io/agent_loop_demo/
+2026-09-13T03:30:31Z,GitHub,city-flix.onrender.com,20,216.24.57.15,Vercel,https://city-flix.onrender.com/
+2026-09-13T03:30:31Z,Reddit (r/SideProject),acupaa.com,100,172.66.2.113,Unknown,https://acupaa.com
+2026-09-13T03:30:31Z,GitHub,junghanacs.com,20,18.208.88.157,AWS,https://junghanacs.com/projects/entwurf/
+2026-09-13T03:30:31Z,GitHub,astra-forifor.forifor.chatgpt.site,25,104.18.22.186,Cloudflare,https://astra-forifor.forifor.chatgpt.site
+2026-09-13T03:30:31Z,GitHub,endo-ly.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://endo-ly.github.io/egopulse/
+2026-09-13T03:30:31Z,Reddit (r/SideProject),topsyde.com,100,216.150.1.1,Unknown,https://topsyde.com/scan
+2026-09-13T03:30:31Z,GitHub,bobbyprotocol.xyz,40,216.150.1.65,Unknown,https://bobbyprotocol.xyz
+2026-09-13T03:30:31Z,GitHub,clipcat.ai,50,172.67.158.130,Unknown,https://clipcat.ai
+2026-09-13T03:30:31Z,GitHub,ai-support-agent-rho.vercel.app,60,216.198.79.3,Unknown,https://ai-support-agent-rho.vercel.app
+2026-09-13T03:30:31Z,GitHub,atlante.sh,40,64.29.17.65,Unknown,https://atlante.sh
+2026-09-13T03:30:31Z,GitHub,easyquery-web.onrender.com,20,216.24.57.7,Vercel,http://easyquery-web.onrender.com
+2026-09-13T03:30:31Z,GitHub,leanpub.com,20,18.160.10.82,AWS,https://leanpub.com/teachitonce
+2026-09-13T03:30:31Z,GitHub,miao-claw.com,40,172.67.207.163,Unknown,https://miao-claw.com
+2026-09-13T03:30:31Z,Reddit (r/SideProject),shellcanvas.com,100,172.67.218.39,Unknown,https://shellcanvas.com
+2026-09-13T03:30:31Z,Reddit (r/SideProject),getomnitools.com,100,172.67.157.36,Unknown,https://getomnitools.com/
+2026-09-13T03:30:31Z,GitHub,usemeritr.vercel.app,40,64.29.17.131,Unknown,https://usemeritr.vercel.app
+2026-09-13T03:30:31Z,GitHub,blog.higcp.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://blog.higcp.com/2026/05/17/hybrid-agent-runtimes/
+2026-09-13T03:30:31Z,GitHub,heylucy.vercel.app,40,216.198.79.131,Unknown,https://heylucy.vercel.app
+2026-09-13T03:30:31Z,Reddit (r/SideProject),robomonkey.io,85,104.21.78.2,Cloudflare,https://robomonkey.io/
+2026-09-13T03:30:31Z,GitHub,letmehandle.org,20,13.248.243.5,AWS,https://letmehandle.org
+2026-09-13T03:30:31Z,GitHub,lunarmothstudios.com,20,185.230.63.186,unalocated.63.wixsite.com.,https://www.lunarmothstudios.com/
+2026-09-13T03:30:31Z,GitHub,ailover-atlas.com,50,206.237.19.232,Unknown,https://www.ailover-atlas.com/deepseekgui/
+2026-09-13T03:30:31Z,GitHub,fitmeet.cn,40,47.99.173.88,Unknown,https://fitmeet.cn/mcp
