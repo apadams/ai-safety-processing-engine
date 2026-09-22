@@ -11071,3 +11071,51 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-09-21T03:35:26Z,GitHub,aluy.dev,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://aluy.dev
 2026-09-21T03:35:26Z,Reddit (r/SideProject),lawnova.pro,100,167.71.91.198,Unknown,https://lawnova.pro/
 2026-09-21T03:35:26Z,Reddit (r/SideProject),mythio.me,100,64.29.17.65,Unknown,https://mythio.me
+2026-09-22T03:37:38Z,GitHub,oddbit.id,25,104.21.1.156,Cloudflare,https://oddbit.id/en/projects/shrtnr
+2026-09-22T03:37:38Z,Reddit (r/SideProject),aiforge.site,90,76.76.21.21,Vercel,https://aiforge.site
+2026-09-22T03:37:38Z,GitHub,synapsez.vercel.app,40,64.29.17.195,Unknown,https://synapsez.vercel.app/
+2026-09-22T03:37:38Z,GitHub,trabyos-website.vercel.app,40,64.29.17.195,Unknown,https://trabyos-website.vercel.app/
+2026-09-22T03:37:38Z,Reddit (r/SideProject),hoopme.app,85,104.21.49.135,Cloudflare,https://hoopme.app/
+2026-09-22T03:37:38Z,Reddit (r/SideProject),antrun.com,85,104.21.21.108,Cloudflare,https://antrun.com/stock-analyzer/
+2026-09-22T03:37:38Z,Reddit (r/SideProject),ilands.ai,110,172.67.220.158,Unknown,https://ilands.ai/content/360363165348794368
+2026-09-22T03:37:38Z,Reddit (r/SideProject),traveljournalist.app,100,172.67.142.164,Unknown,https://traveljournalist.app/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=reddit_20260921
+2026-09-22T03:37:38Z,Reddit (r/SideProject),debugbundle.com,80,143.204.204.78,server-143-204-204-78.ord56.r.cloudfront.net.,https://debugbundle.com
+2026-09-22T03:37:38Z,GitHub,opportunityhunter.xyz,40,172.67.204.183,Unknown,https://opportunityhunter.xyz
+2026-09-22T03:37:38Z,GitHub,fiit.ai,30,76.76.21.21,Vercel,https://fiit.ai
+2026-09-22T03:37:39Z,GitHub,heimel.xyz,40,172.67.166.164,Unknown,https://heimel.xyz
+2026-09-22T03:37:39Z,Reddit (r/SideProject),portfoliotracker.app,100,216.198.79.1,Unknown,https://portfoliotracker.app/
+2026-09-22T03:37:39Z,Reddit (r/SideProject),ctxual.com,100,64.29.17.65,Unknown,http://ctxual.com
+2026-09-22T03:37:39Z,GitHub,naka2027.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://naka2027.github.io
+2026-09-22T03:37:39Z,GitHub,onaether.dev,25,104.21.14.29,Cloudflare,https://onaether.dev
+2026-09-22T03:37:39Z,GitHub,ojo-israel-portfolio.lovable.app,20,185.41.148.2,lovable-app-wd-2-4.p.l5e.io.,https://ojo-israel-portfolio.lovable.app
+2026-09-22T03:37:39Z,GitHub,forwarding.edycu.dev,40,64.29.17.65,Unknown,https://forwarding.edycu.dev
+2026-09-22T03:37:39Z,GitHub,heinsithukyaw.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://heinsithukyaw.github.io/Git-Agent/
+2026-09-22T03:37:39Z,GitHub,factorai.build,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://factorai.build/
+2026-09-22T03:37:39Z,GitHub,maghz-account.vercel.app,40,64.29.17.131,Unknown,https://maghz-account.vercel.app
+2026-09-22T03:37:39Z,Reddit (r/SideProject),polite-invoice-chaser.vercel.app,100,64.29.17.131,Unknown,https://polite-invoice-chaser.vercel.app/
+2026-09-22T03:37:39Z,GitHub,wickrunai.com,50,172.67.177.21,Unknown,https://wickrunai.com/
+2026-09-22T03:37:39Z,Reddit (r/SideProject),useemote.com,100,216.150.1.193,Unknown,https://useemote.com
+2026-09-22T03:37:39Z,GitHub,brave-sky-0e4c47b0f-preview.eastus2.6.azurestaticapps.net,20,52.252.23.178,AWS,https://brave-sky-0e4c47b0f-preview.eastus2.6.azurestaticapps.net
+2026-09-22T03:37:39Z,GitHub,moh.sh,40,172.67.196.182,Unknown,https://moh.sh/
+2026-09-22T03:37:39Z,GitHub,deep-init-ai.vercel.app,50,64.29.17.67,Unknown,https://deep-init-ai.vercel.app
+2026-09-22T03:37:39Z,GitHub,injoffice.com,20,3.168.40.62,AWS,https://injoffice.com
+2026-09-22T03:37:39Z,GitHub,js-banana.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://js-banana.github.io/zcode-agent-study/
+2026-09-22T03:37:39Z,Reddit (r/SideProject),jumpahead.ai,90,98.84.224.111,AWS,http://jumpahead.ai
+2026-09-22T03:37:39Z,Reddit (r/SideProject),lumoapp.org,80,98.84.224.111,AWS,https://lumoapp.org/
+2026-09-22T03:37:39Z,GitHub,dennis2lee.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://dennis2lee.github.io/localcode/where-localcode-differs.html
+2026-09-22T03:37:39Z,GitHub,qiita.com,20,3.167.138.54,AWS,https://qiita.com/akiba-eda/items/b3febae692337c4e08da
+2026-09-22T03:37:39Z,Reddit (r/SideProject),lineside.ai,90,216.239.34.21,any-in-2215.1e100.net.,https://lineside.ai/heavier/
+2026-09-22T03:37:39Z,Reddit (r/SideProject),zoomi.studio,100,216.198.79.1,Unknown,https://zoomi.studio?utm_source=gemini
+2026-09-22T03:37:39Z,GitHub,floefinance.com,20,31.43.160.6,sites.framer.app.,https://www.floefinance.com/
+2026-09-22T03:37:39Z,GitHub,weathergpt-bharat.vercel.app,40,216.198.79.67,Unknown,https://weathergpt-bharat.vercel.app
+2026-09-22T03:37:39Z,GitHub,loopcut.org,40,216.198.79.1,Unknown,https://loopcut.org
+2026-09-22T03:37:39Z,GitHub,compty.ai,50,216.198.79.1,Unknown,https://www.compty.ai/
+2026-09-22T03:37:39Z,GitHub,ai-science-research.vercel.app,50,216.198.79.3,Unknown,https://ai-science-research.vercel.app
+2026-09-22T03:37:39Z,GitHub,salitronic.com,20,96.127.186.146,ams200.greengeeks.net.,https://salitronic.com/eda-agent
+2026-09-22T03:37:39Z,GitHub,deepskill.market,40,103.63.160.27,Unknown,https://www.deepskill.market?ref=github
+2026-09-22T03:37:39Z,GitHub,algocode.chat,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://algocode.chat/
+2026-09-22T03:37:39Z,GitHub,loopera.cn,40,8.133.215.20,Unknown,https://loopera.cn
+2026-09-22T03:37:39Z,GitHub,blog.chuncui.icu,40,106.14.34.44,Unknown,https://blog.chuncui.icu/deepseek-harness-book/
+2026-09-22T03:37:39Z,GitHub,102201.com,40,123.57.215.82,Unknown,https://102201.com/products/dsh-helper/en/
+2026-09-22T03:37:39Z,GitHub,puffergo.com,40,120.77.170.69,Unknown,https://puffergo.com/wp
+2026-09-22T03:37:41Z,GitHub,flint.lichuanyang.top,40,172.67.212.166,Unknown,https://flint.lichuanyang.top
