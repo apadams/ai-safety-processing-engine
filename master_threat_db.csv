@@ -11407,3 +11407,58 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-09-29T04:34:54Z,GitHub,botchain.wtf,60,69.46.46.29,Unknown,https://botchain.wtf
 2026-09-29T04:34:54Z,GitHub,digital-baseline.cn,40,8.130.44.168,Unknown,https://digital-baseline.cn/sdk/index.html
 2026-09-29T04:35:03Z,Reddit (r/SideProject),koloemulator.com,100,199.127.60.34,Unknown,https://koloemulator.com/download/
+2026-09-30T04:17:46Z,GitHub,apexfaucet.xyz,25,104.21.51.72,Cloudflare,https://apexfaucet.xyz/arc/
+2026-09-30T04:17:46Z,Reddit (r/SideProject),wirestack.site,100,216.198.79.1,Unknown,https://www.wirestack.site/
+2026-09-30T04:17:46Z,GitHub,luanyujia.pages.dev,40,172.66.47.200,Unknown,https://luanyujia.pages.dev
+2026-09-30T04:17:46Z,GitHub,onfile-analyst.vercel.app,40,216.198.79.67,Unknown,https://onfile-analyst.vercel.app
+2026-09-30T04:17:46Z,GitHub,aura-android-use.vercel.app,40,216.198.79.67,Unknown,https://aura-android-use.vercel.app
+2026-09-30T04:17:46Z,Reddit (r/SideProject),noodlesnom.github.io,80,185.199.109.153,cdn-185-199-109-153.github.com.,https://noodlesnom.github.io/lyrics-translate-for-amazon-music/
+2026-09-30T04:17:46Z,GitHub,xuboboo.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://xuboboo.github.io/zmuse/
+2026-09-30T04:17:46Z,GitHub,changluya.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://changluya.github.io/AgentForge/
+2026-09-30T04:17:46Z,GitHub,megagonlabs.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://megagonlabs.github.io/tabulaflow/
+2026-09-30T04:17:46Z,GitHub,verlintas.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://verlintas.github.io/NovaBAIC/
+2026-09-30T04:17:46Z,Reddit (r/SideProject),4cylindertechnologies.com,80,185.199.110.153,cdn-185-199-110-153.github.com.,https://4cylindertechnologies.com/products/askair.html?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=sideproject_post
+2026-09-30T04:17:46Z,GitHub,asepochs.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://asepochs.github.io/ai-digital-teacher/
+2026-09-30T04:17:46Z,GitHub,gihyo.jp,25,104.20.27.154,Cloudflare,https://gihyo.jp/book/2026/978-4-297-15768-5
+2026-09-30T04:17:46Z,GitHub,epochflow-web.onrender.com,20,216.24.57.18,Vercel,https://epochflow-web.onrender.com/
+2026-09-30T04:17:46Z,GitHub,elboletaire.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://elboletaire.github.io/family-tree-kit/
+2026-09-30T04:17:46Z,GitHub,kamilkubik89.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://kamilkubik89.github.io/merx/
+2026-09-30T04:17:46Z,GitHub,slate.benchgrid.dev,40,64.29.17.1,Unknown,https://slate.benchgrid.dev
+2026-09-30T04:17:46Z,GitHub,andropi.imtaqin.id,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://andropi.imtaqin.id
+2026-09-30T04:17:46Z,GitHub,ike-li.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://ike-li.github.io/claude-chat-mobile/
+2026-09-30T04:17:46Z,GitHub,timelovercc.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://timelovercc.github.io/mojito/
+2026-09-30T04:17:46Z,Reddit (r/SideProject),rumor.io,80,216.239.38.21,any-in-2615.1e100.net.,http://rumor.io/
+2026-09-30T04:17:46Z,GitHub,shokribardiya.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://shokribardiya.github.io/Oblivions0.github.io/
+2026-09-30T04:17:46Z,GitHub,sidra-ai.com,35,104.21.18.149,Cloudflare,https://sidra-ai.com/sidra-os
+2026-09-30T04:17:46Z,Reddit (r/SideProject),cyberize.me,100,92.5.121.188,Unknown,https://cyberize.me/
+2026-09-30T04:17:46Z,GitHub,tapak.bagusin.site,25,104.21.96.93,Cloudflare,https://tapak.bagusin.site
+2026-09-30T04:17:46Z,GitHub,interview-copilot-49i7.onrender.com,20,216.24.57.18,Vercel,https://interview-copilot-49i7.onrender.com
+2026-09-30T04:17:46Z,GitHub,impacts-ai.com,30,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://impacts-ai.com
+2026-09-30T04:17:46Z,GitHub,scriptkittyos.com,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://scriptkittyos.com/trinity/
+2026-09-30T04:17:46Z,GitHub,desicterminal.com,40,172.67.194.211,Unknown,https://desicterminal.com/
+2026-09-30T04:17:46Z,GitHub,tannlege-assistent.vercel.app,40,64.29.17.195,Unknown,https://tannlege-assistent.vercel.app
+2026-09-30T04:17:46Z,GitHub,mindful-ai-omega.vercel.app,50,64.29.17.195,Unknown,https://mindful-ai-omega.vercel.app
+2026-09-30T04:17:46Z,GitHub,agent.weapp.dev,35,104.21.87.250,Cloudflare,https://agent.weapp.dev
+2026-09-30T04:17:46Z,GitHub,orpheus-agents.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://orpheus-agents.github.io
+2026-09-30T04:17:46Z,GitHub,restate.dev,40,216.150.1.1,Unknown,https://restate.dev
+2026-09-30T04:17:46Z,GitHub,getvibeops.in,40,172.67.146.84,Unknown,https://getvibeops.in
+2026-09-30T04:17:46Z,Reddit (r/SideProject),layai.pro,90,57.131.155.154,vps-5f1844c5.vps.ovh.net.,https://layai.pro/connect?utm_source=reddit&amp;utm_medium=community&amp;utm_campaign=sideproject_feedback
+2026-09-30T04:17:46Z,GitHub,selfishprimate.com,20,18.208.88.157,AWS,https://selfishprimate.com/works/seekter
+2026-09-30T04:17:46Z,GitHub,ai-agent-builder-platform-sage.vercel.app,60,216.198.79.195,Unknown,https://ai-agent-builder-platform-sage.vercel.app
+2026-09-30T04:17:46Z,GitHub,samverse8.gumroad.com,25,104.17.176.98,Cloudflare,https://samverse8.gumroad.com/l/site-audit-full-report
+2026-09-30T04:17:46Z,GitHub,am5188.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://am5188.github.io/harness-guide/
+2026-09-30T04:17:46Z,GitHub,aftergap.xyz,40,216.198.79.1,Unknown,https://www.aftergap.xyz/
+2026-09-30T04:17:46Z,GitHub,frontend-seven-sigma-lfe79qiyy4.vercel.app,40,64.29.17.67,Unknown,https://frontend-seven-sigma-lfe79qiyy4.vercel.app/
+2026-09-30T04:17:46Z,GitHub,ai-recruitment-auditor.vercel.app,50,64.29.17.67,Unknown,https://ai-recruitment-auditor.vercel.app/
+2026-09-30T04:17:46Z,GitHub,semconv-sentinel.vercel.app,40,64.29.17.3,Unknown,https://semconv-sentinel.vercel.app
+2026-09-30T04:17:46Z,Reddit (r/SideProject),neverendingpainting.art,90,152.53.50.64,v2202608406510508148.quicksrv.de.,https://neverendingpainting.art/
+2026-09-30T04:17:46Z,GitHub,specul.com,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://specul.com
+2026-09-30T04:17:46Z,Reddit (r/SideProject),goodcatch.dev,100,103.133.1.1,Unknown,https://goodcatch.dev/try
+2026-09-30T04:17:46Z,Reddit (r/SideProject),bettermacwidgets.de,80,76.76.21.21,Vercel,https://bettermacwidgets.de/
+2026-09-30T04:17:46Z,GitHub,unified-portfolio-nine.vercel.app,40,216.198.79.3,Unknown,https://unified-portfolio-nine.vercel.app
+2026-09-30T04:17:46Z,GitHub,viralis-ai-automation-tool.vercel.app,50,216.198.79.3,Unknown,https://viralis-ai-automation-tool.vercel.app
+2026-09-30T04:17:46Z,GitHub,clearcotelabs.com,40,216.150.16.1,Unknown,https://clearcotelabs.com
+2026-09-30T04:17:46Z,GitHub,haze-agent-suite.vercel.app,50,216.198.79.131,Unknown,https://haze-agent-suite.vercel.app/
+2026-09-30T04:17:46Z,GitHub,physics.dongsiwei.com,40,38.76.190.3,Unknown,https://physics.dongsiwei.com
+2026-09-30T04:17:46Z,GitHub,pi-reach.yefengr.cn,40,47.109.79.224,Unknown,https://pi-reach.yefengr.cn/app
+2026-09-30T04:17:56Z,GitHub,gorgeous-kilometer-192.notion.site,40,208.103.161.33,Unknown,https://gorgeous-kilometer-192.notion.site/AI-Personal-Shopper-Lead-Capture-System-39e8dcd3964c8021b658d46fc6cd142a?pvs=74
