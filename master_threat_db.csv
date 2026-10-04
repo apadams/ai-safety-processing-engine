@@ -11604,3 +11604,58 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-03T04:04:43Z,GitHub,95.216.126.169.sslip.io,20,95.216.126.169,static.169.126.216.95.clients.your-server.de.,https://95.216.126.169.sslip.io
 2026-10-03T04:04:43Z,GitHub,xuxueli.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,http://www.xuxueli.com/xxl-ai/
 2026-10-03T04:04:43Z,GitHub,veraldar.org,20,179.237.67.146,ov-9d57df.infomaniak.ch.,https://veraldar.org
+2026-10-04T04:38:43Z,Reddit (r/SideProject),crawlerzoo.com,85,104.21.19.142,Cloudflare,https://crawlerzoo.com
+2026-10-04T04:38:43Z,Reddit (r/SideProject),csv-update-review.noble-chime-2920.chatgpt.site,85,104.18.22.186,Cloudflare,https://csv-update-review.noble-chime-2920.chatgpt.site
+2026-10-04T04:38:43Z,Reddit (r/SideProject),luntrack.com,80,216.24.57.18,Vercel,http://luntrack.com
+2026-10-04T04:38:43Z,GitHub,oara.ai,35,104.21.7.236,Cloudflare,https://oara.ai/prometheus
+2026-10-04T04:38:43Z,Reddit (r/SideProject),majid-ctrl.github.io,80,185.199.108.153,cdn-185-199-108-153.github.com.,https://majid-ctrl.github.io/gym/
+2026-10-04T04:38:43Z,Reddit (r/SideProject),pythonidaer.github.io,80,185.199.111.153,cdn-185-199-111-153.github.com.,https://pythonidaer.github.io/design-lab/
+2026-10-04T04:38:43Z,Reddit (r/SideProject),bkraad47.github.io,80,185.199.111.153,cdn-185-199-111-153.github.com.,https://bkraad47.github.io/ramen/
+2026-10-04T04:38:43Z,Reddit (r/SideProject),cosmintrica.github.io,80,185.199.111.153,cdn-185-199-111-153.github.com.,https://cosmintrica.github.io/culinary-assets/
+2026-10-04T04:38:43Z,Reddit (r/SideProject),tidbittrivia.com,85,104.21.59.177,Cloudflare,http://tidbittrivia.com
+2026-10-04T04:38:43Z,GitHub,movieclaw.io,25,104.21.34.242,Cloudflare,https://movieclaw.io
+2026-10-04T04:38:43Z,GitHub,nl2sh.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://nl2sh.github.io/nl2sh
+2026-10-04T04:38:43Z,Reddit (r/SideProject),meetmarv.org,100,64.29.17.65,Unknown,https://www.meetmarv.org
+2026-10-04T04:38:43Z,GitHub,velo-canvas-copilot.vercel.app,40,216.198.79.3,Unknown,https://velo-canvas-copilot.vercel.app
+2026-10-04T04:38:43Z,GitHub,windler.plutokeating.beer,25,104.21.40.8,Cloudflare,https://windler.plutokeating.beer
+2026-10-04T04:38:43Z,Reddit (r/SideProject),appmaker.io,100,172.67.220.237,Unknown,http://appmaker.io
+2026-10-04T04:38:43Z,GitHub,chloejs.org,20,76.76.21.21,Vercel,https://chloejs.org
+2026-10-04T04:38:43Z,Reddit (r/SideProject),universodrago.com,100,172.67.174.83,Unknown,http://universodrago.com
+2026-10-04T04:38:43Z,GitHub,x-3306.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://x-3306.github.io
+2026-10-04T04:38:43Z,Reddit (r/SideProject),name-pop.app,100,216.150.16.193,Unknown,https://name-pop.app/
+2026-10-04T04:38:43Z,Reddit (r/SideProject),awakendhearth.com,100,172.66.3.26,Unknown,https://awakendhearth.com
+2026-10-04T04:38:43Z,GitHub,memory-lane-filou1.vercel.app,40,64.29.17.195,Unknown,https://memory-lane-filou1.vercel.app
+2026-10-04T04:38:43Z,GitHub,actn.bluestarinstitute.club,40,216.198.79.65,Unknown,https://actn.bluestarinstitute.club
+2026-10-04T04:38:43Z,Reddit (r/SideProject),waitlist.buildrshq.dev,90,216.24.57.18,Vercel,https://waitlist.buildrshq.dev/
+2026-10-04T04:38:43Z,GitHub,antares.enowx.ai,50,172.67.128.97,Unknown,https://antares.enowx.ai
+2026-10-04T04:38:43Z,GitHub,docs.jeikcode.top,25,104.21.95.123,Cloudflare,https://docs.jeikcode.top
+2026-10-04T04:38:43Z,GitHub,chat.epb.wiki,25,104.21.85.29,Cloudflare,https://chat.epb.wiki
+2026-10-04T04:38:43Z,GitHub,glance-evm-console.vercel.app,40,216.198.79.131,Unknown,https://glance-evm-console.vercel.app
+2026-10-04T04:38:43Z,GitHub,yukiofficial.netlify.app,20,52.52.192.191,AWS,https://yukiofficial.netlify.app/
+2026-10-04T04:38:43Z,GitHub,ogcode.in,25,104.21.52.233,Cloudflare,https://ogcode.in
+2026-10-04T04:38:43Z,GitHub,darkarty07.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://darkarty07.github.io/Aether-Agents/
+2026-10-04T04:38:43Z,GitHub,agent.specul.com,50,172.67.211.45,Unknown,https://agent.specul.com
+2026-10-04T04:38:43Z,GitHub,crowtit517.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://crowtit517.github.io/portfolio/
+2026-10-04T04:38:43Z,GitHub,medha.manojavamlabs.com,40,172.67.186.62,Unknown,https://medha.manojavamlabs.com
+2026-10-04T04:38:43Z,GitHub,gachichio.org,40,172.67.174.101,Unknown,https://gachichio.org/rafiki
+2026-10-04T04:38:43Z,GitHub,g8e.ai,50,172.67.219.163,Unknown,http://g8e.ai
+2026-10-04T04:38:43Z,GitHub,apple.moshe-barami111.workers.dev,40,172.67.197.41,Unknown,https://apple.moshe-barami111.workers.dev/
+2026-10-04T04:38:43Z,GitHub,chenf888.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://chenf888.github.io/TMT-game-generator/
+2026-10-04T04:38:43Z,GitHub,attrition-otel.vercel.app,40,216.198.79.131,Unknown,https://attrition-otel.vercel.app
+2026-10-04T04:38:43Z,GitHub,lucasdt456.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://lucasdt456.github.io/My-Study-Diary/
+2026-10-04T04:38:43Z,GitHub,prince-nebhwani.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://prince-nebhwani.github.io/WhatsApp-Auto-Responder/
+2026-10-04T04:38:43Z,GitHub,elpino.chat,25,104.21.30.116,Cloudflare,https://elpino.chat
+2026-10-04T04:38:43Z,GitHub,genesis-plan.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://genesis-plan.github.io/lingshu-solver/
+2026-10-04T04:38:43Z,GitHub,ai-smash.vercel.app,50,64.29.17.3,Unknown,https://ai-smash.vercel.app
+2026-10-04T04:38:43Z,GitHub,magic-design.art,40,172.66.41.25,Unknown,https://magic-design.art/connect
+2026-10-04T04:38:43Z,GitHub,teamski.in,40,148.135.210.114,Unknown,https://teamski.in
+2026-10-04T04:38:43Z,GitHub,regai.tw,50,216.150.1.1,Unknown,https://regai.tw/mcp
+2026-10-04T04:38:43Z,GitHub,linkdigest.dev,20,18.245.124.4,AWS,https://linkdigest.dev/zh
+2026-10-04T04:38:43Z,GitHub,computeruse.site,20,8.231.155.139,GCP,https://computeruse.site/
+2026-10-04T04:38:43Z,Reddit (r/SideProject),jylus.ai,90,51.161.218.124,ns5040715.ip-51-161-218.net.,https://jylus.ai/try
+2026-10-04T04:38:43Z,Reddit (r/SideProject),tasda.com,80,95.179.166.117,95.179.166.117.vultrusercontent.com.,https://tasda.com/en/?utm_source=reddit_sideproject&amp;utm_medium=community&amp;utm_campaign=freelancer_feedback_202610
+2026-10-04T04:38:43Z,GitHub,claw-ai.co,30,92.205.176.113,113.176.205.92.host.secureserver.net.,https://claw-ai.co
+2026-10-04T04:38:43Z,GitHub,ashareapi.com,40,43.108.22.107,Unknown,https://ashareapi.com
+2026-10-04T04:38:43Z,GitHub,julienweb.fr,20,146.59.209.152,cluster031.hosting.ovh.net.,https://julienweb.fr/cours-formations/pc-optim-diagnostic-windows-ia-claude-code/10803/
+2026-10-04T04:38:43Z,GitHub,virender.in,40,157.15.203.214,Unknown,https://virender.in
+2026-10-04T04:38:44Z,GitHub,web-production-cbebe.up.railway.app,50,69.46.46.58,Unknown,https://web-production-cbebe.up.railway.app
