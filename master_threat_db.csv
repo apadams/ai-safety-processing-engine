@@ -11703,3 +11703,48 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-05T04:23:13Z,GitHub,factored-hackathon-2026-robinson-miranda-production.up.railway.app,50,69.46.46.68,Unknown,https://factored-hackathon-2026-robinson-miranda-production.up.railway.app
 2026-10-05T04:23:13Z,Reddit (r/SideProject),middle-production.up.railway.app,110,69.46.46.79,Unknown,https://middle-production.up.railway.app
 2026-10-05T04:23:13Z,Reddit (r/SideProject),aethergate.site,100,69.46.46.17,Unknown,http://aethergate.site
+2026-10-06T05:11:10Z,GitHub,cozylabs.ai,35,104.21.33.162,Cloudflare,https://cozylabs.ai
+2026-10-06T05:11:10Z,GitHub,iamno1special.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://iamno1special.github.io/mvgeos-marketplace/
+2026-10-06T05:11:10Z,GitHub,deepseekbot.botharness.ai,45,104.21.11.36,Cloudflare,https://deepseekbot.botharness.ai
+2026-10-06T05:11:10Z,Reddit (r/SideProject),palantirmafia.net,85,104.21.18.70,Cloudflare,https://palantirmafia.net
+2026-10-06T05:11:10Z,GitHub,kayc26.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://kayc26.github.io/personal-ai-system/
+2026-10-06T05:11:10Z,GitHub,aralem.dev,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://aralem.dev/arslan/
+2026-10-06T05:11:10Z,Reddit (r/SideProject),udon.sh,85,104.21.95.172,Cloudflare,http://udon.sh
+2026-10-06T05:11:10Z,Reddit (r/SideProject),skillfully.sh,100,216.150.1.1,Unknown,https://www.skillfully.sh
+2026-10-06T05:11:10Z,GitHub,galiprandi.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://galiprandi.github.io/assistant/
+2026-10-06T05:11:10Z,GitHub,golder-cli.pages.dev,40,172.66.47.104,Unknown,https://golder-cli.pages.dev
+2026-10-06T05:11:10Z,Reddit (r/SideProject),lakebench.in,100,64.29.17.1,Unknown,http://lakebench.in
+2026-10-06T05:11:10Z,GitHub,reikacode.com,40,172.67.143.214,Unknown,https://reikacode.com
+2026-10-06T05:11:10Z,Reddit (r/SideProject),minerva.ink,100,162.159.141.232,Unknown,https://minerva.ink/marketing/minerva-demo-2026-10.mp4
+2026-10-06T05:11:10Z,GitHub,archcanvas.uk,25,104.21.18.225,Cloudflare,https://archcanvas.uk
+2026-10-06T05:11:10Z,GitHub,aki.beresiarte.xyz,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://aki.beresiarte.xyz
+2026-10-06T05:11:10Z,GitHub,plinth-savings.vercel.app,40,64.29.17.3,Unknown,https://plinth-savings.vercel.app
+2026-10-06T05:11:10Z,GitHub,smadduri9.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://smadduri9.github.io/codeagent/
+2026-10-06T05:11:10Z,GitHub,xamltech.com,25,104.21.66.34,Cloudflare,https://xamltech.com
+2026-10-06T05:11:10Z,Reddit (r/SideProject),viralhunter.in,100,216.198.79.1,Unknown,https://viralhunter.in
+2026-10-06T05:11:10Z,GitHub,rehbarai.com,35,104.21.5.222,Cloudflare,https://rehbarai.com
+2026-10-06T05:11:10Z,GitHub,chatcomputer.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://chatcomputer.github.io
+2026-10-06T05:11:10Z,GitHub,salvadorcardona.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://salvadorcardona.github.io/ponos/
+2026-10-06T05:11:10Z,GitHub,codecloud-dev.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://codecloud-dev.github.io/agent-core/
+2026-10-06T05:11:10Z,GitHub,bhoudebert.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://bhoudebert.github.io/agent-motoride/
+2026-10-06T05:11:10Z,GitHub,may-fly.dev,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://may-fly.dev
+2026-10-06T05:11:10Z,GitHub,davidix07tv.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://davidix07tv.github.io/Nest-Music/
+2026-10-06T05:11:10Z,GitHub,wenbu.app,25,104.21.17.18,Cloudflare,https://wenbu.app
+2026-10-06T05:11:10Z,GitHub,unattendant.dev,40,172.67.138.100,Unknown,https://unattendant.dev
+2026-10-06T05:11:10Z,GitHub,aryan-202.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://aryan-202.github.io/clara-core/
+2026-10-06T05:11:10Z,GitHub,tianshuharness.com,40,172.67.184.178,Unknown,https://tianshuharness.com/
+2026-10-06T05:11:10Z,GitHub,tsp.shy313.com,40,64.90.12.221,Unknown,https://tsp.shy313.com
+2026-10-06T05:11:10Z,Reddit (r/SideProject),studio.ingravic.com,100,172.67.220.201,Unknown,https://studio.ingravic.com/
+2026-10-06T05:11:10Z,Reddit (r/SideProject),afieldai.io,110,69.46.46.127,Unknown,https://afieldai.io/
+2026-10-06T05:11:10Z,GitHub,falkordb.jishanahmed.in,40,64.29.17.65,Unknown,https://falkordb.jishanahmed.in
+2026-10-06T05:11:10Z,GitHub,switchcasestudio.com,20,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://switchcasestudio.com
+2026-10-06T05:11:10Z,GitHub,bridgistic.app,40,172.67.162.148,Unknown,https://bridgistic.app
+2026-10-06T05:11:10Z,GitHub,pulse.errata.page,40,66.33.60.35,Unknown,https://pulse.errata.page
+2026-10-06T05:11:10Z,GitHub,kitedev.vercel.app,40,216.198.79.195,Unknown,https://kitedev.vercel.app
+2026-10-06T05:11:10Z,GitHub,tejaskaranagrawal.com,40,172.67.219.207,Unknown,https://tejaskaranagrawal.com
+2026-10-06T05:11:10Z,GitHub,faro.gabriel.com.gt,20,13.226.209.31,AWS,https://faro.gabriel.com.gt
+2026-10-06T05:11:10Z,Reddit (r/SideProject),studykernel.com,80,2.98.75.78,host-2-98-75-78.as13285.net.,https://studykernel.com/
+2026-10-06T05:11:10Z,GitHub,lia.theodavid.com,20,89.167.125.200,static.200.125.167.89.clients.your-server.de.,https://lia.theodavid.com
+2026-10-06T05:11:10Z,GitHub,mu-overseas-valypucj.edgeone.dev,40,43.174.246.29,Unknown,https://mu-overseas-valypucj.edgeone.dev
+2026-10-06T05:11:11Z,Reddit (r/SideProject),gympulse.uk,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://gympulse.uk/
+2026-10-06T05:11:11Z,GitHub,webspine.org,20,142.132.168.113,sirius.harry-neufeld.de.,https://www.webspine.org
