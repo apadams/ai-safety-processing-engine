@@ -11801,3 +11801,47 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-07T04:38:52Z,GitHub,alpha.zaa.my.id,20,103.171.85.43,ip103-171-85-43.cloudhost.web.id.,https://alpha.zaa.my.id
 2026-10-07T04:38:52Z,GitHub,denpilot.de,20,46.225.107.248,static.248.107.225.46.clients.your-server.de.,https://denpilot.de
 2026-10-07T04:38:53Z,GitHub,smartlect.cn,40,39.96.202.14,Unknown,https://smartlect.cn
+2026-10-08T04:50:02Z,Reddit (r/SideProject),atlas-merchant-nine.vercel.app,100,64.29.17.67,Unknown,https://atlas-merchant-nine.vercel.app
+2026-10-08T04:50:02Z,GitHub,juice-butterfly.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://juice-butterfly.github.io/rainproof/
+2026-10-08T04:50:02Z,Reddit (r/SideProject),copper.jassydev.com,80,13.226.251.30,AWS,http://copper.jassydev.com
+2026-10-08T04:50:02Z,Reddit (r/SideProject),motionflow.io,80,216.24.57.18,Vercel,http://motionflow.io
+2026-10-08T04:50:02Z,GitHub,sankhyaailabs.com,50,64.29.17.65,Unknown,https://www.sankhyaailabs.com
+2026-10-08T04:50:02Z,GitHub,ccharlie-xiu.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://ccharlie-xiu.github.io/aoci-wuch/
+2026-10-08T04:50:02Z,GitHub,angelgabrieljacintohuayllasco.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://angelgabrieljacintohuayllasco.github.io/G-Mini-Agent/
+2026-10-08T04:50:02Z,GitHub,saewookkangboy.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://saewookkangboy.github.io/commandaiagent/
+2026-10-08T04:50:02Z,GitHub,antiagree.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://antiagree.github.io/
+2026-10-08T04:50:02Z,Reddit (r/SideProject),kooler.me,100,216.150.16.193,Unknown,https://kooler.me/?ref=reddit-sideproject
+2026-10-08T04:50:02Z,Reddit (r/SideProject),pixel-perfect-canvas-9240.lovable.app,80,185.41.148.1,lovable-app-wd-1-4.p.l5e.io.,https://pixel-perfect-canvas-9240.lovable.app/
+2026-10-08T04:50:02Z,Reddit (r/SideProject),museumofmodels.com,100,216.150.16.1,Unknown,http://museumofmodels.com
+2026-10-08T04:50:02Z,Reddit (r/SideProject),cloak.aside0.com,100,172.67.143.210,Unknown,https://cloak.aside0.com/
+2026-10-08T04:50:02Z,Reddit (r/SideProject),instamp4.com,100,172.67.145.69,Unknown,https://instamp4.com
+2026-10-08T04:50:02Z,Reddit (r/SideProject),damnpdfs.com,100,216.198.79.1,Unknown,https://damnpdfs.com/
+2026-10-08T04:50:02Z,GitHub,reelfold.com,40,172.67.219.10,Unknown,https://reelfold.com
+2026-10-08T04:50:02Z,GitHub,looot.ai,30,76.76.21.21,Vercel,https://looot.ai
+2026-10-08T04:50:02Z,GitHub,powersim-ai.vercel.app,50,216.198.79.195,Unknown,https://powersim-ai.vercel.app
+2026-10-08T04:50:02Z,GitHub,carl90s.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://carl90s.github.io/agent-teardown/
+2026-10-08T04:50:02Z,GitHub,rexhuang.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://rexhuang.github.io/novus/
+2026-10-08T04:50:02Z,GitHub,midhunkumar05.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://midhunkumar05.github.io/eunomia/
+2026-10-08T04:50:02Z,GitHub,12345666ddwa.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://12345666ddwa.github.io/mirror/
+2026-10-08T04:50:02Z,GitHub,jarvismambour-hub.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://jarvismambour-hub.github.io/usdc-base-outil/
+2026-10-08T04:50:02Z,GitHub,blog.leopardcode.ai,50,172.67.137.121,Unknown,https://blog.leopardcode.ai/en/esp32-box-as-the-body-of-an-always-on-agent/
+2026-10-08T04:50:02Z,GitHub,aiagent.wawutriambodo.my.id,60,216.198.79.1,Unknown,https://aiagent.wawutriambodo.my.id/
+2026-10-08T04:50:02Z,GitHub,claimfarm-dashboard.vercel.app,50,216.198.79.3,Unknown,https://claimfarm-dashboard.vercel.app
+2026-10-08T04:50:02Z,GitHub,twitterapi.io,20,76.76.21.123,Vercel,https://twitterapi.io/?ref=github
+2026-10-08T04:50:02Z,GitHub,aipc.sysik.mom,35,104.21.43.186,Cloudflare,https://aipc.sysik.mom
+2026-10-08T04:50:02Z,GitHub,seekmore.ai,50,172.67.218.11,Unknown,https://seekmore.ai
+2026-10-08T04:50:02Z,GitHub,querypilot-smoky.vercel.app,40,64.29.17.131,Unknown,https://querypilot-smoky.vercel.app
+2026-10-08T04:50:02Z,GitHub,avilacarlosdev.com,40,64.29.17.65,Unknown,https://avilacarlosdev.com/#proyectos
+2026-10-08T04:50:02Z,GitHub,dimagious.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://dimagious.github.io/dashsidian/
+2026-10-08T04:50:02Z,GitHub,routed-tours.vercel.app,40,216.198.79.67,Unknown,https://routed-tours.vercel.app
+2026-10-08T04:50:02Z,GitHub,huskai.dev,50,64.29.17.1,Unknown,https://huskai.dev
+2026-10-08T04:50:02Z,GitHub,mail-manager-lime.vercel.app,50,216.198.79.3,Unknown,https://mail-manager-lime.vercel.app
+2026-10-08T04:50:02Z,GitHub,shelfwise.gotclass.xyz,40,172.67.223.185,Unknown,https://shelfwise.gotclass.xyz
+2026-10-08T04:50:02Z,GitHub,selenequant.vercel.app,40,216.198.79.195,Unknown,https://selenequant.vercel.app
+2026-10-08T04:50:02Z,GitHub,ljj24681379-png.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ljj24681379-png.github.io/multi-agent-research/
+2026-10-08T04:50:02Z,GitHub,homenshum.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://homenshum.github.io/betterprhandoff/
+2026-10-08T04:50:02Z,GitHub,mogplex.com,40,216.150.1.1,Unknown,https://mogplex.com
+2026-10-08T04:50:02Z,GitHub,recepia-app.vercel.app,40,216.198.79.131,Unknown,https://recepia-app.vercel.app
+2026-10-08T04:50:02Z,GitHub,zax.com.tw,40,216.198.79.1,Unknown,https://www.zax.com.tw/en/open-source
+2026-10-08T04:50:02Z,Reddit (r/SideProject),foundplay.io,100,69.46.46.110,Unknown,https://foundplay.io
+2026-10-08T04:50:02Z,GitHub,blog.leeguoo.com,40,163.181.214.1,Unknown,https://blog.leeguoo.com/en/posts/iphone-use/
