@@ -11891,3 +11891,45 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-09T04:52:36Z,GitHub,ai.aeroscan.co.za,30,162.35.121.150,vps3602581.trouble-free.net.,https://ai.aeroscan.co.za/download
 2026-10-09T04:52:36Z,GitHub,harness.alltman.com,40,39.96.172.95,Unknown,https://harness.alltman.com
 2026-10-09T04:52:41Z,Reddit (r/SideProject),talavine.com,100,70.39.90.81,Unknown,https://talavine.com/swarmspan
+2026-10-10T04:37:35Z,GitHub,cadence-social-agent.netlify.app,30,52.52.192.191,AWS,https://cadence-social-agent.netlify.app
+2026-10-10T04:37:35Z,GitHub,tarkilhk.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://tarkilhk.github.io/Wing/
+2026-10-10T04:37:35Z,GitHub,typing233.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://typing233.github.io/super-aide/
+2026-10-10T04:37:35Z,Reddit (r/SideProject),hangtime-six.vercel.app,100,64.29.17.131,Unknown,https://hangtime-six.vercel.app/
+2026-10-10T04:37:35Z,Reddit (r/SideProject),sidesignal.vercel.app,100,64.29.17.67,Unknown,http://sidesignal.vercel.app
+2026-10-10T04:37:35Z,GitHub,gchq.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://gchq.github.io/CyberChef/
+2026-10-10T04:37:35Z,GitHub,usemu.dev,40,172.67.153.229,Unknown,https://usemu.dev
+2026-10-10T04:37:35Z,GitHub,carrythroughsystems.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://carrythroughsystems.github.io/omp-session-gateway/
+2026-10-10T04:37:35Z,Reddit (r/SideProject),simplenewss.com,100,64.29.17.1,Unknown,https://www.simplenewss.com
+2026-10-10T04:37:35Z,Reddit (r/SideProject),genjutsuai.net,95,104.21.75.109,Cloudflare,https://genjutsuai.net/
+2026-10-10T04:37:35Z,Reddit (r/SideProject),rolt.ai,90,54.70.160.1,AWS,http://rolt.ai
+2026-10-10T04:37:35Z,GitHub,zych2002918.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://zych2002918.github.io/tcms-agent/
+2026-10-10T04:37:35Z,Reddit (r/SideProject),whosthehuman.com,85,104.21.15.165,Cloudflare,https://whosthehuman.com/
+2026-10-10T04:37:35Z,GitHub,sitiosweb1-luma-beauty.web.app,40,199.36.158.100,Unknown,https://sitiosweb1-luma-beauty.web.app
+2026-10-10T04:37:35Z,GitHub,gleam.wangjn.top,20,185.199.110.153,cdn-185-199-110-153.github.com.,http://gleam.wangjn.top/
+2026-10-10T04:37:35Z,GitHub,qoderai.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://qoderai.github.io/Qoderian/docs/introduction
+2026-10-10T04:37:35Z,GitHub,iamnajib71.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://iamnajib71.github.io/service-desk-agent/
+2026-10-10T04:37:35Z,GitHub,agentkeep-g2twscat.manus.space,35,104.19.168.112,Cloudflare,https://agentkeep-g2twscat.manus.space/ https://www.npmjs.com/package/agentkeeper
+2026-10-10T04:37:35Z,GitHub,stunspot.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://stunspot.github.io/omniview-looking-glass/
+2026-10-10T04:37:35Z,GitHub,vesta-agent.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://vesta-agent.github.io
+2026-10-10T04:37:35Z,GitHub,w0h1v.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://w0h1v.github.io/mcp-proton/
+2026-10-10T04:37:35Z,GitHub,lihuu.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://lihuu.github.io/oneagent/
+2026-10-10T04:37:35Z,GitHub,support-triage-app-one.vercel.app,40,64.29.17.195,Unknown,https://support-triage-app-one.vercel.app
+2026-10-10T04:37:35Z,GitHub,nativepi.nonlooped.xyz,40,172.67.136.21,Unknown,https://nativepi.nonlooped.xyz/
+2026-10-10T04:37:35Z,GitHub,shopping-agent-alpha.vercel.app,50,216.198.79.195,Unknown,https://shopping-agent-alpha.vercel.app
+2026-10-10T04:37:35Z,GitHub,hamzabellouch.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://hamzabellouch.github.io/
+2026-10-10T04:37:35Z,GitHub,demo-talay.nomadprompters.es,25,104.21.60.198,Cloudflare,https://demo-talay.nomadprompters.es
+2026-10-10T04:37:35Z,GitHub,aurolabs.ai,50,152.42.128.177,Unknown,https://aurolabs.ai/maximus
+2026-10-10T04:37:35Z,GitHub,deepseekbot.app,50,172.67.199.186,Unknown,https://deepseekbot.app
+2026-10-10T04:37:35Z,Reddit (r/SideProject),l.meta.ai,90,157.240.22.19,edge-star-shv-01-sjc3.facebook.com.,https://l.meta.ai/?u=https%3A%2F%2Fwww.myovertimetax.com%2F&amp;h=AUBHkc8xdSNbArpCkxXVtSPkZGNgS2y0pi5iWkWxhsm1-5jCaRhtQSGHrjiYfAPAimI2RxCV1i4K_wml3PaF61BBrBx-ea71quafhg8vm1Y5G7UbIJxcvA
+2026-10-10T04:37:35Z,Reddit (r/SideProject),spellbook-finance.com,80,65.8.180.105,server-65-8-180-105.sfo53.r.cloudfront.net.,https://spellbook-finance.com/agents.md
+2026-10-10T04:37:35Z,GitHub,jeyadev.dev,40,172.67.215.14,Unknown,https://jeyadev.dev/projects/frontier
+2026-10-10T04:37:35Z,Reddit (r/SideProject),imagetoimage.dev,100,216.150.16.193,Unknown,https://imagetoimage.dev/
+2026-10-10T04:37:35Z,GitHub,mcp-browser-extension.vercel.app,40,216.198.79.67,Unknown,https://mcp-browser-extension.vercel.app
+2026-10-10T04:37:35Z,GitHub,nod-kickstarter.vercel.app,40,216.198.79.67,Unknown,https://nod-kickstarter.vercel.app
+2026-10-10T04:37:35Z,Reddit (r/SideProject),droidline.dev,85,104.21.55.230,Cloudflare,https://droidline.dev/docs/install/
+2026-10-10T04:37:35Z,Reddit (r/SideProject),myretromac.app,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://myretromac.app
+2026-10-10T04:37:35Z,Reddit (r/SideProject),quietlysober.com,80,45.135.162.40,mail.gumdum.com.,https://www.quietlysober.com
+2026-10-10T04:37:35Z,GitHub,reviva.cn,25,104.21.69.27,Cloudflare,https://www.reviva.cn
+2026-10-10T04:37:35Z,GitHub,audit.adityaarsharma.com,20,95.216.156.89,static.89.156.216.95.clients.your-server.de.,https://audit.adityaarsharma.com/
+2026-10-10T04:37:35Z,GitHub,zimofy.com,40,124.223.174.61,Unknown,https://www.zimofy.com/download
+2026-10-10T04:37:35Z,GitHub,getshellby.com,40,216.150.16.129,Unknown,https://getshellby.com
