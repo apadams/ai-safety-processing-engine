@@ -11933,3 +11933,53 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-10T04:37:35Z,GitHub,audit.adityaarsharma.com,20,95.216.156.89,static.89.156.216.95.clients.your-server.de.,https://audit.adityaarsharma.com/
 2026-10-10T04:37:35Z,GitHub,zimofy.com,40,124.223.174.61,Unknown,https://www.zimofy.com/download
 2026-10-10T04:37:35Z,GitHub,getshellby.com,40,216.150.16.129,Unknown,https://getshellby.com
+2026-10-11T04:26:25Z,GitHub,justinjchen-cornell.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://justinjchen-cornell.github.io/AI-Agent-Starter-Study/
+2026-10-11T04:26:25Z,GitHub,cair.edycu.dev,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://cair.edycu.dev/
+2026-10-11T04:26:25Z,GitHub,wosledon.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://wosledon.github.io/Hetu/
+2026-10-11T04:26:25Z,GitHub,luciferlu755.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://luciferlu755.github.io
+2026-10-11T04:26:25Z,Reddit (r/SideProject),lattice.mebbo.cloud,85,104.21.10.44,Cloudflare,https://lattice.mebbo.cloud/docs
+2026-10-11T04:26:25Z,GitHub,jongtae.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://jongtae.github.io/agentos/
+2026-10-11T04:26:25Z,GitHub,ultra-guru.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ultra-guru.github.io/Android-Guru-Agent/
+2026-10-11T04:26:25Z,GitHub,proppilot-lake.vercel.app,40,216.198.79.131,Unknown,https://proppilot-lake.vercel.app
+2026-10-11T04:26:25Z,Reddit (r/SideProject),tabmerger.vercel.app,100,216.198.79.131,Unknown,https://tabmerger.vercel.app/
+2026-10-11T04:26:25Z,GitHub,mhjoy99.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://mhjoy99.github.io/camscanner-mcp-hd-scanner/
+2026-10-11T04:26:25Z,Reddit (r/SideProject),agenticmap.co,90,76.76.21.21,Vercel,https://agenticmap.co/
+2026-10-11T04:26:25Z,GitHub,miao.my,40,216.198.79.1,Unknown,https://miao.my
+2026-10-11T04:26:25Z,GitHub,hex-sand.vercel.app,40,64.29.17.131,Unknown,https://hex-sand.vercel.app
+2026-10-11T04:26:25Z,Reddit (r/SideProject),auvie.app,85,104.21.66.119,Cloudflare,https://auvie.app
+2026-10-11T04:26:25Z,GitHub,ischarlesyang.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://ischarlesyang.com/
+2026-10-11T04:26:25Z,Reddit (r/SideProject),sublimeread.com,100,172.67.149.171,Unknown,https://sublimeread.com/
+2026-10-11T04:26:25Z,Reddit (r/SideProject),fluidcut.app,100,172.67.160.108,Unknown,https://fluidcut.app
+2026-10-11T04:26:25Z,GitHub,maxont.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://maxont.github.io/existence-trace/
+2026-10-11T04:26:25Z,Reddit (r/SideProject),jobseasier.com,100,199.36.158.100,Unknown,https://jobseasier.com/
+2026-10-11T04:26:25Z,GitHub,mjesar.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://mjesar.github.io/
+2026-10-11T04:26:25Z,GitHub,timothy-agent.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://timothy-agent.github.io/docs/
+2026-10-11T04:26:25Z,GitHub,anyuer678.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://anyuer678.github.io/chatez/
+2026-10-11T04:26:25Z,GitHub,omar-khas.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://omar-khas.github.io/dev-scout/
+2026-10-11T04:26:25Z,GitHub,konnectingnots.com,40,172.67.204.211,Unknown,https://www.konnectingnots.com/projects/bellion.html
+2026-10-11T04:26:25Z,Reddit (r/SideProject),databazaar.io,80,76.76.21.21,Vercel,https://databazaar.io/d/4k
+2026-10-11T04:26:25Z,GitHub,brunogatjens.vercel.app,40,216.198.79.67,Unknown,https://brunogatjens.vercel.app/
+2026-10-11T04:26:25Z,GitHub,adityachauhan0.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://adityachauhan0.github.io/yuzu/
+2026-10-11T04:26:25Z,GitHub,dodaios.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://dodaios.github.io/Dodaios/
+2026-10-11T04:26:25Z,GitHub,rna.dev,40,172.67.217.125,Unknown,https://www.rna.dev
+2026-10-11T04:26:25Z,GitHub,konglingbukong.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://konglingbukong.github.io/gpt-image-studio/
+2026-10-11T04:26:25Z,GitHub,lpk3215.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://lpk3215.github.io/pi-starter/
+2026-10-11T04:26:25Z,GitHub,for-chance.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://for-chance.github.io/mcd-desk-mate/
+2026-10-11T04:26:25Z,GitHub,brotto.dev,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://brotto.dev
+2026-10-11T04:26:25Z,GitHub,raw.tlelabs.com,40,172.67.219.167,Unknown,https://raw.tlelabs.com
+2026-10-11T04:26:25Z,GitHub,dha-aa.vercel.app,40,216.198.79.3,Unknown,https://dha-aa.vercel.app/blog/building-ae-motion.html
+2026-10-11T04:26:25Z,GitHub,3097729287.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://3097729287.github.io/acm-algo-trainer/
+2026-10-11T04:26:25Z,GitHub,godspeedmissioncontrol.com,20,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://godspeedmissioncontrol.com
+2026-10-11T04:26:25Z,GitHub,holdout.timjosh507.workers.dev,40,172.67.129.118,Unknown,https://holdout.timjosh507.workers.dev
+2026-10-11T04:26:25Z,GitHub,rune.heyaadi.com,40,216.198.79.65,Unknown,https://rune.heyaadi.com
+2026-10-11T04:26:25Z,GitHub,pawse-delta.vercel.app,40,64.29.17.3,Unknown,https://pawse-delta.vercel.app
+2026-10-11T04:26:25Z,Reddit (r/SideProject),askkno.com,100,172.67.187.48,Unknown,https://askkno.com
+2026-10-11T04:26:25Z,GitHub,dits.illo.fyi,40,172.67.213.209,Unknown,https://dits.illo.fyi
+2026-10-11T04:26:25Z,GitHub,kadence.guru,40,64.29.17.65,Unknown,https://kadence.guru
+2026-10-11T04:26:25Z,GitHub,korrocorp.com,20,76.76.21.21,Vercel,https://korrocorp.com
+2026-10-11T04:26:25Z,GitHub,veritahire.com,20,165.232.140.26,host.phantombrewing.net.,https://veritahire.com/developers/
+2026-10-11T04:26:25Z,GitHub,eriusphone.com,20,135.181.205.45,static.45.205.181.135.clients.your-server.de.,https://eriusphone.com
+2026-10-11T04:26:25Z,GitHub,geod.laogao.xyz,40,62.234.147.130,Unknown,https://geod.laogao.xyz/agent
+2026-10-11T04:26:25Z,GitHub,osb-office.com,20,118.27.122.213,www249.onamae.ne.jp.,https://osb-office.com/
+2026-10-11T04:26:25Z,GitHub,port8080-dqwmnenkc4rf4bj.tunnel.applications.us-north1.nebius.cloud,40,204.12.174.139,Unknown,https://port8080-dqwmnenkc4rf4bj.tunnel.applications.us-north1.nebius.cloud
+2026-10-11T04:26:35Z,GitHub,agent.flyang.art,50,117.72.153.104,Unknown,https://agent.flyang.art/
