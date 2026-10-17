@@ -12231,3 +12231,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-16T03:26:25Z,GitHub,fulvioscichilone.it,20,89.46.106.54,webx1173.aruba.it.,https://www.fulvioscichilone.it/agent-quest/
 2026-10-16T03:26:25Z,GitHub,fumi.codes,40,69.46.46.55,Unknown,https://fumi.codes/
 2026-10-16T03:26:25Z,Reddit (r/SideProject),vs.inf.ethz.ch,80,129.132.114.109,mattern-oldweb.inf.ethz.ch.,https://vs.inf.ethz.ch/publ/papers/soeroesg-mobisys2016-Focus.pdf
+2026-10-17T03:18:51Z,Reddit (r/SideProject),myearmark.com,80,76.76.21.21,Vercel,https://myearmark.com/join
+2026-10-17T03:18:51Z,GitHub,nolgia.ai,30,34.117.173.61,GCP,https://nolgia.ai/plugins
+2026-10-17T03:18:51Z,GitHub,keepoak.com,25,104.21.85.127,Cloudflare,https://keepoak.com
+2026-10-17T03:18:51Z,GitHub,slangelange.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://slangelange.github.io/lighthouse/
+2026-10-17T03:18:51Z,Reddit (r/SideProject),asdftq.com,80,185.199.109.153,cdn-185-199-109-153.github.com.,https://www.asdftq.com/nobadge/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=nobadge_launch_20261016&amp;utm_content=r_sideproject
+2026-10-17T03:18:51Z,Reddit (r/SideProject),humanizer-roan-psi.vercel.app,100,64.29.17.3,Unknown,https://humanizer-roan-psi.vercel.app
+2026-10-17T03:18:51Z,GitHub,quantum-crew-iota.vercel.app,40,64.29.17.195,Unknown,https://quantum-crew-iota.vercel.app
+2026-10-17T03:18:51Z,Reddit (r/SideProject),instanttools.org,100,172.67.220.67,Unknown,https://instanttools.org
+2026-10-17T03:18:51Z,GitHub,espresso-run-agent.github.io,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://espresso-run-agent.github.io/espresso-run/
+2026-10-17T03:18:51Z,GitHub,haoyoubox.com,25,104.21.44.49,Cloudflare,https://www.haoyoubox.com/agent
+2026-10-17T03:18:51Z,GitHub,entaris.arahkarya.com,40,172.67.178.132,Unknown,https://entaris.arahkarya.com
+2026-10-17T03:18:51Z,GitHub,maitre.live,35,104.21.37.161,Cloudflare,https://maitre.live
+2026-10-17T03:18:51Z,Reddit (r/SideProject),pickmycostume.com,100,172.67.135.169,Unknown,https://pickmycostume.com
+2026-10-17T03:18:51Z,GitHub,yuncast.xyun.dev,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://yuncast.xyun.dev/
+2026-10-17T03:18:51Z,GitHub,myanmardev.web.app,40,199.36.158.100,Unknown,https://myanmardev.web.app
+2026-10-17T03:18:51Z,GitHub,bulutarkan.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://bulutarkan.github.io/mac-mcp/
+2026-10-17T03:18:51Z,GitHub,elephantclock.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://elephantclock.github.io/private-email-agent/
+2026-10-17T03:18:51Z,GitHub,hermesui.xyz,40,216.198.79.65,Unknown,https://hermesui.xyz
+2026-10-17T03:18:51Z,GitHub,polaris-smart.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://polaris-smart.github.io/mcd-agent-gourmet/
+2026-10-17T03:18:51Z,GitHub,quickchat.ai,35,104.26.6.189,Cloudflare,https://quickchat.ai
+2026-10-17T03:18:51Z,GitHub,fishinsalt.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://fishinsalt.github.io/ink/
+2026-10-17T03:18:51Z,Reddit (r/SideProject),formamigo.com,80,78.47.163.40,static.40.163.47.78.clients.your-server.de.,https://formamigo.com
+2026-10-17T03:18:51Z,GitHub,scorpio-meow.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://scorpio-meow.github.io/Threads-skill/
+2026-10-17T03:18:51Z,GitHub,xwh630.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://xwh630.github.io/ai-agent-handbook/
+2026-10-17T03:18:51Z,GitHub,yo-app-five.vercel.app,40,216.198.79.195,Unknown,https://yo-app-five.vercel.app
+2026-10-17T03:18:51Z,GitHub,jabrod.com,40,216.198.79.193,Unknown,https://jabrod.com/jbd
+2026-10-17T03:18:51Z,GitHub,getchord.xyz,40,172.67.141.186,Unknown,https://getchord.xyz
+2026-10-17T03:18:51Z,GitHub,slopcop.com,40,172.67.143.151,Unknown,https://slopcop.com
+2026-10-17T03:18:51Z,GitHub,deyaho.com,20,159.195.207.46,159-195-207-46.cprapid.com.,https://deyaho.com/en/mcp
+2026-10-17T03:18:51Z,Reddit (r/SideProject),anchordojo.com,80,107.180.112.116,116.112.180.107.host.secureserver.net.,https://www.anchordojo.com
+2026-10-17T03:18:51Z,GitHub,augur-trade.com,20,13.59.159.50,AWS,https://augur-trade.com
+2026-10-17T03:18:51Z,GitHub,work.mirrro.io,40,64.29.17.1,Unknown,https://work.mirrro.io
+2026-10-17T03:18:51Z,Reddit (r/SideProject),valuethewebsite.com,80,40.160.92.76,vps-5117c20d.vps.ovh.us.,https://valuethewebsite.com/sample-report
+2026-10-17T03:18:51Z,GitHub,tonyjagodka.com,20,98.84.224.111,AWS,https://tonyjagodka.com
+2026-10-17T03:18:51Z,GitHub,supercrzy.com,20,107.174.107.199,107-174-107-199-host.colocrossing.com.,https://supercrzy.com/bot
+2026-10-17T03:18:51Z,GitHub,rekindle.edycu.dev,40,216.198.79.65,Unknown,https://rekindle.edycu.dev
+2026-10-17T03:18:51Z,GitHub,eremin.eu,25,104.21.17.8,Cloudflare,https://eremin.eu/projects/experienced-llms
+2026-10-17T03:18:51Z,GitHub,open.workbuddy.cn,40,43.159.104.94,Unknown,https://open.workbuddy.cn/docs/expert
+2026-10-17T03:18:55Z,Reddit (r/SideProject),nuvard.ai,110,216.150.1.1,Unknown,https://nuvard.ai/go/reddit/r1
