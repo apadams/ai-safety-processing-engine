@@ -12647,3 +12647,42 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-24T03:34:49Z,GitHub,apps.roypadina.synology.me,20,84.229.120.240,IGLD-84-229-120-240.inter.net.il.,https://apps.roypadina.synology.me/apps/agentctl/
 2026-10-24T03:34:49Z,GitHub,interceptor.cn,40,43.174.247.66,Unknown,https://www.interceptor.cn/
 2026-10-24T03:34:49Z,Reddit (r/SideProject),girafoufou.com,100,69.46.46.32,Unknown,https://www.girafoufou.com/en/printable-activities/little-story-machine?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=paper_sideproject_20261024
+2026-10-25T03:30:26Z,Reddit (r/SideProject),getclype.com,85,104.21.39.71,Cloudflare,https://getclype.com
+2026-10-25T03:30:26Z,GitHub,biransama.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://biransama.github.io/ai-canvas/
+2026-10-25T03:30:26Z,GitHub,knglokiko.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://knglokiko.github.io/MotionLayer/
+2026-10-25T03:30:26Z,GitHub,huangxxuan.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://huangxxuan.github.io/mcd-savings-skill/
+2026-10-25T03:30:26Z,GitHub,cccodroid.net,25,104.21.32.73,Cloudflare,https://cccodroid.net
+2026-10-25T03:30:26Z,GitHub,siddharthakki.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://siddharthakki.github.io/Pandesh/
+2026-10-25T03:30:26Z,GitHub,acharyasudeekshith18-boop.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://acharyasudeekshith18-boop.github.io/shadow-ai-agent/
+2026-10-25T03:30:26Z,GitHub,agentshot.si,35,104.21.65.251,Cloudflare,https://agentshot.si
+2026-10-25T03:30:26Z,Reddit (r/SideProject),headedin.com,85,104.21.61.139,Cloudflare,http://headedin.com/tickets
+2026-10-25T03:30:26Z,GitHub,tastefit-3fw52w2r2a-uc.a.run.app,20,34.143.75.2,GCP,https://tastefit-3fw52w2r2a-uc.a.run.app
+2026-10-25T03:30:26Z,GitHub,feur-inc.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://feur-inc.github.io/1loop/
+2026-10-25T03:30:26Z,GitHub,ohiyox.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://ohiyox.github.io/pi-pocket/
+2026-10-25T03:30:26Z,GitHub,tasteloom.kylne700.workers.dev,25,104.21.80.121,Cloudflare,https://tasteloom.kylne700.workers.dev
+2026-10-25T03:30:26Z,GitHub,houtanrocky.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://houtanrocky.github.io/deepdock-harness/
+2026-10-25T03:30:26Z,GitHub,conclave.dymnitguys.com,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://conclave.dymnitguys.com
+2026-10-25T03:30:26Z,GitHub,getmattered.com,25,104.21.5.65,Cloudflare,https://getmattered.com/mcps
+2026-10-25T03:30:26Z,Reddit (r/SideProject),mobbe.app,100,64.29.17.65,Unknown,https://www.mobbe.app/
+2026-10-25T03:30:26Z,Reddit (r/SideProject),tsugira.com,100,64.29.17.65,Unknown,https://tsugira.com/
+2026-10-25T03:30:26Z,GitHub,biomeai.uk,35,104.21.22.36,Cloudflare,https://biomeai.uk
+2026-10-25T03:30:26Z,GitHub,webdevservices.in,40,172.67.214.114,Unknown,https://webdevservices.in/claude-studio-vs-code-extension/
+2026-10-25T03:30:26Z,GitHub,crewhouse.pages.dev,40,172.66.44.118,Unknown,https://crewhouse.pages.dev
+2026-10-25T03:30:26Z,GitHub,supergodog.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://supergodog.github.io/skillforge/
+2026-10-25T03:30:26Z,GitHub,tastepay.netlify.app,20,13.52.188.95,AWS,https://tastepay.netlify.app
+2026-10-25T03:30:26Z,GitHub,kyb-pass.moneymachine.workers.dev,25,104.21.64.175,Cloudflare,https://kyb-pass.moneymachine.workers.dev
+2026-10-25T03:30:26Z,GitHub,futuresmart.ai,30,3.82.237.63,AWS,https://futuresmart.ai/solutions/database-agent
+2026-10-25T03:30:26Z,Reddit (r/SideProject),usedirector.app,100,172.67.210.214,Unknown,https://usedirector.app
+2026-10-25T03:30:26Z,Reddit (r/SideProject),wikitracks.app,100,172.67.160.192,Unknown,https://wikitracks.app
+2026-10-25T03:30:26Z,Reddit (r/SideProject),jurisio.ai,90,52.85.132.51,AWS,https://jurisio.ai
+2026-10-25T03:30:26Z,GitHub,nib.emuye.dev,40,172.67.128.211,Unknown,https://nib.emuye.dev
+2026-10-25T03:30:26Z,GitHub,databuddy.cc,40,216.150.1.1,Unknown,https://databuddy.cc
+2026-10-25T03:30:26Z,GitHub,ssapable.com,40,216.150.1.193,Unknown,https://ssapable.com
+2026-10-25T03:30:26Z,GitHub,esbc-ai.vercel.app,50,64.29.17.131,Unknown,https://esbc-ai.vercel.app
+2026-10-25T03:30:26Z,Reddit (r/SideProject),weresume.cloud,80,108.138.94.121,server-108-138-94-121.sea73.r.cloudfront.net.,https://weresume.cloud/
+2026-10-25T03:30:26Z,GitHub,zero-x.live,40,172.67.192.105,Unknown,https://zero-x.live/neuron-cli
+2026-10-25T03:30:26Z,GitHub,whytap.ai,50,172.67.175.53,Unknown,https://whytap.ai
+2026-10-25T03:30:26Z,GitHub,hongxian.dev,40,150.109.234.140,Unknown,https://hongxian.dev
+2026-10-25T03:30:26Z,GitHub,chest.so,25,104.21.95.155,Cloudflare,https://chest.so/nevermore/
+2026-10-25T03:30:26Z,GitHub,cyberdyne-bridge.com,20,185.199.109.153,cdn-185-199-109-153.github.com.,http://www.cyberdyne-bridge.com/
+2026-10-25T03:30:29Z,GitHub,jotpanel.jotnotes.com,20,149.248.62.17,149.248.62.17.vultrusercontent.com.,https://jotpanel.jotnotes.com
