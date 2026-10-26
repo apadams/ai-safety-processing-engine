@@ -12686,3 +12686,61 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-25T03:30:26Z,GitHub,chest.so,25,104.21.95.155,Cloudflare,https://chest.so/nevermore/
 2026-10-25T03:30:26Z,GitHub,cyberdyne-bridge.com,20,185.199.109.153,cdn-185-199-109-153.github.com.,http://www.cyberdyne-bridge.com/
 2026-10-25T03:30:29Z,GitHub,jotpanel.jotnotes.com,20,149.248.62.17,149.248.62.17.vultrusercontent.com.,https://jotpanel.jotnotes.com
+2026-10-26T03:32:00Z,Reddit (r/SideProject),talerun.com,85,104.21.52.68,Cloudflare,https://talerun.com/en
+2026-10-26T03:32:00Z,Reddit (r/SideProject),clipve.com,80,13.249.141.106,AWS,http://clipve.com
+2026-10-26T03:32:00Z,Reddit (r/SideProject),builder.prompertize.com,85,104.21.92.139,Cloudflare,https://builder.prompertize.com
+2026-10-26T03:32:00Z,GitHub,agentloop.onrender.com,30,216.24.57.18,Vercel,https://agentloop.onrender.com
+2026-10-26T03:32:00Z,Reddit (r/SideProject),trycurio.app,80,216.24.57.1,Vercel,https://trycurio.app/c/memory-rewritten
+2026-10-26T03:32:00Z,Reddit (r/SideProject),staginghomeai.com,90,34.111.179.208,GCP,https://www.staginghomeai.com
+2026-10-26T03:32:00Z,GitHub,alx-kap.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://alx-kap.github.io/float-for-hermes/
+2026-10-26T03:32:00Z,Reddit (r/SideProject),gaugemac.com,80,75.2.60.5,acd89244c803f7181.awsglobalaccelerator.com.,https://gaugemac.com/?ref=sideproject
+2026-10-26T03:32:00Z,Reddit (r/SideProject),cloady.com,80,147.135.97.45,ns106444.ip-147-135-97.us.,https://cloady.com
+2026-10-26T03:32:00Z,Reddit (r/SideProject),chinput.net,100,172.67.131.193,Unknown,https://chinput.net
+2026-10-26T03:32:00Z,Reddit (r/SideProject),hotfixhq.com,100,172.67.142.137,Unknown,https://hotfixhq.com/
+2026-10-26T03:32:00Z,GitHub,herdodp.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://herdodp.github.io/snapgent-connector/
+2026-10-26T03:32:00Z,GitHub,pennacle-security.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://pennacle-security.github.io/cairnlock/
+2026-10-26T03:32:00Z,GitHub,anuhtole.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://anuhtole.github.io
+2026-10-26T03:32:00Z,GitHub,flightwake.kaiwu.com.tw,50,172.67.162.70,Unknown,https://flightwake.kaiwu.com.tw/
+2026-10-26T03:32:00Z,GitHub,littlestjames82-sys.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://littlestjames82-sys.github.io/ghost-hands-mobile/
+2026-10-26T03:32:00Z,GitHub,atrium.cicibyte.com,25,104.21.9.112,Cloudflare,https://atrium.cicibyte.com
+2026-10-26T03:32:00Z,GitHub,propped-alpha.vercel.app,40,216.198.79.67,Unknown,https://propped-alpha.vercel.app
+2026-10-26T03:32:00Z,GitHub,ghorbelhamdi.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ghorbelhamdi.github.io/buddy-android/
+2026-10-26T03:32:00Z,GitHub,nollie.app,40,172.67.144.244,Unknown,https://nollie.app
+2026-10-26T03:32:00Z,GitHub,web-one-mu-94.vercel.app,40,64.29.17.3,Unknown,https://web-one-mu-94.vercel.app
+2026-10-26T03:32:00Z,GitHub,zetta3d.ai,35,104.21.44.67,Cloudflare,https://zetta3d.ai
+2026-10-26T03:32:00Z,GitHub,phonglammedia.com,40,153.92.11.136,Unknown,https://phonglammedia.com/giao-dien-wordpress-bigspy-ai-theme-wp/
+2026-10-26T03:32:00Z,GitHub,gengwg.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://gengwg.github.io/oncall-copilot/
+2026-10-26T03:32:00Z,GitHub,dcc123456.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://dcc123456.github.io/browser-copilot/
+2026-10-26T03:32:00Z,GitHub,tasteabroad.vercel.app,40,216.198.79.195,Unknown,https://tasteabroad.vercel.app
+2026-10-26T03:32:00Z,GitHub,common-ground-puce.vercel.app,40,216.198.79.195,Unknown,https://common-ground-puce.vercel.app
+2026-10-26T03:32:00Z,GitHub,harshitaadlakha.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://harshitaadlakha.github.io/nightdesk/
+2026-10-26T03:32:00Z,GitHub,parasadlakha.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://parasadlakha.github.io/nightdesk/
+2026-10-26T03:32:00Z,GitHub,carlopenlab.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://carlopenlab.github.io/muse/
+2026-10-26T03:32:00Z,GitHub,melinenguyen.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://melinenguyen.github.io/insight-cafe-demo/
+2026-10-26T03:32:00Z,GitHub,zbc123067.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://zbc123067.github.io/ZTako-iOS-Agent/
+2026-10-26T03:32:00Z,GitHub,harness.crawshrimp.com,40,172.67.157.48,Unknown,https://harness.crawshrimp.com/
+2026-10-26T03:32:00Z,GitHub,juxn1988.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://juxn1988.github.io/NoviQ/
+2026-10-26T03:32:00Z,GitHub,scout.taswar.dev,25,104.21.10.97,Cloudflare,https://scout.taswar.dev
+2026-10-26T03:32:00Z,GitHub,meelu.tech,40,172.67.154.143,Unknown,https://meelu.tech
+2026-10-26T03:32:00Z,GitHub,yiheng-guo.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://yiheng-guo.github.io/game-forge/
+2026-10-26T03:32:00Z,Reddit (r/SideProject),bodywyse.io,100,216.150.1.1,Unknown,http://BodyWyse.io
+2026-10-26T03:32:00Z,GitHub,rakaza-ai-terminal.vercel.app,50,216.198.79.3,Unknown,https://rakaza-ai-terminal.vercel.app
+2026-10-26T03:32:00Z,GitHub,cyqlelabs.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://cyqlelabs.github.io/factor/
+2026-10-26T03:32:00Z,GitHub,elasticore.io,40,4.230.27.172,Unknown,https://www.elasticore.io/docs/ai/agent-kit
+2026-10-26T03:32:00Z,GitHub,reseva-ac385db28e395ffbba1179920844be59.us.langgraph.app,20,34.150.191.22,GCP,https://reseva-ac385db28e395ffbba1179920844be59.us.langgraph.app/app/
+2026-10-26T03:32:00Z,GitHub,edith.starktech.workers.dev,40,172.67.129.247,Unknown,https://edith.starktech.workers.dev/web
+2026-10-26T03:32:00Z,GitHub,bagipanen.ai.id,50,216.198.79.65,Unknown,https://bagipanen.ai.id
+2026-10-26T03:32:00Z,Reddit (r/SideProject),photopies.com,80,167.233.126.250,mail.tsintsa.ge.,https://photopies.com
+2026-10-26T03:32:00Z,Reddit (r/SideProject),app.bizcortex.de,100,217.154.241.37,Unknown,https://app.bizcortex.de/demo
+2026-10-26T03:32:00Z,GitHub,thya.veterantech.id,40,43.173.20.60,Unknown,https://thya.veterantech.id
+2026-10-26T03:32:00Z,GitHub,hikingpsu.com,20,52.84.127.88,AWS,https://hikingpsu.com/
+2026-10-26T03:32:00Z,Reddit (r/SideProject),resumify.co.uk,80,15.197.129.158,af491e6da0f81e8e8.awsglobalaccelerator.com.,https://resumify.co.uk/
+2026-10-26T03:32:00Z,GitHub,greenroom1.netlify.app,20,98.84.224.111,AWS,https://greenroom1.netlify.app
+2026-10-26T03:32:00Z,GitHub,robaudit.us,40,20.106.1.90,Unknown,https://www.robaudit.us
+2026-10-26T03:32:00Z,GitHub,trymetis.email,50,216.198.79.1,Unknown,https://www.trymetis.email
+2026-10-26T03:32:00Z,GitHub,solamar.app,20,57.129.101.234,ns3176974.ip-57-129-101.eu.,https://solamar.app
+2026-10-26T03:32:00Z,GitHub,lht574.cn,40,8.137.86.65,Unknown,https://lht574.cn/XingZhi
+2026-10-26T03:32:00Z,GitHub,3dblend.tertiaryinfotech.com,20,72.61.151.123,srv923061.hstgr.cloud.,https://3dblend.tertiaryinfotech.com
+2026-10-26T03:32:01Z,GitHub,111.228.49.216,40,111.228.49.216,Unknown,http://111.228.49.216/zhida/
+2026-10-26T03:32:01Z,GitHub,superwagie.com,40,47.108.85.222,Unknown,https://www.superwagie.com/
+2026-10-26T03:32:01Z,GitHub,hermitcrm.io,20,66.241.125.216,ip-66-241-125-216.shared.customer.flyio.net.,https://hermitcrm.io/?ref=github
