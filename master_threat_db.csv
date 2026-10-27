@@ -12744,3 +12744,50 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-26T03:32:01Z,GitHub,111.228.49.216,40,111.228.49.216,Unknown,http://111.228.49.216/zhida/
 2026-10-26T03:32:01Z,GitHub,superwagie.com,40,47.108.85.222,Unknown,https://www.superwagie.com/
 2026-10-26T03:32:01Z,GitHub,hermitcrm.io,20,66.241.125.216,ip-66-241-125-216.shared.customer.flyio.net.,https://hermitcrm.io/?ref=github
+2026-10-27T03:59:16Z,GitHub,makotowallet.xyz,40,216.198.79.65,Unknown,https://makotowallet.xyz
+2026-10-27T03:59:16Z,Reddit (r/SideProject),app.nesaconfia.com,80,99.83.151.71,a92e093842311e90d.awsglobalaccelerator.com.,http://app.nesaconfia.com
+2026-10-27T03:59:16Z,Reddit (r/SideProject),ezn.money,85,104.21.80.32,Cloudflare,https://ezn.money/?s=rd-sp
+2026-10-27T03:59:16Z,Reddit (r/SideProject),usecairn.com.co,110,172.67.184.154,Unknown,https://usecairn.com.co/?utm_source=reddit&amp;utm_medium=post&amp;utm_campaign=pilot-2
+2026-10-27T03:59:16Z,GitHub,liutianjie.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://liutianjie.github.io/StupidMirror/
+2026-10-27T03:59:16Z,Reddit (r/SideProject),monkeysolve.online,100,216.198.79.1,Unknown,https://www.monkeysolve.online/
+2026-10-27T03:59:16Z,GitHub,gonrui-ray.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://gonrui-ray.github.io/weekend-local-agent/
+2026-10-27T03:59:16Z,Reddit (r/SideProject),rivalize.ai,110,69.46.46.75,Unknown,https://rivalize.ai
+2026-10-27T03:59:16Z,GitHub,inbox-agent-tan.vercel.app,50,64.29.17.67,Unknown,https://inbox-agent-tan.vercel.app
+2026-10-27T03:59:16Z,GitHub,cleanyour.tv,25,104.21.39.205,Cloudflare,https://cleanyour.tv
+2026-10-27T03:59:16Z,Reddit (r/SideProject),voxa.zimoos.com,100,172.67.189.158,Unknown,https://voxa.zimoos.com/?utm_source=reddit&amp;utm_medium=organic_social&amp;utm_campaign=voxa_voice_demo&amp;utm_content=sideproject
+2026-10-27T03:59:16Z,GitHub,silica-agent.dev,30,185.199.108.153,cdn-185-199-108-153.github.com.,https://silica-agent.dev/
+2026-10-27T03:59:16Z,GitHub,hermesagenttools.com,35,104.21.37.5,Cloudflare,https://hermesagenttools.com/
+2026-10-27T03:59:16Z,Reddit (r/SideProject),tryfolie.com,80,99.83.231.61,acd89244c803f7181.awsglobalaccelerator.com.,https://tryfolie.com
+2026-10-27T03:59:16Z,GitHub,alex991lee.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://alex991lee.github.io/rheia/
+2026-10-27T03:59:16Z,Reddit (r/SideProject),reporun.app,85,104.21.40.68,Cloudflare,https://reporun.app
+2026-10-27T03:59:16Z,GitHub,tobs.app,40,172.67.177.48,Unknown,https://tobs.app
+2026-10-27T03:59:16Z,GitHub,mitsurutech.co.uk,25,104.21.18.18,Cloudflare,https://mitsurutech.co.uk/help/lab-ai-agent-install
+2026-10-27T03:59:16Z,Reddit (r/SideProject),trackstack.altuzar.dev,80,13.52.188.95,AWS,https://trackstack.altuzar.dev/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=launch&amp;utm_content=sideproject
+2026-10-27T03:59:16Z,GitHub,buddha.maxlim.xyz,25,104.21.14.226,Cloudflare,https://buddha.maxlim.xyz
+2026-10-27T03:59:16Z,GitHub,zoharbabin.com,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://zoharbabin.com/web-researcher-mcp/
+2026-10-27T03:59:16Z,Reddit (r/SideProject),folk.com,100,216.150.1.129,Unknown,https://www.folk.com/p/wakawaka
+2026-10-27T03:59:16Z,GitHub,hob.chat,40,216.150.1.193,Unknown,https://hob.chat
+2026-10-27T03:59:16Z,GitHub,iridiumhqmcp.com,25,104.21.13.113,Cloudflare,https://iridiumhqmcp.com
+2026-10-27T03:59:16Z,GitHub,tasteproof-qloo.vercel.app,40,64.29.17.67,Unknown,https://tasteproof-qloo.vercel.app
+2026-10-27T03:59:16Z,GitHub,ai-handler.com,35,104.21.94.164,Cloudflare,https://ai-handler.com/#telegram-business-bridge
+2026-10-27T03:59:16Z,GitHub,wobbli.dev,40,172.67.152.33,Unknown,https://wobbli.dev
+2026-10-27T03:59:16Z,GitHub,kokoio.com,25,104.21.9.135,Cloudflare,https://kokoio.com
+2026-10-27T03:59:16Z,GitHub,mythgram-ai.github.io,30,185.199.111.153,cdn-185-199-111-153.github.com.,https://mythgram-ai.github.io/mythgram-agent/
+2026-10-27T03:59:16Z,GitHub,ashwinsingh2007.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://ashwinsingh2007.github.io/J.A.R.V.I.S/
+2026-10-27T03:59:16Z,GitHub,byte-into-data.vercel.app,40,216.198.79.3,Unknown,https://byte-into-data.vercel.app/
+2026-10-27T03:59:16Z,GitHub,yan-stone-computer.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://yan-stone-computer.github.io/nexcorework-site/
+2026-10-27T03:59:16Z,GitHub,housefull-two.vercel.app,40,64.29.17.131,Unknown,https://housefull-two.vercel.app
+2026-10-27T03:59:16Z,Reddit (r/SideProject),cuepreem.com,100,199.36.158.100,Unknown,https://cuepreem.com/?utm_source=reddit&amp;utm_medium=community&amp;utm_campaign=soft-launch-2026-10&amp;utm_content=sideproject
+2026-10-27T03:59:16Z,GitHub,mohammad-rizwan.tech,40,216.198.79.1,Unknown,https://mohammad-rizwan.tech
+2026-10-27T03:59:16Z,Reddit (r/SideProject),opengamma.app,100,130.210.63.173,Unknown,https://opengamma.app/
+2026-10-27T03:59:16Z,GitHub,hydelarkin.com,40,198.49.23.145,Unknown,https://hydelarkin.com
+2026-10-27T03:59:16Z,GitHub,blip-jade.vercel.app,40,64.29.17.67,Unknown,https://blip-jade.vercel.app
+2026-10-27T03:59:16Z,Reddit (r/SideProject),culdeai.com,90,76.76.21.21,Vercel,https://culdeai.com
+2026-10-27T03:59:16Z,GitHub,usepipa.com,40,216.198.79.1,Unknown,https://www.usepipa.com/opencode-slack?utm_source=github&utm_medium=profile_link&utm_campaign=signup&utm_content=repo_website
+2026-10-27T03:59:16Z,GitHub,mediflow-equipo37.duckdns.org,40,144.22.215.79,Unknown,https://mediflow-equipo37.duckdns.org/
+2026-10-27T03:59:16Z,GitHub,ktm.rahmateka.my.id,40,172.67.164.7,Unknown,https://ktm.rahmateka.my.id
+2026-10-27T03:59:16Z,GitHub,mothcloud.com,20,192.185.196.178,192-185-196-178.unifiedlayer.com.,https://mothcloud.com/build-your-own-ai-voice-assistant-with-a-raspberry-pi-a-tiny-esp32-screen-and-claude/
+2026-10-27T03:59:16Z,Reddit (r/SideProject),visible4ai.com,90,35.219.200.101,GCP,http://visible4ai.com
+2026-10-27T03:59:16Z,Reddit (r/SideProject),getleakwatch.online,80,77.83.241.143,77-83-241-143.speedyip.net.,https://getleakwatch.online/
+2026-10-27T03:59:16Z,GitHub,norai.si,30,185.199.109.153,cdn-185-199-109-153.github.com.,https://norai.si/
+2026-10-27T03:59:16Z,GitHub,gedachtgemacht.app,20,159.69.221.126,static.126.221.69.159.clients.your-server.de.,https://gedachtgemacht.app
