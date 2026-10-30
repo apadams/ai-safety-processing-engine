@@ -12898,3 +12898,43 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-10-29T04:40:36Z,Reddit (r/SideProject),tubestash.net,100,212.1.212.177,Unknown,http://www.tubestash.net
 2026-10-29T04:40:36Z,GitHub,ai297.com,30,79.143.179.112,vmi3252487.contaboserver.net.,https://ai297.com
 2026-10-29T04:40:36Z,GitHub,cad-lab.xyz,20,178.46.155.86,86.155.access.ttknet.ru.,https://cad-lab.xyz
+2026-10-30T04:37:30Z,Reddit (r/SideProject),asktheia.com,85,104.21.37.207,Cloudflare,https://asktheia.com/
+2026-10-30T04:37:30Z,Reddit (r/SideProject),hijackthe.site,85,104.21.29.223,Cloudflare,https://hijackthe.site
+2026-10-30T04:37:30Z,Reddit (r/SideProject),sunmoonsync.com,85,104.21.62.137,Cloudflare,https://sunmoonsync.com/?utm_source=reddit&amp;utm_medium=organic_social&amp;utm_campaign=social_launch&amp;utm_content=reddit_post2#/test
+2026-10-30T04:37:30Z,Reddit (r/SideProject),mymo.app,85,104.21.84.18,Cloudflare,https://mymo.app/invited/LMX2ZV/
+2026-10-30T04:37:30Z,Reddit (r/SideProject),buildproof.mgrprosnetwork.com,85,104.21.12.30,Cloudflare,https://buildproof.mgrprosnetwork.com
+2026-10-30T04:37:30Z,GitHub,oliverz.dev,25,104.21.35.101,Cloudflare,https://oliverz.dev/products/shotloop
+2026-10-30T04:37:30Z,Reddit (r/SideProject),probablyscan.com,100,172.67.215.238,Unknown,https://probablyscan.com
+2026-10-30T04:37:30Z,GitHub,blastingroom.codestuff.io,40,172.67.135.35,Unknown,https://blastingroom.codestuff.io/
+2026-10-30T04:37:30Z,Reddit (r/SideProject),octonote.ai,110,216.150.1.1,Unknown,https://octonote.ai
+2026-10-30T04:37:30Z,Reddit (r/SideProject),app.braith.dev,110,172.66.0.96,Unknown,https://app.braith.dev/
+2026-10-30T04:37:30Z,Reddit (r/SideProject),vulgr.tech,100,216.198.79.1,Unknown,https://vulgr.tech
+2026-10-30T04:37:30Z,GitHub,dueline-azure.vercel.app,40,64.29.17.195,Unknown,https://dueline-azure.vercel.app
+2026-10-30T04:37:30Z,GitHub,kovrune.pages.dev,40,172.66.47.110,Unknown,https://kovrune.pages.dev/
+2026-10-30T04:37:30Z,GitHub,sigilworks.net,40,64.29.17.1,Unknown,https://sigilworks.net
+2026-10-30T04:37:30Z,GitHub,echolocate-topaz.vercel.app,40,64.29.17.195,Unknown,https://echolocate-topaz.vercel.app
+2026-10-30T04:37:30Z,Reddit (r/SideProject),getstackdrop.com,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://getstackdrop.com/best/ship-an-mvp?utm_source=reddit&amp;utm_medium=community_post&amp;utm_campaign=usability-ship-mvp&amp;utm_content=sideproject-1xj36v2
+2026-10-30T04:37:30Z,GitHub,walkup-eight.vercel.app,40,64.29.17.67,Unknown,https://walkup-eight.vercel.app
+2026-10-30T04:37:30Z,GitHub,doors.oldjard.workers.dev,40,172.67.128.193,Unknown,https://doors.oldjard.workers.dev
+2026-10-30T04:37:30Z,GitHub,before-you-post.onrender.com,20,216.24.57.18,Vercel,https://before-you-post.onrender.com
+2026-10-30T04:37:30Z,GitHub,perk-desk.vercel.app,40,64.29.17.3,Unknown,https://perk-desk.vercel.app
+2026-10-30T04:37:30Z,GitHub,mochi-for-watch.fly.dev,20,66.241.124.94,ip-66-241-124-94.shared.customer.flyio.net.,https://mochi-for-watch.fly.dev
+2026-10-30T04:37:30Z,GitHub,enco.sh,25,104.21.12.80,Cloudflare,https://enco.sh/
+2026-10-30T04:37:30Z,Reddit (r/SideProject),sim.arclab.app,100,216.198.79.1,Unknown,https://sim.arclab.app/play
+2026-10-30T04:37:30Z,GitHub,jimmydi.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://jimmydi.github.io/loop/
+2026-10-30T04:37:30Z,GitHub,runtianwu.com,40,172.67.181.99,Unknown,https://runtianwu.com/software/orbit/
+2026-10-30T04:37:30Z,GitHub,marketwith.vercel.app,40,64.29.17.131,Unknown,https://marketwith.vercel.app/
+2026-10-30T04:37:30Z,GitHub,ryder-sun.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://ryder-sun.github.io/Meldwork/
+2026-10-30T04:37:30Z,GitHub,kinudefi.com,40,216.150.1.1,Unknown,https://kinudefi.com/guardian
+2026-10-30T04:37:30Z,Reddit (r/SideProject),fly.lengo.io,80,15.197.129.158,af491e6da0f81e8e8.awsglobalaccelerator.com.,https://fly.lengo.io/about.html#trailer
+2026-10-30T04:37:30Z,Reddit (r/SideProject),translatetube.io,80,144.124.240.189,v903042.hosted-by-vdsina.com.,https://translatetube.io
+2026-10-30T04:37:30Z,GitHub,x-t-e-r.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://x-t-e-r.github.io/kiki/
+2026-10-30T04:37:30Z,GitHub,stirk-ai.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://stirk-ai.github.io/
+2026-10-30T04:37:30Z,GitHub,pdl-openair.github.io,30,185.199.110.153,cdn-185-199-110-153.github.com.,https://pdl-openair.github.io/OpenAIR/
+2026-10-30T04:37:30Z,GitHub,anaylab.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://anaylab.github.io/wisp/
+2026-10-30T04:37:30Z,Reddit (r/SideProject),dmgkit.app,80,69.57.162.131,premium327-5.web-hosting.com.,https://dmgkit.app
+2026-10-30T04:37:30Z,GitHub,diatech.solutions,40,64.181.172.102,Unknown,https://diatech.solutions
+2026-10-30T04:37:31Z,GitHub,opencursor.org,20,76.76.21.21,Vercel,https://opencursor.org
+2026-10-30T04:37:31Z,Reddit (r/SideProject),dearmyai.com,90,46.36.44.166,166-44.hukot.cloud.,https://dearmyai.com/
+2026-10-30T04:37:31Z,GitHub,ema-paper.yuufeng.com,20,59.127.63.9,59-127-63-9.hinet-ip.hinet.net.,https://ema-paper.yuufeng.com
+2026-10-30T04:37:40Z,GitHub,drawoffer.com,40,117.72.214.40,Unknown,https://www.drawoffer.com
