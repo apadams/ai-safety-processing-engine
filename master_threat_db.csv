@@ -13170,3 +13170,53 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-11-03T05:38:24Z,GitHub,code.elffuss.com,20,145.239.65.26,mail.costes.consulting.,https://code.elffuss.com
 2026-11-03T05:38:24Z,GitHub,claw.elffuss.com,20,145.239.65.26,mail.costes.consulting.,https://claw.elffuss.com
 2026-11-03T05:38:24Z,Reddit (r/SideProject),dev.buziwork.com,100,69.46.46.92,Unknown,https://dev.buziwork.com
+2026-11-04T05:06:21Z,Reddit (r/SideProject),makertally.vercel.app,100,216.198.79.131,Unknown,https://makertally.vercel.app
+2026-11-04T05:06:21Z,Reddit (r/SideProject),x.ai,95,104.18.18.80,Cloudflare,https://x.ai/bot/Yaqu1CNc1OG_Ffi-vVWsY
+2026-11-04T05:06:21Z,Reddit (r/SideProject),pufferfish-tau.vercel.app,100,64.29.17.3,Unknown,https://pufferfish-tau.vercel.app
+2026-11-04T05:06:21Z,GitHub,daniel-csvw.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://daniel-csvw.github.io/pi-agent-book/
+2026-11-04T05:06:21Z,GitHub,islet-mac.netlify.app,20,13.52.188.95,AWS,https://islet-mac.netlify.app
+2026-11-04T05:06:21Z,GitHub,mauricio0209.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://mauricio0209.github.io/unreal-playtester/
+2026-11-04T05:06:21Z,Reddit (r/SideProject),voiceback-chat-companion.lovable.app,80,185.41.148.2,lovable-app-wd-2-4.p.l5e.io.,https://voiceback-chat-companion.lovable.app
+2026-11-04T05:06:21Z,GitHub,sports-analyst-agent.vercel.app,50,64.29.17.67,Unknown,https://sports-analyst-agent.vercel.app
+2026-11-04T05:06:21Z,Reddit (r/SideProject),genfit.style,80,44.207.171.74,AWS,https://genfit.style
+2026-11-04T05:06:21Z,GitHub,mahmoudfarouk2479.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://mahmoudfarouk2479.github.io/haris/
+2026-11-04T05:06:21Z,Reddit (r/SideProject),hadexs.com,100,216.198.79.1,Unknown,https://hadexs.com/zunos
+2026-11-04T05:06:21Z,GitHub,handsy.tech,25,104.21.47.227,Cloudflare,https://handsy.tech?ref=github
+2026-11-04T05:06:21Z,Reddit (r/SideProject),binbox.ai,95,104.21.26.60,Cloudflare,https://binbox.ai
+2026-11-04T05:06:21Z,GitHub,sourceforge.net,25,104.18.12.149,Cloudflare,https://sourceforge.net/projects/scribedog/
+2026-11-04T05:06:21Z,Reddit (r/SideProject),app.tickertown.ai,110,216.150.16.1,Unknown,https://app.tickertown.ai/?utm_source=reddit&amp;utm_medium=publication&amp;utm_campaign=launch_20261104
+2026-11-04T05:06:21Z,GitHub,pwner.si,40,172.67.198.92,Unknown,https://www.pwner.si
+2026-11-04T05:06:21Z,GitHub,qore-games.github.io,20,185.199.111.153,cdn-185-199-111-153.github.com.,https://qore-games.github.io/foreman/
+2026-11-04T05:06:21Z,GitHub,purplemacaron.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://purplemacaron.github.io/blank/
+2026-11-04T05:06:21Z,GitHub,ablit-site.ablit.workers.dev,40,172.67.163.38,Unknown,https://ablit-site.ablit.workers.dev
+2026-11-04T05:06:21Z,Reddit (r/SideProject),terracesports.app,85,104.21.91.184,Cloudflare,https://terracesports.app/
+2026-11-04T05:06:21Z,GitHub,abozaralizadeh.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://abozaralizadeh.github.io/LivingCode/
+2026-11-04T05:06:21Z,GitHub,jawuilp.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://jawuilp.github.io/limitcode-docs/
+2026-11-04T05:06:21Z,Reddit (r/SideProject),captainmykitchen.com,90,3.163.24.58,AWS,https://www.captainmykitchen.com/?ref=crowdedmarket
+2026-11-04T05:06:21Z,GitHub,ramanpreet1007.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://ramanpreet1007.github.io/jarvis-erasmus-demo/
+2026-11-04T05:06:21Z,GitHub,ybkkasi.com,40,172.67.198.140,Unknown,https://ybkkasi.com
+2026-11-04T05:06:21Z,GitHub,armband-one.vercel.app,40,64.29.17.195,Unknown,https://armband-one.vercel.app
+2026-11-04T05:06:21Z,Reddit (r/SideProject),sketchy.davidkubus.dev,100,64.29.17.1,Unknown,https://sketchy.davidkubus.dev/docs/#tokens
+2026-11-04T05:06:21Z,Reddit (r/SideProject),theclarityone.com,80,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://theclarityone.com/
+2026-11-04T05:06:21Z,GitHub,quasynvo.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://quasynvo.github.io/Quasnooze/
+2026-11-04T05:06:21Z,GitHub,git-review.ezevillo.com,40,172.67.179.189,Unknown,https://git-review.ezevillo.com/
+2026-11-04T05:06:21Z,Reddit (r/SideProject),waitlister.me,95,104.21.26.117,Cloudflare,https://waitlister.me/p/radical-intelligence-ri
+2026-11-04T05:06:21Z,GitHub,amexpert.vercel.app,40,216.198.79.67,Unknown,https://amexpert.vercel.app
+2026-11-04T05:06:21Z,GitHub,funengzhe.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://funengzhe.github.io/bobao/
+2026-11-04T05:06:21Z,GitHub,astaticgalvanometerpampasgrass334.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://astaticgalvanometerpampasgrass334.github.io
+2026-11-04T05:06:21Z,GitHub,terminal.superior.trade,40,216.150.1.193,Unknown,https://terminal.superior.trade
+2026-11-04T05:06:21Z,GitHub,sagaciouszu.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://sagaciouszu.github.io/grimoire-site/agents/
+2026-11-04T05:06:21Z,GitHub,max1874.com,40,172.67.221.86,Unknown,https://max1874.com/open-computer-use/
+2026-11-04T05:06:21Z,GitHub,auditor.rapold.io,40,66.33.60.130,Unknown,https://auditor.rapold.io
+2026-11-04T05:06:21Z,GitHub,stonecut.studio,40,216.150.16.1,Unknown,https://stonecut.studio/resources
+2026-11-04T05:06:21Z,GitHub,lnkd.in,20,130.211.32.14,GCP,https://lnkd.in/p/eEUnGbXQ
+2026-11-04T05:06:21Z,GitHub,inglen.app,40,216.198.79.1,Unknown,https://inglen.app
+2026-11-04T05:06:21Z,GitHub,webgamja.com,40,199.36.158.100,Unknown,https://webgamja.com
+2026-11-04T05:06:21Z,GitHub,aicast.lvchen.fun,50,43.174.247.66,Unknown,https://aicast.lvchen.fun
+2026-11-04T05:06:21Z,GitHub,shar8.app,20,192.144.59.214,v3287681.hosted-by-vdsina.ru.,https://shar8.app/for-agents/
+2026-11-04T05:06:21Z,GitHub,lingdraft.seanfield.org,40,43.161.240.133,Unknown,https://lingdraft.seanfield.org
+2026-11-04T05:06:21Z,GitHub,raiseai.dufengyun.xyz,30,76.76.21.21,Vercel,https://raiseai.dufengyun.xyz
+2026-11-04T05:06:21Z,GitHub,ledgerly.yufeng.fun,40,101.133.130.49,Unknown,https://ledgerly.yufeng.fun
+2026-11-04T05:06:21Z,GitHub,auvra.art,40,101.32.141.5,Unknown,https://auvra.art/
+2026-11-04T05:06:22Z,GitHub,agentlas.cloud,50,69.46.46.99,Unknown,https://agentlas.cloud
+2026-11-04T05:06:26Z,GitHub,tree-plantain-8cf.notion.site,50,208.103.161.32,Unknown,https://tree-plantain-8cf.notion.site
