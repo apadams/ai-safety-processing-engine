@@ -13382,3 +13382,53 @@ Timestamp_Found,Source,Clean_URL,Risk_Score,IP_Address,Hosting_Provider,Original
 2026-11-07T04:55:58Z,GitHub,localcmd.app,20,62.83.32.51,ezrunvm.megasrv.de.,https://localcmd.app
 2026-11-07T04:55:58Z,GitHub,nia-teams.com,40,8.140.231.139,Unknown,https://nia-teams.com
 2026-11-07T04:55:58Z,GitHub,jam.cteno.cn,40,8.163.91.181,Unknown,https://jam.cteno.cn
+2026-11-08T04:47:10Z,GitHub,lbh-banboo.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://lbh-banboo.github.io/chanlun-v051/
+2026-11-08T04:47:10Z,GitHub,shaoroy.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://shaoroy.github.io/site-selection-skill/
+2026-11-08T04:47:10Z,Reddit (r/SideProject),infacemetic.com,80,216.24.57.1,Vercel,https://infacemetic.com/
+2026-11-08T04:47:10Z,Reddit (r/SideProject),loreads.com,80,216.24.57.1,Vercel,https://loreads.com/
+2026-11-08T04:47:10Z,Reddit (r/SideProject),codibu.com,80,34.199.224.216,GCP,https://codibu.com
+2026-11-08T04:47:10Z,Reddit (r/SideProject),minerals-oracle-x402-212942243360.asia-northeast3.run.app,80,34.143.74.2,GCP,https://minerals-oracle-x402-212942243360.asia-northeast3.run.app
+2026-11-08T04:47:10Z,GitHub,meu-agent.witty-mite-2271.chatgpt.site,35,104.18.22.186,Cloudflare,https://meu-agent.witty-mite-2271.chatgpt.site/
+2026-11-08T04:47:10Z,Reddit (r/SideProject),placdai.com,90,18.208.88.157,AWS,https://placdai.com
+2026-11-08T04:47:10Z,Reddit (r/SideProject),kikkar.vercel.app,100,216.198.79.195,Unknown,https://kikkar.vercel.app/
+2026-11-08T04:47:10Z,GitHub,boopface.com,25,104.21.8.41,Cloudflare,https://boopface.com
+2026-11-08T04:47:10Z,GitHub,longfei-tao.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://longfei-tao.github.io/xmu-ppt/
+2026-11-08T04:47:10Z,Reddit (r/SideProject),scanonix.com,80,76.76.21.21,Vercel,https://www.scanonix.com/
+2026-11-08T04:47:10Z,Reddit (r/SideProject),kywai.app,90,185.199.111.153,cdn-185-199-111-153.github.com.,https://kywai.app/es/#video
+2026-11-08T04:47:10Z,GitHub,ak10082247-max.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://ak10082247-max.github.io/MCP_README.md
+2026-11-08T04:47:10Z,Reddit (r/SideProject),topanimanga.com,85,104.21.5.99,Cloudflare,https://topanimanga.com
+2026-11-08T04:47:10Z,GitHub,omarchyplugins.com,25,104.21.67.224,Cloudflare,https://omarchyplugins.com/plugin.html?id=meviusisback.botty
+2026-11-08T04:47:10Z,Reddit (r/SideProject),nbainsight.vercel.app,110,216.198.79.195,Unknown,https://nbainsight.vercel.app
+2026-11-08T04:47:10Z,GitHub,rtynbirf.github.io,20,185.199.109.153,cdn-185-199-109-153.github.com.,https://rtynbirf.github.io
+2026-11-08T04:47:10Z,GitHub,ai-chat-widget-nu.vercel.app,50,64.29.17.67,Unknown,https://ai-chat-widget-nu.vercel.app
+2026-11-08T04:47:10Z,GitHub,shelfcheck-eta.vercel.app,40,216.198.79.67,Unknown,https://shelfcheck-eta.vercel.app
+2026-11-08T04:47:10Z,GitHub,jamesbobdev-gif.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://jamesbobdev-gif.github.io/Romulus/
+2026-11-08T04:47:10Z,GitHub,tenmatech-digital-solutions.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://tenmatech-digital-solutions.github.io/haris/
+2026-11-08T04:47:10Z,GitHub,alican-kaya.com,40,172.67.159.16,Unknown,https://alican-kaya.com/
+2026-11-08T04:47:10Z,GitHub,codeshi.dev,40,216.198.79.1,Unknown,https://codeshi.dev
+2026-11-08T04:47:10Z,GitHub,axi010.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://axi010.github.io/opencode-mobile-pwa/
+2026-11-08T04:47:10Z,Reddit (r/SideProject),lerepertoiredagents.com,90,98.84.224.111,AWS,https://lerepertoiredagents.com/en/
+2026-11-08T04:47:10Z,GitHub,dwim.sh,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://dwim.sh
+2026-11-08T04:47:10Z,GitHub,rimba.edycu.dev,40,216.150.16.193,Unknown,https://rimba.edycu.dev
+2026-11-08T04:47:10Z,GitHub,pinku.chat,40,172.67.155.137,Unknown,https://pinku.chat
+2026-11-08T04:47:10Z,GitHub,piblo.co.uk,20,76.76.21.21,Vercel,https://piblo.co.uk
+2026-11-08T04:47:10Z,GitHub,mrtime-gege.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://mrtime-gege.github.io/terminalkeeper/
+2026-11-08T04:47:10Z,GitHub,routineos.org,40,172.67.219.233,Unknown,https://routineos.org
+2026-11-08T04:47:10Z,GitHub,emplio.app,20,3.7.224.66,AWS,https://emplio.app
+2026-11-08T04:47:10Z,GitHub,nexo-suporte-arthurmoury.netlify.app,20,98.84.224.111,AWS,https://nexo-suporte-arthurmoury.netlify.app
+2026-11-08T04:47:10Z,GitHub,nanfengovo.github.io,20,185.199.110.153,cdn-185-199-110-153.github.com.,https://nanfengovo.github.io/better-me/
+2026-11-08T04:47:10Z,GitHub,huacao59109.github.io,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://huacao59109.github.io/cloudflare-free-site/
+2026-11-08T04:47:10Z,GitHub,aora-bot.vercel.app,50,216.198.79.131,Unknown,https://aora-bot.vercel.app
+2026-11-08T04:47:10Z,GitHub,0xlolbullen.com,20,185.158.133.1,lovable-app-cd-1-4.p.l5e.io.,https://0xlolbullen.com
+2026-11-08T04:47:10Z,GitHub,lightchuan.xyz,40,138.2.76.212,Unknown,https://lightchuan.xyz/
+2026-11-08T04:47:10Z,GitHub,fazz-agent.vercel.app,50,64.29.17.3,Unknown,https://fazz-agent.vercel.app
+2026-11-08T04:47:10Z,GitHub,nestfinder-woad.vercel.app,40,216.198.79.195,Unknown,https://nestfinder-woad.vercel.app
+2026-11-08T04:47:10Z,GitHub,finalbuzzer.jonathansolvesproblems.com,40,51.161.82.166,Unknown,https://finalbuzzer.jonathansolvesproblems.com
+2026-11-08T04:47:10Z,GitHub,operate.center,20,76.13.125.123,srv1330512.hstgr.cloud.,https://operate.center
+2026-11-08T04:47:10Z,GitHub,dsh.ilang.guide,20,185.199.108.153,cdn-185-199-108-153.github.com.,https://dsh.ilang.guide/
+2026-11-08T04:47:10Z,GitHub,sayvors.com,40,216.198.79.1,Unknown,https://Sayvors.com
+2026-11-08T04:47:10Z,GitHub,miguelmoralesgarcia.es,40,216.198.79.1,Unknown,https://miguelmoralesgarcia.es/sourcing-system
+2026-11-08T04:47:11Z,GitHub,reportai.vazquezlabs.com,30,95.216.184.138,static.138.184.216.95.clients.your-server.de.,https://reportai.vazquezlabs.com
+2026-11-08T04:47:11Z,GitHub,docs.empiriolabs.ai,50,172.67.74.137,Unknown,https://docs.empiriolabs.ai/integrations#agent-template
+2026-11-08T04:47:11Z,GitHub,ebrower.com,40,124.223.7.24,Unknown,https://www.ebrower.com/
+2026-11-08T04:47:12Z,GitHub,114.215.186.113,40,114.215.186.113,Unknown,http://114.215.186.113/canvas/
